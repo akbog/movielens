@@ -1,0 +1,22 @@
+body {
+  background-color : #212121 !important;
+  /* #292228#292228  */
+   /* #332a32 */
+  color: white !important;
+}
+
+.wrapper {
+  display : grid;
+  grid-template-columns : repeat(8, 1fr);
+  font-family : "Trebuchet MS" !important;
+  color: white !important;
+}
+
+.introduction {
+
+}
+
+.axis--grid .domain {
+    fill: #ddd;
+    stroke: none;
+  }
