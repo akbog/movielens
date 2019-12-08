@@ -22,8 +22,8 @@
 
 // set the dimensions and margins of the graph
 var margin = {top: 30, right: 50, bottom: 10, left: 50},
-  width = 460 - margin.left - margin.right,
-  height = 400 - margin.top - margin.bottom;
+  width = 1080 - margin.left - margin.right,
+  height = 720 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -35,35 +35,41 @@ var svg = d3.select("#my_dataviz")
         "translate(" + margin.left + "," + margin.top + ")");
 
 // Parse the Data
-d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/iris.csv", function(data) {
-  console.log(data);
+// d3.csv("../csvData/box_office_data_cleaned.csv", function(data) {
+d3.csv("../csvData/Box_Office_Data_1989_2018.csv", function(data) {
+// d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/iris.csv", function(data) {
   // Color scale: give me a specie name, I return a color
+  console.log(data);
   var color = d3.scaleOrdinal()
-    .domain(["setosa", "versicolor", "virginica" ])
-    .range([ "#440154ff", "#21908dff", "#fde725ff"])
+  // .domain(["setosa", "versicolor", "virginica"])
+    .range(d3.schemeCategory20)
 
   // Here I set the list of dimension manually to control the order of axis:
-  dimensions = ["Petal_Length", "Petal_Width", "Sepal_Length", "Sepal_Width"]
-
+  dimensions = d3.keys(data[0]).filter(function(d) {
+    return d == 'year' || d == 'rank' || d == 'gross'});
+    // return d == 'year' || d == 'rank' || d == 'gross'});
+  console.log("Dimensions >>> " + dimensions);
   // For each dimension, I build a linear scale. I store all in a y object
   var y = {}
   for (i in dimensions) {
     name = dimensions[i]
     y[name] = d3.scaleLinear()
-      .domain( [0,8] ) // --> Same axis range for each group
-      // --> different axis range for each group --> .domain( [d3.extent(data, function(d) { return +d[name]; })] )
+      // .domain( [0,2020] ) // --> Same axis range for each group
+      .domain(d3.extent(data, function(d) { 
+      return parseInt(d[name]); }) ) // --> different axis range for each group
+
       .range([height, 0])
   }
 
-  // Build the X scale -> it find the best position for each Y axis
+  // Build the X scale -> it finds the best position for each Y axis
   x = d3.scalePoint()
     .range([0, width])
     .domain(dimensions);
 
-  // Highlight the specie that is hovered
+  // Highlight the studio that is hovered
   var highlight = function(d){
 
-    selected_specie = d.Species
+    selected_studio = d.studio
 
     // first every group turns grey
     d3.selectAll(".line")
@@ -71,9 +77,9 @@ d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/ir
       .style("stroke", "lightgrey")
       .style("opacity", "0.2")
     // Second the hovered specie takes its color
-    d3.selectAll("." + selected_specie)
+    d3.selectAll("." + selected_studio)
       .transition().duration(200)
-      .style("stroke", color(selected_specie))
+      .style("stroke", color(selected_studio))
       .style("opacity", "1")
   }
 
@@ -81,14 +87,14 @@ d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/ir
   var doNotHighlight = function(d){
     d3.selectAll(".line")
       .transition().duration(200).delay(1000)
-      .style("stroke", function(d){ return( color(d.Species))} )
+      .style("stroke", function(d){ return( color(d.studio))} )
       .style("opacity", "1")
   }
 
-  // The path function take a row of the csv as input, and return x and y coordinates of the line to draw for this raw.
+  // The path function takes a row of the csv as input, and returns the x and y coordinates of the line to draw for this raw.
   function path(d) {
-      return d3.line()(dimensions.map(function(p) { return [x(p), y[p](d[p])]; }));
-  }
+        return d3.line()(dimensions.map(function(p) { return [x(p), y[p](d[p])]; }));
+    }
 
   // Draw the lines
   svg
@@ -96,10 +102,10 @@ d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/ir
     .data(data)
     .enter()
     .append("path")
-      .attr("class", function (d) { return "line " + d.Species } ) // 2 class for each line: 'line' and the group name
-      .attr("d",  path)
+      .attr("class", function (d) { return "line " + d.studio } ) // 2 classes for each line: 'line' and the group name
+      .attr("d",  function(d) {return path(d) })
       .style("fill", "none" )
-      .style("stroke", function(d){ return( color(d.Species))} )
+      .style("stroke", function(d){ return( color(d.studio))} )
       .style("opacity", 0.5)
       .on("mouseover", highlight)
       .on("mouseleave", doNotHighlight )
@@ -120,8 +126,8 @@ d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/ir
       .attr("y", -9)
       .text(function(d) { return d; })
       .style("fill", "black")
+});
 
-})
 
 
 </script>
