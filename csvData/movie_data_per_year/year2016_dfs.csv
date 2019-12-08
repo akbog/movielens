@@ -1,0 +1,699 @@
+season,Unnamed: 0,movie,studio,gross,release,time
+Q1 2016,10725,Deadpool,Twentieth Century Fox,363042311.0,2016-02-12,2016-03-31
+Q1 2016,10726,Zootopia,Walt Disney Studios Motion Pictures,341268248.0,2016-03-04,2016-03-31
+Q1 2016,10727,Batman v Superman: Dawn of Justice,Warner Bros.,330360194.0,2016-03-25,2016-03-31
+Q1 2016,10739,Kung Fu Panda 3,Twentieth Century Fox,143517851.0,2016-01-29,2016-03-31
+Q1 2016,10751,Ride Along 2,Universal Pictures,90862685.0,2016-01-15,2016-03-31
+Q1 2016,10763,10 Cloverfield Lane,Paramount Pictures,72082998.0,2016-03-11,2016-03-31
+Q1 2016,10765,Allegiant,Lionsgate,66184051.0,2016-03-18,2016-03-31
+Q1 2016,10770,London Has Fallen,Focus Features,62524260.0,2016-03-04,2016-03-31
+Q1 2016,10773,My Big Fat Greek Wedding 2,Universal Pictures,59689605.0,2016-03-25,2016-03-31
+Q1 2016,10781,13 Hours,Paramount Pictures,52853219.0,2016-01-15,2016-03-31
+Q1 2016,10786,How to Be Single,Warner Bros.,46843513.0,2016-02-12,2016-03-31
+Q1 2016,10796,Risen,Sony Pictures Releasing,36880033.0,2016-02-19,2016-03-31
+Q1 2016,10799,The Boy,STX Entertainment,35819556.0,2016-01-22,2016-03-31
+Q1 2016,10800,Dirty Grandpa,Lionsgate,35593113.0,2016-01-22,2016-03-31
+Q1 2016,10802,The 5th Wave,Sony Pictures Releasing,34916787.0,2016-01-22,2016-03-31
+Q1 2016,10805,Gods of Egypt,Lionsgate,31153464.0,2016-02-26,2016-03-31
+Q1 2016,10809,"Hail, Caesar!",Universal Pictures,30080225.0,2016-02-05,2016-03-31
+Q1 2016,10811,Zoolander 2,Paramount Pictures,28848693.0,2016-02-12,2016-03-31
+Q1 2016,10816,The Forest,Focus Features,26594261.0,2016-01-08,2016-03-31
+Q1 2016,10819,The Finest Hours,Walt Disney Studios Motion Pictures,25919859.0,2016-01-29,2016-03-31
+Q1 2016,10823,Whiskey Tango Foxtrot,Paramount Pictures,23083334.0,2016-03-04,2016-03-31
+Q1 2016,10824,The Witch,A24,22914150.0,2016-02-19,2016-03-31
+Q1 2016,10833,Race,Focus Features,19206207.0,2016-02-19,2016-03-31
+Q1 2016,10835,The Choice,Lionsgate,18730891.0,2016-02-05,2016-03-31
+Q1 2016,10836,Eye in the Sky,Bleecker Street Media,18704595.0,2016-03-11,2016-03-31
+Q1 2016,10840,Norm of the North,Lionsgate,17062499.0,2016-01-15,2016-03-31
+Q1 2016,10843,Eddie the Eagle,Twentieth Century Fox,15739131.0,2016-02-26,2016-03-31
+Q1 2016,10847,"Hello, My Name Is Doris",Roadside Attractions,14444999.0,2016-03-11,2016-03-31
+Q1 2016,10852,Triple 9,Open Road Films (II),12639297.0,2016-02-26,2016-03-31
+Q1 2016,10856,Fifty Shades of Black,Open Road Films (II),11686940.0,2016-01-29,2016-03-31
+Q1 2016,10859,Pride and Prejudice and Zombies,Screen Gems,10938134.0,2016-02-05,2016-03-31
+Q1 2016,10865,The Perfect Match,Lionsgate,9669521.0,2016-03-11,2016-03-31
+Q1 2016,10878,The Brothers Grimsby,Sony Pictures Releasing,6874837.0,2016-03-11,2016-03-31
+Q1 2016,10880,The Young Messiah,Focus Features,6490401.0,2016-03-11,2016-03-31
+Q1 2016,10900,Where to Invade Next,Drafthouse Films,3827261.0,2016-02-12,2016-03-31
+Q1 2016,10901,Midnight Special,Warner Bros.,3712282.0,2016-03-18,2016-03-31
+Q1 2016,10906,Everybody Wants Some!!,Paramount Pictures,3400278.0,2016-03-30,2016-03-31
+Q1 2016,10910,Mei ren yu,Sony Pictures Releasing,3232685.0,2016-02-19,2016-03-31
+Q1 2016,10916,The Other Side of the Door,Twentieth Century Fox,2868200.0,2016-03-04,2016-03-31
+Q1 2016,10917,The Oscar Nominated Short Films 2016: Live Action,Shorts International,2816816.0,2016-01-29,2016-03-31
+Q1 2016,10920,Kapoor & Sons,FIP,2445815.0,2016-03-18,2016-03-31
+Q1 2016,10944,I Saw the Light,Sony Pictures Classics,1646788.0,2016-03-25,2016-03-31
+Q1 2016,10946,Neerja,FIP,1585687.0,2016-02-19,2016-03-31
+Q1 2016,10947,Jane Got a Gun,The Weinstein Company,1513793.0,2016-01-29,2016-03-31
+Q1 2016,10951,The Little Prince,Entertainment One,1339152.0,2016-02-12,2016-03-31
+Q1 2016,10958,Lazer Team,Amplify,1186426.0,2016-01-27,2016-03-31
+Q1 2016,10960,Wazir,Reliance Big Pictures,1124045.0,2016-01-08,2016-03-31
+Q1 2016,10971,Patterns of Evidence: Exodus,Thinking Man Films,925576.0,2016-01-19,2016-03-31
+Q1 2016,10981,The Monkey King 2,China Lion Film Distribution,709982.0,2016-02-05,2016-03-31
+Q1 2016,10985,Born to Be Blue2016 Re-release,IFC Films,678203.0,2016-03-25,2016-03-31
+Q1 2016,10989,Remember2016 Re-release,A24,637555.0,2016-03-11,2016-03-31
+Q1 2016,10999,Obsession,UTV Motion Pictures,528799.0,2016-02-12,2016-03-31
+Q1 2016,11003,The Boy and the Beast,FUNimation Entertainment,490643.0,2016-03-04,2016-03-31
+Q1 2016,11005,Detective Chinatown,China Lion Film Distribution,474252.0,2016-01-15,2016-03-31
+Q1 2016,11008,Only Yesterday2016 Re-release,GKIDS,453243.0,2016-01-01,2016-03-31
+Q1 2016,11012,Mad Max: Fury Road2016 Re-release,Warner Bros.,421986.0,2016-01-15,2016-03-31
+Q1 2016,11022,April and the Extraordinary World,GKIDS,295488.0,2016-03-25,2016-03-31
+Q1 2016,11029,My Golden Days,Magnolia Pictures,269144.0,2016-03-18,2016-03-31
+Q1 2016,11043,Ho Mann Jahaan,Eros International,208611.0,2016-01-01,2016-03-31
+Q1 2016,11048,The Masked Saint,Freestyle Releasing,182695.0,2016-01-08,2016-03-31
+Q1 2016,11053,The Wave,Magnolia Pictures,177404.0,2016-03-04,2016-03-31
+Q1 2016,11062,Born to Be Blue,Entertainment One,151926.0,2016-03-04,2016-03-31
+Q1 2016,11064,Touched with Fire,Roadside Attractions,146487.0,2016-02-12,2016-03-31
+Q1 2016,11065,Krisha,A24,144822.0,2016-03-18,2016-03-31
+Q1 2016,11066,Psycho-Pass: The Movie,FUNimation Entertainment,138366.0,2016-03-15,2016-03-31
+Q1 2016,11069,Tumbledown,Starz Digital Media,135026.0,2016-02-05,2016-03-31
+Q1 2016,11071,Under the Sea 3D,Warner Bros.,36223935.0,2016-02-13,2016-03-31
+Q1 2016,11073,Spirits' Homecoming,Pan Media & Entertainment,125616.0,2016-03-11,2016-03-31
+Q1 2016,11074,A War,Magnolia Pictures,122902.0,2016-02-12,2016-03-31
+Q1 2016,11078,Caged No More,Freestyle Releasing,114959.0,2016-01-22,2016-03-31
+Q1 2016,11088,Dictator,Eros International,104734.0,2016-01-13,2016-03-31
+Q1 2016,11098,Requiem for the American Dream,The Film Collaborative,130152.0,2016-01-29,2016-03-31
+Q1 2016,11104,The Clan,FIP,90767.0,2016-03-18,2016-03-31
+Q1 2016,11106,Marguerite,Cohen Media Group,506677.0,2016-03-11,2016-03-31
+Q1 2016,11116,Saala Khadoos,UTV Motion Pictures,76931.0,2016-01-29,2016-03-31
+Q1 2016,11123,Fireworks Wednesday2016 Re-release,Grasshopper Film,88581.0,2016-03-18,2016-03-31
+Q1 2016,11127,Trapped,Abramorama,63241.0,2016-03-04,2016-03-31
+Q1 2016,11128,Creative Control,Magnolia Pictures,63014.0,2016-03-11,2016-03-31
+Q1 2016,11130,Deep Sea,Warner Bros.,46403478.0,2016-03-03,2016-03-31
+Q1 2016,11144,The Club,Music Box Films,52761.0,2016-02-05,2016-03-31
+Q1 2016,11147,Like for Likes,CJ Entertainment,50839.0,2016-02-26,2016-03-31
+Q1 2016,11153,Rams,Cohen Media Group,139025.0,2016-02-03,2016-03-31
+Q1 2016,11162,A Melody to Remember,CJ Entertainment,44263.0,2016-01-29,2016-03-31
+Q1 2016,11167,Mastizaade,Eros International,43403.0,2016-01-29,2016-03-31
+Q1 2016,11177,Chimes at Midnight,Janus Films,108613.0,2016-01-01,2016-03-31
+Q1 2016,11178,Trust Fund,Transatlantic,36885.0,2016-01-08,2016-03-31
+Q1 2016,11179,Until Forever,Linn Productions,35839.0,2016-02-12,2016-03-31
+Q1 2016,11189,Monster Hunt,FilmRise,32766.0,2016-01-22,2016-03-31
+Q1 2016,11191,Ran2016 Re-release,Rialto Pictures,66097.0,2016-02-26,2016-03-31
+Q1 2016,11199,No Home Movie,Icarus Films,32757.0,2016-02-18,2016-03-31
+Q1 2016,11202,The Dog Wedding,25th Frame,29495.0,2016-03-11,2016-03-31
+Q1 2016,11214,The New Year's Eve of Old Lee,China Lion Film Distribution,25358.0,2016-02-12,2016-03-31
+Q1 2016,11226,Sanam Teri Kasam,Eros International,22121.0,2016-02-05,2016-03-31
+Q1 2016,11229,Already Tomorrow in Hong Kong,Gravitas Ventures,21206.0,2016-02-12,2016-03-31
+Q1 2016,11233,Band of Robbers,Gravitas Ventures,20555.0,2016-01-15,2016-03-31
+Q1 2016,11240,Ktown Cowboys,Freestyle Releasing,18863.0,2016-03-18,2016-03-31
+Q1 2016,11244,I Knew Her Well,Janus Films,18010.0,2016-02-05,2016-03-31
+Q1 2016,11257,Time Changer2016 Re-release,Five & Two Pictures,18521.0,2016-02-12,2016-03-31
+Q1 2016,11260,Remember You,CJ Entertainment,14814.0,2016-01-15,2016-03-31
+Q1 2016,11267,A Space Program,Zeitgeist Films,13739.0,2016-03-18,2016-03-31
+Q1 2016,11271,Late Spring,Janus Films,13254.0,2016-03-04,2016-03-31
+Q1 2016,11272,Of Mind and Music,Monterey Media,14122.0,2016-02-12,2016-03-31
+Q1 2016,11273,Hubble 3D,Warner Bros.,52503602.0,2016-03-19,2016-03-31
+Q1 2016,11274,Documentary Shorts Program,Entertainment One,13074.0,2016-03-18,2016-03-31
+Q1 2016,11286,Songs My Brothers Taught Me,Kino Lorber,34332.0,2016-03-02,2016-03-31
+Q1 2016,11301,"Rabin, the Last Day",Kino Lorber,27941.0,2016-01-29,2016-03-31
+Q1 2016,11303,We Are Twisted Fucking Sister!,Music Box Films,8277.0,2016-02-19,2016-03-31
+Q1 2016,11310,I Don't Belong Anywhere: Le cinéma de Chantal Akerman,Icarus Films,7703.0,2016-03-28,2016-03-31
+Q1 2016,11317,Boom Bust Boom,Brainstorm Media,6896.0,2016-03-11,2016-03-31
+Q1 2016,11326,City of Women,Cohen Media Group,12516.0,2016-02-19,2016-03-31
+Q1 2016,11334,Aferim!,Big World Pictures,106597.0,2016-01-22,2016-03-31
+Q1 2016,11336,Mojave,A24,8253.0,2016-01-22,2016-03-31
+Q1 2016,11344,The Automatic Hate,Film Movement,4603.0,2016-03-11,2016-03-31
+Q1 2016,11346,Synchronicity,Magnolia Pictures,4505.0,2016-01-22,2016-03-31
+Q1 2016,11354,Hot Water,Indican Pictures,12101.0,2016-03-11,2016-03-31
+Q1 2016,11363,Mad Tiger,Film Movement,3322.0,2016-03-20,2016-03-31
+Q1 2016,11373,White Lies2016 Re-release,ArtMattan Productions,2760.0,2016-03-04,2016-03-31
+Q1 2016,11374,River of Grass,Oscilloscope,11553.0,2016-03-11,2016-03-31
+Q1 2016,11383,Dough,Menemsha Films,1057373.0,2016-02-12,2016-03-31
+Q1 2016,11391,Miss India America,MarVista Entertainment,1598.0,2016-03-24,2016-03-31
+Q1 2016,11392,They Will Have to Kill Us First: Malian Music In Exile,BBC Worldwide North America,7516.0,2016-03-04,2016-03-31
+Q1 2016,11401,Mountains May Depart,Kino Lorber,82260.0,2016-02-12,2016-03-31
+Q1 2016,11402,Yalom's Cure,First Run,1164.0,2016-03-11,2016-03-31
+Q1 2016,11403,Colliding Dreams,International Film Circuit,76647.0,2016-03-04,2016-03-31
+Q1 2016,11410,Cemetery of Splendor,Strand Releasing,51337.0,2016-03-04,2016-03-31
+Q1 2016,11421,Sweet Bean,Kino Lorber,78211.0,2016-03-18,2016-03-31
+Q1 2016,11437,Troublemakers: The Story of Land Art,First Run,28316.0,2016-01-08,2016-03-31
+Q1 2016,11456,Burning Bodhi,Monterey Media,3213.0,2016-03-18,2016-03-31
+Q2 2016,10720,Finding Dory,Walt Disney Studios Motion Pictures,486295561.0,2016-06-17,2016-06-30
+Q2 2016,10722,Captain America: Civil War,Walt Disney Studios Motion Pictures,408084349.0,2016-05-06,2016-06-30
+Q2 2016,10724,The Jungle Book,Walt Disney Studios Motion Pictures,364001123.0,2016-04-15,2016-06-30
+Q2 2016,10736,X-Men: Apocalypse,Twentieth Century Fox,155149510.0,2016-05-27,2016-06-30
+Q2 2016,10741,Central Intelligence,Warner Bros.,127440871.0,2016-06-17,2016-06-30
+Q2 2016,10745,The Angry Birds Movie,Sony Pictures Releasing,107509366.0,2016-05-20,2016-06-30
+Q2 2016,10746,Independence Day: Resurgence,Twentieth Century Fox,103120535.0,2016-06-24,2016-06-30
+Q2 2016,10747,The Conjuring 2,Warner Bros.,102470008.0,2016-06-10,2016-06-30
+Q2 2016,10756,Teenage Mutant Ninja Turtles: Out of the Shadows,Paramount Pictures,82051601.0,2016-06-03,2016-06-30
+Q2 2016,10758,Alice Through the Looking Glass,Walt Disney Studios Motion Pictures,77041381.0,2016-05-27,2016-06-30
+Q2 2016,10766,Now You See Me 2,Lionsgate,65075540.0,2016-06-10,2016-06-30
+Q2 2016,10769,The Boss,Universal Pictures,63077560.0,2016-04-08,2016-06-30
+Q2 2016,10775,Me Before You,Warner Bros.,56245075.0,2016-06-03,2016-06-30
+Q2 2016,10778,Neighbors 2: Sorority Rising,Universal Pictures,55340730.0,2016-05-20,2016-06-30
+Q2 2016,10779,The Shallows,Sony Pictures Releasing,55124043.0,2016-06-24,2016-06-30
+Q2 2016,10780,Barbershop: The Next Cut,Warner Bros.,54030051.0,2016-04-15,2016-06-30
+Q2 2016,10784,The Huntsman: Winter's War,Universal Pictures,48003015.0,2016-04-22,2016-06-30
+Q2 2016,10785,Warcraft,Universal Pictures,47225655.0,2016-06-10,2016-06-30
+Q2 2016,10798,The Nice Guys,Warner Bros.,36261763.0,2016-05-20,2016-06-30
+Q2 2016,10804,Mother's Day,Open Road Films (II),32492859.0,2016-04-29,2016-06-30
+Q2 2016,10827,Free State of Jones,STX Entertainment,20810036.0,2016-06-24,2016-06-30
+Q2 2016,10829,God's Not Dead 2,Pure Flix Entertainment,20774575.0,2016-04-01,2016-06-30
+Q2 2016,10830,Keanu,Warner Bros.,20591853.0,2016-04-29,2016-06-30
+Q2 2016,10846,Criminal,Lionsgate,14708696.0,2016-04-15,2016-06-30
+Q2 2016,10849,Love & Friendship,Roadside Attractions,14016568.0,2016-05-13,2016-06-30
+Q2 2016,10860,The Darkness,BH Tilt,10753574.0,2016-05-13,2016-06-30
+Q2 2016,10863,Space Station 3D,IMAX,93379882.0,2016-04-19,2016-06-30
+Q2 2016,10866,Popstar: Never Stop Never Stopping,Universal Pictures,9496130.0,2016-06-03,2016-06-30
+Q2 2016,10867,Hardcore Henry,STX Entertainment,9252038.0,2016-04-08,2016-06-30
+Q2 2016,10868,Meet the Blacks,Freestyle Releasing,9097072.0,2016-04-01,2016-06-30
+Q2 2016,10871,Ratchet and Clank,Focus Features,8821329.0,2016-04-29,2016-06-30
+Q2 2016,10872,The Lobster2016 Re-release,A24,8688080.0,2016-05-13,2016-06-30
+Q2 2016,10886,Hunt for the Wilderpeople,The Orchard,5205468.0,2016-06-24,2016-06-30
+Q2 2016,10893,A Hologram for the King,Roadside Attractions,4212494.0,2016-04-22,2016-06-30
+Q2 2016,10894,Swiss Army Man,A24,4186567.0,2016-06-24,2016-06-30
+Q2 2016,10907,Maggie's Plan,Sony Pictures Classics,3351735.0,2016-05-20,2016-06-30
+Q2 2016,10909,Sing Street,The Weinstein Company,3237118.0,2016-04-15,2016-06-30
+Q2 2016,10918,Green Room,A24,3200431.0,2016-04-15,2016-06-30
+Q2 2016,10919,Miles Ahead,Sony Pictures Classics,2610896.0,2016-04-01,2016-06-30
+Q2 2016,10924,A Aa,Blue Sky Cinema,2313043.0,2016-06-01,2016-06-30
+Q2 2016,10931,Demolition,Fox Searchlight Pictures,1978592.0,2016-04-08,2016-06-30
+Q2 2016,10935,A Bigger Splash,Fox Searchlight Pictures,2016100.0,2016-05-04,2016-06-30
+Q2 2016,10936,Purple Rain2016 Re-release,Warner Bros.,1868075.0,2016-04-23,2016-06-30
+Q2 2016,10950,Genius,Roadside Attractions,1361045.0,2016-06-10,2016-06-30
+Q2 2016,10952,The Neon Demon,Broad Green Pictures,1333124.0,2016-06-24,2016-06-30
+Q2 2016,10953,Housefull 3,Eros International,1326999.0,2016-06-03,2016-06-30
+Q2 2016,10957,The Man Who Knew Infinity,IFC Films,1627021.0,2016-04-29,2016-06-30
+Q2 2016,10959,The Music of Strangers: Yo-Yo Ma and the Silk Road Ensemble,The Orchard,1176781.0,2016-06-10,2016-06-30
+Q2 2016,10961,Papa Hemingway in Cuba,Yari Film Group Releasing,1115615.0,2016-04-29,2016-06-30
+Q2 2016,10965,Elvis & Nixon,Bleecker Street Media,1055287.0,2016-04-22,2016-06-30
+Q2 2016,10968,The Meddler2016 Re-release,Sony Pictures Classics,2048804.0,2016-04-22,2016-06-30
+Q2 2016,10978,Huo guo ying xiong,China Lion Film Distribution,779818.0,2016-04-01,2016-06-30
+Q2 2016,10980,Saturday's Warrior,Purdie Distribution,744046.0,2016-04-01,2016-06-30
+Q2 2016,11000,The First Monday in May,Magnolia Pictures,527474.0,2016-04-15,2016-06-30
+Q2 2016,11002,Unsullied,Indican Pictures,510957.0,2016-04-22,2016-06-30
+Q2 2016,11007,Range 15,Tugg,463394.0,2016-06-15,2016-06-30
+Q2 2016,11009,Baaghi,UTV Motion Pictures,438207.0,2016-04-29,2016-06-30
+Q2 2016,11017,Minimalism: A Documentary About the Important Things,GathrFilms,251737.0,2016-05-24,2016-06-30
+Q2 2016,11019,Island of Lemurs: Madagascar,Warner Bros.,11269209.0,2016-04-04,2016-06-30
+Q2 2016,11030,AmeriGeddon,Forewarned,261461.0,2016-05-13,2016-06-30
+Q2 2016,11037,The Invitation,Drafthouse Films,231737.0,2016-04-08,2016-06-30
+Q2 2016,11044,Kaptaan,UTV Motion Pictures,203790.0,2016-05-20,2016-06-30
+Q2 2016,11046,The Fallen Idol2016 Re-release,Rialto Pictures,199619.0,2016-05-27,2016-06-30
+Q2 2016,11052,Viva,Magnolia Pictures,178008.0,2016-04-29,2016-06-30
+Q2 2016,11057,Louder Than Bombs,The Orchard,163737.0,2016-04-08,2016-06-30
+Q2 2016,11092,Our Last Tango,Strand Releasing,100086.0,2016-04-15,2016-06-30
+Q2 2016,11101,New York New York,China Lion Film Distribution,92377.0,2016-04-15,2016-06-30
+Q2 2016,11108,"My Love, Don't Cross That River2016 Re-release",Film Movement,86446.0,2016-06-17,2016-06-30
+Q2 2016,11113,Vita Activa: The Spirit of Hannah Arendt,Zeitgeist Films,82143.0,2016-04-06,2016-06-30
+Q2 2016,11122,The Dark Horse,Broad Green Pictures,67533.0,2016-04-01,2016-06-30
+Q2 2016,11124,Phantom Detective,CJ Entertainment,67054.0,2016-05-11,2016-06-30
+Q2 2016,11131,Time Renegades,CJ Entertainment,59425.0,2016-04-15,2016-06-30
+Q2 2016,11137,Dongju: The Portrait of a Poet,CJ Entertainment,56550.0,2016-04-01,2016-06-30
+Q2 2016,11142,The Wailing,Well Go USA Entertainment,784078.0,2016-05-20,2016-06-30
+Q2 2016,11143,High Strung,Paladin,53447.0,2016-04-08,2016-06-30
+Q2 2016,11154,A Beautiful Planet,IMAX,15589715.0,2016-04-29,2016-06-30
+Q2 2016,11155,To the Arctic 3D,Warner Bros.,14553890.0,2016-04-20,2016-06-30
+Q2 2016,11157,Ma ma,Oscilloscope,47258.0,2016-05-20,2016-06-30
+Q2 2016,11158,The Unknowns,GathrFilms,45831.0,2016-05-30,2016-06-30
+Q2 2016,11163,Nuts!,Cartuna,44230.0,2016-06-22,2016-06-30
+Q2 2016,11165,Phantom of the Theatre,Well Go USA Entertainment,43955.0,2016-05-06,2016-06-30
+Q2 2016,11171,The Homeless Billionaire,Hannover House,39493.0,2016-06-17,2016-06-30
+Q2 2016,11173,Restored Me,GathrFilms,38745.0,2016-06-06,2016-06-30
+Q2 2016,11174,Puerto Ricans in Paris,Focus World,102890.0,2016-06-10,2016-06-30
+Q2 2016,11175,Band of Outsiders2016 Re-release,Rialto Pictures,38004.0,2016-05-06,2016-06-30
+Q2 2016,11180,Sold,Matson Films,35599.0,2016-04-01,2016-06-30
+Q2 2016,11182,Mr. Right,Focus World,34694.0,2016-04-08,2016-06-30
+Q2 2016,11193,Paths of the Soul,Icarus Films,31747.0,2016-05-13,2016-06-30
+Q2 2016,11194,Last Cab to Darwin,First Run,34193.0,2016-06-10,2016-06-30
+Q2 2016,11196,Being Charlie,Paladin,30400.0,2016-05-06,2016-06-30
+Q2 2016,11197,De Palma,A24,30355.0,2016-06-10,2016-06-30
+Q2 2016,11204,Time to Choose,Abramorama,29233.0,2016-06-03,2016-06-30
+Q2 2016,11206,Vaxxed: From Cover-Up to Catastrophe,Cinema Libre Studio,28339.0,2016-04-01,2016-06-30
+Q2 2016,11207,Blackway,Electric Entertainment,27079.0,2016-06-10,2016-06-30
+Q2 2016,11212,Gurukulam,Matson Films,25651.0,2016-06-03,2016-06-30
+Q2 2016,11220,Harmony,FUNimation Entertainment,23248.0,2016-05-17,2016-06-30
+Q2 2016,11228,Term Life,Focus World,21256.0,2016-04-29,2016-06-30
+Q2 2016,11232,Almost Holy,The Orchard,21142.0,2016-05-20,2016-06-30
+Q2 2016,11238,Revelation: Dawn of Global Government,Rocky Mountain Pictures,19107.0,2016-04-15,2016-06-30
+Q2 2016,11243,Holy Hell,WRA Productions,18051.0,2016-05-27,2016-06-30
+Q2 2016,11246,Streit's: Matzo and the American Dream,Menemsha Films,17506.0,2016-04-20,2016-06-30
+Q2 2016,11253,The Colony,Screen Media Films,15709.0,2016-04-15,2016-06-30
+Q2 2016,11256,Be Somebody,Tugg,15395.0,2016-06-10,2016-06-30
+Q2 2016,11268,Kaili Blues,Grasshopper Film,27477.0,2016-05-20,2016-06-30
+Q2 2016,11270,The Fits,Oscilloscope,155474.0,2016-06-03,2016-06-30
+Q2 2016,11277,The Ones Below,Magnolia Pictures,12488.0,2016-05-27,2016-06-30
+Q2 2016,11279,Three,Well Go USA Entertainment,118599.0,2016-06-24,2016-06-30
+Q2 2016,11280,Kill Zone 2,Well Go USA Entertainment,11998.0,2016-05-13,2016-06-30
+Q2 2016,11287,Tickled,Magnolia Pictures,198609.0,2016-06-17,2016-06-30
+Q2 2016,11288,Neon Bull,Kino Lorber,25347.0,2016-04-08,2016-06-30
+Q2 2016,11291,Kamikaze 89,Film Movement,21277.0,2016-06-03,2016-06-30
+Q2 2016,11295,Seoul Searching,Wonder Vision,8966.0,2016-06-17,2016-06-30
+Q2 2016,11296,Wedding Doll,Strand Releasing,13905.0,2016-04-15,2016-06-30
+Q2 2016,11297,The Last King,Magnolia Pictures,8905.0,2016-06-17,2016-06-30
+Q2 2016,11298,"Right Now, Wrong Then",Grasshopper Film,23393.0,2016-06-24,2016-06-30
+Q2 2016,11300,The Hill Chris Climbed: The Gridiron Heroes Story,Indican Pictures,23487.0,2016-04-15,2016-06-30
+Q2 2016,11305,Golden Kingdom,Kino Lorber,8077.0,2016-06-17,2016-06-30
+Q2 2016,11307,Germans & Jews,First Run,31898.0,2016-06-10,2016-06-30
+Q2 2016,11311,The President,Corinth Films,7578.0,2016-06-03,2016-06-30
+Q2 2016,11319,A Monster with a Thousand Heads,Music Box Films,23616.0,2016-05-11,2016-06-30
+Q2 2016,11323,Destiny,Kino Lorber,11790.0,2016-05-20,2016-06-30
+Q2 2016,11324,Les Cowboys,Cohen Media Group,49759.0,2016-06-24,2016-06-30
+Q2 2016,11330,Bourek,Argot Pictures,5844.0,2016-04-29,2016-06-30
+Q2 2016,11337,The Dying of the Light,First Run,5195.0,2016-04-07,2016-06-30
+Q2 2016,11338,Viktoria,Big World Pictures,9896.0,2016-04-29,2016-06-30
+Q2 2016,11340,Call Her Applebroog,Zeitgeist Films,4842.0,2016-06-10,2016-06-30
+Q2 2016,11342,Sworn Virgin,Strand Releasing,4636.0,2016-04-22,2016-06-30
+Q2 2016,11345,Search Party2016 Re-release,Focus World,4571.0,2016-05-13,2016-06-30
+Q2 2016,11347,The Congressman,Shadow Distribution,71451.0,2016-04-29,2016-06-30
+Q2 2016,11348,On Tour with Pina Bausch,Icarus Films,18016.0,2016-04-04,2016-06-30
+Q2 2016,11355,The Romans,Indican Pictures,18994.0,2016-05-27,2016-06-30
+Q2 2016,11357,Standing Tall,Cohen Media Group,11422.0,2016-04-01,2016-06-30
+Q2 2016,11365,En Équilibre,Distrib Films,3144.0,2016-04-15,2016-06-30
+Q2 2016,11369,The Witness,FilmRise,158527.0,2016-06-03,2016-06-30
+Q2 2016,11371,The Professor: Tai Chi's Journey West,First Run,2852.0,2016-05-06,2016-06-30
+Q2 2016,11378,Hockney2016 Re-release,Film Movement,119945.0,2016-04-22,2016-06-30
+Q2 2016,11380,From the East,Icarus Films,8540.0,2016-04-17,2016-06-30
+Q2 2016,11387,Vigilante Diaries,Anchor Bay Films,1991.0,2016-06-24,2016-06-30
+Q2 2016,11388,Born to Be Wild,Warner Bros.,25921547.0,2016-04-08,2016-06-30
+Q2 2016,11390,The Other Side,Film Movement,7087.0,2016-05-20,2016-06-30
+Q2 2016,11393,The Silence of Mark Rothko,Icarus Films,1422.0,2016-04-21,2016-06-30
+Q2 2016,11395,Men & Chicken,Drafthouse Films,27444.0,2016-04-22,2016-06-30
+Q2 2016,11407,Butterfly Girl,Indican Pictures,17503.0,2016-04-03,2016-06-30
+Q2 2016,11413,Marinoni: The Fire in the Frame,First Run,3908.0,2016-04-01,2016-06-30
+Q2 2016,11422,Unlocking the Cage,First Run,26950.0,2016-05-25,2016-06-30
+Q2 2016,11423,Diary of a Chambermaid,Cohen Media Group,54235.0,2016-06-10,2016-06-30
+Q2 2016,11425,High-Rise,Magnolia Pictures,317577.0,2016-05-13,2016-06-30
+Q2 2016,11427,Dark Star: H.R. Giger's World,Icarus Films,61845.0,2016-05-15,2016-06-30
+Q2 2016,11430,From Afar,Strand Releasing,30043.0,2016-06-08,2016-06-30
+Q2 2016,11431,Tikkun,Kino Lorber,13671.0,2016-06-10,2016-06-30
+Q2 2016,11436,Raiders!: The Story of the Greatest Fan Film Ever Made,Drafthouse Films,47153.0,2016-06-17,2016-06-30
+Q2 2016,11438,Tosca's Kiss,Icarus Films,18236.0,2016-06-06,2016-06-30
+Q2 2016,11440,Chevalier,Strand Releasing,25554.0,2016-05-27,2016-06-30
+Q2 2016,11441,Sunset Song,Magnolia Pictures,134159.0,2016-05-13,2016-06-30
+Q2 2016,11448,The Measure of a Man,Kino Lorber,112181.0,2016-04-15,2016-06-30
+Q2 2016,11454,Presenting Princess Shaw,Magnolia Pictures,33508.0,2016-05-27,2016-06-30
+Q2 2016,11458,Cosmos,Kino Lorber,17000.0,2016-06-17,2016-06-30
+Q3 2016,10723,The Secret Life of Pets,Universal Pictures,368384330.0,2016-07-08,2016-09-30
+Q3 2016,10728,Suicide Squad,Warner Bros.,325100054.0,2016-08-05,2016-09-30
+Q3 2016,10734,Jason Bourne,Universal Pictures,162434410.0,2016-07-29,2016-09-30
+Q3 2016,10735,Star Trek Beyond,Paramount Pictures,158848340.0,2016-07-22,2016-09-30
+Q3 2016,10740,Ghostbusters,Sony Pictures Releasing,128350574.0,2016-07-15,2016-09-30
+Q3 2016,10742,The Legend of Tarzan,Warner Bros.,126643061.0,2016-07-01,2016-09-30
+Q3 2016,10743,Sully,Warner Bros.,125070033.0,2016-09-09,2016-09-30
+Q3 2016,10744,Bad Moms,STX Entertainment,113257297.0,2016-07-29,2016-09-30
+Q3 2016,10748,Sausage Party,Sony Pictures Releasing,97685686.0,2016-08-12,2016-09-30
+Q3 2016,10749,The Magnificent Seven,Sony Pictures Releasing,93432655.0,2016-09-23,2016-09-30
+Q3 2016,10752,Don't Breathe,Screen Gems,89217875.0,2016-08-26,2016-09-30
+Q3 2016,10753,Miss Peregrine's Home for Peculiar Children,Twentieth Century Fox,87233361.0,2016-09-30,2016-09-30
+Q3 2016,10757,The Purge: Election Year,Universal Pictures,79213375.0,2016-07-01,2016-09-30
+Q3 2016,10759,Pete's Dragon,Walt Disney Studios Motion Pictures,76233151.0,2016-08-12,2016-09-30
+Q3 2016,10762,Storks,Warner Bros.,72679278.0,2016-09-23,2016-09-30
+Q3 2016,10764,Lights Out,Warner Bros.,67268835.0,2016-07-22,2016-09-30
+Q3 2016,10768,Ice Age: Collision Course,Twentieth Century Fox,64050015.0,2016-07-22,2016-09-30
+Q3 2016,10772,Deepwater Horizon,Lionsgate,61433527.0,2016-09-30,2016-09-30
+Q3 2016,10776,The BFG,Walt Disney Studios Motion Pictures,55483770.0,2016-07-01,2016-09-30
+Q3 2016,10783,Kubo and the Two Strings,Focus Features,48023088.0,2016-08-19,2016-09-30
+Q3 2016,10788,Mike and Dave Need Wedding Dates,Twentieth Century Fox,46009673.0,2016-07-08,2016-09-30
+Q3 2016,10789,War Dogs,Warner Bros.,43034523.0,2016-08-19,2016-09-30
+Q3 2016,10794,Nerve,Lionsgate,38583626.0,2016-07-27,2016-09-30
+Q3 2016,10810,When the Bough Breaks,Screen Gems,29747603.0,2016-09-09,2016-09-30
+Q3 2016,10813,Florence Foster Jenkins,Paramount Pictures,27383770.0,2016-08-12,2016-09-30
+Q3 2016,10815,Hell or High Water,Lionsgate,27007844.0,2016-08-12,2016-09-30
+Q3 2016,10817,Ben-Hur,Paramount Pictures,26410477.0,2016-08-19,2016-09-30
+Q3 2016,10821,Bridget Jones's Baby,Universal Pictures,24252420.0,2016-09-16,2016-09-30
+Q3 2016,10825,Snowden,Open Road Films (II),21587519.0,2016-09-16,2016-09-30
+Q3 2016,10826,Mechanic: Resurrection,Lionsgate,21218403.0,2016-08-26,2016-09-30
+Q3 2016,10828,Blair Witch,Lionsgate,20777061.0,2016-09-16,2016-09-30
+Q3 2016,10832,Nine Lives,EuropaCorp,19700032.0,2016-08-05,2016-09-30
+Q3 2016,10839,Masterminds,Relativity Media,17368022.0,2016-09-30,2016-09-30
+Q3 2016,10844,The Infiltrator,Broad Green Pictures,15436808.0,2016-07-13,2016-09-30
+Q3 2016,10853,The Light Between Oceans,Walt Disney Studios Motion Pictures,12545979.0,2016-09-02,2016-09-30
+Q3 2016,10858,Café Society,Lionsgate,11103205.0,2016-07-15,2016-09-30
+Q3 2016,10870,Queen of Katwe,Walt Disney Studios Motion Pictures,8874389.0,2016-09-23,2016-09-30
+Q3 2016,10874,The Wild Life,Lionsgate,8005586.0,2016-09-09,2016-09-30
+Q3 2016,10882,Southside with You,Roadside Attractions,6304223.0,2016-08-26,2016-09-30
+Q3 2016,10883,Captain Fantastic,Bleecker Street Media,5879835.0,2016-07-08,2016-09-30
+Q3 2016,10889,Absolutely Fabulous: The Movie,Fox Searchlight Pictures,4761000.0,2016-07-22,2016-09-30
+Q3 2016,10890,Hands of Stone,The Weinstein Company,4712792.0,2016-08-26,2016-09-30
+Q3 2016,10896,Denial,Bleecker Street Media,4073489.0,2016-09-30,2016-09-30
+Q3 2016,10897,Morgan,Twentieth Century Fox,3915251.0,2016-09-02,2016-09-30
+Q3 2016,10899,Batman: The Killing Joke,Fathom Events,3775000.0,2016-07-25,2016-09-30
+Q3 2016,10905,Indignation,Roadside Attractions,3401155.0,2016-07-29,2016-09-30
+Q3 2016,10908,A Man Called Ove,Music Box Films,3479315.0,2016-09-30,2016-09-30
+Q3 2016,10911,Our Kind of Traitor,Roadside Attractions,3153157.0,2016-07-01,2016-09-30
+Q3 2016,10915,Anthropoid,Bleecker Street Media,2964845.0,2016-08-12,2016-09-30
+Q3 2016,10921,The Disappointments Room,Relativity Media,2414078.0,2016-09-09,2016-09-30
+Q3 2016,10922,Hillsong: Let Hope Rise,Pure Flix Entertainment,2394386.0,2016-09-16,2016-09-30
+Q3 2016,10927,The Dressmaker,Broad Green Pictures,2022115.0,2016-09-23,2016-09-30
+Q3 2016,10938,M.S. Dhoni: The Untold Story,FIP,1801550.0,2016-09-30,2016-09-30
+Q3 2016,10942,"To Joey, with Love",Fathom Events,1709073.0,2016-09-20,2016-09-30
+Q3 2016,10945,The Beatles: Eight Days a Week - The Touring Years,Abramorama,2930414.0,2016-09-15,2016-09-30
+Q3 2016,10955,Mohenjo Daro,UTV Motion Pictures,1264339.0,2016-08-12,2016-09-30
+Q3 2016,10962,The Insanity of God,LifeWay Films,1102525.0,2016-08-30,2016-09-30
+Q3 2016,10964,The Innocents,Music Box Films,1065665.0,2016-07-01,2016-09-30
+Q3 2016,10966,Hotel Transylvania 2,Sony Pictures Releasing,169700110.0,2016-09-25,2016-09-30
+Q3 2016,10967,Battle for Incheon: Operation Chromite,CJ Entertainment,1023348.0,2016-08-05,2016-09-30
+Q3 2016,10970,Baar Baar Dekho,Eros International,981947.0,2016-09-09,2016-09-30
+Q3 2016,10975,Kapow,Eros International,812737.0,2016-07-29,2016-09-30
+Q3 2016,10976,Operation Mekong,Well Go USA Entertainment,800012.0,2016-09-30,2016-09-30
+Q3 2016,10979,I Belonged to You,China Lion Film Distribution,744541.0,2016-09-30,2016-09-30
+Q3 2016,10982,Little Men,Magnolia Pictures,702537.0,2016-08-05,2016-09-30
+Q3 2016,10984,Mr. Church,Freestyle Releasing,685780.0,2016-09-16,2016-09-30
+Q3 2016,10986,Train to Busan,Well Go USA Entertainment,2125785.0,2016-07-22,2016-09-30
+Q3 2016,10987,American Honey,A24,662786.0,2016-09-30,2016-09-30
+Q3 2016,10991,Lo and Behold: Reveries of the Connected World,Magnolia Pictures,594912.0,2016-08-19,2016-09-30
+Q3 2016,10993,Gleason,Open Road Films (II),583664.0,2016-07-29,2016-09-30
+Q3 2016,10994,A Tale of Love and Darkness,Focus World,572212.0,2016-08-19,2016-09-30
+Q3 2016,10996,Cold War II,Well Go USA Entertainment,560824.0,2016-07-08,2016-09-30
+Q3 2016,10998,The Age of Shadows,CJ Entertainment,541719.0,2016-09-23,2016-09-30
+Q3 2016,11001,Willy Wonka & the Chocolate Factory2016 Re-release,Warner Bros.,526633.0,2016-09-03,2016-09-30
+Q3 2016,11006,Our Little Sister2016 Re-release,Sony Pictures Classics,467555.0,2016-07-08,2016-09-30
+Q3 2016,11011,Embrace: The Documentary,GathrFilms,628382.0,2016-09-19,2016-09-30
+Q3 2016,11021,Mia Madre,Music Box Films,303002.0,2016-08-26,2016-09-30
+Q3 2016,11028,Kingsglaive: Final Fantasy XV,Vertical Entertainment,269980.0,2016-08-19,2016-09-30
+Q3 2016,11032,"Life, Animated",The Orchard,255388.0,2016-07-01,2016-09-30
+Q3 2016,11042,Naam Hai Akira,FIP,219401.0,2016-09-02,2016-09-30
+Q3 2016,11045,White Girl,FilmRise,200242.0,2016-09-02,2016-09-30
+Q3 2016,11047,The Intern,Warner Bros.,75764672.0,2016-09-25,2016-09-30
+Q3 2016,11049,League of Gods,Sony Pictures Releasing,181633.0,2016-07-29,2016-09-30
+Q3 2016,11055,Generation Found,GathrFilms,151751.0,2016-08-29,2016-09-30
+Q3 2016,11061,Elevator to the Gallows2016 Re-release,Rialto Pictures,111267.0,2016-08-03,2016-09-30
+Q3 2016,11063,Kicks,Focus World,150191.0,2016-09-09,2016-09-30
+Q3 2016,11076,Miss Sharon Jones!,Starz Digital Media,120880.0,2016-07-29,2016-09-30
+Q3 2016,11077,Sicario,Lionsgate,46889293.0,2016-09-18,2016-09-30
+Q3 2016,11082,Zero Days,Magnolia Pictures,109649.0,2016-07-08,2016-09-30
+Q3 2016,11085,Dekalog2016 Re-release,Janus Films,106494.0,2016-09-02,2016-09-30
+Q3 2016,11089,Demon,The Orchard,104038.0,2016-09-09,2016-09-30
+Q3 2016,11090,Under the Sun,Icarus Films,104866.0,2016-07-06,2016-09-30
+Q3 2016,11091,Victor,CanZion Films,117755.0,2016-09-15,2016-09-30
+Q3 2016,11094,Tower,Kino Lorber,101987.0,2016-09-28,2016-09-30
+Q3 2016,11095,Seondal: The Man Who Sells the River,CJ Entertainment,97477.0,2016-07-14,2016-09-30
+Q3 2016,11096,So Young 2: Never Gone,China Lion Film Distribution,96421.0,2016-07-15,2016-09-30
+Q3 2016,11099,The Fight Within,GVN Releasing,94326.0,2016-08-12,2016-09-30
+Q3 2016,11100,Don't Think Twice,The Film Arcade,4417667.0,2016-07-22,2016-09-30
+Q3 2016,11102,Other People,Vertical Entertainment,91441.0,2016-09-09,2016-09-30
+Q3 2016,11105,"So, I Married an Anti-Fan",China Lion Film Distribution,89408.0,2016-07-01,2016-09-30
+Q3 2016,11107,Sand Storm,Kino Lorber,86800.0,2016-09-28,2016-09-30
+Q3 2016,11109,Author: The JT LeRoy Story,Magnolia Pictures,85999.0,2016-09-09,2016-09-30
+Q3 2016,11110,Cock and Bull,China Lion Film Distribution,82778.0,2016-09-16,2016-09-30
+Q3 2016,11114,My Best Friend's Wedding,Sony Pictures Releasing,78578.0,2016-08-12,2016-09-30
+Q3 2016,11119,Norman Lear: Just Another Version of You,Music Box Films,70950.0,2016-07-08,2016-09-30
+Q3 2016,11120,"Hieronymus Bosch, Touched by the Devil",Kino Lorber,163070.0,2016-07-16,2016-09-30
+Q3 2016,11126,Microbe & Gasoline,Screen Media Films,63802.0,2016-07-01,2016-09-30
+Q3 2016,11133,Tanna,Lightyear Entertainment,45188.0,2016-09-16,2016-09-30
+Q3 2016,11135,Grandma,Sony Pictures Classics,6980524.0,2016-08-21,2016-09-30
+Q3 2016,11138,The Lovers & the Despot,Magnolia Pictures,55511.0,2016-09-23,2016-09-30
+Q3 2016,11150,In Order of Disappearance2016 Re-release,Magnolia Pictures,50251.0,2016-08-26,2016-09-30
+Q3 2016,11156,Tunnel,Well Go USA Entertainment,448111.0,2016-08-26,2016-09-30
+Q3 2016,11164,Danny Says,Magnolia Pictures,44213.0,2016-09-30,2016-09-30
+Q3 2016,11166,Dark Horse,Mongrel Media,90136.0,2016-09-20,2016-09-30
+Q3 2016,11168,Morris from America,A24,42235.0,2016-08-19,2016-09-30
+Q3 2016,11170,Is That a Gun in Your Pocket?,Area 23a,39928.0,2016-09-16,2016-09-30
+Q3 2016,11172,Maze Runner: The Scorch Trials,Twentieth Century Fox,81670090.0,2016-09-18,2016-09-30
+Q3 2016,11176,Come What May,Cohen Media Group,37766.0,2016-09-09,2016-09-30
+Q3 2016,11181,Our Little Sister,Mongrel Media,55189.0,2016-09-23,2016-09-30
+Q3 2016,11183,Phantom Boy,GKIDS,34362.0,2016-07-15,2016-09-30
+Q3 2016,11184,Sweet Sixteen,China Lion Film Distribution,34327.0,2016-08-19,2016-09-30
+Q3 2016,11185,Gosanja: Dae-dong-yeo Ji-do,CJ Entertainment,34034.0,2016-09-09,2016-09-30
+Q3 2016,11186,Equals,A24,33258.0,2016-07-15,2016-09-30
+Q3 2016,11187,Multiple Maniacs,Janus Films,33036.0,2016-08-05,2016-09-30
+Q3 2016,11188,The Intervention,The Samuel Goldwyn Company,32919.0,2016-08-26,2016-09-30
+Q3 2016,11190,Rurouni Kenshin Part I: Origins2016 Re-release,FUNimation Entertainment,32445.0,2016-08-08,2016-09-30
+Q3 2016,11198,For a Few Bullets,China Lion Film Distribution,30142.0,2016-07-22,2016-09-30
+Q3 2016,11200,La Notte,Rialto Pictures,39236.0,2016-09-14,2016-09-30
+Q3 2016,11201,The Best Democracy Money Can Buy,Cinema Libre Studio,29500.0,2016-09-23,2016-09-30
+Q3 2016,11203,The Last Princess,CJ Entertainment,29259.0,2016-09-09,2016-09-30
+Q3 2016,11213,Banjo,Eros International,25531.0,2016-09-23,2016-09-30
+Q3 2016,11216,Sudden Fear,Cohen Media Group,24476.0,2016-08-12,2016-09-30
+Q3 2016,11223,The Seasons In Quincy: Four Portraits of John Berger,Icarus Films,28456.0,2016-08-31,2016-09-30
+Q3 2016,11224,Generation Startup,Long Shot Factory,22271.0,2016-09-23,2016-09-30
+Q3 2016,11225,Reparation,Red Dirt Pictures,22267.0,2016-09-04,2016-09-30
+Q3 2016,11245,Men Go to Battle,Film Movement,18006.0,2016-07-08,2016-09-30
+Q3 2016,11247,Tharlo,Icarus Films,17091.0,2016-09-28,2016-09-30
+Q3 2016,11251,Don't Blink - Robert Frank,Grasshopper Film,71661.0,2016-07-15,2016-09-30
+Q3 2016,11252,Happy Bhaag Jayegi2016 Re-release,Eros International,351692.0,2016-08-19,2016-09-30
+Q3 2016,11255,Five Nights in Maine,FilmRise,15587.0,2016-08-05,2016-09-30
+Q3 2016,11262,Brother Nature,The Samuel Goldwyn Company,14218.0,2016-09-09,2016-09-30
+Q3 2016,11278,Do Not Resist,Vanish Films,71195.0,2016-09-30,2016-09-30
+Q3 2016,11281,Lucha Mexico,Kino Lorber,11722.0,2016-07-15,2016-09-30
+Q3 2016,11290,Made in France,Under The Milky Way,9956.0,2016-09-23,2016-09-30
+Q3 2016,11293,Kate Plays Christine,Grasshopper Film,22060.0,2016-08-26,2016-09-30
+Q3 2016,11294,Remember the Goal,Five & Two Pictures,116557.0,2016-08-26,2016-09-30
+Q3 2016,11304,Silicon Cowboys,FilmRise,8239.0,2016-09-16,2016-09-30
+Q3 2016,11306,Pet,The Samuel Goldwyn Company,8004.0,2016-09-30,2016-09-30
+Q3 2016,11308,An Eye for Beauty,Monument Releasing,9395.0,2016-08-28,2016-09-30
+Q3 2016,11315,Indian Point,First Run,7251.0,2016-07-08,2016-09-30
+Q3 2016,11320,For the Love of Spock,Gravitas Ventures,70455.0,2016-09-09,2016-09-30
+Q3 2016,11322,Ghost Team,The Orchard,6639.0,2016-08-12,2016-09-30
+Q3 2016,11327,The Carer,Corinth Films,6208.0,2016-09-09,2016-09-30
+Q3 2016,11329,Landfill Harmonic,The Film Collaborative,14992.0,2016-09-09,2016-09-30
+Q3 2016,11332,Klown Forever,Drafthouse Films,5700.0,2016-09-02,2016-09-30
+Q3 2016,11333,Amy,A24,8413144.0,2016-07-03,2016-09-30
+Q3 2016,11343,Miss Stevens,The Orchard,4611.0,2016-09-16,2016-09-30
+Q3 2016,11350,On Meditation,Kino Lorber,4322.0,2016-07-27,2016-09-30
+Q3 2016,11352,Maximum Ride,Tugg,4218.0,2016-09-30,2016-09-30
+Q3 2016,11353,Neither Heaven Nor Earth,Film Movement,12619.0,2016-08-05,2016-09-30
+Q3 2016,11359,Auto Shop of Horrors,Driving With Our Eyes Shut,4300.0,2016-09-23,2016-09-30
+Q3 2016,11360,The Seventh Fire,Film Movement,29656.0,2016-07-22,2016-09-30
+Q3 2016,11364,The Sea of Trees,A24,3276.0,2016-08-26,2016-09-30
+Q3 2016,11366,Le joli mai,Icarus Films,55038.0,2016-09-13,2016-09-30
+Q3 2016,11376,Spa Night,Strand Releasing,37534.0,2016-08-19,2016-09-30
+Q3 2016,11382,Ek Hazarachi Note,Kino Lorber,2404.0,2016-09-23,2016-09-30
+Q3 2016,11384,Hooligan Sparrow,The Film Collaborative,5103.0,2016-07-22,2016-09-30
+Q3 2016,11394,When Two Worlds Collide,First Run,10692.0,2016-08-17,2016-09-30
+Q3 2016,11396,The Tenth Man,Kino Lorber,63564.0,2016-07-29,2016-09-30
+Q3 2016,11399,Fatima,Kino Lorber,50105.0,2016-08-26,2016-09-30
+Q3 2016,11400,A Small Good Thing,Kino Lorber,1196.0,2016-08-19,2016-09-30
+Q3 2016,11405,A Beautiful Now,Monterey Media,1714.0,2016-09-02,2016-09-30
+Q3 2016,11411,Closet Monster,Strand Releasing,40282.0,2016-09-23,2016-09-30
+Q3 2016,11414,The Student and Mister Henri,Distrib Films,761.0,2016-08-19,2016-09-30
+Q3 2016,11420,Down by Love,Distrib Films,675.0,2016-08-19,2016-09-30
+Q3 2016,11424,As I Open My Eyes,Kino Lorber,28480.0,2016-09-08,2016-09-30
+Q3 2016,11426,The Pit,Kino Lorber,560.0,2016-09-30,2016-09-30
+Q3 2016,11432,Far from Vietnam,Icarus Films,8132.0,2016-08-28,2016-09-30
+Q3 2016,11435,The Olivia Experiment,Indican Pictures,15122.0,2016-08-22,2016-09-30
+Q3 2016,11439,News from Planet Mars,Kino Lorber,310.0,2016-07-22,2016-09-30
+Q3 2016,11442,Summertime,Strand Releasing,35322.0,2016-07-22,2016-09-30
+Q3 2016,11444,Satanic,Magnolia Pictures,252.0,2016-07-01,2016-09-30
+Q3 2016,11445,A Reason,Indican Pictures,15792.0,2016-08-28,2016-09-30
+Q3 2016,11446,The Night Watchman,Icarus Films,2219.0,2016-07-06,2016-09-30
+Q3 2016,11451,Among the Believers,First Run,3823.0,2016-09-30,2016-09-30
+Q3 2016,11455,Harry & Snowman,FilmRise,559571.0,2016-09-30,2016-09-30
+Q4 2016,10721,Rogue One: A Star Wars Story,Walt Disney Studios Motion Pictures,532177324.0,2016-12-16,2016-12-31
+Q4 2016,10729,Star Wars: Episode VII - The Force Awakens,Walt Disney Studios Motion Pictures,936660090.0,2016-12-18,2016-12-31
+Q4 2016,10730,Doctor Strange,Walt Disney Studios Motion Pictures,232641920.0,2016-11-04,2016-12-31
+Q4 2016,10731,Fantastic Beasts and Where to Find Them,Warner Bros.,234037575.0,2016-11-18,2016-12-31
+Q4 2016,10732,Moana,Walt Disney Studios Motion Pictures,248757044.0,2016-11-23,2016-12-31
+Q4 2016,10733,The Revenant,Twentieth Century Fox,183609490.0,2016-12-25,2016-12-31
+Q4 2016,10737,Sing,Universal Pictures,270329045.0,2016-12-21,2016-12-31
+Q4 2016,10738,Trolls,Twentieth Century Fox,153684900.0,2016-11-04,2016-12-31
+Q4 2016,10750,Arrival,Paramount Pictures,100546139.0,2016-11-11,2016-12-31
+Q4 2016,10754,The Accountant,Warner Bros.,86260045.0,2016-10-14,2016-12-31
+Q4 2016,10755,Daddy's Home,Paramount Pictures,150357137.0,2016-12-25,2016-12-31
+Q4 2016,10760,The Girl on the Train,Universal Pictures,75347390.0,2016-10-07,2016-12-31
+Q4 2016,10761,Tyler Perry's Boo! A Madea Halloween,Lionsgate,73206343.0,2016-10-21,2016-12-31
+Q4 2016,10767,Hacksaw Ridge,Lionsgate,67209615.0,2016-11-04,2016-12-31
+Q4 2016,10774,Jack Reacher: Never Go Back,Paramount Pictures,58697076.0,2016-10-21,2016-12-31
+Q4 2016,10777,Passengers,Sony Pictures Releasing,100014699.0,2016-12-21,2016-12-31
+Q4 2016,10782,Office Christmas Party,Paramount Pictures,54767494.0,2016-12-09,2016-12-31
+Q4 2016,10787,The Big Short,Paramount Pictures,70259870.0,2016-12-11,2016-12-31
+Q4 2016,10790,Almost Christmas,Universal Pictures,42065185.0,2016-11-11,2016-12-31
+Q4 2016,10792,The Hateful Eight,The Weinstein Company,54117416.0,2016-12-25,2016-12-31
+Q4 2016,10793,Allied,Paramount Pictures,40098064.0,2016-11-23,2016-12-31
+Q4 2016,10795,Sisters,Universal Pictures,87044645.0,2016-12-18,2016-12-31
+Q4 2016,10797,Assassin's Creed,Twentieth Century Fox,54634144.0,2016-12-21,2016-12-31
+Q4 2016,10801,Ouija: Origin Of Evil,Universal Pictures,34992970.0,2016-10-21,2016-12-31
+Q4 2016,10803,Inferno,Sony Pictures Releasing,34343574.0,2016-10-28,2016-12-31
+Q4 2016,10806,La La Land,Lionsgate,151101803.0,2016-12-09,2016-12-31
+Q4 2016,10807,Why Him?,Twentieth Century Fox,60269575.0,2016-12-23,2016-12-31
+Q4 2016,10808,Alvin and the Chipmunks: The Road Chip,Twentieth Century Fox,85833731.0,2016-12-18,2016-12-31
+Q4 2016,10812,Joy,Twentieth Century Fox,56384928.0,2016-12-25,2016-12-31
+Q4 2016,10814,Manchester by the Sea,Roadside Attractions,47695371.0,2016-11-18,2016-12-31
+Q4 2016,10818,Fences,Paramount Pictures,57682904.0,2016-12-16,2016-12-31
+Q4 2016,10820,Collateral Beauty,Warner Bros.,31016021.0,2016-12-16,2016-12-31
+Q4 2016,10822,Kevin Hart: What Now?,Universal Pictures,23574605.0,2016-10-14,2016-12-31
+Q4 2016,10831,Middle School: The Worst Years of My Life,Lionsgate,20007149.0,2016-10-07,2016-12-31
+Q4 2016,10834,Spotlight,Open Road Films (II),45055776.0,2016-11-06,2016-12-31
+Q4 2016,10837,Brooklyn,Fox Searchlight Pictures,38219804.0,2016-11-04,2016-12-31
+Q4 2016,10838,Bad Santa 2,Broad Green Pictures,17782178.0,2016-11-23,2016-12-31
+Q4 2016,10841,Concussion,Sony Pictures Releasing,34542474.0,2016-12-25,2016-12-31
+Q4 2016,10842,The Birth of a Nation,Fox Searchlight Pictures,15803772.0,2016-10-07,2016-12-31
+Q4 2016,10845,Keeping Up with the Joneses,Twentieth Century Fox,14898490.0,2016-10-21,2016-12-31
+Q4 2016,10848,The Edge of Seventeen,STX Entertainment,14431633.0,2016-11-18,2016-12-31
+Q4 2016,10850,Point Break,Warner Bros.,28782481.0,2016-12-25,2016-12-31
+Q4 2016,10854,Moonlight,A24,27854932.0,2016-10-21,2016-12-31
+Q4 2016,10855,The Hunger Games: Mockingjay - Part 2,Lionsgate,281723902.0,2016-11-20,2016-12-31
+Q4 2016,10861,Creed,Warner Bros.,109767581.0,2016-11-25,2016-12-31
+Q4 2016,10862,Nocturnal Animals,Focus Features,10663357.0,2016-11-18,2016-12-31
+Q4 2016,10864,Room,A24,14677654.0,2016-10-16,2016-12-31
+Q4 2016,10869,Carol,The Weinstein Company,12711491.0,2016-11-20,2016-12-31
+Q4 2016,10873,Dangal,UTV Motion Pictures,12391761.0,2016-12-21,2016-12-31
+Q4 2016,10875,The Good Dinosaur,Walt Disney Studios Motion Pictures,119317790.0,2016-11-25,2016-12-31
+Q4 2016,10876,Loving,Focus Features,7710234.0,2016-11-04,2016-12-31
+Q4 2016,10877,Shut In,EuropaCorp,6900335.0,2016-11-11,2016-12-31
+Q4 2016,10879,The Danish Girl,Focus Features,11114018.0,2016-11-27,2016-12-31
+Q4 2016,10881,Jackie,Fox Searchlight Pictures,13874724.0,2016-12-02,2016-12-31
+Q4 2016,10884,Lion,The Weinstein Company,51738905.0,2016-11-25,2016-12-31
+Q4 2016,10887,Bleed for This,Open Road Films (II),5083906.0,2016-11-18,2016-12-31
+Q4 2016,10888,Incarnate,BH Tilt,4799774.0,2016-12-02,2016-12-31
+Q4 2016,10891,Victor Frankenstein,Twentieth Century Fox,5775076.0,2016-11-25,2016-12-31
+Q4 2016,10892,Ae Dil Hai Mushkil,FIP,4264983.0,2016-10-28,2016-12-31
+Q4 2016,10895,45 Years,IFC Films,4247285.0,2016-12-23,2016-12-31
+Q4 2016,10898,Max Steel,Open Road Films (II),3818664.0,2016-10-14,2016-12-31
+Q4 2016,10902,Anomalisa,Paramount Pictures,3759286.0,2016-12-30,2016-12-31
+Q4 2016,10903,Rules Don't Apply,Twentieth Century Fox,3652206.0,2016-11-23,2016-12-31
+Q4 2016,10904,Miss Sloane,EuropaCorp,3500605.0,2016-11-25,2016-12-31
+Q4 2016,10913,The Martian,Twentieth Century Fox,228395947.0,2016-10-02,2016-12-31
+Q4 2016,10914,Spectre,Sony Pictures Releasing,200074609.0,2016-11-06,2016-12-31
+Q4 2016,10923,Dear Zindagi,Reliance Big Pictures,2376479.0,2016-11-23,2016-12-31
+Q4 2016,10926,I'm Not Ashamed,Pure Flix Entertainment,2082980.0,2016-10-21,2016-12-31
+Q4 2016,10928,Desierto,STX Entertainment,2002036.0,2016-10-14,2016-12-31
+Q4 2016,10930,Hidden Figures,Twentieth Century Fox,169387004.0,2016-12-25,2016-12-31
+Q4 2016,10932,In the Heart of the Sea,Warner Bros.,25020758.0,2016-12-11,2016-12-31
+Q4 2016,10934,Shin Godzilla,FUNimation Entertainment,1918403.0,2016-10-11,2016-12-31
+Q4 2016,10937,The Peanuts Movie,Twentieth Century Fox,130081684.0,2016-11-06,2016-12-31
+Q4 2016,10941,Harry  Potter IMAX Marathon,IMAX,1729226.0,2016-10-14,2016-12-31
+Q4 2016,10943,Son of Saul,Sony Pictures Classics,1777043.0,2016-12-18,2016-12-31
+Q4 2016,10948,Priceless,Roadside Attractions,1499605.0,2016-10-14,2016-12-31
+Q4 2016,10949,Bajirao Mastani,Eros International,6557047.0,2016-12-18,2016-12-31
+Q4 2016,10954,Youth,Fox Searchlight Pictures,2595205.0,2016-12-04,2016-12-31
+Q4 2016,10956,Krampus,Universal Pictures,42725475.0,2016-12-04,2016-12-31
+Q4 2016,10969,Trumbo,Bleecker Street Media,7857741.0,2016-11-06,2016-12-31
+Q4 2016,10972,Believe,Freestyle Releasing,890303.0,2016-12-02,2016-12-31
+Q4 2016,10974,Premam,Blue Sky Cinema,828278.0,2016-10-06,2016-12-31
+Q4 2016,10977,Goosebumps,Sony Pictures Releasing,80080379.0,2016-10-16,2016-12-31
+Q4 2016,10983,Chaar Sahibzaade 2: Rise of Banda Singh Bahadur2016 Re-release,Eros International,700723.0,2016-11-11,2016-12-31
+Q4 2016,10988,El Jeremías,Sony Pictures Releasing,650465.0,2016-10-21,2016-12-31
+Q4 2016,10990,Mr. Six,China Lion Film Distribution,1415450.0,2016-12-24,2016-12-31
+Q4 2016,10992,The Himalayas,CJ Entertainment,696717.0,2016-12-18,2016-12-31
+Q4 2016,10995,Patriots Day,Lionsgate,31886361.0,2016-12-21,2016-12-31
+Q4 2016,10997,American Pastoral,Lionsgate,544098.0,2016-10-21,2016-12-31
+Q4 2016,11004,Dilwale,UTV Motion Pictures,4871263.0,2016-12-17,2016-12-31
+Q4 2016,11010,I Am Not Madame Bovary,Well Go USA Entertainment,435926.0,2016-11-18,2016-12-31
+Q4 2016,11013,Voiceless,ArtAffects Entertainment,419952.0,2016-10-07,2016-12-31
+Q4 2016,11014,Mr. Donkey,China Lion Film Distribution,356255.0,2016-10-28,2016-12-31
+Q4 2016,11015,Kahaani 2,Eros International,350703.0,2016-12-02,2016-12-31
+Q4 2016,11023,Christine,The Orchard,298525.0,2016-10-14,2016-12-31
+Q4 2016,11024,Luck-Key,JBG Pictures,466505.0,2016-10-21,2016-12-31
+Q4 2016,11025,Aquarius,Vitagraph Films,285930.0,2016-10-14,2016-12-31
+Q4 2016,11026,Galapagos,IMAX,18627957.0,2016-10-29,2016-12-31
+Q4 2016,11027,Silence,Paramount Pictures,7100177.0,2016-12-23,2016-12-31
+Q4 2016,11031,"Yo-kai Watch Movie: It's the Secret of Birth, Meow!2016 Re-release",Eleven Arts,257343.0,2016-10-15,2016-12-31
+Q4 2016,11033,Macbeth,The Weinstein Company,1110707.0,2016-12-04,2016-12-31
+Q4 2016,11034,Love the Coopers,Lionsgate,26302731.0,2016-11-13,2016-12-31
+Q4 2016,11035,Mojin - The Lost Legend,Well Go USA Entertainment,1243810.0,2016-12-18,2016-12-31
+Q4 2016,11036,Oasis: Supersonic,A24,242867.0,2016-10-26,2016-12-31
+Q4 2016,11039,Things to Come,IFC Films,321578.0,2016-12-02,2016-12-31
+Q4 2016,11040,Miss Hokusai,GKIDS,222670.0,2016-10-14,2016-12-31
+Q4 2016,11041,Spirit of the Game,The Samuel Goldwyn Company,222565.0,2016-10-07,2016-12-31
+Q4 2016,11050,The Polar Express2016 IMAX Release,Warner Bros.,765154.0,2016-11-11,2016-12-31
+Q4 2016,11051,The 33,Warner Bros.,12227722.0,2016-11-13,2016-12-31
+Q4 2016,11054,Asura,CJ Entertainment,175702.0,2016-10-07,2016-12-31
+Q4 2016,11058,The Night Before,Sony Pictures Releasing,43047372.0,2016-11-20,2016-12-31
+Q4 2016,11059,Mustang,Cohen Media Group,833240.0,2016-11-20,2016-12-31
+Q4 2016,11060,The Love Witch,Oscilloscope,227462.0,2016-11-11,2016-12-31
+Q4 2016,11067,20th Century Women,A24,5664764.0,2016-12-28,2016-12-31
+Q4 2016,11072,Neruda,The Orchard,939101.0,2016-12-16,2016-12-31
+Q4 2016,11075,Theeb,Film Movement,283024.0,2016-11-06,2016-12-31
+Q4 2016,11079,Yellow Day2015 Re-release,Providence Film Partners,144163.0,2016-12-11,2016-12-31
+Q4 2016,11080,Boy and the World2015 Re-release,GKIDS,129480.0,2016-12-11,2016-12-31
+Q4 2016,11081,Devil and Angel,China Lion Film Distribution,131058.0,2016-12-31,2016-12-31
+Q4 2016,11083,Secret in Their Eyes,STX Entertainment,20180155.0,2016-11-20,2016-12-31
+Q4 2016,11084,Seasons,Music Box Films,150092.0,2016-11-25,2016-12-31
+Q4 2016,11086,Heart of a Dog,Abramorama,420813.0,2016-10-21,2016-12-31
+Q4 2016,11087,Until Forever2016 Re-release,CanZion Films,105358.0,2016-11-17,2016-12-31
+Q4 2016,11093,Rock On 2,Eros International,98868.0,2016-11-11,2016-12-31
+Q4 2016,11097,Live by Night,Warner Bros.,10378555.0,2016-12-25,2016-12-31
+Q4 2016,11103,The Battle of Algiers2016 Re-release,Rialto Pictures,56853.0,2016-10-07,2016-12-31
+Q4 2016,11112,Chi-Raq,Roadside Attractions,2653032.0,2016-12-04,2016-12-31
+Q4 2016,11115,Sky on fire,Well Go USA Entertainment,78366.0,2016-12-02,2016-12-31
+Q4 2016,11117,Sword Master,Well Go USA Entertainment,75526.0,2016-12-09,2016-12-31
+Q4 2016,11118,Paterson,Bleecker Street Media,2152738.0,2016-12-28,2016-12-31
+Q4 2016,11121,The Brand New Testament,Music Box Films,127910.0,2016-12-09,2016-12-31
+Q4 2016,11125,A Monster Calls,Focus Features,3740823.0,2016-12-23,2016-12-31
+Q4 2016,11129,In a Valley of Violence,Focus World,61797.0,2016-10-21,2016-12-31
+Q4 2016,11132,The Messenger,Kino Lorber,64794.0,2016-12-04,2016-12-31
+Q4 2016,11134,Vanishing Time: A Boy Who Returned,Dreamwest Pictures,57759.0,2016-11-18,2016-12-31
+Q4 2016,11136,Burnt,The Weinstein Company,13651946.0,2016-10-30,2016-12-31
+Q4 2016,11139,Voyage of Time: The IMAX Experience,IMAX,55409.0,2016-10-07,2016-12-31
+Q4 2016,11145,My Annoying Brother,CJ Entertainment,51996.0,2016-12-23,2016-12-31
+Q4 2016,11146,Bridge of Spies,Walt Disney Studios Motion Pictures,71083426.0,2016-10-16,2016-12-31
+Q4 2016,11148,Remember,Entertainment One,547009.0,2016-10-16,2016-12-31
+Q4 2016,11149,The Take,High Top Releasing,50269.0,2016-11-18,2016-12-31
+Q4 2016,11151,Mifune: The Last Samurai,Strand Releasing,61751.0,2016-11-25,2016-12-31
+Q4 2016,11152,The Eagle Huntress,Sony Pictures Classics,3035469.0,2016-11-02,2016-12-31
+Q4 2016,11160,We Are X,Drafthouse Films,45270.0,2016-10-21,2016-12-31
+Q4 2016,11161,Suffragette,Focus Features,4702420.0,2016-10-23,2016-12-31
+Q4 2016,11192,Under the Shadow,Vertical Entertainment,31900.0,2016-10-07,2016-12-31
+Q4 2016,11195,Pan,Warner Bros.,35088320.0,2016-10-09,2016-12-31
+Q4 2016,11205,Toni Erdmann,Sony Pictures Classics,971287.0,2016-12-25,2016-12-31
+Q4 2016,11209,Truth,Sony Pictures Classics,2541854.0,2016-10-16,2016-12-31
+Q4 2016,11210,Ingrid Bergman: In Her Own Words,Rialto Pictures,138148.0,2016-11-13,2016-12-31
+Q4 2016,11211,The Winding Stream,Argot Pictures,33420.0,2016-12-16,2016-12-31
+Q4 2016,11215,Disturbing the Peace,Abramorama,25287.0,2016-11-11,2016-12-31
+Q4 2016,11218,River of Fundament,International Film Circuit,37697.0,2016-12-04,2016-12-31
+Q4 2016,11219,Peggy Guggenheim: Art Addict,Submarine Deluxe,498428.0,2016-11-06,2016-12-31
+Q4 2016,11221,Elle,Sony Pictures Classics,2124342.0,2016-11-11,2016-12-31
+Q4 2016,11222,Tab Hunter Confidential,The Film Collaborative,84378.0,2016-10-16,2016-12-31
+Q4 2016,11227,Blue Jay,The Orchard,21626.0,2016-10-07,2016-12-31
+Q4 2016,11230,Thank You for Your Service,GathrFilms,21497.0,2016-10-07,2016-12-31
+Q4 2016,11231,Legend,Universal Pictures,1872994.0,2016-11-20,2016-12-31
+Q4 2016,11234,"No Pay, Nudity",Monterey Media,20017.0,2016-11-11,2016-12-31
+Q4 2016,11235,The Letters,Freestyle Releasing,1647416.0,2016-12-04,2016-12-31
+Q4 2016,11236,Julieta,Sony Pictures Classics,1275983.0,2016-12-21,2016-12-31
+Q4 2016,11237,Woodlawn,Pure Flix Entertainment,14394097.0,2016-10-16,2016-12-31
+Q4 2016,11239,Search Engines,Indican Pictures,19033.0,2016-10-14,2016-12-31
+Q4 2016,11241,Coming Through the Rye,Eammon Films,18137.0,2016-10-14,2016-12-31
+Q4 2016,11242,Wildflower,CanZion Films,18062.0,2016-10-20,2016-12-31
+Q4 2016,11248,Taxi,Kino Lorber,321021.0,2016-10-02,2016-12-31
+Q4 2016,11249,The Lion in Winter2016 Re-release,Rialto Pictures,18177.0,2016-12-16,2016-12-31
+Q4 2016,11250,Always Shine,Oscilloscope,16140.0,2016-11-25,2016-12-31
+Q4 2016,11254,Entertainment,Magnolia Pictures,55506.0,2016-11-13,2016-12-31
+Q4 2016,11258,Pierrot le Fou2015 Re-release,Rialto Pictures,30999.0,2016-12-18,2016-12-31
+Q4 2016,11259,In Jackson Heights,Zipporah Films,114315.0,2016-11-04,2016-12-31
+Q4 2016,11261,The Uncondemned,Abramorama,14393.0,2016-10-21,2016-12-31
+Q4 2016,11263,Sembene!,Kino Lorber,26164.0,2016-11-13,2016-12-31
+Q4 2016,11264,A Matter of Faith,Five & Two Pictures,678753.0,2016-10-17,2016-12-31
+Q4 2016,11265,The Wasted Times,China Lion Film Distribution,386540.0,2016-12-16,2016-12-31
+Q4 2016,11266,The Comedian,Sony Pictures Classics,1627086.0,2016-12-09,2016-12-31
+Q4 2016,11269,The Duelist,Sony Pictures Releasing,13450.0,2016-12-02,2016-12-31
+Q4 2016,11275,Hitchcock/Truffaut,Cohen Media Group,308547.0,2016-12-02,2016-12-31
+Q4 2016,11276,The Monster,A24,12544.0,2016-11-11,2016-12-31
+Q4 2016,11284,Flowers,Music Box Films,61568.0,2016-10-30,2016-12-31
+Q4 2016,11292,Frank & Lola,Paladin,9188.0,2016-12-09,2016-12-31
+Q4 2016,11302,Gabo: The Creation of Gabriel Garcia Marquez,Icarus Films,19337.0,2016-10-01,2016-12-31
+Q4 2016,11309,Land of Mine,Sony Pictures Classics,47726.0,2016-12-16,2016-12-31
+Q4 2016,11312,Old Stone,Zeitgeist Films,7476.0,2016-11-30,2016-12-31
+Q4 2016,11313,Noma My Perfect Storm,Magnolia Pictures,21130.0,2016-12-18,2016-12-31
+Q4 2016,11314,Ocean Waves,GKIDS,87738.0,2016-12-28,2016-12-31
+Q4 2016,11318,Journey to the South Pacific,IMAX,7642450.0,2016-11-27,2016-12-31
+Q4 2016,11321,Portrait of a Garden,Grasshopper Film,7914.0,2016-10-26,2016-12-31
+Q4 2016,11325,The Charnel House,Freestyle Releasing,6332.0,2016-11-04,2016-12-31
+Q4 2016,11328,Spices of Liberty,Hannover House,13463.0,2016-10-21,2016-12-31
+Q4 2016,11335,The Handmaiden,Magnolia Pictures,1952502.0,2016-10-21,2016-12-31
+Q4 2016,11339,Dreams Rewired,Icarus Films,11843.0,2016-11-12,2016-12-31
+Q4 2016,11341,Blood on the Mountain,Abramorama,4664.0,2016-11-18,2016-12-31
+Q4 2016,11351,Being 17,Strand Releasing,51910.0,2016-10-07,2016-12-31
+Q4 2016,11358,The World of Kanako2015 Re-release,Drafthouse Films,16627.0,2016-12-04,2016-12-31
+Q4 2016,11362,The Wanderers2016 Re-release,Kino Lorber,3359.0,2016-11-10,2016-12-31
+Q4 2016,11367,The Forbidden Room,Kino Lorber,33570.0,2016-10-07,2016-12-31
+Q4 2016,11370,Best and Most Beautiful Things,First Run,3016.0,2016-12-02,2016-12-31
+Q4 2016,11372,On the Map,Hey Jude Productions,13826.0,2016-11-25,2016-12-31
+Q4 2016,11377,The Wonders,Oscilloscope,73378.0,2016-10-30,2016-12-31
+Q4 2016,11379,Homeland (Iraq Year Zero),Kino Lorber,2491.0,2016-10-06,2016-12-31
+Q4 2016,11381,The Loving Story2016 Re-release,Icarus Films,3518.0,2016-11-01,2016-12-31
+Q4 2016,11385,Tampopo,Janus Films,224097.0,2016-10-21,2016-12-31
+Q4 2016,11389,Arabian Nights: Volume 1 - The Restless One,Kino Lorber,12088.0,2016-12-04,2016-12-31
+Q4 2016,11397,On War2015 Re-release,Indican Pictures,4543.0,2016-11-20,2016-12-31
+Q4 2016,11398,Censored Voices,Music Box Films,29497.0,2016-11-20,2016-12-31
+Q4 2016,11404,The Ghosts of Johnson Woods,Driving With Our Eyes Shut,3000.0,2016-12-02,2016-12-31
+Q4 2016,11406,Arabian Nights: Volume 2 - The Desolate One,Kino Lorber,6225.0,2016-12-11,2016-12-31
+Q4 2016,11408,Officer Downe,Magnolia Pictures,850.0,2016-11-18,2016-12-31
+Q4 2016,11409,The Summer of Sangaile,Strand Releasing,1946.0,2016-11-20,2016-12-31
+Q4 2016,11412,Theo Who Lived,Zeitgeist Films,5784.0,2016-10-07,2016-12-31
+Q4 2016,11416,Arabian Nights: Volume 3 - The Enchanted One,Kino Lorber,4332.0,2016-12-18,2016-12-31
+Q4 2016,11417,A Girl Like Grace,GVN Releasing,713.0,2016-12-02,2016-12-31
+Q4 2016,11418,The Watermelon Woman,First Run,690.0,2016-11-10,2016-12-31
+Q4 2016,11419,Janis: Little Girl Blue,FilmRise,405190.0,2016-11-27,2016-12-31
+Q4 2016,11428,Green is Gold,The Samuel Goldwyn Company,455.0,2016-10-07,2016-12-31
+Q4 2016,11429,The Pearl Button,Kino Lorber,39930.0,2016-10-23,2016-12-31
+Q4 2016,11433,The Lady in the Car with Glasses and a Gun,Magnolia Pictures,2167.0,2016-12-18,2016-12-31
+Q4 2016,11434,Hannah: Buddhism's Untold Journey,Kino Lorber,396.0,2016-10-14,2016-12-31
+Q4 2016,11443,Gimme Danger,Magnolia Pictures,440006.0,2016-10-28,2016-12-31
+Q4 2016,11447,A Kind of Murder,Magnolia Pictures,2008.0,2016-12-16,2016-12-31
+Q4 2016,11449,Harry Benson: Shoot First,Magnolia Pictures,16734.0,2016-12-09,2016-12-31
+Q4 2016,11450,The Bad Kids,FilmRise,2977.0,2016-12-16,2016-12-31
+Q4 2016,11452,The Eyes of My Mother,Magnolia Pictures,27099.0,2016-12-02,2016-12-31
+Q4 2016,11453,Peter and the Farm,Magnolia Pictures,18123.0,2016-11-04,2016-12-31
+Q4 2016,11457,Moana,Kino Lorber,2469.0,2016-11-13,2016-12-31

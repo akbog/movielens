@@ -1,0 +1,301 @@
+season,Unnamed: 0,movie,studio,gross,release,time
+Q2 1989,0,Batman,Warner Bros.,251188924.0,1989-06-23,1989-06-30
+Q2 1989,1,Indiana Jones and the Last Crusade,Paramount Pictures,197171806.0,1989-05-24,1989-06-30
+Q4 1989,4,Back to the Future Part II,Universal Pictures,118450002.0,1989-11-22,1989-12-31
+Q2 1989,2,Ghostbusters II,Columbia Pictures,112494738.0,1989-06-16,1989-06-30
+Q4 1989,5,Twins,Universal Pictures,111938388.0,1989-12-09,1989-12-31
+Q4 1989,26,Driving Miss Daisy,Warner Bros.,106593296.0,1989-12-15,1989-12-31
+Q3 1989,3,Parenthood,Universal Pictures,100047830.0,1989-08-02,1989-09-30
+Q4 1989,10,The War of the Roses,Twentieth Century Fox,86888546.0,1989-12-08,1989-12-31
+Q4 1989,8,The Little Mermaid,Walt Disney Studios Motion Pictures,84355863.0,1989-11-17,1989-12-31
+Q4 1989,6,National Lampoon's Christmas Vacation,Warner Bros.,71319526.0,1989-12-01,1989-12-31
+Q4 1990,72,Home Alone,Twentieth Century Fox,285761243.0,1990-11-16,1990-12-31
+Q4 1990,75,Dances with Wolves,Orion Pictures,184208848.0,1990-11-09,1990-12-31
+Q1 1990,94,Pretty Woman,Walt Disney Studios Motion Pictures,178406268.0,1990-03-23,1990-03-31
+Q2 1990,73,Total Recall,Sony Pictures Releasing,119394840.0,1990-06-01,1990-06-30
+Q4 1990,82,Back to the Future Part II,Universal Pictures,118450002.0,1990-11-22,1990-12-31
+Q4 1990,96,Driving Miss Daisy,Warner Bros.,106593296.0,1990-12-15,1990-12-31
+Q3 1990,93,Parenthood,Universal Pictures,100047830.0,1990-08-02,1990-09-30
+Q4 1990,79,Kindergarten Cop,Universal Pictures,91457688.0,1990-12-22,1990-12-31
+Q2 1990,74,Back to the Future Part III,Universal Pictures,87727583.0,1990-05-25,1990-06-30
+Q4 1990,76,3 Men and a Little Lady,Walt Disney Studios Motion Pictures,71609321.0,1990-11-21,1990-12-31
+Q4 1991,161,Home Alone,Twentieth Century Fox,285761243.0,1991-11-16,1991-12-31
+Q3 1991,167,Ghost,Paramount Pictures,217631306.0,1991-07-13,1991-09-30
+Q4 1991,164,Dances with Wolves,Orion Pictures,184208848.0,1991-11-09,1991-12-31
+Q2 1991,172,Robin Hood: Prince of Thieves,Warner Bros.,165493908.0,1991-06-14,1991-06-30
+Q4 1991,150,Beauty and the Beast,Walt Disney Studios Motion Pictures,145863363.0,1991-11-15,1991-12-31
+Q1 1991,146,The Silence of the Lambs,Orion Pictures,130742922.0,1991-02-14,1991-03-31
+Q4 1991,147,The Addams Family,Paramount Pictures,113502426.0,1991-11-22,1991-12-31
+Q4 1991,151,Kindergarten Cop,Universal Pictures,91457688.0,1991-12-22,1991-12-31
+Q4 1991,157,Father of the Bride,Walt Disney Studios Motion Pictures,89325780.0,1991-12-20,1991-12-31
+Q4 1991,208,Fried Green Tomatoes,Universal Pictures,82418501.0,1991-12-27,1991-12-31
+Q4 1992,235,Home Alone 2: Lost in New York,Twentieth Century Fox,173585516.0,1992-11-20,1992-12-31
+Q2 1992,236,Batman Returns,Warner Bros.,162831698.0,1992-06-19,1992-06-30
+Q4 1992,251,Beauty and the Beast,Walt Disney Studios Motion Pictures,145863363.0,1992-11-15,1992-12-31
+Q4 1992,240,A Few Good Men,Columbia Pictures,141340178.0,1992-12-11,1992-12-31
+Q4 1992,238,The Bodyguard,Warner Bros.,121945720.0,1992-11-25,1992-12-31
+Q1 1992,260,Wayne's World,Paramount Pictures,121697323.0,1992-02-14,1992-03-31
+Q4 1992,257,The Addams Family,Paramount Pictures,113502426.0,1992-11-22,1992-12-31
+Q3 1992,239,Unforgiven,Warner Bros.,101157447.0,1992-08-07,1992-09-30
+Q4 1992,256,Fried Green Tomatoes,Universal Pictures,82418501.0,1992-12-27,1992-12-31
+Q4 1992,259,The Prince of Tides,Columbia Pictures,74787599.0,1992-12-27,1992-12-31
+Q2 1993,323,Jurassic Park,Universal Pictures,357067947.0,1993-06-11,1993-06-30
+Q4 1993,325,Mrs. Doubtfire,Twentieth Century Fox,219195243.0,1993-11-24,1993-12-31
+Q3 1993,324,The Fugitive,Warner Bros.,183403565.0,1993-08-06,1993-09-30
+Q4 1993,328,A Few Good Men,Columbia Pictures,141340178.0,1993-12-11,1993-12-31
+Q4 1993,357,The Bodyguard,Warner Bros.,121945720.0,1993-11-25,1993-12-31
+Q3 1993,326,In the Line of Fire,Columbia Pictures,102314823.0,1993-07-09,1993-09-30
+Q3 1993,339,Unforgiven,Warner Bros.,101157447.0,1993-08-07,1993-09-30
+Q4 1993,333,The Pelican Brief,Warner Bros.,100768056.0,1993-12-17,1993-12-31
+Q4 1993,352,Schindler's List,Universal Pictures,96065768.0,1993-12-15,1993-12-31
+Q3 1993,350,Free Willy,Warner Bros.,77698625.0,1993-07-16,1993-09-30
+Q2 1994,426,Jurassic Park,Universal Pictures,357067947.0,1994-06-11,1994-06-30
+Q3 1994,450,The Fugitive,Warner Bros.,183403565.0,1994-08-06,1994-09-30
+Q4 1994,411,The Santa Clause,Walt Disney Studios Motion Pictures,144833357.0,1994-11-11,1994-12-31
+Q2 1994,410,The Flintstones,Universal Pictures,130531208.0,1994-05-27,1994-06-30
+Q4 1994,417,Dumb and Dumber,New Line Cinema,127175374.0,1994-12-16,1994-12-31
+Q2 1994,438,Speed,Twentieth Century Fox,121248145.0,1994-06-10,1994-06-30
+Q3 1994,439,The Mask,New Line Cinema,119938730.0,1994-07-29,1994-09-30
+Q4 1994,415,Pulp Fiction,Miramax,107928762.0,1994-10-14,1994-12-31
+Q4 1994,412,Interview with the Vampire: The Vampire Chronicles,Warner Bros.,105264608.0,1994-11-11,1994-12-31
+Q2 1994,437,Maverick,Warner Bros.,101631272.0,1994-05-20,1994-06-30
+Q3 1995,539,Forrest Gump,Paramount Pictures,329694499.0,1995-07-06,1995-09-30
+Q2 1995,532,The Lion King,Walt Disney Studios Motion Pictures,312855561.0,1995-06-15,1995-06-30
+Q4 1995,520,Toy Story,Walt Disney Studios Motion Pictures,191796233.0,1995-11-22,1995-12-31
+Q2 1995,518,Batman Forever,Warner Bros.,184031112.0,1995-06-16,1995-06-30
+Q2 1995,519,Apollo 13,Universal Pictures,172071312.0,1995-06-30,1995-06-30
+Q2 1995,558,Pocahontas,Walt Disney Studios Motion Pictures,141579773.0,1995-06-16,1995-06-30
+Q4 1995,521,Ace Ventura: When Nature Calls,Warner Bros.,108385533.0,1995-11-10,1995-12-31
+Q4 1995,523,GoldenEye,Metro-Goldwyn-Mayer (MGM),106429941.0,1995-11-17,1995-12-31
+Q4 1995,527,Jumanji,Sony Pictures Releasing,100475249.0,1995-12-15,1995-12-31
+Q2 1995,522,Casper,Universal Pictures,100328194.0,1995-05-26,1995-06-30
+Q3 1996,625,Independence Day,Twentieth Century Fox,306169268.0,1996-07-03,1996-09-30
+Q2 1996,630,Twister,Warner Bros.,241721524.0,1996-05-10,1996-06-30
+Q4 1996,639,Toy Story,Walt Disney Studios Motion Pictures,191796233.0,1996-11-22,1996-12-31
+Q2 1996,626,Mission: Impossible,Paramount Pictures,180981856.0,1996-05-22,1996-06-30
+Q4 1996,634,Jerry Maguire,Sony Pictures Releasing,153952592.0,1996-12-13,1996-12-31
+Q4 1996,629,Ransom,Walt Disney Studios Motion Pictures,136492681.0,1996-11-08,1996-12-31
+Q4 1996,631,101 Dalmatians,Walt Disney Studios Motion Pictures,136189294.0,1996-11-27,1996-12-31
+Q2 1996,628,The Rock,Walt Disney Studios Motion Pictures,134069511.0,1996-06-07,1996-06-30
+Q2 1996,627,The Nutty Professor,Universal Pictures,128814019.0,1996-06-28,1996-06-30
+Q4 1996,669,Ace Ventura: When Nature Calls,Warner Bros.,108385533.0,1996-11-10,1996-12-31
+Q4 1997,743,Titanic,Paramount Pictures,600788188.0,1997-12-19,1997-12-31
+Q3 1997,854,Independence Day,Twentieth Century Fox,306169268.0,1997-07-03,1997-09-30
+Q3 1997,739,Men in Black,Sony Pictures Releasing,250690539.0,1997-07-02,1997-09-30
+Q2 1997,740,The Lost World: Jurassic Park,Universal Pictures,229086679.0,1997-05-23,1997-06-30
+Q1 1997,741,Liar Liar,Universal Pictures,181410615.0,1997-03-21,1997-03-31
+Q3 1997,742,Air Force One,Sony Pictures Releasing,172956409.0,1997-07-25,1997-09-30
+Q4 1997,746,Jerry Maguire,Sony Pictures Releasing,153952592.0,1997-12-13,1997-12-31
+Q4 1997,763,As Good as It Gets,Sony Pictures Releasing,148478011.0,1997-12-23,1997-12-31
+Q1 1997,751,Star Wars: Episode IV - A New Hope1997 Special Edition,Twentieth Century Fox,138257865.0,1997-01-31,1997-03-31
+Q4 1997,784,Ransom,Walt Disney Studios Motion Pictures,136492681.0,1997-11-08,1997-12-31
+Q4 1998,861,Titanic,Paramount Pictures,600788188.0,1998-12-19,1998-12-31
+Q3 1998,863,Saving Private Ryan,DreamWorks Distribution,216540909.0,1998-07-24,1998-09-30
+Q3 1998,862,Armageddon,Walt Disney Studios Motion Pictures,201578182.0,1998-07-01,1998-09-30
+Q3 1998,935,Air Force One,Sony Pictures Releasing,172956409.0,1998-07-25,1998-09-30
+Q4 1998,866,A Bug's Life,Walt Disney Studios Motion Pictures,157505918.0,1998-11-20,1998-12-31
+Q4 1998,867,As Good as It Gets,Sony Pictures Releasing,148478011.0,1998-12-23,1998-12-31
+Q2 1998,903,Doctor Dolittle,Twentieth Century Fox,144156605.0,1998-06-26,1998-06-30
+Q2 1998,864,Deep Impact,Paramount Pictures,140464664.0,1998-05-08,1998-06-30
+Q2 1998,865,Godzilla,Sony Pictures Releasing,136314294.0,1998-05-20,1998-06-30
+Q4 1998,877,Patch Adams,Universal Pictures,135026902.0,1998-12-25,1998-12-31
+Q2 1999,1019,Star Wars: Episode I - The Phantom Menace,Twentieth Century Fox,431088295.0,1999-05-19,1999-06-30
+Q3 1999,1020,The Sixth Sense,Walt Disney Studios Motion Pictures,293506292.0,1999-08-06,1999-09-30
+Q4 1999,1021,Toy Story 2,Walt Disney Studios Motion Pictures,242947795.0,1999-11-19,1999-12-31
+Q3 1999,1070,Saving Private Ryan,DreamWorks Distribution,216540909.0,1999-07-24,1999-09-30
+Q2 1999,1077,Austin Powers: The Spy Who Shagged Me,New Line Cinema,206040086.0,1999-06-11,1999-06-30
+Q3 1999,1131,There's Something About Mary,Twentieth Century Fox,176484651.0,1999-07-15,1999-09-30
+Q1 1999,1022,The Matrix,Warner Bros.,171479930.0,1999-03-31,1999-03-31
+Q2 1999,1023,Big Daddy,Sony Pictures Releasing,163479795.0,1999-06-25,1999-06-30
+Q4 1999,1067,A Bug's Life,Walt Disney Studios Motion Pictures,157505918.0,1999-11-20,1999-12-31
+Q2 1999,1024,The Mummy,Universal Pictures,155385488.0,1999-05-07,1999-06-30
+Q2 2000,1470,Star Wars: Episode I - The Phantom Menace,Twentieth Century Fox,431088295.0,2000-05-19,2000-06-30
+Q3 2000,1398,The Sixth Sense,Walt Disney Studios Motion Pictures,293506292.0,2000-08-06,2000-09-30
+Q4 2000,1314,How the Grinch Stole Christmas,Universal Pictures,260044825.0,2000-11-17,2000-12-31
+Q4 2000,1359,Toy Story 2,Walt Disney Studios Motion Pictures,242947795.0,2000-11-19,2000-12-31
+Q4 2000,1331,Cast Away,Twentieth Century Fox,233632142.0,2000-12-22,2000-12-31
+Q2 2000,1315,Mission: Impossible II,Paramount Pictures,215409889.0,2000-05-24,2000-06-30
+Q2 2000,1316,Gladiator,DreamWorks Distribution,187705427.0,2000-05-05,2000-06-30
+Q4 2000,1327,What Women Want,Paramount Pictures,182811707.0,2000-12-15,2000-12-31
+Q2 2000,1317,The Perfect Storm,Warner Bros.,182618434.0,2000-06-30,2000-06-30
+Q2 2000,1526,Tarzan,Walt Disney Studios Motion Pictures,171091819.0,2000-06-16,2000-06-30
+Q4 2001,1617,Harry Potter and the Sorcerer's Stone,Warner Bros.,317575550.0,2001-11-16,2001-12-31
+Q4 2001,1624,The Lord of the Rings: The Fellowship of the Ring,New Line Cinema,313364114.0,2001-12-19,2001-12-31
+Q2 2001,1618,Shrek,DreamWorks Distribution,267665011.0,2001-05-16,2001-06-30
+Q4 2001,1710,How the Grinch Stole Christmas,Universal Pictures,260044825.0,2001-11-17,2001-12-31
+Q4 2001,1619,"Monsters, Inc.",Walt Disney Studios Motion Pictures,255284677.0,2001-11-02,2001-12-31
+Q4 2001,1703,Cast Away,Twentieth Century Fox,233632142.0,2001-12-22,2001-12-31
+Q3 2001,1620,Rush Hour 2,New Line Cinema,226164286.0,2001-08-03,2001-09-30
+Q2 2001,1621,The Mummy Returns,Universal Pictures,202019785.0,2001-05-04,2001-06-30
+Q2 2001,1622,Pearl Harbor,Walt Disney Studios Motion Pictures,198542554.0,2001-05-25,2001-06-30
+Q2 2001,1762,Gladiator,DreamWorks Distribution,187705427.0,2001-05-05,2001-06-30
+Q2 2002,1898,Spider-Man,Sony Pictures Releasing,403706375.0,2002-05-03,2002-06-30
+Q4 2002,1902,The Lord of the Rings: The Two Towers,New Line Cinema,339785181.0,2002-12-18,2002-12-31
+Q4 2002,1993,Harry Potter and the Sorcerer's Stone,Warner Bros.,317575550.0,2002-11-16,2002-12-31
+Q4 2002,1908,The Lord of the Rings: The Fellowship of the Ring,New Line Cinema,313364114.0,2002-12-19,2002-12-31
+Q2 2002,1899,Star Wars: Episode II - Attack of the Clones,Twentieth Century Fox,302191252.0,2002-05-16,2002-06-30
+Q4 2002,1900,Harry Potter and the Chamber of Secrets,Warner Bros.,261988482.0,2002-11-15,2002-12-31
+Q4 2002,2007,"Monsters, Inc.",Walt Disney Studios Motion Pictures,255284677.0,2002-11-02,2002-12-31
+Q2 2002,1948,My Big Fat Greek Wedding,IFC Films,240742368.0,2002-04-19,2002-06-30
+Q3 2002,1901,Signs,Walt Disney Studios Motion Pictures,227647707.0,2002-08-02,2002-09-30
+Q3 2002,1903,Austin Powers in Goldmember,New Line Cinema,213307889.0,2002-07-26,2002-09-30
+Q4 2003,2352,The Lord of the Rings: The Return of the King,New Line Cinema,377027325.0,2003-12-17,2003-12-31
+Q4 2003,2362,The Lord of the Rings: The Two Towers,New Line Cinema,339785181.0,2003-12-18,2003-12-31
+Q2 2003,2349,Finding Nemo,Walt Disney Studios Motion Pictures,339714978.0,2003-05-30,2003-06-30
+Q3 2003,2350,Pirates of the Caribbean: The Curse of the Black Pearl,Walt Disney Studios Motion Pictures,305413918.0,2003-07-09,2003-09-30
+Q2 2003,2351,The Matrix Reloaded,Warner Bros.,281576461.0,2003-05-15,2003-06-30
+Q4 2003,2450,Harry Potter and the Chamber of Secrets,Warner Bros.,261988482.0,2003-11-15,2003-12-31
+Q2 2003,2353,Bruce Almighty,Universal Pictures,242829261.0,2003-05-23,2003-06-30
+Q2 2003,2572,My Big Fat Greek Wedding,IFC Films,240742368.0,2003-04-19,2003-06-30
+Q3 2003,2707,Signs,Walt Disney Studios Motion Pictures,227647707.0,2003-08-02,2003-09-30
+Q2 2003,2354,X2: X-Men United,Twentieth Century Fox,214946072.0,2003-05-02,2003-06-30
+Q2 2004,2930,Shrek 2,DreamWorks Distribution,441181022.0,2004-05-19,2004-06-30
+Q4 2004,2943,The Lord of the Rings: The Return of the King,New Line Cinema,377027325.0,2004-12-17,2004-12-31
+Q2 2004,2931,Spider-Man 2,Sony Pictures Releasing,373585825.0,2004-06-30,2004-06-30
+Q1 2004,2932,The Passion of the Christ,Newmarket Films,369895388.0,2004-02-25,2004-03-31
+Q3 2004,3429,Pirates of the Caribbean: The Curse of the Black Pearl,Walt Disney Studios Motion Pictures,305413918.0,2004-07-09,2004-09-30
+Q4 2004,2942,Meet the Fockers,Universal Pictures,279261160.0,2004-12-22,2004-12-31
+Q4 2004,2934,The Incredibles,Walt Disney Studios Motion Pictures,256887647.0,2004-11-05,2004-12-31
+Q2 2004,2933,Harry Potter and the Prisoner of Azkaban,Warner Bros.,249541069.0,2004-06-04,2004-06-30
+Q2 2004,2935,The Day After Tomorrow,Twentieth Century Fox,186716750.0,2004-05-28,2004-06-30
+Q3 2004,2936,The Bourne Supremacy,Universal Pictures,176241941.0,2004-07-23,2004-09-30
+Q2 2005,3530,Star Wars: Episode III - Revenge of the Sith,Twentieth Century Fox,380270577.0,2005-05-19,2005-06-30
+Q4 2005,3531,Harry Potter and the Goblet of Fire,Warner Bros.,290013036.0,2005-11-18,2005-12-31
+Q4 2005,3533,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Walt Disney Studios Motion Pictures,287482269.0,2005-12-09,2005-12-31
+Q4 2005,3542,Meet the Fockers,Universal Pictures,279261160.0,2005-12-22,2005-12-31
+Q4 2005,3664,The Incredibles,Walt Disney Studios Motion Pictures,256887647.0,2005-11-05,2005-12-31
+Q2 2005,3532,War of the Worlds,Paramount Pictures,234280354.0,2005-06-29,2005-06-30
+Q4 2005,3539,King Kong,Universal Pictures,218080025.0,2005-12-14,2005-12-31
+Q3 2005,3619,Wedding Crashers,New Line Cinema,209255921.0,2005-07-15,2005-09-30
+Q3 2005,3534,Charlie and the Chocolate Factory,Warner Bros.,206459076.0,2005-07-15,2005-09-30
+Q2 2005,3535,Batman Begins,Warner Bros.,205343774.0,2005-06-15,2005-06-30
+Q3 2006,4102,Pirates of the Caribbean: Dead Man's Chest,Walt Disney Studios Motion Pictures,422614379.0,2006-07-07,2006-09-30
+Q4 2006,4228,Harry Potter and the Goblet of Fire,Warner Bros.,290013036.0,2006-11-18,2006-12-31
+Q4 2006,4129,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Walt Disney Studios Motion Pictures,287482269.0,2006-12-09,2006-12-31
+Q4 2006,4118,Night at the Museum,Twentieth Century Fox,250860439.0,2006-12-22,2006-12-31
+Q2 2006,4103,Cars,Walt Disney Studios Motion Pictures,244082982.0,2006-06-09,2006-06-30
+Q2 2006,4104,X-Men: The Last Stand,Twentieth Century Fox,234337076.0,2006-05-26,2006-06-30
+Q4 2006,4148,King Kong,Universal Pictures,218080025.0,2006-12-14,2006-12-31
+Q2 2006,4105,The Da Vinci Code,Sony Pictures Releasing,217536138.0,2006-05-19,2006-06-30
+Q2 2006,4106,Superman Returns,Warner Bros.,200081192.0,2006-06-28,2006-06-30
+Q4 2006,4108,Happy Feet,Warner Bros.,198000317.0,2006-11-17,2006-12-31
+Q2 2007,4746,Spider-Man 3,Sony Pictures Releasing,336530303.0,2007-05-04,2007-06-30
+Q2 2007,4747,Shrek the Third,DreamWorks,322719944.0,2007-05-18,2007-06-30
+Q3 2007,4748,Transformers,DreamWorks,319246193.0,2007-07-03,2007-09-30
+Q2 2007,4749,Pirates of the Caribbean: At World's End,Walt Disney Studios Motion Pictures,309420425.0,2007-05-25,2007-06-30
+Q3 2007,4750,Harry Potter and the Order of the Phoenix,Warner Bros.,292004738.0,2007-07-11,2007-09-30
+Q4 2007,4754,I Am Legend,Warner Bros.,256393010.0,2007-12-14,2007-12-31
+Q4 2007,4759,Night at the Museum,Twentieth Century Fox,250860439.0,2007-12-22,2007-12-31
+Q3 2007,4751,The Bourne Ultimatum,Universal Pictures,227471070.0,2007-08-03,2007-09-30
+Q4 2007,4758,Alvin and the Chipmunks,Twentieth Century Fox,217313244.0,2007-12-14,2007-12-31
+Q4 2007,4761,National Treasure: Book of Secrets,Walt Disney Studios Motion Pictures,215306145.0,2007-12-21,2007-12-31
+Q3 2008,5421,The Dark Knight,Warner Bros.,533345358.0,2008-07-18,2008-09-30
+Q2 2008,5423,Iron Man,Paramount Pictures,318604126.0,2008-05-02,2008-06-30
+Q2 2008,5422,Indiana Jones and the Kingdom of the Crystal Skull,Paramount Pictures,317101119.0,2008-05-22,2008-06-30
+Q4 2008,5471,I Am Legend,Warner Bros.,256393010.0,2008-12-14,2008-12-31
+Q3 2008,5424,Hancock,Sony Pictures Releasing,227946274.0,2008-07-02,2008-09-30
+Q2 2008,5425,WALL·E,Walt Disney Studios Motion Pictures,223799741.0,2008-06-27,2008-06-30
+Q4 2008,5461,Alvin and the Chipmunks,Twentieth Century Fox,217313244.0,2008-12-14,2008-12-31
+Q2 2008,5426,Kung Fu Panda,DreamWorks,215434591.0,2008-06-06,2008-06-30
+Q4 2008,5451,National Treasure: Book of Secrets,Walt Disney Studios Motion Pictures,215306145.0,2008-12-21,2008-12-31
+Q4 2008,5428,Twilight,Summit Entertainment,192769854.0,2008-11-21,2008-12-31
+Q4 2009,6057,Avatar,Twentieth Century Fox,749766139.0,2009-12-18,2009-12-31
+Q3 2009,6246,The Dark Knight,Warner Bros.,533345358.0,2009-07-18,2009-09-30
+Q2 2009,6053,Transformers: Revenge of the Fallen,DreamWorks,402111870.0,2009-06-24,2009-06-30
+Q3 2009,6054,Harry Potter and the Half-Blood Prince,Warner Bros.,301959197.0,2009-07-15,2009-09-30
+Q4 2009,6056,The Twilight Saga: New Moon,Summit Entertainment,296623634.0,2009-11-20,2009-12-31
+Q2 2009,6055,Up,Walt Disney Studios Motion Pictures,293004164.0,2009-05-29,2009-06-30
+Q2 2009,6058,The Hangover,Warner Bros.,277322503.0,2009-06-05,2009-06-30
+Q2 2009,6059,Star Trek,Paramount Pictures,257730019.0,2009-05-08,2009-06-30
+Q4 2009,6061,The Blind Side,Warner Bros.,255951749.0,2009-11-20,2009-12-31
+Q2 2009,6594,WALL·E,Walt Disney Studios Motion Pictures,223799741.0,2009-06-27,2009-06-30
+Q4 2010,6630,Avatar,Twentieth Century Fox,749766139.0,2010-12-18,2010-12-31
+Q2 2010,6631,Toy Story 3,Walt Disney Studios Motion Pictures,415004880.0,2010-06-18,2010-06-30
+Q1 2010,6632,Alice in Wonderland,Walt Disney Studios Motion Pictures,332430200.0,2010-03-05,2010-03-31
+Q2 2010,6933,Iron Man,Paramount Pictures,318604126.0,2010-05-02,2010-06-30
+Q2 2010,6633,Iron Man 2,Paramount Pictures,312433331.0,2010-05-07,2010-06-30
+Q2 2010,6634,The Twilight Saga: Eclipse,Summit Entertainment,300531751.0,2010-06-30,2010-06-30
+Q4 2010,6765,The Twilight Saga: New Moon,Summit Entertainment,296623634.0,2010-11-20,2010-12-31
+Q4 2010,6636,Harry Potter and the Deathly Hallows: Part 1,Warner Bros.,295983305.0,2010-11-19,2010-12-31
+Q3 2010,6635,Inception,Warner Bros.,292576195.0,2010-07-16,2010-09-30
+Q4 2010,6685,The Blind Side,Warner Bros.,255951749.0,2010-11-20,2010-12-31
+Q3 2011,7225,Harry Potter and the Deathly Hallows: Part 2,Warner Bros.,381011219.0,2011-07-15,2011-09-30
+Q2 2011,7226,Transformers: Dark of the Moon,DreamWorks,352390543.0,2011-06-29,2011-06-30
+Q4 2011,7355,Harry Potter and the Deathly Hallows: Part 1,Warner Bros.,295983305.0,2011-11-19,2011-12-31
+Q3 2011,7695,Inception,Warner Bros.,292576195.0,2011-07-16,2011-09-30
+Q4 2011,7227,The Twilight Saga: Breaking Dawn - Part 1,Summit Entertainment,281287133.0,2011-11-18,2011-12-31
+Q2 2011,7228,The Hangover Part II,Warner Bros.,254464305.0,2011-05-26,2011-06-30
+Q3 2011,7496,Despicable Me,Universal Pictures,251513985.0,2011-07-09,2011-09-30
+Q2 2011,7229,Pirates of the Caribbean: On Stranger Tides,Walt Disney Studios Motion Pictures,237710309.0,2011-05-20,2011-06-30
+Q2 2011,7230,Fast Five,Universal Pictures,209837675.0,2011-04-29,2011-06-30
+Q4 2011,7245,Mission: Impossible - Ghost Protocol,Paramount Pictures,209397903.0,2011-12-16,2011-12-31
+Q2 2012,7854,The Avengers,Walt Disney Studios Motion Pictures,623357910.0,2012-05-04,2012-06-30
+Q3 2012,7855,The Dark Knight Rises,Warner Bros.,448139099.0,2012-07-20,2012-09-30
+Q1 2012,7856,The Hunger Games,Lionsgate,408010692.0,2012-03-23,2012-03-31
+Q4 2012,7857,Skyfall,Sony Pictures Releasing,304164760.0,2012-11-09,2012-12-31
+Q4 2012,7861,The Hobbit: An Unexpected Journey,Warner Bros.,303003568.0,2012-12-14,2012-12-31
+Q4 2012,7858,The Twilight Saga: Breaking Dawn - Part 2,Lionsgate,292324737.0,2012-11-16,2012-12-31
+Q4 2012,8012,The Twilight Saga: Breaking Dawn - Part 1,Summit Entertainment,281287133.0,2012-11-18,2012-12-31
+Q3 2012,7859,The Amazing Spider-Man,Sony Pictures Releasing,262030663.0,2012-07-03,2012-09-30
+Q2 2012,7860,Brave,Walt Disney Studios Motion Pictures,237283207.0,2012-06-22,2012-06-30
+Q2 2012,7862,Ted,Universal Pictures,218815487.0,2012-06-29,2012-06-30
+Q4 2013,8562,The Hunger Games: Catching Fire,Lionsgate,424668047.0,2013-11-22,2013-12-31
+Q2 2013,8561,Iron Man 3,Walt Disney Studios Motion Pictures,406609688.0,2013-05-03,2013-06-30
+Q4 2013,8566,Frozen,Walt Disney Studios Motion Pictures,400227936.0,2013-11-22,2013-12-31
+Q3 2013,8563,Despicable Me 2,Universal Pictures,368065385.0,2013-07-03,2013-09-30
+Q4 2013,8695,Skyfall,Sony Pictures Releasing,304164760.0,2013-11-09,2013-12-31
+Q4 2013,8606,The Hobbit: An Unexpected Journey,Warner Bros.,303003568.0,2013-12-14,2013-12-31
+Q4 2013,8719,The Twilight Saga: Breaking Dawn - Part 2,Lionsgate,292324737.0,2013-11-16,2013-12-31
+Q2 2013,8564,Man of Steel,Warner Bros.,291045518.0,2013-06-14,2013-06-30
+Q4 2013,8567,Gravity,Warner Bros.,274092705.0,2013-10-04,2013-12-31
+Q2 2013,8565,Monsters University,Walt Disney Studios Motion Pictures,268492764.0,2013-06-21,2013-06-30
+Q4 2014,9361,The Hunger Games: Catching Fire,Lionsgate,424668047.0,2014-11-22,2014-12-31
+Q4 2014,9285,Frozen,Walt Disney Studios Motion Pictures,400227936.0,2014-11-22,2014-12-31
+Q3 2014,9584,Despicable Me 2,Universal Pictures,368065385.0,2014-07-03,2014-09-30
+Q4 2014,9484,American Sniper,Warner Bros.,350126372.0,2014-12-25,2014-12-31
+Q4 2014,9267,The Hunger Games: Mockingjay - Part 1,Lionsgate,337135885.0,2014-11-21,2014-12-31
+Q3 2014,9266,Guardians of the Galaxy,Walt Disney Studios Motion Pictures,333176600.0,2014-08-01,2014-09-30
+Q4 2014,9381,Gravity,Warner Bros.,274092705.0,2014-10-04,2014-12-31
+Q4 2014,9322,The Hobbit: The Desolation of Smaug,Warner Bros.,258366855.0,2014-12-13,2014-12-31
+Q1 2014,9268,The Lego Movie,Warner Bros.,257760692.0,2014-02-07,2014-03-31
+Q2 2014,9269,Captain America: The Winter Soldier,Walt Disney Studios Motion Pictures,255447104.0,2014-04-04,2014-06-30
+Q4 2015,10015,Star Wars: Episode VII - The Force Awakens,Walt Disney Studios Motion Pictures,936660090.0,2015-12-18,2015-12-31
+Q2 2015,10014,Jurassic World,Universal Pictures,652270625.0,2015-06-12,2015-06-30
+Q2 2015,10016,Avengers: Age of Ultron,Walt Disney Studios Motion Pictures,459005868.0,2015-05-01,2015-06-30
+Q2 2015,10017,Inside Out,Walt Disney Studios Motion Pictures,356461711.0,2015-06-19,2015-06-30
+Q2 2015,10018,Furious 7,Universal Pictures,353007020.0,2015-04-03,2015-06-30
+Q4 2015,10019,American Sniper,Warner Bros.,350126372.0,2015-12-25,2015-12-31
+Q4 2015,10109,The Hunger Games: Mockingjay - Part 1,Lionsgate,337135885.0,2015-11-21,2015-12-31
+Q3 2015,10020,Minions,Universal Pictures,336045770.0,2015-07-10,2015-09-30
+Q3 2015,10324,Guardians of the Galaxy,Walt Disney Studios Motion Pictures,333176600.0,2015-08-01,2015-09-30
+Q4 2015,10021,The Hunger Games: Mockingjay - Part 2,Lionsgate,281723902.0,2015-11-20,2015-12-31
+Q4 2016,10729,Star Wars: Episode VII - The Force Awakens,Walt Disney Studios Motion Pictures,936660090.0,2016-12-18,2016-12-31
+Q4 2016,10721,Rogue One: A Star Wars Story,Walt Disney Studios Motion Pictures,532177324.0,2016-12-16,2016-12-31
+Q2 2016,10720,Finding Dory,Walt Disney Studios Motion Pictures,486295561.0,2016-06-17,2016-06-30
+Q2 2016,10722,Captain America: Civil War,Walt Disney Studios Motion Pictures,408084349.0,2016-05-06,2016-06-30
+Q3 2016,10723,The Secret Life of Pets,Universal Pictures,368384330.0,2016-07-08,2016-09-30
+Q2 2016,10724,The Jungle Book,Walt Disney Studios Motion Pictures,364001123.0,2016-04-15,2016-06-30
+Q1 2016,10725,Deadpool,Twentieth Century Fox,363042311.0,2016-02-12,2016-03-31
+Q1 2016,10726,Zootopia,Walt Disney Studios Motion Pictures,341268248.0,2016-03-04,2016-03-31
+Q1 2016,10727,Batman v Superman: Dawn of Justice,Warner Bros.,330360194.0,2016-03-25,2016-03-31
+Q3 2016,10728,Suicide Squad,Warner Bros.,325100054.0,2016-08-05,2016-09-30
+Q4 2017,11459,Star Wars: Episode VIII - The Last Jedi,Walt Disney Studios Motion Pictures,620181382.0,2017-12-15,2017-12-31
+Q4 2017,11483,Rogue One: A Star Wars Story,Walt Disney Studios Motion Pictures,532177324.0,2017-12-16,2017-12-31
+Q1 2017,11460,Beauty and the Beast,Walt Disney Studios Motion Pictures,504014165.0,2017-03-17,2017-03-31
+Q2 2017,11461,Wonder Woman,Warner Bros.,412563408.0,2017-06-02,2017-06-30
+Q4 2017,11476,Jumanji: Welcome to the Jungle,Sony Pictures Releasing,404515480.0,2017-12-20,2017-12-31
+Q2 2017,11462,Guardians of the Galaxy Vol. 2,Walt Disney Studios Motion Pictures,389813101.0,2017-05-05,2017-06-30
+Q3 2017,11463,Spider-Man: Homecoming,Sony Pictures Releasing,334201140.0,2017-07-07,2017-09-30
+Q3 2017,11464,It,Warner Bros.,327481748.0,2017-09-08,2017-09-30
+Q4 2017,11465,Thor: Ragnarok,Walt Disney Studios Motion Pictures,315058289.0,2017-11-03,2017-12-31
+Q4 2017,11486,Sing,Universal Pictures,270329045.0,2017-12-21,2017-12-31
+Q1 2018,12233,Black Panther,Walt Disney Studios Motion Pictures,700059566.0,2018-02-16,2018-03-31
+Q2 2018,12234,Avengers: Infinity War,Walt Disney Studios Motion Pictures,678815482.0,2018-04-27,2018-06-30
+Q4 2018,12263,Star Wars: Episode VIII - The Last Jedi,Walt Disney Studios Motion Pictures,620181382.0,2018-12-15,2018-12-31
+Q2 2018,12235,The Incredibles 2,Walt Disney Studios Motion Pictures,608581744.0,2018-06-15,2018-06-30
+Q2 2018,12236,Jurassic World: Fallen Kingdom,Universal Pictures,417719760.0,2018-06-22,2018-06-30
+Q4 2018,12239,Jumanji: Welcome to the Jungle,Sony Pictures Releasing,404515480.0,2018-12-20,2018-12-31
+Q4 2018,12245,Aquaman,Warner Bros.,335061807.0,2018-12-21,2018-12-31
+Q2 2018,12237,Deadpool 2,Twentieth Century Fox,318491426.0,2018-05-18,2018-06-30
+Q4 2018,12416,Thor: Ragnarok,Walt Disney Studios Motion Pictures,315058289.0,2018-11-03,2018-12-31
+Q4 2018,12238,Dr. Seuss' The Grinch,Universal Pictures,270620950.0,2018-11-09,2018-12-31

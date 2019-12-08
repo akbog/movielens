@@ -1,0 +1,731 @@
+season,Unnamed: 0,movie,studio,gross,release,time
+Q1 2017,11460,Beauty and the Beast,Walt Disney Studios Motion Pictures,504014165.0,2017-03-17,2017-03-31
+Q1 2017,11467,Logan,Twentieth Century Fox,226258569.0,2017-03-03,2017-03-31
+Q1 2017,11472,The Lego Batman Movie,Warner Bros.,175750384.0,2017-02-10,2017-03-31
+Q1 2017,11473,Get Out,Universal Pictures,176040665.0,2017-02-24,2017-03-31
+Q1 2017,11474,The Boss Baby,Twentieth Century Fox,175003033.0,2017-03-31,2017-03-31
+Q1 2017,11477,Kong: Skull Island,Warner Bros.,168052812.0,2017-03-10,2017-03-31
+Q1 2017,11481,Split,Universal Pictures,138141585.0,2017-01-20,2017-03-31
+Q1 2017,11488,Fifty Shades Darker,Universal Pictures,114434010.0,2017-02-10,2017-03-31
+Q1 2017,11494,John Wick: Chapter 2,Lionsgate,92029184.0,2017-02-10,2017-03-31
+Q1 2017,11497,Power Rangers,Lionsgate,85364450.0,2017-03-24,2017-03-31
+Q1 2017,11503,A Dog's Purpose,Universal Pictures,64321890.0,2017-01-27,2017-03-31
+Q1 2017,11507,The Shack,Lionsgate,57386418.0,2017-03-03,2017-03-31
+Q1 2017,11517,The Great Wall,Universal Pictures,45157105.0,2017-02-17,2017-03-31
+Q1 2017,11520,xXx: Return of Xander Cage,Paramount Pictures,44898413.0,2017-01-20,2017-03-31
+Q1 2017,11526,Ghost in the Shell,Paramount Pictures,40563557.0,2017-03-31,2017-03-31
+Q1 2017,11536,Monster Trucks,Paramount Pictures,33370166.0,2017-01-13,2017-03-31
+Q1 2017,11537,Fist Fight,Warner Bros.,32187017.0,2017-02-17,2017-03-31
+Q1 2017,11543,Underworld: Blood Wars,Screen Gems,30353973.0,2017-01-06,2017-03-31
+Q1 2017,11545,Life,Sony Pictures Releasing,30234022.0,2017-03-24,2017-03-31
+Q1 2017,11548,Rings,Paramount Pictures,27793018.0,2017-02-03,2017-03-31
+Q1 2017,11551,Resident Evil: The Final Chapter,Screen Gems,26830068.0,2017-01-27,2017-03-31
+Q1 2017,11555,The Bye Bye Man,STX Entertainment,22395806.0,2017-01-13,2017-03-31
+Q1 2017,11560,Sleepless,Open Road Films (II),20783704.0,2017-01-13,2017-03-31
+Q1 2017,11565,CHIPS,Warner Bros.,18600152.0,2017-03-24,2017-03-31
+Q1 2017,11571,The Zookeeper's Wife,Focus Features,17445186.0,2017-03-31,2017-03-31
+Q1 2017,11584,The Founder,The Weinstein Company,12786053.0,2017-01-19,2017-03-31
+Q1 2017,11587,Before I Fall,Open Road Films (II),12241122.0,2017-03-03,2017-03-31
+Q1 2017,11593,The Belko Experiment,BH Tilt,10166820.0,2017-03-17,2017-03-31
+Q1 2017,11596,Rock Dog,Lionsgate,9420546.0,2017-02-24,2017-03-31
+Q1 2017,11600,A Cure for Wellness,Twentieth Century Fox,8077739.0,2017-02-17,2017-03-31
+Q1 2017,11601,The Space Between Us,STX Entertainment,7885294.0,2017-02-03,2017-03-31
+Q1 2017,11603,Gold,The Weinstein Company,7227038.0,2017-01-27,2017-03-31
+Q1 2017,11628,A United Kingdom,Fox Searchlight Pictures,3803698.0,2017-02-10,2017-03-31
+Q1 2017,11633,Table 19,Fox Searchlight Pictures,3600071.0,2017-03-03,2017-03-31
+Q1 2017,11641,Leap!,Entertainment One,2844490.0,2017-02-24,2017-03-31
+Q1 2017,11647,Is Genesis History?,Fathom Events,2570392.0,2017-02-23,2017-03-31
+Q1 2017,11648,Disney's Newsies: The Broadway Musical!,Fathom Events,2545060.0,2017-02-18,2017-03-31
+Q1 2017,11656,The Resurrection of Gavin Stone,BH Tilt,2303792.0,2017-01-20,2017-03-31
+Q1 2017,11658,Collide,Open Road Films (II),2280004.0,2017-02-24,2017-03-31
+Q1 2017,11664,Badrinath Ki Dulhania,FIP,1934699.0,2017-03-10,2017-03-31
+Q1 2017,11670,The Last Word,Bleecker Street Media,1783421.0,2017-03-03,2017-03-31
+Q1 2017,11679,Jolly LLB 2,FIP,1554222.0,2017-02-10,2017-03-31
+Q1 2017,11681,Sword Art Online The Movie: Ordinal Scale,Eleven Arts,1520350.0,2017-03-09,2017-03-31
+Q1 2017,11686,The Sense of an Ending,CBS Films,1274420.0,2017-03-10,2017-03-31
+Q1 2017,11698,Yu-Gi-Oh!: The Dark Side of Dimensions,Screenvision,1009582.0,2017-01-27,2017-03-31
+Q1 2017,11702,The Women's Balcony,Menemsha Films,1200885.0,2017-03-03,2017-03-31
+Q1 2017,11703,Frantz,Music Box Films,880883.0,2017-03-15,2017-03-31
+Q1 2017,11704,Journey to the West: The Demons Strike Back,Sony Pictures Releasing,880346.0,2017-02-03,2017-03-31
+Q1 2017,11709,George Takei's Allegiance,Fathom Events,784850.0,2017-02-19,2017-03-31
+Q1 2017,11717,The Devotion of Suspect X,China Lion Film Distribution,686435.0,2017-03-31,2017-03-31
+Q1 2017,11720,Wilson,Fox Searchlight Pictures,651219.0,2017-03-24,2017-03-31
+Q1 2017,11728,Bitter Harvest,Roadside Attractions,557241.0,2017-02-24,2017-03-31
+Q1 2017,11737,Raw,Focus World,514870.0,2017-03-10,2017-03-31
+Q1 2017,11740,The Salesman,Cohen Media Group,2402067.0,2017-01-27,2017-03-31
+Q1 2017,11742,Phillauri,FIP,467596.0,2017-03-24,2017-03-31
+Q1 2017,11744,Sailor Moon R: The Movie: The Promise of the Rose,Eleven Arts,452053.0,2017-01-19,2017-03-31
+Q1 2017,11745,Song to Song,Broad Green Pictures,443684.0,2017-03-17,2017-03-31
+Q1 2017,11747,One Piece Film: Gold,FUNimation Entertainment,423593.0,2017-01-10,2017-03-31
+Q1 2017,11756,Okay Darling,FIP,355922.0,2017-01-13,2017-03-31
+Q1 2017,11761,My Life as a Zucchini,GKIDS,309766.0,2017-02-24,2017-03-31
+Q1 2017,11766,Buddies in India,China Lion Film Distribution,293194.0,2017-01-27,2017-03-31
+Q1 2017,11770,Hubble 3D,Warner Bros.,52503602.0,2017-03-19,2017-03-31
+Q1 2017,11776,The Ottoman Lieutenant,Paladin,240978.0,2017-03-10,2017-03-31
+Q1 2017,11786,The Prison,Well Go USA Entertainment,207481.0,2017-03-31,2017-03-31
+Q1 2017,11793,Mr. Gaga: A True Story of Love and Dance,Abramorama,173994.0,2017-02-01,2017-03-31
+Q1 2017,11800,Under the Sea 3D,Warner Bros.,36223935.0,2017-02-13,2017-03-31
+Q1 2017,11827,The Trouble with Terkel,Indican Pictures,110289.0,2017-02-03,2017-03-31
+Q1 2017,11837,"Tim Timmerman, Hope of America",Purdie Distribution,97727.0,2017-03-02,2017-03-31
+Q1 2017,11857,Fabricated City,CJ Entertainment,104874.0,2017-02-24,2017-03-31
+Q1 2017,11867,Donald Cried,The Orchard,61406.0,2017-03-03,2017-03-31
+Q1 2017,11868,Tomorrow,Under The Milky Way,62510.0,2017-03-10,2017-03-31
+Q1 2017,11873,Deep Sea,Warner Bros.,46403478.0,2017-03-03,2017-03-31
+Q1 2017,11885,Panique,Rialto Pictures,46041.0,2017-01-20,2017-03-31
+Q1 2017,11889,Bluebeard,Well Go USA Entertainment,43144.0,2017-03-17,2017-03-31
+Q1 2017,11893,Karl Marx City,Bond/360,41072.0,2017-03-29,2017-03-31
+Q1 2017,11897,Kedi,Oscilloscope,2834262.0,2017-02-10,2017-03-31
+Q1 2017,11898,The Death of Louis XIV,The Cinema Guild,43635.0,2017-03-31,2017-03-31
+Q1 2017,11908,Love & Taxes,Abramorama,33150.0,2017-03-03,2017-03-31
+Q1 2017,11911,Growing Up Smith,Good Deed Entertainment,35312.0,2017-02-03,2017-03-31
+Q1 2017,11938,My Scientology Movie,Magnolia Pictures,22936.0,2017-03-10,2017-03-31
+Q1 2017,11940,Mali Blues,Icarus Films,26950.0,2017-02-13,2017-03-31
+Q1 2017,11946,Massacre on Aisle 12,Indican Pictures,21106.0,2017-01-27,2017-03-31
+Q1 2017,11949,The Blackcoat's Daughter,A24,20435.0,2017-03-31,2017-03-31
+Q1 2017,11956,The Red Turtle,Sony Pictures Classics,921656.0,2017-01-20,2017-03-31
+Q1 2017,11959,Carrie Pilby,The Orchard,18743.0,2017-03-31,2017-03-31
+Q1 2017,11963,Duckweed,China Lion Film Distribution,355561.0,2017-02-10,2017-03-31
+Q1 2017,11967,The Freedom to Marry,Argot Pictures,16611.0,2017-03-03,2017-03-31
+Q1 2017,11978,The Grace of Jake,Indican Pictures,23078.0,2017-02-03,2017-03-31
+Q1 2017,11979,The Wound,Kino Lorber,30678.0,2017-03-15,2017-03-31
+Q1 2017,11982,Antarctica: Ice and Sky2017 Re-release,Music Box Films,14475.0,2017-01-20,2017-03-31
+Q1 2017,11993,Taipei Story,Janus Films,12897.0,2017-03-17,2017-03-31
+Q1 2017,11995,Junction 48,The Orchard,12795.0,2017-03-03,2017-03-31
+Q1 2017,12002,Keep Quiet,Kino Lorber,49899.0,2017-02-17,2017-03-31
+Q1 2017,12013,Ugetsu,Janus Films,11197.0,2017-03-01,2017-03-31
+Q1 2017,12020,The Sunshine Makers,FilmRise,10042.0,2017-01-20,2017-03-31
+Q1 2017,12027,Sophie and the Rising Sun,Monterey Media,33760.0,2017-01-20,2017-03-31
+Q1 2017,12035,Some Like It Hot,China Lion Film Distribution,49968.0,2017-01-13,2017-03-31
+Q1 2017,12044,The Jazz Funeral,Indican Pictures,7103.0,2017-03-10,2017-03-31
+Q1 2017,12051,Contemporary Color,Oscilloscope,6395.0,2017-03-01,2017-03-31
+Q1 2017,12053,In the Steps of Trisha Brown,Icarus Films,6230.0,2017-02-07,2017-03-31
+Q1 2017,12056,Dying to Know: Ram Dass & Timothy Leary,GathrFilms,6899.0,2017-01-23,2017-03-31
+Q1 2017,12059,Starless Dreams,The Cinema Guild,5937.0,2017-01-20,2017-03-31
+Q1 2017,12062,Vince Giordano: There's a Future in the Past,First Run,12125.0,2017-01-13,2017-03-31
+Q1 2017,12064,Trespass Against Us,A24,5711.0,2017-01-20,2017-03-31
+Q1 2017,12065,The Ardennes2016 Re-release,Film Movement,5638.0,2017-01-06,2017-03-31
+Q1 2017,12068,No culpes al karma de lo que te pasa por gilipollas,Sony Pictures Releasing,5614.0,2017-03-24,2017-03-31
+Q1 2017,12074,The Daughter,Kino Lorber,26376.0,2017-01-27,2017-03-31
+Q1 2017,12078,After the Storm,Film Movement,271894.0,2017-03-17,2017-03-31
+Q1 2017,12088,Memory of the Camps,First Run,4468.0,2017-01-06,2017-03-31
+Q1 2017,12092,My Father Die,FilmRise,4252.0,2017-01-20,2017-03-31
+Q1 2017,12099,Irreplaceable,Distrib Films,5116.0,2017-02-02,2017-03-31
+Q1 2017,12101,Railroad Tigers,Well Go USA Entertainment,196958.0,2017-01-06,2017-03-31
+Q1 2017,12106,Kung Fu Yoga,Well Go USA Entertainment,357263.0,2017-01-27,2017-03-31
+Q1 2017,12109,Slack Bay,Kino Lorber,112621.0,2017-03-10,2017-03-31
+Q1 2017,12117,1898. Los últimos de Filipinas,Sony Pictures Releasing,2848.0,2017-03-03,2017-03-31
+Q1 2017,12118,Worlds Apart,Cinema Libre Studio,19135.0,2017-01-13,2017-03-31
+Q1 2017,12121,No Home Movie,Icarus Films,32757.0,2017-02-18,2017-03-31
+Q1 2017,12130,Apprentice,Film Movement,2578.0,2017-03-03,2017-03-31
+Q1 2017,12131,The Lure,Janus Films,37100.0,2017-02-01,2017-03-31
+Q1 2017,12136,Alone in Berlin,IFC Films,11080.0,2017-01-13,2017-03-31
+Q1 2017,12145,"Accidental Courtesy: Daryl Davis, Race & America",First Run,1940.0,2017-01-06,2017-03-31
+Q1 2017,12150,Detour,Magnolia Pictures,1788.0,2017-01-20,2017-03-31
+Q1 2017,12157,Lovesong,Strand Releasing,3261.0,2017-02-17,2017-03-31
+Q1 2017,12158,Staying Vertical,Strand Releasing,11295.0,2017-01-20,2017-03-31
+Q1 2017,12167,"A Woman, a Part",Strand Releasing,23435.0,2017-03-22,2017-03-31
+Q1 2017,12171,A Different American Dream,First Run,1172.0,2017-01-06,2017-03-31
+Q1 2017,12173,I Am Not Your Negro,Magnolia Pictures,7116636.0,2017-02-03,2017-03-31
+Q1 2017,12174,The Forest for the Trees,Film Movement,1286.0,2017-01-18,2017-03-31
+Q1 2017,12178,Personal Shopper,IFC Films,1299978.0,2017-03-10,2017-03-31
+Q1 2017,12180,From Nowhere,FilmRise,6460.0,2017-02-17,2017-03-31
+Q1 2017,12186,Clash,Kino Lorber,17833.0,2017-03-11,2017-03-31
+Q1 2017,12189,Who's Crazy?,Kino Lorber,3141.0,2017-03-10,2017-03-31
+Q1 2017,12201,La folle histoire de Max et Léon,Distrib Films,543.0,2017-03-15,2017-03-31
+Q1 2017,12203,Donnie Darko2016 Re-release,Arrow Films,202715.0,2017-03-31,2017-03-31
+Q1 2017,12209,Saving Banksy,Parade Deck Films,46740.0,2017-01-13,2017-03-31
+Q1 2017,12211,Cezanne et Moi,Magnolia Pictures,236418.0,2017-03-31,2017-03-31
+Q1 2017,12221,Suntan,Strand Releasing,6199.0,2017-03-10,2017-03-31
+Q1 2017,12222,They Call us Monsters,Matson Films,103.0,2017-01-09,2017-03-31
+Q1 2017,12224,Anatahan,Kino Lorber,7785.0,2017-02-03,2017-03-31
+Q2 2017,11461,Wonder Woman,Warner Bros.,412563408.0,2017-06-02,2017-06-30
+Q2 2017,11462,Guardians of the Galaxy Vol. 2,Walt Disney Studios Motion Pictures,389813101.0,2017-05-05,2017-06-30
+Q2 2017,11466,Despicable Me 3,Universal Pictures,264624300.0,2017-06-30,2017-06-30
+Q2 2017,11468,The Fate of the Furious,Universal Pictures,225764765.0,2017-04-14,2017-06-30
+Q2 2017,11475,Pirates of the Caribbean: Dead Men Tell No Tales,Walt Disney Studios Motion Pictures,172558876.0,2017-05-26,2017-06-30
+Q2 2017,11479,Cars 3,Walt Disney Studios Motion Pictures,152901115.0,2017-06-16,2017-06-30
+Q2 2017,11482,Transformers: The Last Knight,Paramount Pictures,130168683.0,2017-06-21,2017-06-30
+Q2 2017,11498,The Mummy,Universal Pictures,80101125.0,2017-06-09,2017-06-30
+Q2 2017,11500,Alien: Covenant,Twentieth Century Fox,74249538.0,2017-05-19,2017-06-30
+Q2 2017,11501,Captain Underpants: The First Epic Movie,Twentieth Century Fox,73921000.0,2017-06-02,2017-06-30
+Q2 2017,11506,Baywatch,Paramount Pictures,58060186.0,2017-05-25,2017-06-30
+Q2 2017,11516,Snatched,Twentieth Century Fox,45847354.0,2017-05-12,2017-06-30
+Q2 2017,11518,Going in Style,Warner Bros.,45018541.0,2017-04-07,2017-06-30
+Q2 2017,11519,All Eyez on Me,Lionsgate,44922302.0,2017-06-16,2017-06-30
+Q2 2017,11522,Smurfs: The Lost Village,Sony Pictures Releasing,45020282.0,2017-04-07,2017-06-30
+Q2 2017,11523,47 Meters Down,Entertainment Studios Motion Pictures,44307191.0,2017-06-16,2017-06-30
+Q2 2017,11524,The Big Sick,Lionsgate,42872467.0,2017-06-23,2017-06-30
+Q2 2017,11529,King Arthur: Legend of the Sword,Warner Bros.,39175066.0,2017-05-12,2017-06-30
+Q2 2017,11533,"Everything, Everything",Warner Bros.,34121140.0,2017-05-19,2017-06-30
+Q2 2017,11552,The House,Warner Bros.,25584504.0,2017-06-30,2017-06-30
+Q2 2017,11553,Gifted,Fox Searchlight Pictures,24768464.0,2017-04-07,2017-06-30
+Q2 2017,11557,Rough Night,Sony Pictures Releasing,22105643.0,2017-06-16,2017-06-30
+Q2 2017,11561,Diary of a Wimpy Kid: The Long Haul,Twentieth Century Fox,20734068.0,2017-05-19,2017-06-30
+Q2 2017,11563,The Circle,STX Entertainment,20497844.0,2017-04-28,2017-06-30
+Q2 2017,11564,Baahubali 2: The Conclusion,Great India Films,20186659.0,2017-04-28,2017-06-30
+Q2 2017,11578,The Case for Christ,Pure Flix Entertainment,14682684.0,2017-04-07,2017-06-30
+Q2 2017,11580,It Comes At Night,A24,13897266.0,2017-06-09,2017-06-30
+Q2 2017,11581,Born in China,Walt Disney Studios Motion Pictures,13873211.0,2017-04-21,2017-06-30
+Q2 2017,11582,Megan Leavey,Bleecker Street Media,13406883.0,2017-06-09,2017-06-30
+Q2 2017,11589,Unforgettable,Warner Bros.,11368012.0,2017-04-21,2017-06-30
+Q2 2017,11591,The Beguiled,Focus Features,10576669.0,2017-06-23,2017-06-30
+Q2 2017,11598,The Lost City of Z,Bleecker Street Media,8580410.0,2017-04-14,2017-06-30
+Q2 2017,11599,The Promise,Open Road Films (II),8224288.0,2017-04-21,2017-06-30
+Q2 2017,11605,Beatriz at Dinner,Roadside Attractions,7115854.0,2017-06-09,2017-06-30
+Q2 2017,11611,Lowriders,BH Tilt,6179955.0,2017-05-12,2017-06-30
+Q2 2017,11612,A Beautiful Planet,IMAX,15589715.0,2017-04-29,2017-06-30
+Q2 2017,11620,Your Name.,FUNimation Entertainment,5017246.0,2017-04-07,2017-06-30
+Q2 2017,11623,The Book of Henry,Focus Features,4288104.0,2017-06-16,2017-06-30
+Q2 2017,11625,The Hero,The Orchard,4077333.0,2017-06-09,2017-06-30
+Q2 2017,11627,Sleight,BH Tilt,3930990.0,2017-04-28,2017-06-30
+Q2 2017,11631,Their Finest,STX Entertainment,3603484.0,2017-04-07,2017-06-30
+Q2 2017,11632,Phoenix Forgotten,Cinelou Films,3600146.0,2017-04-21,2017-06-30
+Q2 2017,11639,Colossal,Neon,3029287.0,2017-04-07,2017-06-30
+Q2 2017,11644,My Cousin Rachel,Fox Searchlight Pictures,2716368.0,2017-06-09,2017-06-30
+Q2 2017,11649,IN OUR HANDS: Battle for Jerusalem,Fathom Events,2534370.0,2017-05-23,2017-06-30
+Q2 2017,11659,The Lovers,A24,2194521.0,2017-05-05,2017-06-30
+Q2 2017,11666,A Quiet Passion,Music Box Films,1865396.0,2017-04-14,2017-06-30
+Q2 2017,11668,The Wall,Roadside Attractions,1803064.0,2017-05-12,2017-06-30
+Q2 2017,11669,Free Fire,A24,1799312.0,2017-04-21,2017-06-30
+Q2 2017,11678,To the Arctic 3D,Warner Bros.,14553890.0,2017-04-20,2017-06-30
+Q2 2017,11684,The Wedding Plan,Roadside Attractions,1412404.0,2017-05-12,2017-06-30
+Q2 2017,11685,The Dinner,The Orchard,1323312.0,2017-05-05,2017-06-30
+Q2 2017,11687,Chonda Pierce: Enough,Fathom Events,1260116.0,2017-04-25,2017-06-30
+Q2 2017,11713,The Exception,A24,705963.0,2017-06-02,2017-06-30
+Q2 2017,11715,Chris Brown: Welcome To My Life,Fathom Events,693984.0,2017-06-08,2017-06-30
+Q2 2017,11722,Jonah: The Musical,Fathom Events,631154.0,2017-05-02,2017-06-30
+Q2 2017,11724,Churchill,Cohen Media Group,1281258.0,2017-06-02,2017-06-30
+Q2 2017,11726,Battle of Memories,China Lion Film Distribution,594552.0,2017-04-28,2017-06-30
+Q2 2017,11727,Tommy's Honour,Roadside Attractions,569306.0,2017-04-14,2017-06-30
+Q2 2017,11731,Samaritan's Purse presents Facing Darkness,Fathom Events,555533.0,2017-04-10,2017-06-30
+Q2 2017,11741,DCI 2017 Tour Premeire,Fathom Events,467817.0,2017-06-22,2017-06-30
+Q2 2017,11749,"Love, Kennedy",Purdie Distribution,407871.0,2017-06-02,2017-06-30
+Q2 2017,11750,Island of Lemurs: Madagascar,Warner Bros.,11269209.0,2017-04-04,2017-06-30
+Q2 2017,11752,Samurai Cop,Fathom Events,384756.0,2017-04-13,2017-06-30
+Q2 2017,11755,BOSTON: An American Running Story,Fathom Events,364369.0,2017-04-19,2017-06-30
+Q2 2017,11758,Countdown to Canelo vs. Chavez Jr.,Fathom Events,343387.0,2017-05-06,2017-06-30
+Q2 2017,11769,Long Strange Trip - The Untold Story of The Grateful Dead,Abramorama,261572.0,2017-05-25,2017-06-30
+Q2 2017,11771,Dean,CBS Films,254536.0,2017-06-02,2017-06-30
+Q2 2017,11773,Sarkar 3,Eros International,249588.0,2017-05-12,2017-06-30
+Q2 2017,11774,Band Aid,IFC Films,248370.0,2017-06-02,2017-06-30
+Q2 2017,11775,Black Butler: Book of the Atlantic,FUNimation Entertainment,248286.0,2017-06-12,2017-06-30
+Q2 2017,11781,Jeremiah Tower: The Last Magnificent,The Orchard,228153.0,2017-04-21,2017-06-30
+Q2 2017,11785,"I, Daniel Blake",IFC Films,260354.0,2017-06-02,2017-06-30
+Q2 2017,11787,Risk,Neon,200219.0,2017-05-05,2017-06-30
+Q2 2017,11788,Spark: A Space Tail,Open Road Films (II),196458.0,2017-04-14,2017-06-30
+Q2 2017,11789,Past Life,Orion Pictures,180099.0,2017-06-02,2017-06-30
+Q2 2017,11792,Graduation,IFC Films,175975.0,2017-04-07,2017-06-30
+Q2 2017,11794,Champion,ArtAffects Entertainment,175232.0,2017-05-19,2017-06-30
+Q2 2017,11795,The Bad Batch,Neon,180851.0,2017-06-23,2017-06-30
+Q2 2017,11798,Norman,Sony Pictures Classics,3150101.0,2017-04-14,2017-06-30
+Q2 2017,11799,13 Minutes2015 Re-release,Sony Pictures Classics,161531.0,2017-06-30,2017-06-30
+Q2 2017,11801,3 Generations,The Weinstein Company,155936.0,2017-05-05,2017-06-30
+Q2 2017,11802,The Journey,IFC Films,155475.0,2017-06-16,2017-06-30
+Q2 2017,11805,The Void,Screen Media Films,151042.0,2017-04-07,2017-06-30
+Q2 2017,11809,Restless Creature: Wendy Whelan,Abramorama,147780.0,2017-05-23,2017-06-30
+Q2 2017,11815,Paris Can Wait,Sony Pictures Classics,964517.0,2017-05-12,2017-06-30
+Q2 2017,11817,Moka,Film Movement,126515.0,2017-06-14,2017-06-30
+Q2 2017,11819,Buena Vista Social Club: Adios,Broad Green Pictures,123445.0,2017-05-26,2017-06-30
+Q2 2017,11828,Lost in Paris,Oscilloscope,685234.0,2017-06-16,2017-06-30
+Q2 2017,11829,Reset2017 Re-release,Well Go USA Entertainment,108970.0,2017-06-30,2017-06-30
+Q2 2017,11831,The Bolshoi Ballet: Live From Moscow - A Hero of Our Time,Fathom Events,104837.0,2017-04-09,2017-06-30
+Q2 2017,11838,Space Station 3D,IMAX,93379882.0,2017-04-19,2017-06-30
+Q2 2017,11840,The Mayor2017 Re-release,Well Go USA Entertainment,96777.0,2017-04-28,2017-06-30
+Q2 2017,11846,The King's Case Note,CJ Entertainment,90959.0,2017-04-28,2017-06-30
+Q2 2017,11851,Our President,CJ Entertainment,122302.0,2017-06-02,2017-06-30
+Q2 2017,11852,Warriors of the Dawn,FIP,84532.0,2017-06-16,2017-06-30
+Q2 2017,11855,Stefan Zweig: Farewell to Europe2017 Re-release,First Run,78372.0,2017-05-12,2017-06-30
+Q2 2017,11856,Harold and Lillian: A Hollywood Love Story,Zeitgeist Films,78301.0,2017-04-28,2017-06-30
+Q2 2017,11858,The B-Side: Elsa Dorfman's Portrait Photography,Neon,125227.0,2017-06-30,2017-06-30
+Q2 2017,11860,My Entire High School Sinking Into the Sea,GKIDS,68883.0,2017-04-14,2017-06-30
+Q2 2017,11861,Alive and Kicking,Magnolia Pictures,68485.0,2017-04-07,2017-06-30
+Q2 2017,11869,Born to Be Wild,Warner Bros.,25921547.0,2017-04-08,2017-06-30
+Q2 2017,11872,Score: A Film Music Documentary,Gravitas Ventures,98886.0,2017-06-16,2017-06-30
+Q2 2017,11877,Beautiful Accident,China Lion Film Distribution,51766.0,2017-06-02,2017-06-30
+Q2 2017,11887,"Léon Morin, Priest2017 Re-release",Rialto Pictures,44511.0,2017-05-12,2017-06-30
+Q2 2017,11912,Le Trou,Rialto Pictures,34588.0,2017-06-28,2017-06-30
+Q2 2017,11916,Hermia & Helena,Kino Lorber,43104.0,2017-05-26,2017-06-30
+Q2 2017,11917,The Boom,Rialto Pictures,57962.0,2017-06-16,2017-06-30
+Q2 2017,11918,In Pursuit of Silence,The Cinema Guild,29834.0,2017-06-23,2017-06-30
+Q2 2017,11921,Berlin Syndrome,Vertical Entertainment,28660.0,2017-05-26,2017-06-30
+Q2 2017,11925,Letters From Baghdad,Vitagraph Films,359735.0,2017-06-02,2017-06-30
+Q2 2017,11929,Radio Dreams,Matson Films,27836.0,2017-05-19,2017-06-30
+Q2 2017,11934,Jasmine,Indican Pictures,24248.0,2017-06-16,2017-06-30
+Q2 2017,11936,Finding Oscar,FilmRise,23116.0,2017-04-14,2017-06-30
+Q2 2017,11937,The Recall,Freestyle Releasing,22943.0,2017-06-02,2017-06-30
+Q2 2017,11947,A Beginner's Guide to Snuff,Indican Pictures,21031.0,2017-06-23,2017-06-30
+Q2 2017,11948,All These Sleepless Nights,The Orchard,20762.0,2017-04-07,2017-06-30
+Q2 2017,11952,Absolutely Anything,Atlas Distribution Company,20169.0,2017-05-12,2017-06-30
+Q2 2017,11957,Wakefield,IFC Films,96490.0,2017-05-19,2017-06-30
+Q2 2017,11960,All the Rage,The Film Collaborative,18489.0,2017-06-23,2017-06-30
+Q2 2017,11961,Burden,Magnolia Pictures,18440.0,2017-05-05,2017-06-30
+Q2 2017,11962,The Last Shaman,Abramorama,17844.0,2017-05-12,2017-06-30
+Q2 2017,11964,Sacred,Argot Pictures,17740.0,2017-05-05,2017-06-30
+Q2 2017,11972,A Grin Without A Cat,Icarus Films,43616.0,2017-05-01,2017-06-30
+Q2 2017,11976,SHOT! The Psycho-Spiritual Mantra of Rock,Magnolia Pictures,15157.0,2017-04-07,2017-06-30
+Q2 2017,11988,"Hare Krishna! The Mantra, the Movement and the Swami Who Started It",Abramorama,83072.0,2017-06-16,2017-06-30
+Q2 2017,11990,"Kill Me, Deadly",Indican Pictures,33437.0,2017-04-01,2017-06-30
+Q2 2017,11991,Chuck,IFC Films,293144.0,2017-05-05,2017-06-30
+Q2 2017,12003,My Journey Through French Cinema,Cohen Media Group,52214.0,2017-06-23,2017-06-30
+Q2 2017,12005,The Romans,Indican Pictures,18994.0,2017-05-27,2017-06-30
+Q2 2017,12008,Dead Awake,FilmRise,11528.0,2017-05-12,2017-06-30
+Q2 2017,12026,Maurice2017 Re-release,Cohen Media Group,45926.0,2017-05-19,2017-06-30
+Q2 2017,12029,Last Men in Aleppo,Grasshopper Film,12696.0,2017-05-05,2017-06-30
+Q2 2017,12030,Natasha,Menemsha Films,8325.0,2017-04-28,2017-06-30
+Q2 2017,12031,Mr. Chibbs,Abramorama,8302.0,2017-05-03,2017-06-30
+Q2 2017,12036,Maurizio Cattelan: Be Right Back,Bond/360,7706.0,2017-04-14,2017-06-30
+Q2 2017,12046,Rumble: The Indians Who Rocked The World,Kino Lorber,226006.0,2017-05-18,2017-06-30
+Q2 2017,12050,Scum,Kino Lorber,6461.0,2017-06-16,2017-06-30
+Q2 2017,12069,Citizen Jane: Battle for the City,IFC Films,258261.0,2017-04-21,2017-06-30
+Q2 2017,12077,Buster's Mal Heart,Well Go USA Entertainment,72000.0,2017-04-28,2017-06-30
+Q2 2017,12081,Night School,Oscilloscope,4663.0,2017-06-09,2017-06-30
+Q2 2017,12082,I Love You Both,Magnolia Pictures,4661.0,2017-06-09,2017-06-30
+Q2 2017,12089,Pop Aye,Kino Lorber,77976.0,2017-06-28,2017-06-30
+Q2 2017,12110,A Kind of Loving,Rialto Pictures,3278.0,2017-04-07,2017-06-30
+Q2 2017,12120,Truman,FilmRise,200280.0,2017-04-07,2017-06-30
+Q2 2017,12126,Take Me,The Orchard,2583.0,2017-05-05,2017-06-30
+Q2 2017,12127,A Woman's Life,Kino Lorber,36544.0,2017-05-05,2017-06-30
+Q2 2017,12128,Miles,Freestyle Releasing,2537.0,2017-06-09,2017-06-30
+Q2 2017,12139,The Eyes,Parade Deck Films,9104.0,2017-04-07,2017-06-30
+Q2 2017,12142,The Transfiguration,Strand Releasing,21464.0,2017-04-07,2017-06-30
+Q2 2017,12147,The Commune,Magnolia Pictures,24427.0,2017-05-19,2017-06-30
+Q2 2017,12149,Bugs,Kino Lorber,3742.0,2017-06-05,2017-06-30
+Q2 2017,12151,Stalker,Janus Films,269881.0,2017-05-05,2017-06-30
+Q2 2017,12163,Whisky Galore,Arrow Films,19285.0,2017-05-12,2017-06-30
+Q2 2017,12164,7 Witches,Indican Pictures,28331.0,2017-04-21,2017-06-30
+Q2 2017,12172,Glory,Film Movement,18415.0,2017-04-12,2017-06-30
+Q2 2017,12175,The Student,Under The Milky Way,1126.0,2017-04-14,2017-06-30
+Q2 2017,12185,The Penguin Counters,First Run,976.0,2017-04-21,2017-06-30
+Q2 2017,12191,Afterimage,Film Movement,32397.0,2017-05-19,2017-06-30
+Q2 2017,12205,2:22,Magnolia Pictures,422.0,2017-06-30,2017-06-30
+Q2 2017,12208,The Witness,FilmRise,158527.0,2017-06-03,2017-06-30
+Q2 2017,12210,Paths of the Soul,Icarus Films,31747.0,2017-05-13,2017-06-30
+Q2 2017,12214,Behind the White Glasses,Kino Lorber,1671.0,2017-04-21,2017-06-30
+Q2 2017,12217,The Hill Chris Climbed: The Gridiron Heroes Story,Indican Pictures,23487.0,2017-04-15,2017-06-30
+Q2 2017,12219,The Skyjacker's Tale,Strand Releasing,2788.0,2017-06-30,2017-06-30
+Q2 2017,12225,The Ornithologist,Strand Releasing,48546.0,2017-06-23,2017-06-30
+Q2 2017,12229,Soul on a String,Film Movement,3555.0,2017-05-19,2017-06-30
+Q2 2017,12230,Swept Away,Kino Lorber,5096.0,2017-04-14,2017-06-30
+Q2 2017,12231,Seven Beauties,Kino Lorber,8245.0,2017-04-14,2017-06-30
+Q3 2017,11463,Spider-Man: Homecoming,Sony Pictures Releasing,334201140.0,2017-07-07,2017-09-30
+Q3 2017,11464,It,Warner Bros.,327481748.0,2017-09-08,2017-09-30
+Q3 2017,11470,Dunkirk,Warner Bros.,188045546.0,2017-07-21,2017-09-30
+Q3 2017,11480,War for the Planet of the Apes,Twentieth Century Fox,146843711.0,2017-07-14,2017-09-30
+Q3 2017,11487,Girls Trip,Universal Pictures,115108515.0,2017-07-21,2017-09-30
+Q3 2017,11490,Annabelle: Creation,Warner Bros.,102092201.0,2017-08-11,2017-09-30
+Q3 2017,11493,Kingsman: The Golden Circle,Twentieth Century Fox,100229647.0,2017-09-22,2017-09-30
+Q3 2017,11496,The Emoji Movie,Sony Pictures Releasing,86089513.0,2017-07-28,2017-09-30
+Q3 2017,11499,The Hitman's Bodyguard,Lionsgate,75468583.0,2017-08-18,2017-09-30
+Q3 2017,11505,The Lego Ninjago Movie,Warner Bros.,59281555.0,2017-09-22,2017-09-30
+Q3 2017,11510,Atomic Blonde,Focus Features,51687870.0,2017-07-28,2017-09-30
+Q3 2017,11511,American Made,Universal Pictures,51342000.0,2017-09-29,2017-09-30
+Q3 2017,11512,The Dark Tower,Sony Pictures Releasing,50701325.0,2017-08-04,2017-09-30
+Q3 2017,11527,Valerian and the City of a Thousand Planets,STX Entertainment,41189488.0,2017-07-21,2017-09-30
+Q3 2017,11531,American Assassin,Lionsgate,36249674.0,2017-09-15,2017-09-30
+Q3 2017,11534,Wind River,The Weinstein Company,33800859.0,2017-08-04,2017-09-30
+Q3 2017,11547,The Nut Job 2: Nutty by Nature,Open Road Films (II),28370522.0,2017-08-11,2017-09-30
+Q3 2017,11549,Logan Lucky,Bleecker Street Media,27780977.0,2017-08-18,2017-09-30
+Q3 2017,11550,Home Again,Open Road Films (II),27020284.0,2017-09-08,2017-09-30
+Q3 2017,11556,Victoria & Abdul,Focus Features,22245070.0,2017-09-22,2017-09-30
+Q3 2017,11559,Leap!2017 Re-release,The Weinstein Company,21858070.0,2017-08-25,2017-09-30
+Q3 2017,11570,Mother!,Paramount Pictures,17800004.0,2017-09-15,2017-09-30
+Q3 2017,11572,The Glass Castle,Lionsgate,17273059.0,2017-08-11,2017-09-30
+Q3 2017,11574,Flatliners,Sony Pictures Releasing,16883115.0,2017-09-29,2017-09-30
+Q3 2017,11575,Detroit,Annapurna Pictures,16790139.0,2017-07-28,2017-09-30
+Q3 2017,11579,Wish Upon,Broad Green Pictures,14301505.0,2017-07-14,2017-09-30
+Q3 2017,11586,Battle of the Sexes,Fox Searchlight Pictures,12598957.0,2017-09-22,2017-09-30
+Q3 2017,11606,Birth of the Dragon,BH Tilt,6901965.0,2017-08-25,2017-09-30
+Q3 2017,11614,All Saints,Affirm Films,5802208.0,2017-08-25,2017-09-30
+Q3 2017,11624,Stronger,Roadside Attractions,4211129.0,2017-09-22,2017-09-30
+Q3 2017,11629,Friend Request,Entertainment Studios Motion Pictures,3759078.0,2017-09-22,2017-09-30
+Q3 2017,11635,An Inconvenient Sequel: Truth to Power,Paramount Pictures,3496795.0,2017-07-28,2017-09-30
+Q3 2017,11638,Close Encounters of the Third Kind2017 Re-release,Sony Pictures Releasing,3100479.0,2017-09-01,2017-09-30
+Q3 2017,11640,Ingrid Goes West,Neon,3024308.0,2017-08-11,2017-09-30
+Q3 2017,11645,Showtime Championship Boxing: Floyd Mayweather vs. Conor McGregor,Fathom Events,2620183.0,2017-08-26,2017-09-30
+Q3 2017,11646,A Question of Faith,Pure Flix Entertainment,2587072.0,2017-09-29,2017-09-30
+Q3 2017,11652,Tulip Fever,The Weinstein Company,2455635.0,2017-09-01,2017-09-30
+Q3 2017,11655,Jeepers Creepers III,Screen Media Films,2335162.0,2017-09-26,2017-09-30
+Q3 2017,11661,Brad's Status,Annapurna Pictures,2133158.0,2017-09-15,2017-09-30
+Q3 2017,11663,Good Time,A24,2026499.0,2017-08-11,2017-09-30
+Q3 2017,11667,Toilet: A Love Story,Reliance Big Pictures,1830715.0,2017-08-11,2017-09-30
+Q3 2017,11672,Menashe,A24,1703036.0,2017-07-28,2017-09-30
+Q3 2017,11680,A Ghost Story,A24,1566452.0,2017-07-07,2017-09-30
+Q3 2017,11683,Twins 2,FIP,1431255.0,2017-09-29,2017-09-30
+Q3 2017,11691,Steve McQueen: American Icon,Fathom Events,1229782.0,2017-09-28,2017-09-30
+Q3 2017,11692,Lady Macbeth,Roadside Attractions,1129408.0,2017-07-14,2017-09-30
+Q3 2017,11694,Step,Fox Searchlight Pictures,1146292.0,2017-08-04,2017-09-30
+Q3 2017,11700,Lucky,Magnolia Pictures,955925.0,2017-09-29,2017-09-30
+Q3 2017,11706,Jagga Jasoos,UTV Motion Pictures,861740.0,2017-07-14,2017-09-30
+Q3 2017,11708,Patti Cake$,Fox Searchlight Pictures,800148.0,2017-08-18,2017-09-30
+Q3 2017,11710,Mark Felt: The Man Who Brought Down The White House,Sony Pictures Classics,768946.0,2017-09-29,2017-09-30
+Q3 2017,11711,Mubarakan,Sony Pictures Releasing,758868.0,2017-07-28,2017-09-30
+Q3 2017,11714,Countdown to Canelo vs. Golovkin,Fathom Events,703396.0,2017-09-16,2017-09-30
+Q3 2017,11718,Wolf Warrior 2,The H Collective,2721034.0,2017-07-28,2017-09-30
+Q3 2017,11719,Walk With Me,GathrFilms,726455.0,2017-08-11,2017-09-30
+Q3 2017,11723,The Only Living Boy in New York,Roadside Attractions,624332.0,2017-08-11,2017-09-30
+Q3 2017,11725,The Midwife,Music Box Films,603582.0,2017-07-21,2017-09-30
+Q3 2017,11732,Dolores,PBS Distribution,554274.0,2017-09-01,2017-09-30
+Q3 2017,11736,Fairy Tail: Dragon Cry,FUNimation Entertainment,519461.0,2017-08-14,2017-09-30
+Q3 2017,11739,Beach Rats,Neon,473771.0,2017-08-25,2017-09-30
+Q3 2017,11743,Chasing the Dragon,Well Go USA Entertainment,456854.0,2017-09-29,2017-09-30
+Q3 2017,11746,Embrace: The Documentary,GathrFilms,628382.0,2017-09-19,2017-09-30
+Q3 2017,11748,A Gentleman,FIP,410055.0,2017-08-25,2017-09-30
+Q3 2017,11754,Rebel in the Rye,IFC Films,378294.0,2017-09-08,2017-09-30
+Q3 2017,11757,Pearl Jam: Let's Play Two,Abramorama,348833.0,2017-09-29,2017-09-30
+Q3 2017,11767,Miss Peregrine's Home for Peculiar Children,Twentieth Century Fox,87233361.0,2017-09-30,2017-09-30
+Q3 2017,11768,Storks,Warner Bros.,72679278.0,2017-09-23,2017-09-30
+Q3 2017,11782,Inhumans,IMAX,1358225.0,2017-09-01,2017-09-30
+Q3 2017,11791,Take Every Wave: The Life of Laird Hamilton,IFC Films,176076.0,2017-09-29,2017-09-30
+Q3 2017,11796,9/11,Atlas Distribution Company,170000.0,2017-09-08,2017-09-30
+Q3 2017,11803,California Typewriter,Gravitas Ventures,208962.0,2017-08-18,2017-09-30
+Q3 2017,11804,Endless Poetry,ABKCO Films,153440.0,2017-07-14,2017-09-30
+Q3 2017,11806,The Unknown Girl,IFC Films,150549.0,2017-09-08,2017-09-30
+Q3 2017,11810,The Last Dalai Lama?,Matson Films,145524.0,2017-07-07,2017-09-30
+Q3 2017,11812,A Man Called Ove,Music Box Films,3479315.0,2017-09-30,2017-09-30
+Q3 2017,11813,Lupin the 3rd: Castle of Cagliostro2017 Re-release,Eleven Arts,142425.0,2017-09-08,2017-09-30
+Q3 2017,11823,Our Time Will Come,China Lion Film Distribution,114560.0,2017-07-07,2017-09-30
+Q3 2017,11825,"We Love You, Sally Carmichael!",Purdie Distribution,113435.0,2017-08-04,2017-09-30
+Q3 2017,11826,The King's Choice,The Samuel Goldwyn Company,113231.0,2017-09-22,2017-09-30
+Q3 2017,11832,Fire at Sea,Kino Lorber,112295.0,2017-09-18,2017-09-30
+Q3 2017,11836,Munna Michael,Eros International,99629.0,2017-07-21,2017-09-30
+Q3 2017,11839,Poster Boys,Sony Pictures Releasing,97049.0,2017-09-08,2017-09-30
+Q3 2017,11842,Sully,Warner Bros.,125070033.0,2017-09-09,2017-09-30
+Q3 2017,11844,Memoir of a Murderer,Well Go USA Entertainment,91335.0,2017-09-08,2017-09-30
+Q3 2017,11847,Because of Grácia,ArtAffects Entertainment,90878.0,2017-09-15,2017-09-30
+Q3 2017,11864,Shubh Mangal Savdhan,Eros International,689874.0,2017-09-01,2017-09-30
+Q3 2017,11865,I Do... Until I Don't,The Film Arcade,234259.0,2017-09-01,2017-09-30
+Q3 2017,11871,In This Corner of the World,FUNimation Entertainment,172147.0,2017-08-11,2017-09-30
+Q3 2017,11874,The Trip to Spain,IFC Films,1157604.0,2017-08-11,2017-09-30
+Q3 2017,11878,Person to Person,Magnolia Pictures,48499.0,2017-07-28,2017-09-30
+Q3 2017,11879,Napping Princess,GKIDS,48198.0,2017-09-08,2017-09-30
+Q3 2017,11880,From the Land of the Moon2016 Re-release,IFC Films,47748.0,2017-07-28,2017-09-30
+Q3 2017,11882,Twenty Two2017 Re-release,China Lion Film Distribution,46796.0,2017-09-08,2017-09-30
+Q3 2017,11884,The Force,Kino Lorber,59206.0,2017-07-14,2017-09-30
+Q3 2017,11888,Just One Drop,GathrFilms,59478.0,2017-09-22,2017-09-30
+Q3 2017,11890,Terminator 2: Judgment Day2017 Re-release,Distrib Films,974860.0,2017-08-25,2017-09-30
+Q3 2017,11891,A Taxi Driver,Well Go USA Entertainment,1527829.0,2017-08-11,2017-09-30
+Q3 2017,11892,Woodshock,A24,42603.0,2017-09-22,2017-09-30
+Q3 2017,11894,Rat Film,The Cinema Guild,35195.0,2017-09-15,2017-09-30
+Q3 2017,11899,The Nile Hilton Incident,Strand Releasing,81089.0,2017-08-11,2017-09-30
+Q3 2017,11900,I Am the Blues,Film Movement,37849.0,2017-07-12,2017-09-30
+Q3 2017,11902,School Life,Magnolia Pictures,37381.0,2017-09-08,2017-09-30
+Q3 2017,11906,Dave Made a Maze,Gravitas Ventures,34117.0,2017-08-18,2017-09-30
+Q3 2017,11909,Super Dark Times,The Orchard,33109.0,2017-09-29,2017-09-30
+Q3 2017,11910,The Fencer2016 Re-release,CFI Releasing,95952.0,2017-07-21,2017-09-30
+Q3 2017,11920,Signature Move,Newcity,31551.0,2017-09-29,2017-09-30
+Q3 2017,11926,Ribbons,Indican Pictures,27959.0,2017-09-22,2017-09-30
+Q3 2017,11935,Queen of Katwe,Walt Disney Studios Motion Pictures,8874389.0,2017-09-23,2017-09-30
+Q3 2017,11941,Paradise Club,Indican Pictures,22381.0,2017-09-08,2017-09-30
+Q3 2017,11944,The Girl Without Hands,GKIDS,21787.0,2017-07-21,2017-09-30
+Q3 2017,11945,Trophy,The Orchard,21439.0,2017-09-08,2017-09-30
+Q3 2017,11953,The Man from Outer Space,Indican Pictures,20102.0,2017-09-08,2017-09-30
+Q3 2017,11958,L'important c'est d'aimer,Rialto Pictures,18938.0,2017-07-14,2017-09-30
+Q3 2017,11966,Swim Team,Argot Pictures,16783.0,2017-07-07,2017-09-30
+Q3 2017,11975,Victor,CanZion Films,117755.0,2017-09-15,2017-09-30
+Q3 2017,11980,The Farthest,Abramorama,14773.0,2017-08-11,2017-09-30
+Q3 2017,11981,Crown Heights,IFC Films,238558.0,2017-08-18,2017-09-30
+Q3 2017,11985,Abracadabra,Sony Pictures Releasing,13975.0,2017-09-15,2017-09-30
+Q3 2017,11986,Remember the Goal,Five & Two Pictures,116557.0,2017-08-26,2017-09-30
+Q3 2017,11987,Red Trees,Cohen Media Group,13666.0,2017-09-15,2017-09-30
+Q3 2017,11997,Blind,Vertical Entertainment,12522.0,2017-07-14,2017-09-30
+Q3 2017,11998,The Magnificent Seven,Sony Pictures Releasing,93432655.0,2017-09-23,2017-09-30
+Q3 2017,12000,4 Days in France,The Cinema Guild,12273.0,2017-08-04,2017-09-30
+Q3 2017,12001,Loving Vincent,Good Deed Entertainment,6479000.0,2017-09-22,2017-09-30
+Q3 2017,12004,Harry & Snowman,FilmRise,559571.0,2017-09-30,2017-09-30
+Q3 2017,12007,Gook,The Samuel Goldwyn Company,250130.0,2017-08-18,2017-09-30
+Q3 2017,12009,The Son of Joseph,Kino Lorber,30588.0,2017-09-29,2017-09-30
+Q3 2017,12010,Viceroy's House,IFC Films,1105717.0,2017-09-01,2017-09-30
+Q3 2017,12011,Beside Bowie: The Mick Ronson Story,Parade Deck Films,11400.0,2017-08-25,2017-09-30
+Q3 2017,12012,The Black Dove,Indican Pictures,22237.0,2017-08-12,2017-09-30
+Q3 2017,12015,Never,Indican Pictures,19431.0,2017-08-19,2017-09-30
+Q3 2017,12017,Escapes,Grasshopper Film,15712.0,2017-07-28,2017-09-30
+Q3 2017,12018,The Beatles: Eight Days a Week - The Touring Years,Abramorama,2930414.0,2017-09-15,2017-09-30
+Q3 2017,12019,Amelia 2.0,TriCoast Worldwide,10233.0,2017-08-04,2017-09-30
+Q3 2017,12021,Ex Libris: New York Public Library,Zipporah Films,156262.0,2017-09-13,2017-09-30
+Q3 2017,12022,This Last Lonely Place,Indican Pictures,19990.0,2017-08-12,2017-09-30
+Q3 2017,12023,Spettacolo,Grasshopper Film,29014.0,2017-09-08,2017-09-30
+Q3 2017,12032,Served Like a Girl,Entertainment Studios Motion Pictures,8290.0,2017-08-25,2017-09-30
+Q3 2017,12033,NightLights,Indican Pictures,20960.0,2017-08-29,2017-09-30
+Q3 2017,12037,The Wrong Light,The Cinema Guild,7553.0,2017-07-14,2017-09-30
+Q3 2017,12039,Marjorie Prime,FilmRise,180608.0,2017-08-18,2017-09-30
+Q3 2017,12047,The Persian Connection,The Samuel Goldwyn Company,6634.0,2017-07-14,2017-09-30
+Q3 2017,12055,The Fuzz,Indican Pictures,6067.0,2017-07-21,2017-09-30
+Q3 2017,12057,The Seasons In Quincy: Four Portraits of John Berger,Icarus Films,28456.0,2017-08-31,2017-09-30
+Q3 2017,12066,La Chinoise2017 Re-release,Kino Lorber,5631.0,2017-07-21,2017-09-30
+Q3 2017,12075,The Adventurers,Well Go USA Entertainment,178243.0,2017-08-18,2017-09-30
+Q3 2017,12080,Shot,Paladin,4701.0,2017-09-22,2017-09-30
+Q3 2017,12084,"Polina, danser sa vie",Oscilloscope,165203.0,2017-08-25,2017-09-30
+Q3 2017,12085,A Boy Called Po,Freestyle Releasing,4550.0,2017-09-01,2017-09-30
+Q3 2017,12086,Vengeance: A Love Story,FilmRise,4526.0,2017-09-15,2017-09-30
+Q3 2017,12087,The Pulitzer at 100,First Run,4489.0,2017-07-21,2017-09-30
+Q3 2017,12100,Heat and Dust2017 Re-release,Cohen Media Group,13953.0,2017-09-01,2017-09-30
+Q3 2017,12102,Le joli mai,Icarus Films,55038.0,2017-09-13,2017-09-30
+Q3 2017,12104,Dalida,Under The Milky Way,3465.0,2017-08-26,2017-09-30
+Q3 2017,12112,Tower,Kino Lorber,101987.0,2017-09-28,2017-09-30
+Q3 2017,12113,Bronx Gothic,Grasshopper Film,25997.0,2017-07-14,2017-09-30
+Q3 2017,12116,Time to Die,Film Movement,12737.0,2017-09-15,2017-09-30
+Q3 2017,12119,I Dream in Another Language,FilmRise,2739.0,2017-07-28,2017-09-30
+Q3 2017,12122,Santoalla,Oscilloscope,2684.0,2017-07-19,2017-09-30
+Q3 2017,12125,Machines,Kino Lorber,9626.0,2017-08-09,2017-09-30
+Q3 2017,12129,Landline,Magnolia Pictures,919997.0,2017-07-21,2017-09-30
+Q3 2017,12133,Sidemen: Long Road to Glory,Abramorama,20592.0,2017-08-18,2017-09-30
+Q3 2017,12134,Level Five,Icarus Films,27000.0,2017-08-15,2017-09-30
+Q3 2017,12135,Turn It Around: The Story of East Bay Punk,Abramorama,42487.0,2017-07-28,2017-09-30
+Q3 2017,12137,Whose Streets?,Magnolia Pictures,182799.0,2017-08-11,2017-09-30
+Q3 2017,12140,Dayveon,FilmRise,2077.0,2017-09-13,2017-09-30
+Q3 2017,12141,The Ghoul,Arrow Films,2032.0,2017-08-04,2017-09-30
+Q3 2017,12146,The Untamed,Strand Releasing,26839.0,2017-07-21,2017-09-30
+Q3 2017,12153,The Challenge,Kino Lorber,9592.0,2017-09-08,2017-09-30
+Q3 2017,12155,Tanna,Lightyear Entertainment,45188.0,2017-09-16,2017-09-30
+Q3 2017,12156,Do Not Resist,Vanish Films,71195.0,2017-09-30,2017-09-30
+Q3 2017,12169,Once Upon A Time,Well Go USA Entertainment,482127.0,2017-08-11,2017-09-30
+Q3 2017,12170,It's Not Yet Dark,FilmRise,1227.0,2017-08-04,2017-09-30
+Q3 2017,12176,Train to Busan,Well Go USA Entertainment,2125785.0,2017-07-22,2017-09-30
+Q3 2017,12184,Justice Is Mind,The Ashton Times,14360.0,2017-08-18,2017-09-30
+Q3 2017,12187,Under the Sun,Icarus Films,104866.0,2017-07-06,2017-09-30
+Q3 2017,12190,Extraordinary Ordinary People,First Run,880.0,2017-09-15,2017-09-30
+Q3 2017,12193,Clarence,Indican Pictures,5838.0,2017-09-01,2017-09-30
+Q3 2017,12195,Red Christmas,Artsploitation Films,1650.0,2017-08-25,2017-09-30
+Q3 2017,12196,Legend of the Naga Pearls,Well Go USA Entertainment,12995.0,2017-08-25,2017-09-30
+Q3 2017,12198,Lemon,Magnolia Pictures,29258.0,2017-08-18,2017-09-30
+Q3 2017,12199,New World Order,Indican Pictures,18054.0,2017-09-23,2017-09-30
+Q3 2017,12200,The Vault,FilmRise,4908.0,2017-09-01,2017-09-30
+Q3 2017,12204,30 Years of Garbage: The Garbage Pail Kids Story,Indican Pictures,27293.0,2017-08-11,2017-09-30
+Q3 2017,12206,City of Ghosts,IFC Films,127574.0,2017-07-07,2017-09-30
+Q3 2017,12216,The Teacher,Film Movement,64437.0,2017-08-30,2017-09-30
+Q3 2017,12227,Made in France,Under The Milky Way,9956.0,2017-09-23,2017-09-30
+Q3 2017,12232,False Confessions,Big World Pictures,29000.0,2017-07-14,2017-09-30
+Q4 2017,11459,Star Wars: Episode VIII - The Last Jedi,Walt Disney Studios Motion Pictures,620181382.0,2017-12-15,2017-12-31
+Q4 2017,11465,Thor: Ragnarok,Walt Disney Studios Motion Pictures,315058289.0,2017-11-03,2017-12-31
+Q4 2017,11469,Justice League,Warner Bros.,229024295.0,2017-11-17,2017-12-31
+Q4 2017,11471,Coco,Walt Disney Studios Motion Pictures,209726015.0,2017-11-22,2017-12-31
+Q4 2017,11476,Jumanji: Welcome to the Jungle,Sony Pictures Releasing,404515480.0,2017-12-20,2017-12-31
+Q4 2017,11478,Hidden Figures,Twentieth Century Fox,169387004.0,2017-12-25,2017-12-31
+Q4 2017,11483,Rogue One: A Star Wars Story,Walt Disney Studios Motion Pictures,532177324.0,2017-12-16,2017-12-31
+Q4 2017,11484,Wonder,Lionsgate,132422809.0,2017-11-17,2017-12-31
+Q4 2017,11485,La La Land,Lionsgate,151101803.0,2017-12-09,2017-12-31
+Q4 2017,11486,Sing,Universal Pictures,270329045.0,2017-12-21,2017-12-31
+Q4 2017,11491,Daddy's Home 2,Paramount Pictures,104029443.0,2017-11-10,2017-12-31
+Q4 2017,11492,Murder on the Orient Express,Twentieth Century Fox,102800191.0,2017-11-10,2017-12-31
+Q4 2017,11495,Blade Runner 2049,Warner Bros.,92054159.0,2017-10-06,2017-12-31
+Q4 2017,11502,A Bad Moms Christmas,STX Entertainment,72110659.0,2017-11-01,2017-12-31
+Q4 2017,11504,Pitch Perfect 3,Universal Pictures,104897530.0,2017-12-22,2017-12-31
+Q4 2017,11508,Happy Death Day,Universal Pictures,55683845.0,2017-10-13,2017-12-31
+Q4 2017,11509,Ferdinand,Twentieth Century Fox,84405944.0,2017-12-15,2017-12-31
+Q4 2017,11513,The Greatest Showman,Twentieth Century Fox,174045042.0,2017-12-20,2017-12-31
+Q4 2017,11514,Boo 2! A Madea Halloween,Lionsgate,47319572.0,2017-10-20,2017-12-31
+Q4 2017,11515,Lion,The Weinstein Company,51738905.0,2017-11-25,2017-12-31
+Q4 2017,11521,Passengers,Sony Pictures Releasing,100014699.0,2017-12-21,2017-12-31
+Q4 2017,11525,Moana,Walt Disney Studios Motion Pictures,248757044.0,2017-11-23,2017-12-31
+Q4 2017,11528,The Star,Sony Pictures Releasing,40852824.0,2017-11-17,2017-12-31
+Q4 2017,11530,Jigsaw,Lionsgate,38052832.0,2017-10-27,2017-12-31
+Q4 2017,11532,The Foreigner,STX Entertainment,34393507.0,2017-10-13,2017-12-31
+Q4 2017,11535,Geostorm,Warner Bros.,33700160.0,2017-10-20,2017-12-31
+Q4 2017,11539,Lady Bird,A24,48958273.0,2017-11-03,2017-12-31
+Q4 2017,11540,Fences,Paramount Pictures,57682904.0,2017-12-16,2017-12-31
+Q4 2017,11541,Patriots Day,Lionsgate,31886361.0,2017-12-21,2017-12-31
+Q4 2017,11544,The Mountain Between Us,Twentieth Century Fox,30348555.0,2017-10-06,2017-12-31
+Q4 2017,11546,Why Him?,Twentieth Century Fox,60269575.0,2017-12-23,2017-12-31
+Q4 2017,11554,"Three Billboards Outside Ebbing, Missouri",Fox Searchlight Pictures,54387870.0,2017-11-10,2017-12-31
+Q4 2017,11558,My Little Pony: The Movie,Lionsgate,21885107.0,2017-10-06,2017-12-31
+Q4 2017,11562,Manchester by the Sea,Roadside Attractions,47695371.0,2017-11-18,2017-12-31
+Q4 2017,11566,Assassin's Creed,Twentieth Century Fox,54634144.0,2017-12-21,2017-12-31
+Q4 2017,11567,Only The Brave,Sony Pictures Releasing,18343983.0,2017-10-20,2017-12-31
+Q4 2017,11568,Darkest Hour,Focus Features,56361300.0,2017-11-22,2017-12-31
+Q4 2017,11569,The Disaster Artist,A24,21120616.0,2017-12-01,2017-12-31
+Q4 2017,11573,Downsizing,Paramount Pictures,24449754.0,2017-12-22,2017-12-31
+Q4 2017,11576,The Shape of Water,Fox Searchlight Pictures,63699028.0,2017-12-01,2017-12-31
+Q4 2017,11577,Moonlight,A24,27854932.0,2017-10-21,2017-12-31
+Q4 2017,11583,Father Figures,Warner Bros.,17501244.0,2017-12-22,2017-12-31
+Q4 2017,11588,"Roman J. Israel, Esq.",Sony Pictures Releasing,11962778.0,2017-11-17,2017-12-31
+Q4 2017,11590,Fantastic Beasts and Where to Find Them,Warner Bros.,234037575.0,2017-11-18,2017-12-31
+Q4 2017,11592,Live by Night,Warner Bros.,10378555.0,2017-12-25,2017-12-31
+Q4 2017,11594,Thank You for Your Service,Universal Pictures,9479390.0,2017-10-27,2017-12-31
+Q4 2017,11595,Marshall,Open Road Films (II),10051659.0,2017-10-13,2017-12-31
+Q4 2017,11597,Arrival,Paramount Pictures,100546139.0,2017-11-11,2017-12-31
+Q4 2017,11602,Jackie,Fox Searchlight Pictures,13874724.0,2017-12-02,2017-12-31
+Q4 2017,11604,Let There Be Light,Atlas Distribution Company,7233471.0,2017-10-27,2017-12-31
+Q4 2017,11607,Silence,Paramount Pictures,7100177.0,2017-12-23,2017-12-31
+Q4 2017,11608,Collateral Beauty,Warner Bros.,31016021.0,2017-12-16,2017-12-31
+Q4 2017,11609,The Snowman,Universal Pictures,6670765.0,2017-10-20,2017-12-31
+Q4 2017,11610,Same Kind of Different as Me,Pure Flix Entertainment,6423605.0,2017-10-20,2017-12-31
+Q4 2017,11613,Just Getting Started,Broad Green Pictures,6069605.0,2017-12-08,2017-12-31
+Q4 2017,11615,Suburbicon,Paramount Pictures,5775178.0,2017-10-27,2017-12-31
+Q4 2017,11616,The Man Who Invented Christmas,Bleecker Street Media,5676486.0,2017-11-22,2017-12-31
+Q4 2017,11617,20th Century Women,A24,5664764.0,2017-12-28,2017-12-31
+Q4 2017,11618,Molly's Game,STX Entertainment,28780744.0,2017-12-25,2017-12-31
+Q4 2017,11619,The Florida Project,A24,5904366.0,2017-10-06,2017-12-31
+Q4 2017,11621,Office Christmas Party,Paramount Pictures,54767494.0,2017-12-09,2017-12-31
+Q4 2017,11626,Dangal,UTV Motion Pictures,12391761.0,2017-12-21,2017-12-31
+Q4 2017,11630,A Monster Calls,Focus Features,3740823.0,2017-12-23,2017-12-31
+Q4 2017,11634,Trolls,Twentieth Century Fox,153684900.0,2017-11-04,2017-12-31
+Q4 2017,11642,Doctor Strange,Walt Disney Studios Motion Pictures,232641920.0,2017-11-04,2017-12-31
+Q4 2017,11643,Hacksaw Ridge,Lionsgate,67209615.0,2017-11-04,2017-12-31
+Q4 2017,11651,LBJ,Electric Entertainment,2470979.0,2017-11-03,2017-12-31
+Q4 2017,11653,"I, Tonya",Neon,30006215.0,2017-12-08,2017-12-31
+Q4 2017,11657,The Killing of a Sacred Deer,A24,2291901.0,2017-10-20,2017-12-31
+Q4 2017,11662,Paterson,Bleecker Street Media,2152738.0,2017-12-28,2017-12-31
+Q4 2017,11671,The Post,Twentieth Century Fox,81737012.0,2017-12-22,2017-12-31
+Q4 2017,11673,Goodbye Christopher Robin,Fox Searchlight Pictures,1699638.0,2017-10-13,2017-12-31
+Q4 2017,11675,Professor Marston & the Wonder Women,Annapurna Pictures,1584759.0,2017-10-13,2017-12-31
+Q4 2017,11676,The Stray,Purdie Distribution,1579440.0,2017-10-06,2017-12-31
+Q4 2017,11677,Genesis: Paradise Lost,Fathom Events,1575000.0,2017-11-13,2017-12-31
+Q4 2017,11682,Mully,Fathom Events,1489771.0,2017-10-03,2017-12-31
+Q4 2017,11689,Wonder Wheel,Amazon Studios,1404061.0,2017-12-01,2017-12-31
+Q4 2017,11693,Spirited Away2017 Re-release,Fathom Events,1119679.0,2017-10-27,2017-12-31
+Q4 2017,11695,Wonderstruck,Roadside Attractions,1060377.0,2017-10-20,2017-12-31
+Q4 2017,11696,Casablanca2017 Re-release,Fathom Events,1024560.0,2017-11-12,2017-12-31
+Q4 2017,11699,Last Flag Flying,Lionsgate,965481.0,2017-11-03,2017-12-31
+Q4 2017,11705,The Polar Express2017 IMAX Release,Warner Bros.,875150.0,2017-11-17,2017-12-31
+Q4 2017,11707,Neruda,The Orchard,939101.0,2017-12-16,2017-12-31
+Q4 2017,11712,Revive Us 2,Fathom Events,718607.0,2017-10-24,2017-12-31
+Q4 2017,11716,Titanic2017 Re-release,Paramount Pictures,691642.0,2017-12-01,2017-12-31
+Q4 2017,11721,Pokémon the Movie: I Choose You!,Fathom Events,2389641.0,2017-11-05,2017-12-31
+Q4 2017,11729,Allied,Paramount Pictures,40098064.0,2017-11-23,2017-12-31
+Q4 2017,11730,Nocturnal Animals,Focus Features,10663357.0,2017-11-18,2017-12-31
+Q4 2017,11733,Human Flow,Magnolia Pictures,527845.0,2017-10-13,2017-12-31
+Q4 2017,11734,Phantom Thread,Focus Features,21198205.0,2017-12-25,2017-12-31
+Q4 2017,11735,Master,CJ Entertainment,597251.0,2017-12-30,2017-12-31
+Q4 2017,11738,Breathe,Bleecker Street Media,490131.0,2017-10-13,2017-12-31
+Q4 2017,11751,The Accountant,Warner Bros.,86260045.0,2017-10-14,2017-12-31
+Q4 2017,11753,I'll Push You: A Real-Life Inspiration,Fathom Events,378899.0,2017-11-02,2017-12-31
+Q4 2017,11759,Dunkirk2017 Re-release,Warner Bros.,1695119.0,2017-12-01,2017-12-31
+Q4 2017,11760,City Of Rock,Well Go USA Entertainment,312537.0,2017-10-06,2017-12-31
+Q4 2017,11762,A Silent Voice: The Movie,Eleven Arts,308414.0,2017-10-20,2017-12-31
+Q4 2017,11763,God's Own Country,Orion Pictures,332719.0,2017-10-24,2017-12-31
+Q4 2017,11765,Tom of Finland,Kino Lorber,361720.0,2017-10-13,2017-12-31
+Q4 2017,11772,Loving,Focus Features,7710234.0,2017-11-04,2017-12-31
+Q4 2017,11777,1945,Menemsha Films,1006193.0,2017-11-01,2017-12-31
+Q4 2017,11778,American Satan,Sumerian Films,237708.0,2017-10-13,2017-12-31
+Q4 2017,11779,Little Shop of Horrors2017 Re-release,Fathom Events,233865.0,2017-10-27,2017-12-31
+Q4 2017,11780,Call Me by Your Name,Sony Pictures Classics,15014887.0,2017-11-24,2017-12-31
+Q4 2017,11783,The Breadwinner,GKIDS,312381.0,2017-11-17,2017-12-31
+Q4 2017,11784,All I See Is You,Open Road Films (II),217644.0,2017-10-27,2017-12-31
+Q4 2017,11790,Disney Junior HalloVeen Party!,Fathom Events,359745.0,2017-10-21,2017-12-31
+Q4 2017,11807,Blade of the Immortal,Magnolia Pictures,150532.0,2017-11-03,2017-12-31
+Q4 2017,11808,Jack Reacher: Never Go Back,Paramount Pictures,58697076.0,2017-10-21,2017-12-31
+Q4 2017,11811,Irving Berlin's Holiday Inn The Broadway Musical,Fathom Events,144550.0,2017-11-16,2017-12-31
+Q4 2017,11814,Thelma,The Orchard,147391.0,2017-11-10,2017-12-31
+Q4 2017,11818,The Ex-File 3: The Return of The Exes,China Lion Film Distribution,740525.0,2017-12-29,2017-12-31
+Q4 2017,11820,Explosion,China Lion Film Distribution,122700.0,2017-11-24,2017-12-31
+Q4 2017,11821,Inferno,Sony Pictures Releasing,34343574.0,2017-10-28,2017-12-31
+Q4 2017,11822,Youth,China Lion Film Distribution,1874328.0,2017-12-15,2017-12-31
+Q4 2017,11824,Big Sonia,Argot Pictures,212471.0,2017-11-17,2017-12-31
+Q4 2017,11833,Walking Out,IFC Films,101947.0,2017-10-05,2017-12-31
+Q4 2017,11834,Almost Christmas,Universal Pictures,42065185.0,2017-11-11,2017-12-31
+Q4 2017,11835,Along With the Gods: The Two Worlds,Well Go USA Entertainment,1905361.0,2017-12-22,2017-12-31
+Q4 2017,11841,Keep Watching,Screen Gems,94178.0,2017-10-31,2017-12-31
+Q4 2017,11843,Aida's Secrets,Music Box Films,97909.0,2017-10-20,2017-12-31
+Q4 2017,11845,BPM (Beats Per Minute),The Orchard,125189.0,2017-10-20,2017-12-31
+Q4 2017,11848,Dina,The Orchard,90503.0,2017-10-06,2017-12-31
+Q4 2017,11849,Night of the Living Dead,Janus Films,89029.0,2017-10-13,2017-12-31
+Q4 2017,11850,Hostiles,Entertainment Studios Motion Pictures,29819114.0,2017-12-22,2017-12-31
+Q4 2017,11853,Earth: One Amazing Day,BBC Worldwide North America,81345.0,2017-10-06,2017-12-31
+Q4 2017,11854,Ocean Waves,GKIDS,87738.0,2017-12-28,2017-12-31
+Q4 2017,11859,Bad Santa 2,Broad Green Pictures,17782178.0,2017-11-23,2017-12-31
+Q4 2017,11862,Elle,Sony Pictures Classics,2124342.0,2017-11-11,2017-12-31
+Q4 2017,11863,Architects of Denial,Dada Films,65424.0,2017-10-06,2017-12-31
+Q4 2017,11866,Tragedy Girls,Gunpowder & Sky,61899.0,2017-10-20,2017-12-31
+Q4 2017,11870,Faces Places,Cohen Media Group,900000.0,2017-10-06,2017-12-31
+Q4 2017,11875,The Divine Order,Zeitgeist Films,53117.0,2017-10-27,2017-12-31
+Q4 2017,11876,The Brand New Testament,Music Box Films,127910.0,2017-12-09,2017-12-31
+Q4 2017,11881,So B. It,Good Deed Entertainment,47627.0,2017-10-06,2017-12-31
+Q4 2017,11883,Tampopo,Janus Films,224097.0,2017-10-21,2017-12-31
+Q4 2017,11886,Toni Erdmann,Sony Pictures Classics,971287.0,2017-12-25,2017-12-31
+Q4 2017,11895,Seasons,Music Box Films,150092.0,2017-11-25,2017-12-31
+Q4 2017,11901,78/52: Hitchcock's Shower Scene,IFC Films,37664.0,2017-10-13,2017-12-31
+Q4 2017,11903,The Edge of Seventeen,STX Entertainment,14431633.0,2017-11-18,2017-12-31
+Q4 2017,11904,Julieta,Sony Pictures Classics,1275983.0,2017-12-21,2017-12-31
+Q4 2017,11905,The Eagle Huntress,Sony Pictures Classics,3035469.0,2017-11-02,2017-12-31
+Q4 2017,11913,Dealt,IFC Films,30414.0,2017-10-20,2017-12-31
+Q4 2017,11914,On the Beach at Night Alone,The Cinema Guild,37489.0,2017-11-17,2017-12-31
+Q4 2017,11915,No Greater Love,Atlas Distribution Company,30247.0,2017-11-10,2017-12-31
+Q4 2017,11923,Brimstone & Glory,Oscilloscope,28558.0,2017-10-27,2017-12-31
+Q4 2017,11924,Wait for Your Laugh,Vitagraph Films,72214.0,2017-11-03,2017-12-31
+Q4 2017,11927,The Crime of Monsieur Lange,Rialto Pictures,36438.0,2017-11-17,2017-12-31
+Q4 2017,11930,The Old Dark House,Cohen Media Group,25678.0,2017-10-27,2017-12-31
+Q4 2017,11931,Heart Blackened,CJ Entertainment,35943.0,2017-11-10,2017-12-31
+Q4 2017,11932,Paradise2017 Re-release,Carusel,24749.0,2017-11-17,2017-12-31
+Q4 2017,11933,The Departure,Matson Films,24662.0,2017-10-13,2017-12-31
+Q4 2017,11939,Una,Eammon Films,22815.0,2017-10-06,2017-12-31
+Q4 2017,11942,Bending the Arc,Abramorama,21907.0,2017-10-06,2017-12-31
+Q4 2017,11943,The Passion of Joan of Arc,Janus Films,21877.0,2017-11-24,2017-12-31
+Q4 2017,11950,RV: Resurrected Victims,Well Go USA Entertainment,20374.0,2017-10-20,2017-12-31
+Q4 2017,11951,Better Watch Out,Well Go USA Entertainment,20369.0,2017-10-06,2017-12-31
+Q4 2017,11954,Naples '44,First Run,24620.0,2017-11-29,2017-12-31
+Q4 2017,11965,Dawson City: Frozen Time,Kino Lorber,132369.0,2017-10-02,2017-12-31
+Q4 2017,11969,All the Queen's Horses,Argot Pictures,16172.0,2017-11-10,2017-12-31
+Q4 2017,11970,In the Fade,Magnolia Pictures,271345.0,2017-12-27,2017-12-31
+Q4 2017,11971,Galapagos,IMAX,18627957.0,2017-10-29,2017-12-31
+Q4 2017,11973,Miss Sloane,EuropaCorp,3500605.0,2017-11-25,2017-12-31
+Q4 2017,11974,Hunter Gatherer,Matson Films,19462.0,2017-11-18,2017-12-31
+Q4 2017,11977,Rebels on Pointe,Icarus Films,15088.0,2017-11-15,2017-12-31
+Q4 2017,11983,Brotherhood of Blades 2,Well Go USA Entertainment,14204.0,2017-12-01,2017-12-31
+Q4 2017,11984,The Leisure Seeker,Sony Pictures Classics,3168507.0,2017-12-15,2017-12-31
+Q4 2017,11989,Charged: The Eduardo Garcia Story,GathrFilms,14684.0,2017-10-04,2017-12-31
+Q4 2017,11992,Birdboy: The Forgotten Children,GKIDS,38786.0,2017-12-15,2017-12-31
+Q4 2017,11994,Song Of Granite,Oscilloscope,12888.0,2017-11-15,2017-12-31
+Q4 2017,11996,Heal,Paladin,12668.0,2017-10-20,2017-12-31
+Q4 2017,11999,Paradise,Film Movement,14685.0,2017-10-06,2017-12-31
+Q4 2017,12006,Journey to the South Pacific,IMAX,7642450.0,2017-11-27,2017-12-31
+Q4 2017,12014,Shadowman,Film Movement,11164.0,2017-12-01,2017-12-31
+Q4 2017,12025,Things to Come,IFC Films,321578.0,2017-12-02,2017-12-31
+Q4 2017,12028,Inspector Maigret,Kino Lorber,8528.0,2017-10-20,2017-12-31
+Q4 2017,12034,Overdrive,Vertical Entertainment,7793.0,2017-10-06,2017-12-31
+Q4 2017,12038,The Fiancé,Indican Pictures,21631.0,2017-11-11,2017-12-31
+Q4 2017,12040,Big Time,Abramorama,7347.0,2017-12-01,2017-12-31
+Q4 2017,12041,Another WolfCop,Parade Deck Films,7285.0,2017-12-01,2017-12-31
+Q4 2017,12042,The Square,Magnolia Pictures,1462373.0,2017-10-27,2017-12-31
+Q4 2017,12043,Happy End,Sony Pictures Classics,265404.0,2017-12-22,2017-12-31
+Q4 2017,12045,The Thousand Faces of Dunjia,Well Go USA Entertainment,122865.0,2017-12-15,2017-12-31
+Q4 2017,12049,Mifune: The Last Samurai,Strand Releasing,61751.0,2017-11-25,2017-12-31
+Q4 2017,12060,Tad the Lost Explorer and the Secret of King Midas,Paramount Classics,5874.0,2017-12-01,2017-12-31
+Q4 2017,12061,The Work,The Orchard,5853.0,2017-10-27,2017-12-31
+Q4 2017,12063,The Comedian,Sony Pictures Classics,1627086.0,2017-12-09,2017-12-31
+Q4 2017,12067,Shut In,EuropaCorp,6900335.0,2017-11-11,2017-12-31
+Q4 2017,12070,The Ballad of Lefty Brown,A24,5559.0,2017-12-15,2017-12-31
+Q4 2017,12071,Gold,Sony Pictures Releasing,5539.0,2017-12-01,2017-12-31
+Q4 2017,12076,Miss Kiet's Children2017 Re-release,Icarus Films,9384.0,2017-12-13,2017-12-31
+Q4 2017,12079,Best Worst Thing That Ever Could Have Happened...,Abramorama,106986.0,2017-11-18,2017-12-31
+Q4 2017,12083,Shakespeare-Wallah,Cohen Media Group,4650.0,2017-11-10,2017-12-31
+Q4 2017,12091,Land of Mine,Sony Pictures Classics,47726.0,2017-12-16,2017-12-31
+Q4 2017,12093,Singularity,Vertical Entertainment,4176.0,2017-11-03,2017-12-31
+Q4 2017,12096,Dream Boat,Strand Releasing,3981.0,2017-11-03,2017-12-31
+Q4 2017,12097,The Handmaiden,Magnolia Pictures,1952502.0,2017-10-21,2017-12-31
+Q4 2017,12103,La Belle Noiseuse2017 Re-release,Cohen Media Group,3540.0,2017-11-24,2017-12-31
+Q4 2017,12105,Spices of Liberty,Hannover House,13463.0,2017-10-21,2017-12-31
+Q4 2017,12107,Amanda & Jack Go Glamping,Orion Pictures,3352.0,2017-11-10,2017-12-31
+Q4 2017,12108,Bad Match,Orion Pictures,3351.0,2017-11-03,2017-12-31
+Q4 2017,12114,Bad Lucky Goat,Film Movement,4987.0,2017-10-13,2017-12-31
+Q4 2017,12124,Daughter of the Nile,Cohen Media Group,2640.0,2017-10-27,2017-12-31
+Q4 2017,12132,The Other Side of Hope,Janus Films,143330.0,2017-12-01,2017-12-31
+Q4 2017,12138,The Swindlers,Well Go USA Entertainment,240979.0,2017-12-01,2017-12-31
+Q4 2017,12143,"Intent to Destroy: Death, Denial & Depiction2017 Re-release",GathrFilms,17436.0,2017-12-04,2017-12-31
+Q4 2017,12144,The Lucky Man,Indican Pictures,24075.0,2017-12-21,2017-12-31
+Q4 2017,12152,The Polar Express2016 IMAX Release,Warner Bros.,765154.0,2017-11-11,2017-12-31
+Q4 2017,12154,Magnus,FilmRise,8944.0,2017-11-18,2017-12-31
+Q4 2017,12159,Almost Friends,Orion Pictures,1481.0,2017-11-17,2017-12-31
+Q4 2017,12160,The Battle of Algiers2016 Re-release,Rialto Pictures,56853.0,2017-10-07,2017-12-31
+Q4 2017,12162,Kills On Wheels2016 Re-release,Kino Lorber,15668.0,2017-10-20,2017-12-31
+Q4 2017,12165,Ichi the Killer2017 Re-release,Well Go USA Entertainment,12093.0,2017-11-10,2017-12-31
+Q4 2017,12166,Believe,Freestyle Releasing,890303.0,2017-12-02,2017-12-31
+Q4 2017,12168,The Lion in Winter2016 Re-release,Rialto Pictures,18177.0,2017-12-16,2017-12-31
+Q4 2017,12177,The Loving Story2016 Re-release,Icarus Films,3518.0,2017-11-01,2017-12-31
+Q4 2017,12179,The Greasy Strangler,FilmRise,44228.0,2017-10-07,2017-12-31
+Q4 2017,12181,Christine,The Orchard,298525.0,2017-10-14,2017-12-31
+Q4 2017,12182,The Sacrifice2017 Re-release,Kino Lorber,60657.0,2017-10-20,2017-12-31
+Q4 2017,12183,The Love Witch,Oscilloscope,227462.0,2017-11-11,2017-12-31
+Q4 2017,12188,Off the Rails,The Film Collaborative,34249.0,2017-11-18,2017-12-31
+Q4 2017,12192,The Man from Earth: Holocene,Parade Deck Films,5302.0,2017-10-13,2017-12-31
+Q4 2017,12194,National Bird,FilmRise,10470.0,2017-11-11,2017-12-31
+Q4 2017,12197,My Friend Dahmer,FilmRise,1323060.0,2017-11-03,2017-12-31
+Q4 2017,12202,Novitiate,Sony Pictures Classics,572615.0,2017-10-27,2017-12-31
+Q4 2017,12207,The Bad Kids,FilmRise,2977.0,2017-12-16,2017-12-31
+Q4 2017,12212,The Wasted Times,China Lion Film Distribution,386540.0,2017-12-16,2017-12-31
+Q4 2017,12213,My Annoying Brother,CJ Entertainment,51996.0,2017-12-23,2017-12-31
+Q4 2017,12215,Peter and the Farm,Magnolia Pictures,18123.0,2017-11-04,2017-12-31
+Q4 2017,12218,The Paris Opera,Film Movement,55482.0,2017-10-18,2017-12-31
+Q4 2017,12220,Permanent,Magnolia Pictures,12847.0,2017-12-15,2017-12-31
+Q4 2017,12223,The Eyes of My Mother,Magnolia Pictures,27099.0,2017-12-02,2017-12-31
+Q4 2017,12226,Harry Benson: Shoot First,Magnolia Pictures,16734.0,2017-12-09,2017-12-31
+Q4 2017,12228,On the Map,Hey Jude Productions,13826.0,2017-11-25,2017-12-31

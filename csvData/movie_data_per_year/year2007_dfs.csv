@@ -1,0 +1,619 @@
+season,Unnamed: 0,movie,studio,gross,release,time
+Q1 2007,4752,300,Warner Bros.,210614939.0,2007-03-09,2007-03-31
+Q1 2007,4756,Wild Hogs,Walt Disney Studios Motion Pictures,163409353.0,2007-03-02,2007-03-31
+Q1 2007,4767,Blades of Glory,DreamWorks,118594548.0,2007-03-30,2007-03-31
+Q1 2007,4769,Ghost Rider,Sony Pictures Releasing,115802596.0,2007-02-16,2007-03-31
+Q1 2007,4772,Norbit,DreamWorks,95673607.0,2007-02-09,2007-03-31
+Q1 2007,4773,Meet the Robinsons,Walt Disney Studios Motion Pictures,95511981.0,2007-03-30,2007-03-31
+Q1 2007,4776,Bridge to Terabithia,Walt Disney Studios Motion Pictures,80564107.0,2007-02-16,2007-03-31
+Q1 2007,4783,Stomp the Yard,Screen Gems,61356221.0,2007-01-12,2007-03-31
+Q1 2007,4789,TMNT,Warner Bros.,54149098.0,2007-03-23,2007-03-31
+Q1 2007,4791,Music and Lyrics,Warner Bros.,50572589.0,2007-02-14,2007-03-31
+Q1 2007,4794,Premonition,Sony Pictures Releasing,47852604.0,2007-03-16,2007-03-31
+Q1 2007,4795,Shooter,Paramount Pictures,47003582.0,2007-03-23,2007-03-31
+Q1 2007,4801,Because I Said So,Universal Pictures,42674040.0,2007-02-02,2007-03-31
+Q1 2007,4802,Epic Movie,Twentieth Century Fox,39706932.0,2007-01-26,2007-03-31
+Q1 2007,4810,Freedom Writers,Paramount Pictures,36605602.0,2007-01-05,2007-03-31
+Q1 2007,4812,Smokin' Aces,Universal Pictures,35787686.0,2007-01-26,2007-03-31
+Q1 2007,4813,The Messengers,Screen Gems,35374833.0,2007-02-02,2007-03-31
+Q1 2007,4816,Breach,Universal Pictures,33231264.0,2007-02-16,2007-03-31
+Q1 2007,4817,Zodiac,Paramount Pictures,33080084.0,2007-03-02,2007-03-31
+Q1 2007,4819,Daddy's Little Girls,Lionsgate,31366978.0,2007-02-14,2007-03-31
+Q1 2007,4845,The Hills Have Eyes II,Fox Atomic,20774758.0,2007-03-23,2007-03-31
+Q1 2007,4846,Reno 911!: Miami,Twentieth Century Fox,20313720.0,2007-02-23,2007-03-31
+Q1 2007,4849,Reign Over Me,Sony Pictures Releasing,19661987.0,2007-03-23,2007-03-31
+Q1 2007,4860,Dead Silence,Universal Pictures,16809076.0,2007-03-16,2007-03-31
+Q1 2007,4862,Happily N'Ever After,Lionsgate,15589393.0,2007-01-05,2007-03-31
+Q1 2007,4863,Catch and Release,Sony Pictures Releasing,15475591.0,2007-01-26,2007-03-31
+Q1 2007,4864,Alpha Dog,Universal Pictures,15309602.0,2007-01-12,2007-03-31
+Q1 2007,4876,The Namesake,Fox Searchlight Pictures,13535636.0,2007-03-09,2007-03-31
+Q1 2007,4883,I Think I Love My Wife,Fox Searchlight Pictures,12513596.0,2007-03-16,2007-03-31
+Q1 2007,4886,Deep Sea,Warner Bros.,46403478.0,2007-03-03,2007-03-31
+Q1 2007,4890,The Astronaut Farmer,Warner Bros.,11003643.0,2007-02-23,2007-03-31
+Q1 2007,4891,Primeval,Walt Disney Studios Motion Pictures,10189120.0,2007-01-12,2007-03-31
+Q1 2007,4895,Black Snake Moan,Paramount Vantage,9396870.0,2007-03-02,2007-03-31
+Q1 2007,4908,Pride,Lionsgate,7057600.0,2007-03-23,2007-03-31
+Q1 2007,4933,Blood and Chocolate,Metro-Goldwyn-Mayer (MGM),3526847.0,2007-01-26,2007-03-31
+Q1 2007,4944,Roving Mars,Walt Disney Studios Motion Pictures,10407978.0,2007-01-27,2007-03-31
+Q1 2007,4953,Guru,Adlabs Films,2096000.0,2007-01-12,2007-03-31
+Q1 2007,4954,Avenue Montaigne,THINKFilm,2044858.0,2007-02-16,2007-03-31
+Q1 2007,4957,Salaam-E-Ishq,Eros International,1852050.0,2007-01-25,2007-03-31
+Q1 2007,4967,Eklavya: The Royal Guard,Eros International,1290212.0,2007-02-16,2007-03-31
+Q1 2007,4970,Namastey London,Eros International,1207007.0,2007-03-23,2007-03-31
+Q1 2007,4991,Bugs!,SK Films,19062359.0,2007-03-12,2007-03-31
+Q1 2007,5007,The Hitcher,Rogue Pictures,16452977.0,2007-01-19,2007-03-31
+Q1 2007,5009,Journey from the Fall,ImaginAsian Pictures,634438.0,2007-03-23,2007-03-31
+Q1 2007,5015,The Italian,Sony Pictures Classics,555436.0,2007-01-19,2007-03-31
+Q1 2007,5025,Code Name: The Cleaner,New Line Cinema,7282649.0,2007-01-05,2007-03-31
+Q1 2007,5026,Seraphim Falls,IDP Distribution,418296.0,2007-01-26,2007-03-31
+Q1 2007,5028,Killer of Sheep,Milestone,404508.0,2007-03-30,2007-03-31
+Q1 2007,5033,Mafioso,Rialto Pictures,400019.0,2007-01-19,2007-03-31
+Q1 2007,5038,The 2006 Academy Award Nominated Short Films: Live Action,Magnolia Pictures,335090.0,2007-02-16,2007-03-31
+Q1 2007,5042,Constellation,The Bigger Picture,306533.0,2007-02-02,2007-03-31
+Q1 2007,5043,God Grew Tired of Us,Newmarket Films,301447.0,2007-01-12,2007-03-31
+Q1 2007,5049,Aliens of the Deep,Walt Disney Studios Motion Pictures,8961527.0,2007-01-28,2007-03-31
+Q1 2007,5067,Boy Culture,TLA Releasing,220409.0,2007-03-23,2007-03-31
+Q1 2007,5069,Starter for 10,Picturehouse,216839.0,2007-02-23,2007-03-31
+Q1 2007,5070,First Snow,Yari Film Group Releasing,214864.0,2007-03-23,2007-03-31
+Q1 2007,5073,Believe in Me,IFC Films,209654.0,2007-03-09,2007-03-31
+Q1 2007,5083,Offside,Sony Pictures Classics,180530.0,2007-03-23,2007-03-31
+Q1 2007,5084,An Unreasonable Man,IFC Films,176647.0,2007-01-31,2007-03-31
+Q1 2007,5096,Becket,Slowhand Cinema Releasing,149327.0,2007-01-26,2007-03-31
+Q1 2007,5114,The Lookout,Miramax,4234163.0,2007-03-30,2007-03-31
+Q1 2007,5118,Tortilla Heaven,Wildcat Releasing,105401.0,2007-03-16,2007-03-31
+Q1 2007,5135,Comedy of Power,Koch Lorber Films,80550.0,2007-01-05,2007-03-31
+Q1 2007,5137,Nomad: The Warrior,The Weinstein Company,79123.0,2007-03-16,2007-03-31
+Q1 2007,5138,Radiant City,Alliance Atlantis Vivafilm,78944.0,2007-03-30,2007-03-31
+Q1 2007,5139,Tears of the Black Tiger2007 Re-release,Magnolia Pictures,75234.0,2007-01-12,2007-03-31
+Q1 2007,5141,Nishabd,Eros International,73819.0,2007-03-02,2007-03-31
+Q1 2007,5142,Gray Matters,Yari Film Group Releasing,71561.0,2007-02-23,2007-03-31
+Q1 2007,5143,Air Guitar Nation,Shadow Distribution,71471.0,2007-03-23,2007-03-31
+Q1 2007,5148,Behind the Mask: The Rise of Leslie Vernon,Anchor Bay Films,69136.0,2007-03-16,2007-03-31
+Q1 2007,5150,My Brother,Codeblack Entertainment,65797.0,2007-03-16,2007-03-31
+Q1 2007,5158,The Earrings of Madame De...,Janus Films,126415.0,2007-03-16,2007-03-31
+Q1 2007,5170,The Situation,Shadow Distribution,48896.0,2007-02-02,2007-03-31
+Q1 2007,5176,Puccini for Beginners,Strand Releasing,85772.0,2007-02-02,2007-03-31
+Q1 2007,5179,The Holy Mountain,ABKCO Films,61001.0,2007-01-19,2007-03-31
+Q1 2007,5180,Thr3e,The Bigger Picture,858000.0,2007-01-05,2007-03-31
+Q1 2007,5181,Beyond the Gates2006 Re-release,IFC Films,40848.0,2007-03-09,2007-03-31
+Q1 2007,5182,Plagues and Pleasures on the Salton Sea,Tilapia Film,50426.0,2007-02-24,2007-03-31
+Q1 2007,5195,Black Friday,Adlabs Films,35000.0,2007-02-09,2007-03-31
+Q1 2007,5196,Bamako,New Yorker Films,111113.0,2007-02-14,2007-03-31
+Q1 2007,5219,Hattrick,UTV Motion Pictures,24502.0,2007-03-16,2007-03-31
+Q1 2007,5222,Il ne faut jurer... de rien!2006 Re-release,Alliance Atlantis Vivafilm,23442.0,2007-01-26,2007-03-31
+Q1 2007,5223,The Exterminating Angels,IFC Films,23308.0,2007-03-07,2007-03-31
+Q1 2007,5234,Close to Home,IFC Films,20931.0,2007-02-16,2007-03-31
+Q1 2007,5237,Esma's Secret - Grbavica,Strand Releasing,40042.0,2007-02-16,2007-03-31
+Q1 2007,5246,Sacco and Vanzetti,First Run,27735.0,2007-01-26,2007-03-31
+Q1 2007,5255,"My Daughter, My Angel",Alliance Atlantis Vivafilm,2759256.0,2007-02-16,2007-03-31
+Q1 2007,5268,Full of It,New Line Cinema,14273.0,2007-03-02,2007-03-31
+Q1 2007,5271,Live Free or Die,THINKFilm,13836.0,2007-03-30,2007-03-31
+Q1 2007,5280,Cobra Verde,518 Media,12702.0,2007-03-23,2007-03-31
+Q1 2007,5282,China Blue,Argot Pictures,12185.0,2007-01-19,2007-03-31
+Q1 2007,5294,Blockade,Icarus Films,11750.0,2007-03-14,2007-03-31
+Q1 2007,5308,G.I. Jesus,Cineville,8593.0,2007-01-26,2007-03-31
+Q1 2007,5312,Summer in Berlin,D Street Releasing,8340.0,2007-03-30,2007-03-31
+Q1 2007,5319,Wild Tigers I Have Known,IFC Films,9946.0,2007-02-28,2007-03-31
+Q1 2007,5327,When the Road Bends... Tales of a Gypsy Caravan,Shadow Distribution,442936.0,2007-01-19,2007-03-31
+Q1 2007,5328,Operation Homecoming: Writing the Wartime Experience,The Documentary Group,6795.0,2007-02-09,2007-03-31
+Q1 2007,5332,Ten 'til Noon,Radio London Films,6404.0,2007-03-30,2007-03-31
+Q1 2007,5339,Fired!,International Film Circuit,5661.0,2007-02-02,2007-03-31
+Q1 2007,5341,Strafsache 4 Ks 2/63 - Auschwitz vor dem Frankfurter Schwurgericht,First Run,10782.0,2007-01-12,2007-03-31
+Q1 2007,5344,Fratricide,Koch Lorber Films,5428.0,2007-02-16,2007-03-31
+Q1 2007,5373,The Prisoner or: How I Planned to Kill Tony Blair,Red Envelope Entertainment,3103.0,2007-03-23,2007-03-31
+Q1 2007,5375,In the Pit,Kino International,6819.0,2007-02-02,2007-03-31
+Q1 2007,5376,Funny Money,THINKFilm,2844.0,2007-01-26,2007-03-31
+Q1 2007,5390,Race You to the Bottom,Regent Releasing,4404.0,2007-03-30,2007-03-31
+Q1 2007,5399,Adam's Apples,Outsider Pictures,1305.0,2007-03-16,2007-03-31
+Q1 2007,5409,The Hawk Is Dying,Strand Releasing,2777.0,2007-03-30,2007-03-31
+Q1 2007,5411,Notes on Marie Menken,Icarus Films,577.0,2007-02-09,2007-03-31
+Q1 2007,5415,The Marsh,Alliance Atlantis Vivafilm,336.0,2007-03-23,2007-03-31
+Q2 2007,4746,Spider-Man 3,Sony Pictures Releasing,336530303.0,2007-05-04,2007-06-30
+Q2 2007,4747,Shrek the Third,DreamWorks,322719944.0,2007-05-18,2007-06-30
+Q2 2007,4749,Pirates of the Caribbean: At World's End,Walt Disney Studios Motion Pictures,309420425.0,2007-05-25,2007-06-30
+Q2 2007,4753,Ratatouille,Walt Disney Studios Motion Pictures,206139180.0,2007-06-29,2007-06-30
+Q2 2007,4757,Knocked Up,Universal Pictures,148768917.0,2007-06-01,2007-06-30
+Q2 2007,4760,Live Free or Die Hard,Twentieth Century Fox,134529403.0,2007-06-27,2007-06-30
+Q2 2007,4762,Fantastic 4: Rise of the Silver Surfer,Twentieth Century Fox,131892723.0,2007-06-15,2007-06-30
+Q2 2007,4768,Ocean's Thirteen,Warner Bros.,117154724.0,2007-06-08,2007-06-30
+Q2 2007,4771,Evan Almighty,Universal Pictures,100462298.0,2007-06-22,2007-06-30
+Q2 2007,4777,Disturbia,DreamWorks,80209692.0,2007-04-13,2007-06-30
+Q2 2007,4784,Space Station 3D,IMAX,93379882.0,2007-04-19,2007-06-30
+Q2 2007,4786,Surf's Up,Sony Pictures Releasing,58867694.0,2007-06-08,2007-06-30
+Q2 2007,4796,Are We Done Yet?,Revolution Studios,49631958.0,2007-04-04,2007-06-30
+Q2 2007,4824,28 Weeks Later,Fox Atomic,28598435.0,2007-05-11,2007-06-30
+Q2 2007,4826,Mr. Brooks,Metro-Goldwyn-Mayer (MGM),28549298.0,2007-06-01,2007-06-30
+Q2 2007,4832,Nancy Drew,Warner Bros.,25612520.0,2007-06-15,2007-06-30
+Q2 2007,4837,Sicko,Lionsgate,24540079.0,2007-06-22,2007-06-30
+Q2 2007,4839,Perfect Stranger,Revolution Studios,23984949.0,2007-04-13,2007-06-30
+Q2 2007,4840,The Reaping,Warner Bros.,25126214.0,2007-04-05,2007-06-30
+Q2 2007,4847,The Invisible,Walt Disney Studios Motion Pictures,19410621.0,2007-04-27,2007-06-30
+Q2 2007,4848,Vacancy,Screen Gems,19363565.0,2007-04-20,2007-06-30
+Q2 2007,4850,Georgia Rule,Universal Pictures,19103072.0,2007-05-11,2007-06-30
+Q2 2007,4852,Waitress,Fox Searchlight Pictures,19042372.0,2007-05-02,2007-06-30
+Q2 2007,4855,Next,Paramount Pictures,18211013.0,2007-04-27,2007-06-30
+Q2 2007,4856,Hostel: Part II,Lionsgate,17609452.0,2007-06-08,2007-06-30
+Q2 2007,4880,Firehouse Dog,Twentieth Century Fox,13834840.0,2007-04-04,2007-06-30
+Q2 2007,4889,In the Land of Women,Warner Bros.,11052958.0,2007-04-20,2007-06-30
+Q2 2007,4893,Pathfinder,Twentieth Century Fox,9874667.0,2007-04-13,2007-06-30
+Q2 2007,4894,Once,Fox Searchlight Pictures,9414148.0,2007-05-16,2007-06-30
+Q2 2007,4897,A Mighty Heart,Paramount Vantage,9176787.0,2007-06-22,2007-06-30
+Q2 2007,4900,La Vie En Rose,Picturehouse,10301706.0,2007-06-08,2007-06-30
+Q2 2007,4901,Delta Farce,Lionsgate,8130530.0,2007-05-11,2007-06-30
+Q2 2007,4906,The Condemned,Lionsgate,7371706.0,2007-04-27,2007-06-30
+Q2 2007,4909,Bug,Lionsgate,7025810.0,2007-05-25,2007-06-30
+Q2 2007,4910,Redline,Chicago Pictures,6881022.0,2007-04-13,2007-06-30
+Q2 2007,4915,Lucky You,Warner Bros.,5758950.0,2007-05-04,2007-06-30
+Q2 2007,4923,Away from Her,Lionsgate,4571521.0,2007-05-04,2007-06-30
+Q2 2007,4925,Kickin' It Old Skool,Yari Film Group Releasing,4502604.0,2007-04-27,2007-06-30
+Q2 2007,4945,Gracie,Picturehouse,2956339.0,2007-06-01,2007-06-30
+Q2 2007,4955,The Valet,Sony Pictures Classics,1926800.0,2007-04-20,2007-06-30
+Q2 2007,4962,Year of the Dog,Paramount Vantage,1540141.0,2007-04-13,2007-06-30
+Q2 2007,4968,Slow Burn,Lionsgate,1237615.0,2007-04-13,2007-06-30
+Q2 2007,4976,Golden Door,Miramax,1070769.0,2007-05-25,2007-06-30
+Q2 2007,4980,Broken English,Magnolia Pictures,956919.0,2007-06-22,2007-06-30
+Q2 2007,4984,Paprika,Sony Pictures Classics,882267.0,2007-05-25,2007-06-30
+Q2 2007,4996,Provoked: A True Story,Eros International,761740.0,2007-05-11,2007-06-30
+Q2 2007,5002,Cheeni Kum,Eros International,697369.0,2007-05-25,2007-06-30
+Q2 2007,5006,Nitro,Alliance Atlantis Vivafilm,3768626.0,2007-06-29,2007-06-30
+Q2 2007,5013,Fracture,New Line Cinema,37901000.0,2007-04-20,2007-06-30
+Q2 2007,5023,Brooklyn Rules,City Lights Pictures,458232.0,2007-05-11,2007-06-30
+Q2 2007,5031,Jindabyne,Sony Pictures Classics,400438.0,2007-04-27,2007-06-30
+Q2 2007,5032,Day Watch2007 Re-release,Fox Searchlight Pictures,400372.0,2007-06-01,2007-06-30
+Q2 2007,5044,Crazy Love,Magnolia Pictures,301027.0,2007-06-01,2007-06-30
+Q2 2007,5048,Ten Canoes,Palm Pictures,283654.0,2007-06-01,2007-06-30
+Q2 2007,5053,The TV Set,THINKFilm,265198.0,2007-04-06,2007-06-30
+Q2 2007,5059,Manufactured Landscapes,Zeitgeist Films,240239.0,2007-06-20,2007-06-30
+Q2 2007,5062,Hot Fuzz,Rogue Pictures,22650000.0,2007-04-20,2007-06-30
+Q2 2007,5063,Brand Upon the Brain!,Vitagraph Films,227064.0,2007-05-09,2007-06-30
+Q2 2007,5065,Eagle vs Shark,Miramax,221846.0,2007-06-15,2007-06-30
+Q2 2007,5076,Angel-A,Sony Pictures Classics,202647.0,2007-05-25,2007-06-30
+Q2 2007,5081,Lonely Hearts,IDP Distribution,188565.0,2007-04-13,2007-06-30
+Q2 2007,5082,Vitus,Sony Pictures Classics,187480.0,2007-06-29,2007-06-30
+Q2 2007,5086,The Flying Scotsman,Metro-Goldwyn-Mayer (MGM),171817.0,2007-05-04,2007-06-30
+Q2 2007,5091,"Paris, je t'aime",First Look International,896808.0,2007-05-04,2007-06-30
+Q2 2007,5092,Red Road,Tartan,154892.0,2007-04-13,2007-06-30
+Q2 2007,5095,Life in a Metro,UTV Motion Pictures,150212.0,2007-05-11,2007-06-30
+Q2 2007,5100,Severance,Magnolia Pictures,137221.0,2007-05-18,2007-06-30
+Q2 2007,5103,Americanizing Shelley,Rocky Mountain Pictures,128024.0,2007-04-26,2007-06-30
+Q2 2007,5104,The Wendell Baker Story2007 Re-release,THINKFilm,127414.0,2007-05-18,2007-06-30
+Q2 2007,5105,Fay Grim,Magnolia Pictures,126714.0,2007-05-18,2007-06-30
+Q2 2007,5108,ShowBusiness: The Road to Broadway,Regent Releasing,151708.0,2007-05-11,2007-06-30
+Q2 2007,5109,Memories of Tomorrow,Eleven Arts,137493.0,2007-05-18,2007-06-30
+Q2 2007,5112,Rise: Blood Hunter,IDP Distribution,114306.0,2007-06-01,2007-06-30
+Q2 2007,5115,Black Book,Sony Pictures Classics,3368552.0,2007-04-04,2007-06-30
+Q2 2007,5125,Civic Duty,Freestyle Releasing,95953.0,2007-05-04,2007-06-30
+Q2 2007,5127,10 Questions for the Dalai Lama,Monterey Media,218718.0,2007-04-27,2007-06-30
+Q2 2007,5129,Blind Dating,IDP Distribution,90560.0,2007-05-11,2007-06-30
+Q2 2007,5131,Army of Shadows,Rialto Pictures,741766.0,2007-04-28,2007-06-30
+Q2 2007,5145,Zoo,THINKFilm,69770.0,2007-04-25,2007-06-30
+Q2 2007,5149,Diggers,Magnolia Pictures,66517.0,2007-04-27,2007-06-30
+Q2 2007,5152,Even Money,Yari Film Group Releasing,64458.0,2007-05-18,2007-06-30
+Q2 2007,5166,Amu,Emerging Pictures,51251.0,2007-05-25,2007-06-30
+Q2 2007,5171,Ghosts of Cité Soleil,THINKFilm,48752.0,2007-06-27,2007-06-30
+Q2 2007,5174,Klimt,Outsider Pictures,86988.0,2007-06-22,2007-06-30
+Q2 2007,5189,Wind Chill,Revolution Studios,36804.0,2007-04-27,2007-06-30
+Q2 2007,5203,Day Night Day Night,IFC Films,31856.0,2007-05-09,2007-06-30
+Q2 2007,5208,I Have Never Forgotten You: The Life & Legacy of Simon Wiesenthal,Luminous Velocity Releasing,29976.0,2007-05-23,2007-06-30
+Q2 2007,5213,Snow Cake,IFC Films,26651.0,2007-04-27,2007-06-30
+Q2 2007,5215,Le Doulos,Rialto Pictures,81572.0,2007-06-29,2007-06-30
+Q2 2007,5216,Hood of Horror,Xenon Pictures,25900.0,2007-05-04,2007-06-30
+Q2 2007,5224,Pierrepoint: The Last Hangman2007 Re-release,IFC Films,23192.0,2007-06-01,2007-06-30
+Q2 2007,5230,Private Property,New Yorker Films,62229.0,2007-05-18,2007-06-30
+Q2 2007,5232,The Wedding Weekend2007 Re-release,Strand Releasing,21908.0,2007-04-27,2007-06-30
+Q2 2007,5235,The Tripper,Reel Source,20840.0,2007-04-20,2007-06-30
+Q2 2007,5236,The Tracey Fragments,THINKFilm,32645.0,2007-05-09,2007-06-30
+Q2 2007,5247,Hollywood Dreams,Rainbow Releasing,170777.0,2007-05-18,2007-06-30
+Q2 2007,5248,Pierrot le Fou,Janus Films,42783.0,2007-06-15,2007-06-30
+Q2 2007,5259,Election 2,Tartan,55106.0,2007-04-25,2007-06-30
+Q2 2007,5274,Flanders,International Film Circuit,19639.0,2007-05-18,2007-06-30
+Q2 2007,5288,Mala Noche,Janus Films,24568.0,2007-06-01,2007-06-30
+Q2 2007,5292,Steel City,Truly Indie,10227.0,2007-05-25,2007-06-30
+Q2 2007,5299,Something to Cheer About,Truly Indie,9777.0,2007-04-27,2007-06-30
+Q2 2007,5300,Stephanie Daley,Regent Releasing,25721.0,2007-04-20,2007-06-30
+Q2 2007,5309,Goodbye Momo,ArtMattan Productions,8453.0,2007-04-20,2007-06-30
+Q2 2007,5310,Dreaming Lhasa,First Run,20431.0,2007-04-13,2007-06-30
+Q2 2007,5320,Macbeth,Truly Indie,8459.0,2007-06-15,2007-06-30
+Q2 2007,5336,Allegro,International Film Circuit,7082.0,2007-05-09,2007-06-30
+Q2 2007,5337,In Between Days,Kino International,22892.0,2007-06-27,2007-06-30
+Q2 2007,5342,The Treatment,New Yorker Films,72772.0,2007-05-04,2007-06-30
+Q2 2007,5345,Hatsujô kateikyôshi: Sensei no aijiru,Palm Pictures,5383.0,2007-04-13,2007-06-30
+Q2 2007,5347,Lights in the Dusk,Strand Releasing,13572.0,2007-06-13,2007-06-30
+Q2 2007,5355,Colma: The Musical,Roadside Attractions,40756.0,2007-06-22,2007-06-30
+Q2 2007,5356,Blood & Tears,THINKFilm,4364.0,2007-06-15,2007-06-30
+Q2 2007,5360,"C'est pas moi, c'est l'autre",Lonely Seal Releasing,3935.0,2007-04-06,2007-06-30
+Q2 2007,5362,Moonlight,Indican Pictures,50204.0,2007-05-19,2007-06-30
+Q2 2007,5365,I'm Reed Fish,Red Envelope Entertainment,3567.0,2007-06-01,2007-06-30
+Q2 2007,5370,Dry Season,ArtMattan Productions,3303.0,2007-04-06,2007-06-30
+Q2 2007,5379,Looking for an Icon,Icarus Films,2393.0,2007-05-09,2007-06-30
+Q2 2007,5381,Casting About,Kino International,6074.0,2007-05-11,2007-06-30
+Q2 2007,5382,White Rainbow,Indican Pictures,9126.0,2007-04-07,2007-06-30
+Q2 2007,5383,You're Gonna Miss Me,Palm Pictures,2324.0,2007-06-08,2007-06-30
+Q2 2007,5386,Greg & Gentillon,Alliance Atlantis Vivafilm,1913.0,2007-04-06,2007-06-30
+Q2 2007,5391,Everything's Gone Green,First Independent Pictures,18443.0,2007-04-13,2007-06-30
+Q2 2007,5396,Unborn in the USA: Inside the War on Abortion,First Run,1475.0,2007-06-15,2007-06-30
+Q2 2007,5397,Four Lane Highway,Sky Island Films,1393.0,2007-06-01,2007-06-30
+Q2 2007,5398,The Dog Problem,THINKFilm,1344.0,2007-04-27,2007-06-30
+Q2 2007,5400,The Trials of Darryl Hunt,THINKFilm,1217.0,2007-06-15,2007-06-30
+Q2 2007,5401,Belle toujours,New Yorker Films,10395.0,2007-06-08,2007-06-30
+Q2 2007,5402,I Don't Want to Sleep Alone,Strand Releasing,18361.0,2007-05-09,2007-06-30
+Q2 2007,5405,Beyond Hatred,First Run,949.0,2007-06-15,2007-06-30
+Q2 2007,5413,Falling,Kino International,509.0,2007-06-29,2007-06-30
+Q2 2007,5418,Syndromes and a Century,Strand Releasing,15576.0,2007-04-18,2007-06-30
+Q2 2007,5419,Mongolian Ping Pong,First Run,70939.0,2007-04-21,2007-06-30
+Q3 2007,4748,Transformers,DreamWorks,319246193.0,2007-07-03,2007-09-30
+Q3 2007,4750,Harry Potter and the Order of the Phoenix,Warner Bros.,292004738.0,2007-07-11,2007-09-30
+Q3 2007,4751,The Bourne Ultimatum,Universal Pictures,227471070.0,2007-08-03,2007-09-30
+Q3 2007,4755,The Simpsons Movie,Twentieth Century Fox,183109321.0,2007-07-27,2007-09-30
+Q3 2007,4765,Superbad,Sony Pictures Releasing,121463226.0,2007-08-17,2007-09-30
+Q3 2007,4766,I Now Pronounce You Chuck & Larry,Universal Pictures,120059556.0,2007-07-20,2007-09-30
+Q3 2007,4774,The Game Plan,Walt Disney Studios Motion Pictures,90043270.0,2007-09-28,2007-09-30
+Q3 2007,4788,3:10 to Yuma,Lionsgate,53606916.0,2007-09-07,2007-09-30
+Q3 2007,4790,Resident Evil: Extinction,Screen Gems,50648679.0,2007-09-21,2007-09-30
+Q3 2007,4793,The Kingdom,Universal Pictures,47536778.0,2007-09-28,2007-09-30
+Q3 2007,4798,License to Wed,Warner Bros.,43799818.0,2007-07-03,2007-09-30
+Q3 2007,4799,Underdog,Walt Disney Studios Motion Pictures,43545972.0,2007-08-03,2007-09-30
+Q3 2007,4800,No Reservations,Warner Bros.,43107979.0,2007-07-27,2007-09-30
+Q3 2007,4807,Stardust,Paramount Pictures,38634938.0,2007-08-10,2007-09-30
+Q3 2007,4808,The Brave One,Warner Bros.,36793804.0,2007-09-14,2007-09-30
+Q3 2007,4814,Good Luck Chuck,Lionsgate,35017297.0,2007-09-21,2007-09-30
+Q3 2007,4818,Mr. Bean's Holiday,Universal Pictures,33302167.0,2007-08-24,2007-09-30
+Q3 2007,4823,Balls of Fury,Rogue Pictures,32886940.0,2007-08-29,2007-09-30
+Q3 2007,4838,Across the Universe,Revolution Studios,24343673.0,2007-09-14,2007-09-30
+Q3 2007,4841,War,Lionsgate,22486409.0,2007-08-24,2007-09-30
+Q3 2007,4857,Eastern Promises,Focus Features,17266000.0,2007-09-14,2007-09-30
+Q3 2007,4858,Into the Wild,Paramount Vantage,18354356.0,2007-09-21,2007-09-30
+Q3 2007,4866,The Invasion,Warner Bros.,15074191.0,2007-08-17,2007-09-30
+Q3 2007,4873,The Last King of Scotland,Fox Searchlight Pictures,17584817.0,2007-09-27,2007-09-30
+Q3 2007,4874,Hot Rod,Paramount Pictures,13938332.0,2007-08-03,2007-09-30
+Q3 2007,4882,Daddy Day Camp,Revolution Studios,13235267.0,2007-08-08,2007-09-30
+Q3 2007,4887,Sydney White,Universal Pictures,11892415.0,2007-09-21,2007-09-30
+Q3 2007,4888,The Darjeeling Limited,Fox Searchlight Pictures,11902715.0,2007-09-29,2007-09-30
+Q3 2007,4892,Bratz,Lionsgate,10010209.0,2007-08-03,2007-09-30
+Q3 2007,4896,Death Sentence,Twentieth Century Fox,9384327.0,2007-08-31,2007-09-30
+Q3 2007,4899,Death at a Funeral,Metro-Goldwyn-Mayer (MGM),8580428.0,2007-08-17,2007-09-30
+Q3 2007,4904,El cantante,Picturehouse,7556712.0,2007-08-03,2007-09-30
+Q3 2007,4905,I Know Who Killed Me,Sony Pictures Releasing,7498716.0,2007-07-27,2007-09-30
+Q3 2007,4911,In the Valley of Elah,Warner Independent Pictures (WIP),6777741.0,2007-09-14,2007-09-30
+Q3 2007,4912,The Last Legion,The Weinstein Company,5933494.0,2007-08-17,2007-09-30
+Q3 2007,4919,Rescue Dawn,Metro-Goldwyn-Mayer (MGM),5490423.0,2007-07-04,2007-09-30
+Q3 2007,4921,Magnificent Desolation: Walking on the Moon 3D,IMAX,34136978.0,2007-09-23,2007-09-30
+Q3 2007,4924,"Lust, Caution",Focus Features,4604982.0,2007-09-28,2007-09-30
+Q3 2007,4926,2 Days in Paris,The Samuel Goldwyn Company,4433994.0,2007-08-10,2007-09-30
+Q3 2007,4928,Ladrón que roba a ladrón,Lionsgate,4011254.0,2007-08-31,2007-09-30
+Q3 2007,4931,The Assassination of Jesse James by the Coward Robert Ford,Warner Bros.,3909149.0,2007-09-21,2007-09-30
+Q3 2007,4932,Sunshine,Fox Searchlight Pictures,3669688.0,2007-07-20,2007-09-30
+Q3 2007,4934,Feast of Love,Metro-Goldwyn-Mayer (MGM),3511074.0,2007-09-28,2007-09-30
+Q3 2007,4938,Resurrecting the Champ,Yari Film Group Releasing,3172573.0,2007-08-24,2007-09-30
+Q3 2007,4940,Illegal Tender,Universal Pictures,3106835.0,2007-08-24,2007-09-30
+Q3 2007,4948,Hairspray,New Line Cinema,78854798.0,2007-07-20,2007-09-30
+Q3 2007,4964,Heyy Babyy,Eros International,1443521.0,2007-08-24,2007-09-30
+Q3 2007,4965,No End in Sight,Magnolia Pictures,1433319.0,2007-07-27,2007-09-30
+Q3 2007,4966,My Best Friend,IFC Films,1426784.0,2007-07-13,2007-09-30
+Q3 2007,4969,The Queen,Miramax,51350148.0,2007-09-30,2007-09-30
+Q3 2007,4974,Silk,Picturehouse,1103075.0,2007-09-14,2007-09-30
+Q3 2007,4977,Partner,Eros International,1062840.0,2007-07-20,2007-09-30
+Q3 2007,4978,Goya's Ghosts,The Samuel Goldwyn Company,1000626.0,2007-07-20,2007-09-30
+Q3 2007,4982,The Brothers Solomon,Screen Gems,900926.0,2007-09-07,2007-09-30
+Q3 2007,4988,Arctic Tale,Paramount Vantage,833532.0,2007-07-25,2007-09-30
+Q3 2007,4992,Open Season,Sony Pictures Releasing,85105259.0,2007-09-29,2007-09-30
+Q3 2007,4993,Becoming Jane,Miramax,18670946.0,2007-08-03,2007-09-30
+Q3 2007,4994,The Ten,THINKFilm,769726.0,2007-08-03,2007-09-30
+Q3 2007,4999,Rocket Science,Picturehouse,714943.0,2007-08-10,2007-09-30
+Q3 2007,5001,The 11th Hour,Warner Independent Pictures (WIP),707343.0,2007-08-17,2007-09-30
+Q3 2007,5004,The King of Kong: A Fistful of Quarters,Picturehouse,677914.0,2007-08-17,2007-09-30
+Q3 2007,5008,Molière,Sony Pictures Classics,635733.0,2007-07-27,2007-09-30
+Q3 2007,5020,Joshua,Fox Searchlight Pictures,482355.0,2007-07-06,2007-09-30
+Q3 2007,5027,Interview,Sony Pictures Classics,416951.0,2007-07-13,2007-09-30
+Q3 2007,5030,Little Miss Sunshine,Fox Searchlight Pictures,59889703.0,2007-07-26,2007-09-30
+Q3 2007,5034,Introducing the Dwights,Warner Independent Pictures (WIP),379408.0,2007-07-04,2007-09-30
+Q3 2007,5036,The Jane Austen Book Club,Sony Pictures Classics,3575227.0,2007-09-21,2007-09-30
+Q3 2007,5039,This Is England,IFC Films,329379.0,2007-07-25,2007-09-30
+Q3 2007,5050,Deep Water,IFC Films,271143.0,2007-08-24,2007-09-30
+Q3 2007,5052,King of California,First Look International,268461.0,2007-09-14,2007-09-30
+Q3 2007,5057,"Gandhi, My Father",Eros International,242967.0,2007-08-03,2007-09-30
+Q3 2007,5066,Ira & Abby,Magnolia Pictures,221096.0,2007-09-14,2007-09-30
+Q3 2007,5074,Mr. Woodcock,New Line Cinema,25034000.0,2007-09-14,2007-09-30
+Q3 2007,5077,Talk to Me,Focus Features,2840675.0,2007-07-13,2007-09-30
+Q3 2007,5079,I Want Someone to Eat Cheese With,IFC Films,194568.0,2007-09-05,2007-09-30
+Q3 2007,5085,Hatchet,Anchor Bay Films,175281.0,2007-09-07,2007-09-30
+Q3 2007,5089,Blame it on Fidel,Koch Lorber Films,168065.0,2007-08-03,2007-09-30
+Q3 2007,5094,Milarepa,Luminous Velocity Releasing,151114.0,2007-09-07,2007-09-30
+Q3 2007,5098,Ma tante Aline,Alliance Atlantis Vivafilm,1009919.0,2007-07-20,2007-09-30
+Q3 2007,5111,Trade,Roadside Attractions,118086.0,2007-09-28,2007-09-30
+Q3 2007,5117,Facing the Giants,IDP Distribution,10178331.0,2007-09-29,2007-09-30
+Q3 2007,5121,Self Medicated,THINKFilm,100610.0,2007-08-31,2007-09-30
+Q3 2007,5123,The Illusionist,Yari Film Group Releasing,39868642.0,2007-08-18,2007-09-30
+Q3 2007,5128,Dedication,The Weinstein Company,92853.0,2007-08-24,2007-09-30
+Q3 2007,5132,Fierce People,After Dark Films,85410.0,2007-09-07,2007-09-30
+Q3 2007,5133,Le petit lieutenant,The Cinema Guild,216724.0,2007-09-08,2007-09-30
+Q3 2007,5153,Dans Paris,IFC Films,63667.0,2007-08-08,2007-09-30
+Q3 2007,5163,Exiled,Magnolia Pictures,51957.0,2007-08-31,2007-09-30
+Q3 2007,5167,December Boys,Warner Independent Pictures (WIP),50715.0,2007-09-14,2007-09-30
+Q3 2007,5177,The Guardian,Walt Disney Studios Motion Pictures,55011732.0,2007-09-29,2007-09-30
+Q3 2007,5178,Moving McAllister,First Independent Pictures,42538.0,2007-09-14,2007-09-30
+Q3 2007,5183,Sea of Dreams2007 Re-release,Success Films,39200.0,2007-09-21,2007-09-30
+Q3 2007,5197,Your Mommy Kills Animals!,Halo8 Releasing,34000.0,2007-07-20,2007-09-30
+Q3 2007,5198,Old Joy,Kino International,204294.0,2007-08-25,2007-09-30
+Q3 2007,5199,The Last Winter,IFC Films,33190.0,2007-09-19,2007-09-30
+Q3 2007,5204,The Hottest State,THINKFilm,31216.0,2007-08-24,2007-09-30
+Q3 2007,5206,Jesus Camp,Magnolia Pictures,902544.0,2007-09-15,2007-09-30
+Q3 2007,5217,Cashback,Magnolia Pictures,25343.0,2007-07-20,2007-09-30
+Q3 2007,5221,Sunflower,New Yorker Films,23919.0,2007-08-17,2007-09-30
+Q3 2007,5226,Hannah Takes the Stairs,IFC Films,22815.0,2007-08-22,2007-09-30
+Q3 2007,5231,Great World of Sound,Magnolia Pictures,22011.0,2007-09-14,2007-09-30
+Q3 2007,5240,Flying: Confessions of a Free Woman,Artistic License,20157.0,2007-07-04,2007-09-30
+Q3 2007,5245,Buddha Mar Gaya,Eros International,18528.0,2007-08-17,2007-09-30
+Q3 2007,5254,7 días,Xenon Pictures,16791.0,2007-08-17,2007-09-30
+Q3 2007,5263,Quiet City,600 West Productions,15610.0,2007-08-29,2007-09-30
+Q3 2007,5264,Keeping Mum,THINKFilm,1619466.0,2007-09-15,2007-09-30
+Q3 2007,5266,Descent,City Lights Pictures,15233.0,2007-08-10,2007-09-30
+Q3 2007,5273,American Hardcore,Sony Pictures Classics,279665.0,2007-09-22,2007-09-30
+Q3 2007,5277,Forever,Icarus Films,31502.0,2007-09-12,2007-09-30
+Q3 2007,5281,Mutual Appreciation,Goodbye Cruel Releasing,103509.0,2007-09-01,2007-09-30
+Q3 2007,5283,Vanaja,Emerging Pictures,155870.0,2007-08-31,2007-09-30
+Q3 2007,5284,Angels in the Dust,Cinema Libre Studio,11606.0,2007-09-14,2007-09-30
+Q3 2007,5289,Metropolis2007 Re-release,Kino International,27485.0,2007-07-20,2007-09-30
+Q3 2007,5291,Splinter,Magic Lamp,10497.0,2007-08-17,2007-09-30
+Q3 2007,5296,El inmigrante,Indican Pictures,14495.0,2007-07-13,2007-09-30
+Q3 2007,5297,If I Didn't Care,Elephant Eye Films,9902.0,2007-08-03,2007-09-30
+Q3 2007,5301,The Unknown Soldier,First Run,9602.0,2007-09-07,2007-09-30
+Q3 2007,5307,Closing Escrow,Magnolia Pictures,8719.0,2007-08-24,2007-09-30
+Q3 2007,5313,My Brother's Wedding,Milestone,8217.0,2007-09-14,2007-09-30
+Q3 2007,5318,Freshman Orientation,Regent Releasing,10074.0,2007-08-31,2007-09-30
+Q3 2007,5324,The Method,Palm Pictures,7017.0,2007-07-06,2007-09-30
+Q3 2007,5325,The Camden 28,First Run,6983.0,2007-07-27,2007-09-30
+Q3 2007,5329,Skid Row,Screen Media Films,6627.0,2007-08-24,2007-09-30
+Q3 2007,5330,In the Shadow of the Moon,THINKFilm,1134358.0,2007-09-07,2007-09-30
+Q3 2007,5335,Tekkonkinkreet,Sony Pictures Home Entertainment,6000.0,2007-07-13,2007-09-30
+Q3 2007,5346,The Inner Life of Martin Frost,New Yorker Films,5114.0,2007-09-07,2007-09-30
+Q3 2007,5348,Riding Alone for Thousands of Miles,Sony Pictures Classics,252325.0,2007-09-01,2007-09-30
+Q3 2007,5350,Lunacy,Zeitgeist Films,46666.0,2007-08-09,2007-09-30
+Q3 2007,5353,Laura Smiles,Emerging Pictures,4558.0,2007-07-27,2007-09-30
+Q3 2007,5357,Beauty Remains,Emerging Pictures,4298.0,2007-09-21,2007-09-30
+Q3 2007,5358,Summer of '04,The Cinema Guild,16516.0,2007-08-01,2007-09-30
+Q3 2007,5359,Cut Sleeve Boys,Regent Releasing,13875.0,2007-08-10,2007-09-30
+Q3 2007,5363,The Bridesmaid,First Run,111728.0,2007-08-04,2007-09-30
+Q3 2007,5367,Falling for Grace,Slowhand Cinema Releasing,31954.0,2007-07-20,2007-09-30
+Q3 2007,5368,The Price of Sugar,Mitropoulos Films,3384.0,2007-09-28,2007-09-30
+Q3 2007,5377,The World According to ShortsShort Film Program,New Yorker Films,11978.0,2007-07-21,2007-09-30
+Q3 2007,5384,Adrift in Manhattan,Screen Media Films,2099.0,2007-09-21,2007-09-30
+Q3 2007,5387,Broken Sky,Strand Releasing,29185.0,2007-09-29,2007-09-30
+Q3 2007,5403,The Case of the Grinning Cat,Icarus Films,20944.0,2007-07-21,2007-09-30
+Q3 2007,5407,Love for Sale,Strand Releasing,10947.0,2007-08-15,2007-09-30
+Q3 2007,5410,The Sugar Curtain,Icarus Films,582.0,2007-07-27,2007-09-30
+Q3 2007,5412,The Willow Tree,New Yorker Films,25209.0,2007-08-03,2007-09-30
+Q3 2007,5420,"The Photographer, His Wife, Her Lover",Icarus Films,12546.0,2007-07-26,2007-09-30
+Q4 2007,4754,I Am Legend,Warner Bros.,256393010.0,2007-12-14,2007-12-31
+Q4 2007,4758,Alvin and the Chipmunks,Twentieth Century Fox,217313244.0,2007-12-14,2007-12-31
+Q4 2007,4759,Night at the Museum,Twentieth Century Fox,250860439.0,2007-12-22,2007-12-31
+Q4 2007,4761,National Treasure: Book of Secrets,Walt Disney Studios Motion Pictures,215306145.0,2007-12-21,2007-12-31
+Q4 2007,4763,American Gangster,Universal Pictures,130164645.0,2007-11-02,2007-12-31
+Q4 2007,4764,Bee Movie,DreamWorks,126631277.0,2007-11-02,2007-12-31
+Q4 2007,4770,Enchanted,Walt Disney Studios Motion Pictures,127021094.0,2007-11-21,2007-12-31
+Q4 2007,4775,Beowulf,Paramount Pictures,82280579.0,2007-11-16,2007-12-31
+Q4 2007,4779,Fred Claus,Warner Bros.,72006777.0,2007-11-09,2007-12-31
+Q4 2007,4780,Dreamgirls,DreamWorks,103365956.0,2007-12-15,2007-12-31
+Q4 2007,4781,The Pursuit of Happyness,Sony Pictures Releasing,163313999.0,2007-12-15,2007-12-31
+Q4 2007,4782,Saw IV,Lionsgate,63300095.0,2007-10-26,2007-12-31
+Q4 2007,4787,Why Did I Get Married?,Lionsgate,55204525.0,2007-10-12,2007-12-31
+Q4 2007,4792,This Christmas,Screen Gems,49121934.0,2007-11-21,2007-12-31
+Q4 2007,4797,Dan in Real Life,Walt Disney Studios Motion Pictures,46934886.0,2007-10-26,2007-12-31
+Q4 2007,4803,30 Days of Night,Sony Pictures Releasing,39568996.0,2007-10-19,2007-12-31
+Q4 2007,4804,Hitman,Twentieth Century Fox,39663028.0,2007-11-21,2007-12-31
+Q4 2007,4805,Michael Clayton,Warner Bros.,49033882.0,2007-10-05,2007-12-31
+Q4 2007,4806,Charlie Wilson's War,Universal Pictures,66661095.0,2007-12-21,2007-12-31
+Q4 2007,4809,The Heartbreak Kid,DreamWorks,36787257.0,2007-10-05,2007-12-31
+Q4 2007,4811,Pan's Labyrinth,Picturehouse,37634615.0,2007-12-29,2007-12-31
+Q4 2007,4815,Children of Men,Universal Pictures,35552383.0,2007-12-25,2007-12-31
+Q4 2007,4820,Mr. Magorium's Wonder Emporium,Twentieth Century Fox,32023163.0,2007-11-16,2007-12-31
+Q4 2007,4821,August Rush,Warner Bros.,31664162.0,2007-11-21,2007-12-31
+Q4 2007,4822,Charlotte's Web,Paramount Pictures,82985708.0,2007-12-15,2007-12-31
+Q4 2007,4825,We Own the Night,Sony Pictures Releasing,28563179.0,2007-10-12,2007-12-31
+Q4 2007,4827,Sweeney Todd: The Demon Barber of Fleet Street,DreamWorks,52898073.0,2007-12-21,2007-12-31
+Q4 2007,4828,Aliens vs. Predator: Requiem,Twentieth Century Fox,41769281.0,2007-12-25,2007-12-31
+Q4 2007,4829,Juno,Fox Searchlight Pictures,143454918.0,2007-12-05,2007-12-31
+Q4 2007,4834,P.S. I Love You,Warner Bros.,53695808.0,2007-12-21,2007-12-31
+Q4 2007,4836,The Good Shepherd,Universal Pictures,59952835.0,2007-12-22,2007-12-31
+Q4 2007,4842,Rocky Balboa,Metro-Goldwyn-Mayer (MGM),70270943.0,2007-12-20,2007-12-31
+Q4 2007,4843,Happy Feet,Warner Bros.,198000317.0,2007-11-17,2007-12-31
+Q4 2007,4844,Blood Diamond,Warner Bros.,57377916.0,2007-12-08,2007-12-31
+Q4 2007,4851,The Water Horse,Revolution Studios,40946255.0,2007-12-25,2007-12-31
+Q4 2007,4853,Eragon,Twentieth Century Fox,75030163.0,2007-12-15,2007-12-31
+Q4 2007,4854,We Are Marshall,Warner Bros.,43545364.0,2007-12-22,2007-12-31
+Q4 2007,4859,Notes on a Scandal,Fox Searchlight Pictures,17493725.0,2007-12-25,2007-12-31
+Q4 2007,4861,Elizabeth: The Golden Age,Universal Pictures,16383509.0,2007-10-12,2007-12-31
+Q4 2007,4867,Lions for Lambs,United Artists,15002854.0,2007-11-09,2007-12-31
+Q4 2007,4869,Babel,Paramount Vantage,34302837.0,2007-10-27,2007-12-31
+Q4 2007,4870,The Nightmare Before Christmas2008 3D Release,Walt Disney Studios Motion Pictures,14476855.0,2007-10-19,2007-12-31
+Q4 2007,4875,Letters from Iwo Jima,Warner Bros.,13756082.0,2007-12-20,2007-12-31
+Q4 2007,4877,The Comebacks,Fox Atomic,13346103.0,2007-10-19,2007-12-31
+Q4 2007,4878,Casino Royale,Sony Pictures Releasing,167007184.0,2007-11-17,2007-12-31
+Q4 2007,4879,The Holiday,Sony Pictures Releasing,63224849.0,2007-12-08,2007-12-31
+Q4 2007,4881,Walk Hard: The Dewey Cox Story,Sony Pictures Releasing,18317151.0,2007-12-21,2007-12-31
+Q4 2007,4884,Atonement,Focus Features,50927067.0,2007-12-07,2007-12-31
+Q4 2007,4885,The Departed,Warner Bros.,132384315.0,2007-10-06,2007-12-31
+Q4 2007,4898,The Seeker: The Dark Is Rising,Twentieth Century Fox,8777111.0,2007-10-05,2007-12-31
+Q4 2007,4902,Apocalypto,Walt Disney Studios Motion Pictures,50300345.0,2007-12-08,2007-12-31
+Q4 2007,4903,The Painted Veil,Warner Independent Pictures (WIP),8060487.0,2007-12-20,2007-12-31
+Q4 2007,4907,Bella,Roadside Attractions,8070537.0,2007-10-26,2007-12-31
+Q4 2007,4913,The Kite Runner,Paramount Vantage,15800078.0,2007-12-14,2007-12-31
+Q4 2007,4917,Lars and the Real Girl,Metro-Goldwyn-Mayer (MGM),5972884.0,2007-10-12,2007-12-31
+Q4 2007,4918,Sea Monsters: A Prehistoric Adventure,National Geographic Entertainment,23744066.0,2007-10-05,2007-12-31
+Q4 2007,4920,The Perfect Holiday,Yari Film Group Releasing,5812781.0,2007-12-12,2007-12-31
+Q4 2007,4929,P2,Summit Entertainment,3995018.0,2007-11-09,2007-12-31
+Q4 2007,4930,Running with Scissors,Sony Pictures Releasing,7022827.0,2007-10-20,2007-12-31
+Q4 2007,4935,T-Rex: Back to the Cretaceous,IMAX,53354743.0,2007-10-23,2007-12-31
+Q4 2007,4936,Things We Lost in the Fire,DreamWorks,3287315.0,2007-10-19,2007-12-31
+Q4 2007,4937,Venus,Miramax,3347411.0,2007-12-21,2007-12-31
+Q4 2007,4939,I'm Not There,The Weinstein Company,4017609.0,2007-11-21,2007-12-31
+Q4 2007,4943,Little Children,New Line Cinema,5463019.0,2007-10-06,2007-12-31
+Q4 2007,4946,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Twentieth Century Fox,128504698.0,2007-11-03,2007-12-31
+Q4 2007,4949,Flushed Away,DreamWorks,64665672.0,2007-11-03,2007-12-31
+Q4 2007,4950,The Polar Express2007 IMAX Release,Warner Bros.,2483757.0,2007-10-05,2007-12-31
+Q4 2007,4951,Gone Baby Gone,Miramax,20300218.0,2007-10-19,2007-12-31
+Q4 2007,4952,Perfume: The Story of a Murderer,DreamWorks,2223293.0,2007-12-27,2007-12-31
+Q4 2007,4956,The Savages,Fox Searchlight Pictures,6623082.0,2007-11-28,2007-12-31
+Q4 2007,4958,Margot at the Wedding,Paramount Vantage,1959420.0,2007-11-16,2007-12-31
+Q4 2007,4960,Rendition,New Line Cinema,3092000.0,2007-10-19,2007-12-31
+Q4 2007,4961,Unaccompanied Minors,Warner Bros.,16655224.0,2007-12-08,2007-12-31
+Q4 2007,4963,No Country for Old Men,Miramax,61336965.0,2007-11-09,2007-12-31
+Q4 2007,4971,Blade RunnerThe Final Cut,Warner Bros.,1548502.0,2007-10-05,2007-12-31
+Q4 2007,4972,The Final Season,Yari Film Group Releasing,1159691.0,2007-10-12,2007-12-31
+Q4 2007,4975,Bhool Bhulaiyaa,Eros International,1097797.0,2007-10-12,2007-12-31
+Q4 2007,4981,Breaking and Entering,The Weinstein Company,930469.0,2007-12-15,2007-12-31
+Q4 2007,4983,Saawariya,Sony Pictures Releasing,885574.0,2007-11-09,2007-12-31
+Q4 2007,4985,Like Stars on Earth,UTV Motion Pictures,1223869.0,2007-12-21,2007-12-31
+Q4 2007,4987,The Good German,Warner Bros.,1308696.0,2007-12-15,2007-12-31
+Q4 2007,4989,Control,The Weinstein Company,872252.0,2007-10-10,2007-12-31
+Q4 2007,4990,Sweet Land,Libero,1706325.0,2007-10-13,2007-12-31
+Q4 2007,4995,The History Boys,Fox Searchlight Pictures,2700004.0,2007-11-21,2007-12-31
+Q4 2007,4997,The Bucket List,Warner Bros.,93466502.0,2007-12-25,2007-12-31
+Q4 2007,4998,Days of Darkness,Alliance Atlantis Vivafilm,1096628.0,2007-12-07,2007-12-31
+Q4 2007,5000,Santa vs. the Snowman 3D2007 Re-release,IMAX,769405.0,2007-11-08,2007-12-31
+Q4 2007,5010,Deja Vu,Walt Disney Studios Motion Pictures,62190904.0,2007-11-22,2007-12-31
+Q4 2007,5011,The Prestige,Walt Disney Studios Motion Pictures,53089891.0,2007-10-20,2007-12-31
+Q4 2007,5012,The Work and the Glory III: A House Divided,Excel Entertainment,1325092.0,2007-11-22,2007-12-31
+Q4 2007,5014,Roméo et Juliette,Alliance Atlantis Vivafilm,1374314.0,2007-12-15,2007-12-31
+Q4 2007,5016,Inland Empire,518 Media,861355.0,2007-12-06,2007-12-31
+Q4 2007,5017,Galapagos,IMAX,18627957.0,2007-10-29,2007-12-31
+Q4 2007,5018,Curse of the Golden Flower,Sony Pictures Classics,4538871.0,2007-12-21,2007-12-31
+Q4 2007,5022,Starting Out in the Evening,Roadside Attractions,898696.0,2007-11-23,2007-12-31
+Q4 2007,5024,The Nativity Story,New Line Cinema,36726539.0,2007-12-01,2007-12-31
+Q4 2007,5035,There Will Be Blood,Paramount Vantage,40222514.0,2007-12-26,2007-12-31
+Q4 2007,5037,Deck the Halls,Twentieth Century Fox,35090599.0,2007-11-22,2007-12-31
+Q4 2007,5040,The Santa Clause 3: The Escape Clause,Walt Disney Studios Motion Pictures,83875062.0,2007-11-03,2007-12-31
+Q4 2007,5041,Days of Glory,The Weinstein Company,320700.0,2007-12-06,2007-12-31
+Q4 2007,5045,Romeo & Juliet: Sealed with a Kiss,Indican Pictures,462107.0,2007-10-27,2007-12-31
+Q4 2007,5046,Volver,Sony Pictures Classics,6798460.0,2007-11-03,2007-12-31
+Q4 2007,5051,For the Bible Tells Me So,First Run,305503.0,2007-10-05,2007-12-31
+Q4 2007,5054,The Orphanage,Picturehouse,7161284.0,2007-12-28,2007-12-31
+Q4 2007,5055,Mrs. Worthington's Party,8x Entertainment,257868.0,2007-12-07,2007-12-31
+Q4 2007,5056,Sarah Landon and the Paranormal Hour,Freestyle Releasing,454000.0,2007-10-19,2007-12-31
+Q4 2007,5060,O Jerusalem,IDP Distribution,234480.0,2007-10-17,2007-12-31
+Q4 2007,5061,Joe Strummer: The Future Is Unwritten,IFC Films,248362.0,2007-11-02,2007-12-31
+Q4 2007,5064,Stranger Than Fiction,Sony Pictures Releasing,40660952.0,2007-11-10,2007-12-31
+Q4 2007,5068,Dus Kahaniyaan,Eros International,219071.0,2007-12-07,2007-12-31
+Q4 2007,5071,My Kid Could Paint That,Sony Pictures Classics,231574.0,2007-10-05,2007-12-31
+Q4 2007,5072,The Fountain,Warner Bros.,10144010.0,2007-11-22,2007-12-31
+Q4 2007,5078,The Ten Commandments,Rocky Mountain Pictures,952820.0,2007-10-19,2007-12-31
+Q4 2007,5080,What Would Jesus Buy?,Warrior Poets Releasing,200010.0,2007-11-16,2007-12-31
+Q4 2007,5087,The Polar Express2006 IMAX Release,Warner Bros.,2940722.0,2007-11-17,2007-12-31
+Q4 2007,5088,The Rules of the Game,Janus Films,268510.0,2007-10-27,2007-12-31
+Q4 2007,5093,Music Within,Metro-Goldwyn-Mayer (MGM),154087.0,2007-10-26,2007-12-31
+Q4 2007,5099,Iraq in Fragments,Arab Film Distribution,202928.0,2007-11-08,2007-12-31
+Q4 2007,5101,For Your Consideration,Warner Independent Pictures (WIP),5549923.0,2007-11-17,2007-12-31
+Q4 2007,5102,Youth Without Youth,Sony Pictures Classics,244397.0,2007-12-14,2007-12-31
+Q4 2007,5106,Dhan Dhana Dhan Goal,UTV Motion Pictures,125547.0,2007-11-21,2007-12-31
+Q4 2007,5107,Before the Devil Knows You're Dead,THINKFilm,7084227.0,2007-10-26,2007-12-31
+Q4 2007,5110,Reservation Road,Focus Features,121994.0,2007-10-19,2007-12-31
+Q4 2007,5113,Darfur Now,Warner Independent Pictures (WIP),109107.0,2007-11-02,2007-12-31
+Q4 2007,5119,Mr. Untouchable,Magnolia Pictures,104678.0,2007-10-26,2007-12-31
+Q4 2007,5120,Québec sur ordonnance,Alliance Atlantis Vivafilm,101896.0,2007-10-05,2007-12-31
+Q4 2007,5122,Aida,Emerging Pictures,212449.0,2007-12-09,2007-12-31
+Q4 2007,5124,King Corn,Balcony Releasing,103346.0,2007-10-12,2007-12-31
+Q4 2007,5126,The Wedding Weekend,The Weinstein Company,1215045.0,2007-10-27,2007-12-31
+Q4 2007,5130,Pete Seeger: The Power of Song,The Weinstein Company,88312.0,2007-10-26,2007-12-31
+Q4 2007,5134,Revolver2007 Re-release,IDP Distribution,84738.0,2007-12-07,2007-12-31
+Q4 2007,5136,Jimmy Carter Man from Plains,Sony Pictures Classics,80791.0,2007-10-26,2007-12-31
+Q4 2007,5140,Kurt Cobain About a Son,Balcony Releasing,83164.0,2007-10-03,2007-12-31
+Q4 2007,5144,Climates,Zeitgeist Films,119958.0,2007-10-27,2007-12-31
+Q4 2007,5146,Holly,Priority Films,108252.0,2007-11-09,2007-12-31
+Q4 2007,5147,The Red Balloon / White ManeDouble Bill,Janus Films,69139.0,2007-11-16,2007-12-31
+Q4 2007,5151,Redacted,Magnolia Pictures,65388.0,2007-11-16,2007-12-31
+Q4 2007,5155,How to Cook Your Life,Roadside Attractions,86068.0,2007-10-26,2007-12-31
+Q4 2007,5156,Santa vs. the Snowman 3D2006 Re-release,IMAX,928275.0,2007-10-30,2007-12-31
+Q4 2007,5157,War Dance,THINKFilm,57685.0,2007-11-09,2007-12-31
+Q4 2007,5159,Steep,Sony Pictures Classics,246764.0,2007-12-21,2007-12-31
+Q4 2007,5160,The Walker,THINKFilm,54966.0,2007-12-07,2007-12-31
+Q4 2007,5161,Finishing the Game: The Search for a New Bruce Lee,IFC Films,52868.0,2007-10-05,2007-12-31
+Q4 2007,5162,Shortbus,THINKFilm,1985292.0,2007-10-04,2007-12-31
+Q4 2007,5164,Strength and Honour,Slowhand Cinema Releasing,51933.0,2007-12-07,2007-12-31
+Q4 2007,5165,Home of the Brave,Metro-Goldwyn-Mayer (MGM),51708.0,2007-12-15,2007-12-31
+Q4 2007,5169,Van Wilder 2: The Rise of Taj,Metro-Goldwyn-Mayer (MGM),4300645.0,2007-12-01,2007-12-31
+Q4 2007,5172,Two Weeks,Metro-Goldwyn-Mayer (MGM),47986.0,2007-12-01,2007-12-31
+Q4 2007,5173,Terror's Advocate,Magnolia Pictures,47724.0,2007-10-12,2007-12-31
+Q4 2007,5184,Candy,THINKFilm,43872.0,2007-11-17,2007-12-31
+Q4 2007,5187,Moondance Alexander,Rocky Mountain Pictures,37895.0,2007-10-19,2007-12-31
+Q4 2007,5188,Persepolis,Sony Pictures Classics,4039579.0,2007-12-25,2007-12-31
+Q4 2007,5190,2 or 3 Things I Know About Her,Rialto Pictures,100087.0,2007-11-17,2007-12-31
+Q4 2007,5191,Grace Is Gone,The Weinstein Company,50899.0,2007-12-07,2007-12-31
+Q4 2007,5192,Canvas,Screen Media Films,35630.0,2007-10-12,2007-12-31
+Q4 2007,5194,Bon Jovi: Lost Highway - The Concert,The Bigger Picture,35000.0,2007-11-09,2007-12-31
+Q4 2007,5200,Copying Beethoven,Metro-Goldwyn-Mayer (MGM),384029.0,2007-11-10,2007-12-31
+Q4 2007,5201,Local Color,Monterey Media,32788.0,2007-10-19,2007-12-31
+Q4 2007,5205,La Chinoise,Koch Lorber Films,30857.0,2007-10-10,2007-12-31
+Q4 2007,5207,Flicka,Twentieth Century Fox,20918809.0,2007-10-20,2007-12-31
+Q4 2007,5209,Unconscious,Regent Releasing,30653.0,2007-12-29,2007-12-31
+Q4 2007,5212,Billy the Kid,Elephant Eye Films,27693.0,2007-12-05,2007-12-31
+Q4 2007,5214,Nanking,THINKFilm,26212.0,2007-12-12,2007-12-31
+Q4 2007,5218,Lake of Fire,THINKFilm,25317.0,2007-10-03,2007-12-31
+Q4 2007,5220,I'll Believe You,Stand Up Films,24110.0,2007-11-09,2007-12-31
+Q4 2007,5225,Jonestown: The Life and Death of Peoples Temple,Seventh Art Releasing,138535.0,2007-10-20,2007-12-31
+Q4 2007,5227,The Good Night,Yari Film Group Releasing,22441.0,2007-10-05,2007-12-31
+Q4 2007,5228,The Bridge,First Stripe Productions,175175.0,2007-10-27,2007-12-31
+Q4 2007,5229,Rails & Ties,Warner Bros.,22136.0,2007-10-26,2007-12-31
+Q4 2007,5233,Tenacious D in The Pick of Destiny,New Line Cinema,8334575.0,2007-11-22,2007-12-31
+Q4 2007,5238,Turistas,Fox Atomic,6967793.0,2007-12-01,2007-12-31
+Q4 2007,5239,Romántico,Kino International,29460.0,2007-11-01,2007-12-31
+Q4 2007,5241,Dirty Laundry,Codeblack Entertainment,20138.0,2007-12-07,2007-12-31
+Q4 2007,5242,Driving Lessons,Sony Pictures Classics,239962.0,2007-10-13,2007-12-31
+Q4 2007,5243,Steal a Pencil for Me,Seventh Art Releasing,18918.0,2007-11-09,2007-12-31
+Q4 2007,5249,The Aura,IFC Films,58804.0,2007-11-15,2007-12-31
+Q4 2007,5250,The Singing Revolution,Abramorama,426855.0,2007-12-07,2007-12-31
+Q4 2007,5251,Black Gold,California Newsreel,92277.0,2007-10-06,2007-12-31
+Q4 2007,5252,The Sensation of Sight,Monterey Media,22602.0,2007-11-09,2007-12-31
+Q4 2007,5253,Yiddish Theater: A Love Story,New Love Films,37611.0,2007-11-21,2007-12-31
+Q4 2007,5257,The Amateurs2007 Re-release,First Look International,16334.0,2007-12-07,2007-12-31
+Q4 2007,5258,Look,Vitagraph Films,16136.0,2007-12-14,2007-12-31
+Q4 2007,5261,Monkey Warfare,Alliance Atlantis Vivafilm,33800.0,2007-12-08,2007-12-31
+Q4 2007,5262,The Marine,Twentieth Century Fox,18798802.0,2007-10-13,2007-12-31
+Q4 2007,5265,El Topo,ABKCO Films,80302.0,2007-12-13,2007-12-31
+Q4 2007,5267,Desert Bayou,Cinema Libre Studio,14350.0,2007-10-05,2007-12-31
+Q4 2007,5269,The Piano Tuner of EarthQuakes,Zeitgeist Films,28869.0,2007-11-17,2007-12-31
+Q4 2007,5270,Protagonist,IFC Films,13850.0,2007-11-30,2007-12-31
+Q4 2007,5275,The Nightmare Before Christmas2006 3D Release,Walt Disney Studios Motion Pictures,8700869.0,2007-10-20,2007-12-31
+Q4 2007,5276,The Dead Girl,First Look International,19875.0,2007-12-29,2007-12-31
+Q4 2007,5279,Absolute Wilson,New Yorker Films,64723.0,2007-10-27,2007-12-31
+Q4 2007,5286,The Texas Chainsaw Massacre: The Beginning,New Line Cinema,39517763.0,2007-10-06,2007-12-31
+Q4 2007,5287,Samoan Wedding,Magnolia Pictures,72244.0,2007-11-10,2007-12-31
+Q4 2007,5290,The Violin,Film Movement,64846.0,2007-12-05,2007-12-31
+Q4 2007,5293,Guadalupe,Slowhand Cinema Releasing,848139.0,2007-12-08,2007-12-31
+Q4 2007,5295,Fast Food Nation,Fox Searchlight Pictures,994101.0,2007-11-17,2007-12-31
+Q4 2007,5298,Honeydripper,Emerging Pictures,267880.0,2007-12-28,2007-12-31
+Q4 2007,5302,The Sasquatch Gang,Screen Media Films,9458.0,2007-11-30,2007-12-31
+Q4 2007,5303,Smiley Face,First Look International,9397.0,2007-11-16,2007-12-31
+Q4 2007,5304,Opal Dream,Strand Releasing,14065.0,2007-11-22,2007-12-31
+Q4 2007,5305,Slipstream,Strand Releasing,8965.0,2007-10-26,2007-12-31
+Q4 2007,5306,Black White + Gray: A Portrait of Sam Wagstaff and Robert Mapplethorpe,Arthouse Films,8939.0,2007-10-19,2007-12-31
+Q4 2007,5311,A Good Year,Twentieth Century Fox,7438586.0,2007-11-10,2007-12-31
+Q4 2007,5314,Shotgun Stories,International Film Circuit,45465.0,2007-12-14,2007-12-31
+Q4 2007,5315,Weirdsville,Magnolia Pictures,8161.0,2007-10-05,2007-12-31
+Q4 2007,5321,Midnight Eagle,Strand Releasing,7116.0,2007-11-23,2007-12-31
+Q4 2007,5322,Nina's Heavenly Delights2007 Re-release,Regent Releasing,9125.0,2007-11-21,2007-12-31
+Q4 2007,5323,Quantum Hoops,Green Forest Films,7075.0,2007-11-02,2007-12-31
+Q4 2007,5331,The Tiger and the Snow,Strand Releasing,10167.0,2007-12-29,2007-12-31
+Q4 2007,5333,Backstage,Strand Releasing,11481.0,2007-11-22,2007-12-31
+Q4 2007,5338,Mr. Blue Sky,Rocky Mountain Pictures,5713.0,2007-11-09,2007-12-31
+Q4 2007,5340,Masai: The Rain Warriors2006 Re-release,ArtMattan Productions,7254.0,2007-10-20,2007-12-31
+Q4 2007,5343,Choking Man,International Film Circuit,5474.0,2007-11-09,2007-12-31
+Q4 2007,5349,Everything's Cool,City Lights Pictures,4890.0,2007-11-23,2007-12-31
+Q4 2007,5352,Blonde Ambition,First Look International,6422.0,2007-12-21,2007-12-31
+Q4 2007,5354,Surviving My Mother,Alliance Atlantis Vivafilm,222332.0,2007-11-02,2007-12-31
+Q4 2007,5364,Skid Marks,Diversa Films,3615.0,2007-10-05,2007-12-31
+Q4 2007,5369,Mrs. Palfrey at the Claremont,Cineville,1720953.0,2007-11-25,2007-12-31
+Q4 2007,5371,Dark Blue Almost Black2007 Re-release,Strand Releasing,6646.0,2007-10-19,2007-12-31
+Q4 2007,5378,He Was a Quiet Man,Mitropoulos Films,2431.0,2007-11-30,2007-12-31
+Q4 2007,5380,Chronicle of an Escape,IFC Films,2370.0,2007-11-30,2007-12-31
+Q4 2007,5388,Oswald's Ghost,Seventh Art Releasing,1796.0,2007-11-30,2007-12-31
+Q4 2007,5389,A Soap,Strand Releasing,3898.0,2007-11-03,2007-12-31
+Q4 2007,5392,The Secret Life of Words,Strand Releasing,18649.0,2007-12-15,2007-12-31
+Q4 2007,5393,Divine Intervention,Bullz Eye Productions,1485.0,2007-11-30,2007-12-31
+Q4 2007,5394,Out of the Blue2007 Re-release,IFC Films,1477.0,2007-10-19,2007-12-31
+Q4 2007,5395,'Tis Autumn: The Search for Jackie Paris,Outsider Films,1476.0,2007-12-07,2007-12-31
+Q4 2007,5404,Eleven Men Out2007 Re-release,Regent Releasing,1000.0,2007-11-16,2007-12-31
+Q4 2007,5406,It's a Boy Girl Thing,Alliance Atlantis Vivafilm,848.0,2007-12-07,2007-12-31
+Q4 2007,5408,Flakes,IFC Films,778.0,2007-12-19,2007-12-31
+Q4 2007,5414,The Last Door,Alliance Atlantis Vivafilm,488.0,2007-11-30,2007-12-31
+Q4 2007,5416,Intervention,Alliance Atlantis Vivafilm,279.0,2007-11-30,2007-12-31
+Q4 2007,5417,Looking for Cheyenne,Regent Releasing,251.0,2007-12-07,2007-12-31
