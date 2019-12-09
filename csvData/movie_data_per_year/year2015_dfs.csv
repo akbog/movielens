@@ -1,0 +1,665 @@
+season,Unnamed: 0,movie,studio,gross,release,time
+Q1 2015,10023,Cinderella,Walt Disney Studios Motion Pictures,197998802.0,2015-03-13,2015-03-31
+Q1 2015,10028,Home,Twentieth Century Fox,177352879.0,2015-03-27,2015-03-31
+Q1 2015,10030,Fifty Shades Marathon,Universal Pictures,166167230.0,2015-02-13,2015-03-31
+Q1 2015,10031,The SpongeBob Movie: Sponge Out of Water,Paramount Pictures,162994032.0,2015-02-06,2015-03-31
+Q1 2015,10035,Insurgent,Lionsgate,130179072.0,2015-03-20,2015-03-31
+Q1 2015,10037,Kingsman: The Secret Service,Twentieth Century Fox,128219589.0,2015-02-13,2015-03-31
+Q1 2015,10043,Get Hard,Warner Bros.,90411453.0,2015-03-27,2015-03-31
+Q1 2015,10045,Taken 3,Twentieth Century Fox,89179052.0,2015-01-09,2015-03-31
+Q1 2015,10060,The Wedding Ringer,Screen Gems,64460211.0,2015-01-16,2015-03-31
+Q1 2015,10067,Focus,Warner Bros.,53862963.0,2015-02-27,2015-03-31
+Q1 2015,10073,Jupiter Ascending,Warner Bros.,47387723.0,2015-02-06,2015-03-31
+Q1 2015,10081,"McFarland, USA",Walt Disney Studios Motion Pictures,44076263.0,2015-02-20,2015-03-31
+Q1 2015,10086,The Boy Next Door,Universal Pictures,35423380.0,2015-01-23,2015-03-31
+Q1 2015,10089,The Duff,Lionsgate,34030343.0,2015-02-20,2015-03-31
+Q1 2015,10091,The Second Best Exotic Marigold Hotel,Fox Searchlight Pictures,33021238.0,2015-03-06,2015-03-31
+Q1 2015,10095,Chappie,Sony Pictures Releasing,31569268.0,2015-03-06,2015-03-31
+Q1 2015,10103,The Woman in Black 2: Angel of Death,Relativity Media,26501323.0,2015-01-02,2015-03-31
+Q1 2015,10104,Run All Night,Warner Bros.,26461644.0,2015-03-13,2015-03-31
+Q1 2015,10107,The Lazarus Effect,Relativity Media,25801570.0,2015-02-27,2015-03-31
+Q1 2015,10111,Hubble 3D,Warner Bros.,52503602.0,2015-03-19,2015-03-31
+Q1 2015,10114,Project Almanac,Paramount Pictures,22348241.0,2015-01-30,2015-03-31
+Q1 2015,10115,Black or White,Relativity Media,21571189.0,2015-01-30,2015-03-31
+Q1 2015,10128,Seventh Son,Universal Pictures,17223265.0,2015-02-06,2015-03-31
+Q1 2015,10133,It Follows,RADiUS-TWC,14674076.0,2015-03-13,2015-03-31
+Q1 2015,10139,Do You Believe?,Pure Flix Entertainment,12985600.0,2015-03-20,2015-03-31
+Q1 2015,10142,Hot Tub Time Machine 2,Paramount Pictures,12314651.0,2015-02-20,2015-03-31
+Q1 2015,10146,Strange Magic,Walt Disney Studios Motion Pictures,11937516.0,2015-01-23,2015-03-31
+Q1 2015,10147,The Gunman,Open Road Films (II),10664749.0,2015-03-20,2015-03-31
+Q1 2015,10148,Unfinished Business,Twentieth Century Fox,10204358.0,2015-03-06,2015-03-31
+Q1 2015,10152,Under the Sea 3D,Warner Bros.,36223935.0,2015-02-13,2015-03-31
+Q1 2015,10157,Blackhat,Universal Pictures,8005980.0,2015-01-16,2015-03-31
+Q1 2015,10158,Mortdecai,Lionsgate,7696134.0,2015-01-23,2015-03-31
+Q1 2015,10167,The Loft,Open Road Films (II),6002684.0,2015-01-30,2015-03-31
+Q1 2015,10171,Danny Collins,Bleecker Street Media,5637066.0,2015-03-20,2015-03-31
+Q1 2015,10185,A la mala,Lionsgate,3629842.0,2015-02-27,2015-03-31
+Q1 2015,10186,Spare Parts,Lionsgate,3618912.0,2015-01-16,2015-03-31
+Q1 2015,10188,Deep Sea,Warner Bros.,46403478.0,2015-03-03,2015-03-31
+Q1 2015,10200,The Oscar Nominated Short Films 2015: Live Action,Shorts International,2412593.0,2015-01-30,2015-03-31
+Q1 2015,10206,Cake,Cinelou Films,1951776.0,2015-01-23,2015-03-31
+Q1 2015,10209,Old Fashioned,Freestyle Releasing,1914090.0,2015-02-06,2015-03-31
+Q1 2015,10211,Game of Thrones Season 4 Finale,Warner Bros.,1896092.0,2015-01-30,2015-03-31
+Q1 2015,10219,I,Aascar Film,1449232.0,2015-01-13,2015-03-31
+Q1 2015,10227,'71,Roadside Attractions,1270847.0,2015-02-27,2015-03-31
+Q1 2015,10236,Black Sea,Focus Features,1171559.0,2015-01-23,2015-03-31
+Q1 2015,10244,Patterns of Evidence: Exodus,Thinking Man Films,925576.0,2015-01-19,2015-03-31
+Q1 2015,10267,The Last: Naruto the Movie,Eleven Arts,524451.0,2015-02-20,2015-03-31
+Q1 2015,10274,Somewhere Only We Know,China Lion Film Distribution,482341.0,2015-02-13,2015-03-31
+Q1 2015,10285,City of Revenge,Eros International,409166.0,2015-02-20,2015-03-31
+Q1 2015,10287,The Hunting Ground,RADiUS-TWC,401322.0,2015-02-27,2015-03-31
+Q1 2015,10296,Ballet 422,Magnolia Pictures,333554.0,2015-02-06,2015-03-31
+Q1 2015,10297,Maps to the Stars,Focus World,331540.0,2015-02-27,2015-03-31
+Q1 2015,10298,Shamitabh,Eros International,324597.0,2015-02-06,2015-03-31
+Q1 2015,10302,NH10,Eros International,303587.0,2015-03-13,2015-03-31
+Q1 2015,10306,Above and Beyond,International Film Circuit,288751.0,2015-01-30,2015-03-31
+Q1 2015,10308,Timbuktu,Cohen Media Group,1043803.0,2015-01-28,2015-03-31
+Q1 2015,10313,Tevar,Eros International,236002.0,2015-01-09,2015-03-31
+Q1 2015,10314,Miss Granny,CJ Entertainment,234573.0,2015-01-16,2015-03-31
+Q1 2015,10315,The Taking of Tiger Mountain,Well Go USA Entertainment,228984.0,2015-01-02,2015-03-31
+Q1 2015,10321,The Grand Budapest Hotel,Fox Searchlight Pictures,59301324.0,2015-03-07,2015-03-31
+Q1 2015,10327,Lost and Love,China Lion Film Distribution,188817.0,2015-03-20,2015-03-31
+Q1 2015,10330,Detective K: Secret of the Lost Island,CJ Entertainment,185367.0,2015-03-06,2015-03-31
+Q1 2015,10333,Serena,Magnolia Pictures,176391.0,2015-03-27,2015-03-31
+Q1 2015,10336,Zhongkui: Snow Girl and the Dark Crystal,Well Go USA Entertainment,165428.0,2015-02-27,2015-03-31
+Q1 2015,10337,C'est Si Bon,CJ Entertainment,164167.0,2015-02-13,2015-03-31
+Q1 2015,10339,After the Ball,Freestyle Releasing,161820.0,2015-02-27,2015-03-31
+Q1 2015,10341,Human Capital,Film Movement,158549.0,2015-01-09,2015-03-31
+Q1 2015,10346,Backstreet Boys: Show 'Em What You're Made Of,Gravitas Ventures,153068.0,2015-01-30,2015-03-31
+Q1 2015,10350,The Last Five Years,RADiUS-TWC,145427.0,2015-02-13,2015-03-31
+Q1 2015,10354,"Buen Día, Ramón",FIP,146591.0,2015-01-30,2015-03-31
+Q1 2015,10364,Road Hard,FilmBuff,113169.0,2015-03-06,2015-03-31
+Q1 2015,10371,Deli Man,Cohen Media Group,462340.0,2015-02-27,2015-03-31
+Q1 2015,10383,The Tales of Hoffmann,Rialto Pictures,86507.0,2015-03-13,2015-03-31
+Q1 2015,10386,Trace Amounts,GathrFilms,77272.0,2015-01-02,2015-03-31
+Q1 2015,10393,Predestination,Vertical Entertainment,68372.0,2015-01-09,2015-03-31
+Q1 2015,10407,Girlhood,Strand Releasing,60765.0,2015-01-30,2015-03-31
+Q1 2015,10415,Spring,Drafthouse Films,49970.0,2015-03-20,2015-03-31
+Q1 2015,10418,3 Hearts,Cohen Media Group,161129.0,2015-03-13,2015-03-31
+Q1 2015,10422,Appropriate Behaviour,Gravitas Ventures,46912.0,2015-01-16,2015-03-31
+Q1 2015,10432,Queen & Country,BBC Worldwide North America,41297.0,2015-02-18,2015-03-31
+Q1 2015,10440,Grey Gardens,Janus Films,36923.0,2015-03-06,2015-03-31
+Q1 2015,10447,Oneului yeonae,CJ Entertainment,32211.0,2015-01-23,2015-03-31
+Q1 2015,10448,Amira & Sam,Drafthouse Films,31849.0,2015-01-30,2015-03-31
+Q1 2015,10454,While We're Young,A24,7375215.0,2015-03-27,2015-03-31
+Q1 2015,10458,"Like Sunday, Like Rain",Monterey Media,28208.0,2015-03-06,2015-03-31
+Q1 2015,10463,R100,Drafthouse Films,24956.0,2015-01-23,2015-03-31
+Q1 2015,10471,Song One,The Film Arcade,20200.0,2015-01-23,2015-03-31
+Q1 2015,10477,Jauja2014 Re-release,The Cinema Guild,58403.0,2015-03-20,2015-03-31
+Q1 2015,10480,Gangnam Blues,CJ Entertainment,18022.0,2015-02-06,2015-03-31
+Q1 2015,10487,Eva2015 Re-release,The Weinstein Company,16738.0,2015-03-13,2015-03-31
+Q1 2015,10490,Can't Stand Losing You: Surviving the Police,Cinema Libre Studio,23262.0,2015-03-20,2015-03-31
+Q1 2015,10495,Zombeavers,Freestyle Releasing,14947.0,2015-03-20,2015-03-31
+Q1 2015,10497,"Love, Rosie",The Film Arcade,14893.0,2015-02-06,2015-03-31
+Q1 2015,10500,Hard to Be a God,Kino Lorber,26653.0,2015-01-30,2015-03-31
+Q1 2015,10501,Buzzard,Oscilloscope,14591.0,2015-03-06,2015-03-31
+Q1 2015,10503,The Search for General Tso,IFC Films,54275.0,2015-01-02,2015-03-31
+Q1 2015,10518,Beloved Sisters,Music Box Films,53320.0,2015-01-09,2015-03-31
+Q1 2015,10519,The Devil's Violinist,Freestyle Releasing,11294.0,2015-01-30,2015-03-31
+Q1 2015,10525,Empire of Lust,CJ Entertainment,10654.0,2015-03-06,2015-03-31
+Q1 2015,10528,Little Accidents,Amplify,10071.0,2015-01-16,2015-03-31
+Q1 2015,10530,Still Life,Tribeca Film,9481.0,2015-01-16,2015-03-31
+Q1 2015,10541,One Small Hitch2015 Re-release,Freestyle Releasing,7965.0,2015-02-06,2015-03-31
+Q1 2015,10543,Sapience,Kino Lorber,135392.0,2015-03-20,2015-03-31
+Q1 2015,10563,Farewell to Hollywood,International Film Circuit,8222.0,2015-02-25,2015-03-31
+Q1 2015,10575,Sarajevo,The Film Desk,5247.0,2015-03-27,2015-03-31
+Q1 2015,10581,Against the Sun,The American Film Company,4646.0,2015-01-23,2015-03-31
+Q1 2015,10584,Farewell Herr Schwarz,Kino Lorber,4445.0,2015-01-09,2015-03-31
+Q1 2015,10590,Three Night Stand,Freestyle Releasing,4076.0,2015-01-16,2015-03-31
+Q1 2015,10592,Salvation Army,Strand Releasing,3929.0,2015-01-23,2015-03-31
+Q1 2015,10597,Eastern Boys,First Run,15163.0,2015-02-27,2015-03-31
+Q1 2015,10616,Cupcakes,Strand Releasing,8904.0,2015-03-27,2015-03-31
+Q1 2015,10618,Hayride 2,Freestyle Releasing,2571.0,2015-03-06,2015-03-31
+Q1 2015,10619,The Lesson,Film Movement,8690.0,2015-03-04,2015-03-31
+Q1 2015,10620,Li'l Quinquin,Kino Lorber,5727.0,2015-01-02,2015-03-31
+Q1 2015,10625,Nostalgia for the Light,Icarus Films,163962.0,2015-01-13,2015-03-31
+Q1 2015,10626,Futuro Beach,Strand Releasing,20089.0,2015-02-27,2015-03-31
+Q1 2015,10627,Anita Ho,Indican Pictures,2250.0,2015-02-27,2015-03-31
+Q1 2015,10636,The Wrecking Crew!,Magnolia Pictures,752642.0,2015-03-13,2015-03-31
+Q1 2015,10644,The Other Man: F.W. de Klerk and the End of Apartheid,First Run,1747.0,2015-02-06,2015-03-31
+Q1 2015,10656,Sur le chemin de l'école2015 Re-release,Distrib Films,7424.0,2015-02-06,2015-03-31
+Q1 2015,10666,The Marquise of O,Film Movement,1451.0,2015-03-27,2015-03-31
+Q1 2015,10671,The Kidnapping of Michel Houellebecq,Kino Lorber,11368.0,2015-03-25,2015-03-31
+Q1 2015,10672,"Kumiko, the Treasure Hunter",Amplify,617778.0,2015-03-18,2015-03-31
+Q1 2015,10679,[REC] 4: Apocalypse,Magnolia Pictures,837.0,2015-01-02,2015-03-31
+Q1 2015,10680,It's All So Quiet2015 Re-release,Big World Pictures,724.0,2015-01-09,2015-03-31
+Q1 2015,10681,It's Hard Being Loved by Jerks2015 Re-release,Kino Lorber,697.0,2015-03-13,2015-03-31
+Q1 2015,10685,Gett: The Trial of Viviane Amsalem,Music Box Films,975702.0,2015-02-13,2015-03-31
+Q1 2015,10687,White God,Magnolia Pictures,264890.0,2015-03-27,2015-03-31
+Q1 2015,10691,Of Horses and Men,Music Box Films,10004.0,2015-03-06,2015-03-31
+Q1 2015,10693,An Honest Liar,Abramorama,177846.0,2015-03-06,2015-03-31
+Q1 2015,10701,Big Muddy,Monterey Media,857.0,2015-01-23,2015-03-31
+Q1 2015,10703,Amour Fou,Film Movement,12314.0,2015-03-18,2015-03-31
+Q1 2015,10711,"Je t'aime, je t'aime2014 Re-release",The Film Desk,71717.0,2015-02-14,2015-03-31
+Q1 2015,10716,She's Lost Control,Monument Releasing,3740.0,2015-03-20,2015-03-31
+Q2 2015,10014,Jurassic World,Universal Pictures,652270625.0,2015-06-12,2015-06-30
+Q2 2015,10016,Avengers: Age of Ultron,Walt Disney Studios Motion Pictures,459005868.0,2015-05-01,2015-06-30
+Q2 2015,10017,Inside Out,Walt Disney Studios Motion Pictures,356461711.0,2015-06-19,2015-06-30
+Q2 2015,10018,Furious 7,Universal Pictures,353007020.0,2015-04-03,2015-06-30
+Q2 2015,10026,Pitch Perfect 2,Universal Pictures,184296230.0,2015-05-15,2015-06-30
+Q2 2015,10033,San Andreas,Warner Bros.,155190832.0,2015-05-29,2015-06-30
+Q2 2015,10034,Mad Max: Fury Road,Warner Bros.,153636354.0,2015-05-15,2015-06-30
+Q2 2015,10038,Spy,Twentieth Century Fox,110825712.0,2015-06-05,2015-06-30
+Q2 2015,10042,Tomorrowland,Walt Disney Studios Motion Pictures,91304790.0,2015-05-22,2015-06-30
+Q2 2015,10047,Ted 2,Universal Pictures,81476385.0,2015-06-26,2015-06-30
+Q2 2015,10053,Paul Blart: Mall Cop 2,Sony Pictures Releasing,71038190.0,2015-04-17,2015-06-30
+Q2 2015,10070,Insidious: Chapter 3,Focus Features,52218558.0,2015-06-05,2015-06-30
+Q2 2015,10074,Poltergeist,Twentieth Century Fox,47363594.0,2015-05-22,2015-06-30
+Q2 2015,10082,Max,Warner Bros.,42656255.0,2015-06-26,2015-06-30
+Q2 2015,10083,The Age of Adaline,Lionsgate,42629776.0,2015-04-24,2015-06-30
+Q2 2015,10085,The Longest Ride,Twentieth Century Fox,37421866.0,2015-04-10,2015-06-30
+Q2 2015,10088,Hot Pursuit,Warner Bros.,34580201.0,2015-05-08,2015-06-30
+Q2 2015,10090,Woman in Gold,The Weinstein Company,33307793.0,2015-04-01,2015-06-30
+Q2 2015,10092,Unfriended,Universal Pictures,32482090.0,2015-04-17,2015-06-30
+Q2 2015,10093,Entourage,Warner Bros.,32363404.0,2015-06-03,2015-06-30
+Q2 2015,10117,Aloha,Sony Pictures Releasing,20482456.0,2015-05-29,2015-06-30
+Q2 2015,10126,Dope,Open Road Films (II),17506470.0,2015-06-19,2015-06-30
+Q2 2015,10130,Monkey Kingdom,Walt Disney Studios Motion Pictures,15867156.0,2015-04-17,2015-06-30
+Q2 2015,10140,Love & Mercy,Roadside Attractions,12551031.0,2015-06-05,2015-06-30
+Q2 2015,10144,Far from the Madding Crowd,Fox Searchlight Pictures,12140679.0,2015-05-01,2015-06-30
+Q2 2015,10159,I'll See You in My Dreams,Bleecker Street Media,7449681.0,2015-05-15,2015-06-30
+Q2 2015,10164,Space Station 3D,IMAX,93379882.0,2015-04-19,2015-06-30
+Q2 2015,10165,Me and Earl and the Dying Girl,Fox Searchlight Pictures,6601163.0,2015-06-12,2015-06-30
+Q2 2015,10166,Little Boy,Open Road Films (II),6485961.0,2015-04-24,2015-06-30
+Q2 2015,10168,Ex Machina,A24,19556131.0,2015-04-10,2015-06-30
+Q2 2015,10174,True Story,Fox Searchlight Pictures,4708938.0,2015-04-17,2015-06-30
+Q2 2015,10180,The Water Diviner,Warner Bros.,4196641.0,2015-04-24,2015-06-30
+Q2 2015,10189,Dil Dhadakne Do,Eros International,3066100.0,2015-06-05,2015-06-30
+Q2 2015,10208,Island of Lemurs: Madagascar,Warner Bros.,11269209.0,2015-04-04,2015-06-30
+Q2 2015,10222,The Cokeville Miracle,Excel Entertainment,1348456.0,2015-06-05,2015-06-30
+Q2 2015,10224,The Wolfpack,Magnolia Pictures,1301696.0,2015-06-12,2015-06-30
+Q2 2015,10228,Clouds of Sils Maria,IFC Films,1851517.0,2015-04-10,2015-06-30
+Q2 2015,10230,Child 44,Lionsgate,1224330.0,2015-04-17,2015-06-30
+Q2 2015,10233,Beyond the Mask,GathrFilms,1236094.0,2015-04-06,2015-06-30
+Q2 2015,10234,To the Arctic 3D,Warner Bros.,14553890.0,2015-04-20,2015-06-30
+Q2 2015,10238,Where Hope Grows,Roadside Attractions,1156000.0,2015-05-15,2015-06-30
+Q2 2015,10240,5 Flights Up,Focus World,1020921.0,2015-05-08,2015-06-30
+Q2 2015,10247,Any Body Can Dance 2,UTV Motion Pictures,892133.0,2015-06-19,2015-06-30
+Q2 2015,10260,When Marnie Was There,GKIDS,561085.0,2015-05-22,2015-06-30
+Q2 2015,10262,A Little Chaos,Focus World,558173.0,2015-06-26,2015-06-30
+Q2 2015,10265,Gabbar is Back,Eros International,534601.0,2015-05-01,2015-06-30
+Q2 2015,10266,Born to Be Wild,Warner Bros.,25921547.0,2015-04-08,2015-06-30
+Q2 2015,10268,Welcome to Me,Alchemy,522736.0,2015-05-01,2015-06-30
+Q2 2015,10275,Brotherly Love,Freestyle Releasing,478595.0,2015-04-24,2015-06-30
+Q2 2015,10276,Let's Get Married,China Lion Film Distribution,462918.0,2015-04-03,2015-06-30
+Q2 2015,10277,Bombay Velvet,FIP,450692.0,2015-05-15,2015-06-30
+Q2 2015,10286,Freetown,Purdie Distribution,401328.0,2015-04-08,2015-06-30
+Q2 2015,10293,Effie Gray,Adopt Films,352534.0,2015-04-03,2015-06-30
+Q2 2015,10299,Good Kill,IFC Films,316472.0,2015-05-15,2015-06-30
+Q2 2015,10307,Dancing Arabs,Strand Releasing,281540.0,2015-06-26,2015-06-30
+Q2 2015,10309,Tanu Weds Manu Returns,Eros International,1271751.0,2015-05-22,2015-06-30
+Q2 2015,10318,A Pigeon Sat on a Branch Reflecting on Existence,Magnolia Pictures,222989.0,2015-06-03,2015-06-30
+Q2 2015,10322,Chocolate City,Freestyle Releasing,212662.0,2015-05-22,2015-06-30
+Q2 2015,10325,Escobar: Paradise Lost,RADiUS-TWC,195792.0,2015-06-26,2015-06-30
+Q2 2015,10326,Gemma Bovery,Music Box Films,191533.0,2015-05-29,2015-06-30
+Q2 2015,10329,Maggie,Roadside Attractions,187112.0,2015-05-08,2015-06-30
+Q2 2015,10343,Walking with the Enemy,Liberty Studios,1091118.0,2015-04-25,2015-06-30
+Q2 2015,10345,Desert Dancer,Relativity Media,155271.0,2015-04-10,2015-06-30
+Q2 2015,10348,The Tribe,Drafthouse Films,150564.0,2015-06-17,2015-06-30
+Q2 2015,10353,Twenty,CJ Entertainment,136125.0,2015-04-17,2015-06-30
+Q2 2015,10356,Don't Think I've Forgotten: Cambodia's Lost Rock & Roll,Argot Pictures,133443.0,2015-04-22,2015-06-30
+Q2 2015,10358,Hamari Adhuri Kahani,FIP,131263.0,2015-06-12,2015-06-30
+Q2 2015,10367,Adult Beginners,RADiUS-TWC,108808.0,2015-04-24,2015-06-30
+Q2 2015,10370,Chronicles of Evil,CJ Entertainment,105057.0,2015-05-15,2015-06-30
+Q2 2015,10372,Results,Magnolia Pictures,104507.0,2015-05-29,2015-06-30
+Q2 2015,10375,Every Secret Thing,Starz Digital Media,103536.0,2015-05-15,2015-06-30
+Q2 2015,10388,Batkid Begins: The Wish Heard Around the World,Warner Bros.,74709.0,2015-06-26,2015-06-30
+Q2 2015,10390,Heaven Knows What,RADiUS-TWC,72001.0,2015-05-29,2015-06-30
+Q2 2015,10395,Ida,Music Box Films,3765598.0,2015-05-02,2015-06-30
+Q2 2015,10398,Eden,Broad Green Pictures,65460.0,2015-06-19,2015-06-30
+Q2 2015,10406,Dark Star: H.R. Giger's World,Icarus Films,61845.0,2015-05-15,2015-06-30
+Q2 2015,10410,In the Name of My Daughter,Cohen Media Group,271809.0,2015-05-15,2015-06-30
+Q2 2015,10412,The Ark of Mr Chow,China Lion Film Distribution,54075.0,2015-06-19,2015-06-30
+Q2 2015,10417,Iris,Magnolia Pictures,682941.0,2015-04-29,2015-06-30
+Q2 2015,10424,Beyond the Reach,Roadside Attractions,45895.0,2015-04-17,2015-06-30
+Q2 2015,10425,Blackbird,Image Entertainment,78400.0,2015-04-24,2015-06-30
+Q2 2015,10426,Lost River,Warner Bros.,45431.0,2015-04-10,2015-06-30
+Q2 2015,10429,Güeros,Kino Lorber,56713.0,2015-05-20,2015-06-30
+Q2 2015,10441,Sister Code,GVN Releasing,36676.0,2015-05-08,2015-06-30
+Q2 2015,10443,The 100 Year-Old Man Who Climbed Out the Window and Disappeared,Music Box Films,278143.0,2015-05-01,2015-06-30
+Q2 2015,10451,Madame Bovary,Alchemy,44235.0,2015-06-12,2015-06-30
+Q2 2015,10452,Mr. X,FIP,30097.0,2015-04-17,2015-06-30
+Q2 2015,10464,Big Game,EuropaCorp,24752.0,2015-06-26,2015-06-30
+Q2 2015,10465,Kill Me Three Times,Magnolia Pictures,24296.0,2015-04-10,2015-06-30
+Q2 2015,10467,Salut d'Amour,CJ Entertainment,22480.0,2015-04-10,2015-06-30
+Q2 2015,10469,Love at First Fight,Strand Releasing,24925.0,2015-05-22,2015-06-30
+Q2 2015,10474,Misery Loves Comedy,Tribeca Film,19634.0,2015-04-24,2015-06-30
+Q2 2015,10479,The Little Death,Magnolia Pictures,18238.0,2015-06-26,2015-06-30
+Q2 2015,10498,The Apu TrilogyTriple Bill,Janus Films,384550.0,2015-05-08,2015-06-30
+Q2 2015,10507,Eli,Eros International,13547.0,2015-06-19,2015-06-30
+Q2 2015,10512,Wa-shoku Dream: Beyond Sushi,Under The Milky Way,12240.0,2015-04-10,2015-06-30
+Q2 2015,10514,Roar,Drafthouse Films,101539.0,2015-04-15,2015-06-30
+Q2 2015,10516,Emptying the Skies,Music Box Films,11811.0,2015-04-22,2015-06-30
+Q2 2015,10517,Forbidden Games,Rialto Pictures,14606.0,2015-04-24,2015-06-30
+Q2 2015,10521,Just Before I Go,Anchor Bay Films,10970.0,2015-04-24,2015-06-30
+Q2 2015,10526,The Seven Five,IFC Films,48869.0,2015-05-08,2015-06-30
+Q2 2015,10539,Hippocrates: Diary of a French Doctor,Distrib Films,16117.0,2015-06-19,2015-06-30
+Q2 2015,10545,Who Took Johnny,Rumur Releasing,7666.0,2015-04-24,2015-06-30
+Q2 2015,10548,Rubble Kings,Saboteur Media,7416.0,2015-06-19,2015-06-30
+Q2 2015,10552,Rebels of the Neon God,Big World Pictures,18293.0,2015-04-10,2015-06-30
+Q2 2015,10553,Hungry Hearts,IFC Films,6921.0,2015-06-05,2015-06-30
+Q2 2015,10555,The Sisterhood of Night,Freestyle Releasing,6870.0,2015-04-10,2015-06-30
+Q2 2015,10560,Half of a Yellow Sun,Monterey Media,54403.0,2015-05-16,2015-06-30
+Q2 2015,10571,Gone Doggy Gone,Indican Pictures,14354.0,2015-06-26,2015-06-30
+Q2 2015,10573,Far from Men,Tribeca Film,5336.0,2015-05-01,2015-06-30
+Q2 2015,10576,The Dead Lands,Magnolia Pictures,5240.0,2015-04-17,2015-06-30
+Q2 2015,10578,SBK The-Movie,Hanover Multimedia,4950.0,2015-04-03,2015-06-30
+Q2 2015,10583,Seeds of Time,Kino Lorber,4630.0,2015-05-22,2015-06-30
+Q2 2015,10585,Club Life,The Orchard,4444.0,2015-05-29,2015-06-30
+Q2 2015,10586,The Connection,Drafthouse Films,38653.0,2015-05-15,2015-06-30
+Q2 2015,10587,Back to the Jurassic,CJ Entertainment,4351.0,2015-06-09,2015-06-30
+Q2 2015,10588,Set Fire to the Stars,Strand Releasing,4280.0,2015-06-12,2015-06-30
+Q2 2015,10593,Unfreedom,Dark Frames,3778.0,2015-05-29,2015-06-30
+Q2 2015,10602,Hyena,Tribeca Film,3401.0,2015-05-01,2015-06-30
+Q2 2015,10605,Little England2015 Re-release,Corinth Films,9099.0,2015-05-17,2015-06-30
+Q2 2015,10606,Know How,First Run,3323.0,2015-05-15,2015-06-30
+Q2 2015,10622,Tangerines,The Samuel Goldwyn Company,7528.0,2015-04-17,2015-06-30
+Q2 2015,10628,"One Cut, One Life",First Run,9352.0,2015-05-13,2015-06-30
+Q2 2015,10639,Black Souls,Alchemy,95704.0,2015-04-10,2015-06-30
+Q2 2015,10641,Sunshine Superman,Magnolia Pictures,10847.0,2015-05-22,2015-06-30
+Q2 2015,10657,Antarctic Edge: 70° South,First Run,6679.0,2015-04-17,2015-06-30
+Q2 2015,10658,Gringo Trails,Icarus Films,8349.0,2015-04-19,2015-06-30
+Q2 2015,10659,Skin Trade,Magnolia Pictures,1242.0,2015-05-08,2015-06-30
+Q2 2015,10660,El Niño,Distrib Films,1237.0,2015-04-17,2015-06-30
+Q2 2015,10662,1001 Grams,Kino Lorber,10551.0,2015-05-08,2015-06-30
+Q2 2015,10665,Penton: The John Penton Story,GathrFilms,111213.0,2015-06-23,2015-06-30
+Q2 2015,10668,Childless,Monterey Media,1036.0,2015-05-15,2015-06-30
+Q2 2015,10670,Tu Dors Nicole,Kino International,5430.0,2015-05-29,2015-06-30
+Q2 2015,10674,They Are We,Icarus Films,900.0,2015-06-26,2015-06-30
+Q2 2015,10677,Our Man in Tehran,First Run,3200.0,2015-05-15,2015-06-30
+Q2 2015,10678,The Film Critic,Music Box Films,4679.0,2015-05-15,2015-06-30
+Q2 2015,10682,On Tour with Pina Bausch,Icarus Films,18016.0,2015-04-04,2015-06-30
+Q2 2015,10684,United Passions,Screen Media Films,607.0,2015-06-05,2015-06-30
+Q2 2015,10686,Kung Fu Jungle,Well Go USA Entertainment,127506.0,2015-04-24,2015-06-30
+Q2 2015,10689,The Wanted 18,Kino Lorber,5444.0,2015-06-19,2015-06-30
+Q2 2015,10697,The Chambermaid Lynn,Film Movement,315.0,2015-05-29,2015-06-30
+Q2 2015,10698,Sol LeWitt,Icarus Films,13146.0,2015-05-07,2015-06-30
+Q2 2015,10699,Lou! Journal infime,Distrib Films,287.0,2015-04-24,2015-06-30
+Q2 2015,10702,Animals2015 Re-release,Oscilloscope,20349.0,2015-05-15,2015-06-30
+Q2 2015,10705,The Living,Monterey Media,5374.0,2015-04-03,2015-06-30
+Q2 2015,10710,Exhibition,Kino Lorber,14214.0,2015-06-20,2015-06-30
+Q2 2015,10712,Lambert & Stamp,Sony Pictures Classics,181607.0,2015-04-03,2015-06-30
+Q2 2015,10713,Gerontophilia2015 Re-release,Strand Releasing,4793.0,2015-05-01,2015-06-30
+Q2 2015,10717,Butterfly Girl,Indican Pictures,17503.0,2015-04-03,2015-06-30
+Q2 2015,10719,Full Moon in Paris,Film Movement,14907.0,2015-04-17,2015-06-30
+Q3 2015,10020,Minions,Universal Pictures,336045770.0,2015-07-10,2015-09-30
+Q3 2015,10025,Mission: Impossible - Rogue Nation,Paramount Pictures,195042377.0,2015-07-31,2015-09-30
+Q3 2015,10027,Ant-Man,Walt Disney Studios Motion Pictures,180202163.0,2015-07-17,2015-09-30
+Q3 2015,10029,Hotel Transylvania 2,Sony Pictures Releasing,169700110.0,2015-09-25,2015-09-30
+Q3 2015,10032,Straight Outta Compton,Universal Pictures,161197785.0,2015-08-14,2015-09-30
+Q3 2015,10040,Trainwreck,Universal Pictures,110212700.0,2015-07-17,2015-09-30
+Q3 2015,10044,Terminator Genisys,Paramount Pictures,89760956.0,2015-07-01,2015-09-30
+Q3 2015,10046,Maze Runner: The Scorch Trials,Twentieth Century Fox,81670090.0,2015-09-18,2015-09-30
+Q3 2015,10049,Pixels,Sony Pictures Releasing,78747585.0,2015-07-24,2015-09-30
+Q3 2015,10051,The Intern,Warner Bros.,75764672.0,2015-09-25,2015-09-30
+Q3 2015,10056,Magic Mike XXL,Warner Bros.,66013057.0,2015-07-01,2015-09-30
+Q3 2015,10058,The Visit,Universal Pictures,65206105.0,2015-09-11,2015-09-30
+Q3 2015,10062,Black Mass,Warner Bros.,62575678.0,2015-09-18,2015-09-30
+Q3 2015,10063,Vacation,Warner Bros.,58884188.0,2015-07-29,2015-09-30
+Q3 2015,10064,The Perfect Guy,Screen Gems,57027435.0,2015-09-11,2015-09-30
+Q3 2015,10065,Fantastic Four,Twentieth Century Fox,56051712.0,2015-08-07,2015-09-30
+Q3 2015,10069,Southpaw,The Weinstein Company,52421953.0,2015-07-24,2015-09-30
+Q3 2015,10075,Sicario,Lionsgate,46889293.0,2015-09-18,2015-09-30
+Q3 2015,10076,The Man from U.N.C.L.E.,Warner Bros.,45445109.0,2015-08-14,2015-09-30
+Q3 2015,10078,The Gift,STX Entertainment,43787265.0,2015-08-07,2015-09-30
+Q3 2015,10079,Everest,Universal Pictures,43482270.0,2015-09-18,2015-09-30
+Q3 2015,10094,Paper Towns,Twentieth Century Fox,32000304.0,2015-07-24,2015-09-30
+Q3 2015,10099,Sinister 2,Focus Features,27740955.0,2015-08-21,2015-09-30
+Q3 2015,10101,No Escape,The Weinstein Company,27288872.0,2015-08-26,2015-09-30
+Q3 2015,10112,The Gallows,Warner Bros.,22764410.0,2015-07-10,2015-09-30
+Q3 2015,10113,Hitman: Agent 47,Twentieth Century Fox,22457659.0,2015-08-21,2015-09-30
+Q3 2015,10116,A Walk in the Woods,Broad Green Pictures,29504281.0,2015-09-02,2015-09-30
+Q3 2015,10120,Shaun the Sheep Movie,Lionsgate,19375982.0,2015-08-05,2015-09-30
+Q3 2015,10125,Mr. Holmes,Roadside Attractions,17737646.0,2015-07-17,2015-09-30
+Q3 2015,10129,The Transporter Refueled,EuropaCorp,16029670.0,2015-09-04,2015-09-30
+Q3 2015,10134,American Ultra,Lionsgate,14440985.0,2015-08-21,2015-09-30
+Q3 2015,10143,Self/less,Focus Features,12279691.0,2015-07-10,2015-09-30
+Q3 2015,10153,Huevos: Little Rooster's Egg-cellent Adventure,Lionsgate,9080818.0,2015-09-04,2015-09-30
+Q3 2015,10156,"Dragon Ball Z: Resurrection ""F""",FUNimation Entertainment,8008363.0,2015-08-04,2015-09-30
+Q3 2015,10160,The Green Inferno,BH Tilt,7192291.0,2015-09-25,2015-09-30
+Q3 2015,10173,90 Minutes in Heaven,The Samuel Goldwyn Company,4791548.0,2015-09-11,2015-09-30
+Q3 2015,10181,Irrational Man,Sony Pictures Classics,4030360.0,2015-07-17,2015-09-30
+Q3 2015,10187,We Are Your Friends,Warner Bros.,3591417.0,2015-08-28,2015-09-30
+Q3 2015,10192,The End of the Tour,A24,3002884.0,2015-07-31,2015-09-30
+Q3 2015,10195,Captive,Paramount Pictures,2583301.0,2015-09-18,2015-09-30
+Q3 2015,10198,Mistress America,Fox Searchlight Pictures,2500431.0,2015-08-14,2015-09-30
+Q3 2015,10199,Pawn Sacrifice,Bleecker Street Media,2436633.0,2015-09-16,2015-09-30
+Q3 2015,10201,Meru,Music Box Films,2334228.0,2015-08-14,2015-09-30
+Q3 2015,10205,The Equalizer,Sony Pictures Releasing,101530738.0,2015-09-26,2015-09-30
+Q3 2015,10210,Assassination,Well Go USA Entertainment,1904682.0,2015-08-07,2015-09-30
+Q3 2015,10214,The Vatican Tapes,Lionsgate,1784763.0,2015-07-24,2015-09-30
+Q3 2015,10218,The Diary of a Teenage Girl,Sony Pictures Classics,1477002.0,2015-08-07,2015-09-30
+Q3 2015,10220,Welcome Back,Eros International,1388365.0,2015-09-04,2015-09-30
+Q3 2015,10223,Lost in Hong Kong,Well Go USA Entertainment,1302281.0,2015-09-25,2015-09-30
+Q3 2015,10232,Veteran,CJ Entertainment,1200627.0,2015-09-18,2015-09-30
+Q3 2015,10235,Jerusalem,National Geographic Entertainment,7186815.0,2015-09-13,2015-09-30
+Q3 2015,10239,Goodnight Mommy,RADiUS-TWC,1137148.0,2015-09-11,2015-09-30
+Q3 2015,10246,Best of Enemies: Buckley vs. Vidal,Magnolia Pictures,892802.0,2015-07-31,2015-09-30
+Q3 2015,10249,Meet the Patels,Alchemy,1700681.0,2015-09-11,2015-09-30
+Q3 2015,10253,Labyrinth of Lies,Sony Pictures Classics,783467.0,2015-09-30,2015-09-30
+Q3 2015,10254,99 Homes,Broad Green Pictures,1411927.0,2015-09-25,2015-09-30
+Q3 2015,10255,Once I Was a Beehive,Purdie Distribution,732655.0,2015-08-14,2015-09-30
+Q3 2015,10256,Tangerine,Magnolia Pictures,702354.0,2015-07-10,2015-09-30
+Q3 2015,10261,Jimmy's Hall,Sony Pictures Classics,560592.0,2015-07-03,2015-09-30
+Q3 2015,10271,Steve Jobs: The Man in the Machine,Magnolia Pictures,494506.0,2015-09-04,2015-09-30
+Q3 2015,10272,Brothers,FIP,613775.0,2015-08-14,2015-09-30
+Q3 2015,10273,Phantom,UTV Motion Pictures,489984.0,2015-08-28,2015-09-30
+Q3 2015,10278,Faith of Our Fathers,Pure Flix Entertainment,981919.0,2015-07-01,2015-09-30
+Q3 2015,10281,Attack on Titan,FUNimation Entertainment,449523.0,2015-09-30,2015-09-30
+Q3 2015,10284,Unbranded,Gravitas Ventures,410185.0,2015-09-25,2015-09-30
+Q3 2015,10289,Coming Home,Sony Pictures Classics,377607.0,2015-09-09,2015-09-30
+Q3 2015,10290,Katti Batti,UTV Motion Pictures,364932.0,2015-09-18,2015-09-30
+Q3 2015,10292,The Prophet,GKIDS,355343.0,2015-08-07,2015-09-30
+Q3 2015,10294,Northern Limit Line,Well Go USA Entertainment,337907.0,2015-07-17,2015-09-30
+Q3 2015,10295,The Boxtrolls,Focus Features,50837305.0,2015-09-26,2015-09-30
+Q3 2015,10304,The Maze Runner,Twentieth Century Fox,102395496.0,2015-09-19,2015-09-30
+Q3 2015,10324,Guardians of the Galaxy,Walt Disney Studios Motion Pictures,333176600.0,2015-08-01,2015-09-30
+Q3 2015,10328,Stonewall,Roadside Attractions,187674.0,2015-09-25,2015-09-30
+Q3 2015,10332,Mommy,Roadside Attractions,3494070.0,2015-09-19,2015-09-30
+Q3 2015,10334,The Young and Prodigious T.S. Spivet,The Weinstein Company,173564.0,2015-07-31,2015-09-30
+Q3 2015,10347,Samba,Broad Green Pictures,151530.0,2015-07-24,2015-09-30
+Q3 2015,10349,Forever Young,China Lion Film Distribution,149761.0,2015-07-10,2015-09-30
+Q3 2015,10355,Cop Car,Focus World,134552.0,2015-08-07,2015-09-30
+Q3 2015,10360,Z for Zachariah,Roadside Attractions,121461.0,2015-08-28,2015-09-30
+Q3 2015,10361,Baahubali,Blue Sky Cinema,6738000.0,2015-07-09,2015-09-30
+Q3 2015,10365,She's Funny That Way,Lionsgate Premiere,111996.0,2015-08-21,2015-09-30
+Q3 2015,10366,The Look of Silence,Drafthouse Films,109089.0,2015-07-17,2015-09-30
+Q3 2015,10368,The Beauty Inside,Well Go USA Entertainment,108083.0,2015-09-11,2015-09-30
+Q3 2015,10373,A Brilliant Young Mind,The Samuel Goldwyn Company,165734.0,2015-09-11,2015-09-30
+Q3 2015,10379,A Poem Is a Naked Person,Janus Films,96592.0,2015-07-01,2015-09-30
+Q3 2015,10382,Hero,Eros International,88675.0,2015-09-11,2015-09-30
+Q3 2015,10384,A Lego Brickumentary,RADiUS-TWC,84649.0,2015-07-31,2015-09-30
+Q3 2015,10389,Dragon Blade,Lionsgate Premiere,74068.0,2015-09-04,2015-09-30
+Q3 2015,10397,People Places Things,The Film Arcade,67046.0,2015-08-14,2015-09-30
+Q3 2015,10400,Learning to Drive,Broad Green Pictures,3447633.0,2015-08-21,2015-09-30
+Q3 2015,10401,Design for Living,China Lion Film Distribution,63675.0,2015-09-18,2015-09-30
+Q3 2015,10403,Drunk Stoned Brilliant Dead: The Story of the National Lampoon,Magnolia Pictures,62660.0,2015-09-25,2015-09-30
+Q3 2015,10405,Only You,China Lion Film Distribution,61565.0,2015-07-24,2015-09-30
+Q3 2015,10408,Cooties,Lionsgate Premiere,60058.0,2015-09-18,2015-09-30
+Q3 2015,10419,Bangistan,Eros International,48694.0,2015-08-07,2015-09-30
+Q3 2015,10431,Nowitzki: The Perfect Shot,Magnolia Pictures,41340.0,2015-07-10,2015-09-30
+Q3 2015,10436,WARx2,Strasson Group,39704.0,2015-09-18,2015-09-30
+Q3 2015,10437,Lila & Eve,The Samuel Goldwyn Company,38263.0,2015-07-17,2015-09-30
+Q3 2015,10439,Before We Go,RADiUS-TWC,37151.0,2015-09-04,2015-09-30
+Q3 2015,10445,Wild City,Well Go USA Entertainment,34866.0,2015-07-31,2015-09-30
+Q3 2015,10453,Sagrada: The Mystery of Creation2014 Re-release,First Run,48366.0,2015-09-12,2015-09-30
+Q3 2015,10459,7 Chinese Brothers,Screen Media Films,28180.0,2015-08-28,2015-09-30
+Q3 2015,10460,I Am Eleven2014 Re-release,Proud Mother Pictures,310116.0,2015-09-12,2015-09-30
+Q3 2015,10461,The Keeping Room,Drafthouse Films,27166.0,2015-09-25,2015-09-30
+Q3 2015,10462,Army of Shadows2015 Re-release,Rialto Pictures,25450.0,2015-08-26,2015-09-30
+Q3 2015,10466,Court,Zeitgeist Films,22898.0,2015-07-15,2015-09-30
+Q3 2015,10472,The New Girlfriend,Cohen Media Group,114740.0,2015-09-18,2015-09-30
+Q3 2015,10478,Ardor,Participant,18565.0,2015-07-17,2015-09-30
+Q3 2015,10481,Quay,Zeitgeist Films,39607.0,2015-08-19,2015-09-30
+Q3 2015,10484,Strangerland,Alchemy,17472.0,2015-07-10,2015-09-30
+Q3 2015,10510,10.000 Km,Broad Green Pictures,12423.0,2015-07-10,2015-09-30
+Q3 2015,10523,Dark Horse,Mongrel Media,90136.0,2015-09-20,2015-09-30
+Q3 2015,10524,Wolf Totem,Sony Pictures Releasing,210591.0,2015-09-11,2015-09-30
+Q3 2015,10531,Welcome to Leith,First Run,35803.0,2015-09-09,2015-09-30
+Q3 2015,10535,Paulo Coelho's Best Story,Music Box Films,8808.0,2015-07-31,2015-09-30
+Q3 2015,10536,Olvidados2015 Re-release,Cinema Libre Studio,11902.0,2015-09-18,2015-09-30
+Q3 2015,10540,Jellyfish Eyes,Janus Films,8176.0,2015-07-15,2015-09-30
+Q3 2015,10544,The Great Man,Distrib Films,7814.0,2015-08-14,2015-09-30
+Q3 2015,10554,Advanced Style,Bond/360,87879.0,2015-09-26,2015-09-30
+Q3 2015,10557,Magnificent Desolation: Walking on the Moon 3D,IMAX,34136978.0,2015-09-23,2015-09-30
+Q3 2015,10558,Princess Cut,Watchman Pictures,21087.0,2015-07-28,2015-09-30
+Q3 2015,10561,The Suicide Theory,Freestyle Releasing,6434.0,2015-07-10,2015-09-30
+Q3 2015,10562,Alléluia,Music Box Films,6334.0,2015-07-17,2015-09-30
+Q3 2015,10564,The Night of the Shooting Stars2015 Re-release,Cohen Media Group,6186.0,2015-08-12,2015-09-30
+Q3 2015,10565,Paulette2015 Re-release,Cohen Media Group,27946.0,2015-08-14,2015-09-30
+Q3 2015,10566,The Kindergarten Teacher,Kino Lorber,36190.0,2015-07-31,2015-09-30
+Q3 2015,10572,A Hard Day,Kino Lorber,16563.0,2015-07-17,2015-09-30
+Q3 2015,10582,Ashby,The Film Arcade,4631.0,2015-09-25,2015-09-30
+Q3 2015,10591,We Come as Friends,BBC Worldwide North America,50921.0,2015-08-14,2015-09-30
+Q3 2015,10598,The Worst Movie Ever!,Driving With Our Eyes Shut,23696.0,2015-08-19,2015-09-30
+Q3 2015,10601,Le joli mai,Icarus Films,55038.0,2015-09-13,2015-09-30
+Q3 2015,10603,The Iron Ministry,Icarus Films,3340.0,2015-08-21,2015-09-30
+Q3 2015,10608,Windsor Drive,Indican Pictures,3256.0,2015-08-28,2015-09-30
+Q3 2015,10610,Metropolitan2015 Re-release,Rialto Pictures,21449.0,2015-08-07,2015-09-30
+Q3 2015,10624,"20,000 Days on Earth",Drafthouse Films,279558.0,2015-09-17,2015-09-30
+Q3 2015,10631,Stray Dogs,The Cinema Guild,9602.0,2015-09-12,2015-09-30
+Q3 2015,10632,Me You and Five Bucks,Indican Pictures,2105.0,2015-09-25,2015-09-30
+Q3 2015,10634,A Reason,Indican Pictures,15792.0,2015-08-28,2015-09-30
+Q3 2015,10638,Sneakerheadz,Submarine Deluxe,1903.0,2015-08-07,2015-09-30
+Q3 2015,10642,Through a Lens Darkly: Black Photographers and the Emergence of a People,First Run,64441.0,2015-08-27,2015-09-30
+Q3 2015,10646,Dark Forest,Zell-Koj Studio,1739.0,2015-08-21,2015-09-30
+Q3 2015,10648,Steak (R)evolution,Kino Lorber,7534.0,2015-07-17,2015-09-30
+Q3 2015,10649,An Eye for Beauty,Monument Releasing,9395.0,2015-08-28,2015-09-30
+Q3 2015,10650,Stations of the Cross,Film Movement,1505.0,2015-07-10,2015-09-30
+Q3 2015,10652,Forever,Monterey Media,1497.0,2015-09-11,2015-09-30
+Q3 2015,10653,The Captive,A24,1075178.0,2015-09-05,2015-09-30
+Q3 2015,10661,Top Spin,First Run,5524.0,2015-08-21,2015-09-30
+Q3 2015,10664,Dast-neveshtehaa nemisoosand,Kino Lorber,5267.0,2015-07-25,2015-09-30
+Q3 2015,10669,Level Five,Icarus Films,27000.0,2015-08-15,2015-09-30
+Q3 2015,10675,My Old Lady,Cohen Media Group,4002803.0,2015-09-10,2015-09-30
+Q3 2015,10683,Finding Fela!,Kino Lorber,120980.0,2015-08-01,2015-09-30
+Q3 2015,10688,Memphis,Kino Lorber,21232.0,2015-09-05,2015-09-30
+Q3 2015,10690,The Dinner,Film Movement,1998.0,2015-08-07,2015-09-30
+Q3 2015,10694,Far from Vietnam,Icarus Films,8132.0,2015-08-28,2015-09-30
+Q3 2015,10696,Our Little Sister,Mongrel Media,55189.0,2015-09-23,2015-09-30
+Q3 2015,10700,Guidance,Strand Releasing,3969.0,2015-08-21,2015-09-30
+Q3 2015,10708,Confession of a Child of the Century2015 Re-release,Cohen Media Group,74.0,2015-09-25,2015-09-30
+Q3 2015,10709,Drown,Strand Releasing,1302.0,2015-08-28,2015-09-30
+Q3 2015,10714,Tap World,Vitagraph Films,13909.0,2015-07-10,2015-09-30
+Q3 2015,10715,Cartel Land,The Orchard,704352.0,2015-07-03,2015-09-30
+Q3 2015,10718,Justice Is Mind,The Ashton Times,14360.0,2015-08-18,2015-09-30
+Q4 2015,10015,Star Wars: Episode VII - The Force Awakens,Walt Disney Studios Motion Pictures,936660090.0,2015-12-18,2015-12-31
+Q4 2015,10019,American Sniper,Warner Bros.,350126372.0,2015-12-25,2015-12-31
+Q4 2015,10021,The Hunger Games: Mockingjay - Part 2,Lionsgate,281723902.0,2015-11-20,2015-12-31
+Q4 2015,10022,The Martian,Twentieth Century Fox,228395947.0,2015-10-02,2015-12-31
+Q4 2015,10024,Spectre,Sony Pictures Releasing,200074609.0,2015-11-06,2015-12-31
+Q4 2015,10036,The Peanuts Movie,Twentieth Century Fox,130081684.0,2015-11-06,2015-12-31
+Q4 2015,10039,The Good Dinosaur,Walt Disney Studios Motion Pictures,119317790.0,2015-11-25,2015-12-31
+Q4 2015,10041,Creed,Warner Bros.,109767581.0,2015-11-25,2015-12-31
+Q4 2015,10048,Goosebumps,Sony Pictures Releasing,80080379.0,2015-10-16,2015-12-31
+Q4 2015,10052,The Imitation Game,The Weinstein Company,91125683.0,2015-11-28,2015-12-31
+Q4 2015,10054,Bridge of Spies,Walt Disney Studios Motion Pictures,71083426.0,2015-10-16,2015-12-31
+Q4 2015,10057,The Hobbit: The Battle of the Five Armies,Warner Bros.,255119788.0,2015-12-17,2015-12-31
+Q4 2015,10059,Daddy's Home,Paramount Pictures,150357137.0,2015-12-25,2015-12-31
+Q4 2015,10061,Into the Woods,Walt Disney Studios Motion Pictures,126735659.0,2015-12-25,2015-12-31
+Q4 2015,10066,Alvin and the Chipmunks: The Road Chip,Twentieth Century Fox,85833731.0,2015-12-18,2015-12-31
+Q4 2015,10068,Unbroken,Universal Pictures,115637895.0,2015-12-25,2015-12-31
+Q4 2015,10071,Selma,Paramount Pictures,52076908.0,2015-12-25,2015-12-31
+Q4 2015,10072,Sisters,Universal Pictures,87044645.0,2015-12-18,2015-12-31
+Q4 2015,10077,Night at the Museum: Secret of the Tomb,Twentieth Century Fox,113663514.0,2015-12-19,2015-12-31
+Q4 2015,10080,The Night Before,Sony Pictures Releasing,43047372.0,2015-11-20,2015-12-31
+Q4 2015,10084,Krampus,Universal Pictures,42725475.0,2015-12-04,2015-12-31
+Q4 2015,10087,Pan,Warner Bros.,35088320.0,2015-10-09,2015-12-31
+Q4 2015,10096,Crimson Peak,Universal Pictures,31090320.0,2015-10-16,2015-12-31
+Q4 2015,10097,Annie,Sony Pictures Releasing,85911262.0,2015-12-19,2015-12-31
+Q4 2015,10098,Joy,Twentieth Century Fox,56384928.0,2015-12-25,2015-12-31
+Q4 2015,10100,The Last Witch Hunter,Lionsgate,27367660.0,2015-10-23,2015-12-31
+Q4 2015,10105,Love the Coopers,Lionsgate,26302731.0,2015-11-13,2015-12-31
+Q4 2015,10106,Spotlight,Open Road Films (II),45055776.0,2015-11-06,2015-12-31
+Q4 2015,10108,The Big Short,Paramount Pictures,70259870.0,2015-12-11,2015-12-31
+Q4 2015,10109,The Hunger Games: Mockingjay - Part 1,Lionsgate,337135885.0,2015-11-21,2015-12-31
+Q4 2015,10110,In the Heart of the Sea,Warner Bros.,25020758.0,2015-12-11,2015-12-31
+Q4 2015,10118,Secret in Their Eyes,STX Entertainment,20180155.0,2015-11-20,2015-12-31
+Q4 2015,10119,Brooklyn,Fox Searchlight Pictures,38219804.0,2015-11-04,2015-12-31
+Q4 2015,10121,Paranormal Activity: The Ghost Dimension,Paramount Pictures,18300124.0,2015-10-23,2015-12-31
+Q4 2015,10122,Birdman or (The Unexpected Virtue of Ignorance),Fox Searchlight Pictures,42324225.0,2015-10-17,2015-12-31
+Q4 2015,10123,Wild,Fox Searchlight Pictures,37772871.0,2015-12-03,2015-12-31
+Q4 2015,10124,Steve Jobs,Universal Pictures,17766658.0,2015-10-09,2015-12-31
+Q4 2015,10127,Concussion,Sony Pictures Releasing,34542474.0,2015-12-25,2015-12-31
+Q4 2015,10131,Point Break,Warner Bros.,28782481.0,2015-12-25,2015-12-31
+Q4 2015,10132,The Gambler,Paramount Pictures,33680992.0,2015-12-25,2015-12-31
+Q4 2015,10135,Woodlawn,Pure Flix Entertainment,14394097.0,2015-10-16,2015-12-31
+Q4 2015,10136,Burnt,The Weinstein Company,13651946.0,2015-10-30,2015-12-31
+Q4 2015,10137,The Hateful Eight,The Weinstein Company,54117416.0,2015-12-25,2015-12-31
+Q4 2015,10138,Big Hero 6,Walt Disney Studios Motion Pictures,222520426.0,2015-11-07,2015-12-31
+Q4 2015,10141,The Theory of Everything,Focus Features,35753877.0,2015-11-07,2015-12-31
+Q4 2015,10145,The 33,Warner Bros.,12227722.0,2015-11-13,2015-12-31
+Q4 2015,10150,Penguins of Madagascar,Twentieth Century Fox,83301343.0,2015-11-26,2015-12-31
+Q4 2015,10151,Exodus: Gods and Kings,Twentieth Century Fox,64988138.0,2015-12-12,2015-12-31
+Q4 2015,10154,Interstellar,Paramount Pictures,188020017.0,2015-11-05,2015-12-31
+Q4 2015,10155,Big Eyes,The Weinstein Company,14482031.0,2015-12-25,2015-12-31
+Q4 2015,10161,Our Brand Is Crisis,Warner Bros.,7002261.0,2015-10-30,2015-12-31
+Q4 2015,10162,Inherent Vice,Warner Bros.,8110975.0,2015-12-12,2015-12-31
+Q4 2015,10163,Trumbo,Bleecker Street Media,7857741.0,2015-11-06,2015-12-31
+Q4 2015,10169,Victor Frankenstein,Twentieth Century Fox,5775076.0,2015-11-25,2015-12-31
+Q4 2015,10170,A Most Violent Year,A24,5749134.0,2015-12-31,2015-12-31
+Q4 2015,10172,Room,A24,14677654.0,2015-10-16,2015-12-31
+Q4 2015,10175,Suffragette,Focus Features,4702420.0,2015-10-23,2015-12-31
+Q4 2015,10176,Top Five,Paramount Pictures,25317471.0,2015-12-12,2015-12-31
+Q4 2015,10177,The Danish Girl,Focus Features,11114018.0,2015-11-27,2015-12-31
+Q4 2015,10178,Dilwale,UTV Motion Pictures,4871263.0,2015-12-17,2015-12-31
+Q4 2015,10179,Bajirao Mastani,Eros International,6557047.0,2015-12-18,2015-12-31
+Q4 2015,10182,Prem Ratan Dhan Payo,FIP,3961221.0,2015-11-12,2015-12-31
+Q4 2015,10183,Carol,The Weinstein Company,12711491.0,2015-11-20,2015-12-31
+Q4 2015,10184,Scouts Guide to the Zombie Apocalypse,Paramount Pictures,3703046.0,2015-10-30,2015-12-31
+Q4 2015,10190,Ladrones,Lionsgate,3063505.0,2015-10-09,2015-12-31
+Q4 2015,10191,Rock the Kasbah,Open Road Films (II),3020664.0,2015-10-23,2015-12-31
+Q4 2015,10193,Horrible Bosses 2,Warner Bros.,54445357.0,2015-11-26,2015-12-31
+Q4 2015,10194,He Named Me Malala,Fox Searchlight Pictures,2587248.0,2015-10-02,2015-12-31
+Q4 2015,10196,Chi-Raq,Roadside Attractions,2653032.0,2015-12-04,2015-12-31
+Q4 2015,10197,The Interview,Sony Pictures Releasing,6105175.0,2015-12-25,2015-12-31
+Q4 2015,10202,Ode to My Father,CJ Entertainment,2300121.0,2015-12-25,2015-12-31
+Q4 2015,10203,Jem and the Holograms,Universal Pictures,2184640.0,2015-10-23,2015-12-31
+Q4 2015,10204,Tamasha,UTV Motion Pictures,2065487.0,2015-11-25,2015-12-31
+Q4 2015,10207,PK,UTV Motion Pictures,10616104.0,2015-12-19,2015-12-31
+Q4 2015,10212,Legend,Universal Pictures,1872994.0,2015-11-20,2015-12-31
+Q4 2015,10215,Back To The Future DayTriple Bill,Universal Home Video,1650000.0,2015-10-21,2015-12-31
+Q4 2015,10216,The Letters,Freestyle Releasing,1647416.0,2015-12-04,2015-12-31
+Q4 2015,10217,Gone Girl,Twentieth Century Fox,167762331.0,2015-10-03,2015-12-31
+Q4 2015,10221,My All-American,Clarius Entertainment,2246000.0,2015-11-13,2015-12-31
+Q4 2015,10225,Youth,Fox Searchlight Pictures,2595205.0,2015-12-04,2015-12-31
+Q4 2015,10226,Goodbye Mr. Loser,China Lion Film Distribution,1293626.0,2015-10-09,2015-12-31
+Q4 2015,10229,Dumb and Dumber To,Universal Pictures,86208010.0,2015-11-14,2015-12-31
+Q4 2015,10231,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Walt Disney Studios Motion Pictures,66954149.0,2015-10-10,2015-12-31
+Q4 2015,10237,Miss You Already,Roadside Attractions,1162653.0,2015-11-06,2015-12-31
+Q4 2015,10242,Mojin - The Lost Legend,Well Go USA Entertainment,1243810.0,2015-12-18,2015-12-31
+Q4 2015,10243,St. Vincent,The Weinstein Company,44137712.0,2015-10-10,2015-12-31
+Q4 2015,10245,Singh Is Bliing,Eros International,919095.0,2015-10-02,2015-12-31
+Q4 2015,10248,The Revenant,Twentieth Century Fox,183609490.0,2015-12-25,2015-12-31
+Q4 2015,10250,Macbeth,The Weinstein Company,1110707.0,2015-12-04,2015-12-31
+Q4 2015,10251,Song of the Sea,GKIDS,857522.0,2015-12-19,2015-12-31
+Q4 2015,10252,The Book of Life,Twentieth Century Fox,50086112.0,2015-10-17,2015-12-31
+Q4 2015,10257,Mr. Six,China Lion Film Distribution,1415450.0,2015-12-24,2015-12-31
+Q4 2015,10258,Citizenfour,RADiUS-TWC,2800870.0,2015-10-24,2015-12-31
+Q4 2015,10259,Freeheld,Lionsgate,573335.0,2015-10-02,2015-12-31
+Q4 2015,10263,Nightcrawler,Open Road Films (II),32381217.0,2015-10-31,2015-12-31
+Q4 2015,10264,By the Sea,Universal Pictures,538460.0,2015-11-13,2015-12-31
+Q4 2015,10269,Remember,Entertainment One,547009.0,2015-10-16,2015-12-31
+Q4 2015,10279,Fury,Sony Pictures Releasing,85817906.0,2015-10-17,2015-12-31
+Q4 2015,10280,Shaandaar,FIP,433541.0,2015-10-22,2015-12-31
+Q4 2015,10282,The Witness,China Lion Film Distribution,418063.0,2015-10-30,2015-12-31
+Q4 2015,10283,A Matter of Faith,Five & Two Pictures,678753.0,2015-10-17,2015-12-31
+Q4 2015,10291,The Prophet2015 Re-release,GathrFilms,370146.0,2015-10-01,2015-12-31
+Q4 2015,10301,Attack on Titan II: End of the World,FUNimation Entertainment,305934.0,2015-10-20,2015-12-31
+Q4 2015,10303,The Man in 3B,Freestyle Releasing,291513.0,2015-11-06,2015-12-31
+Q4 2015,10305,Taxi,Kino Lorber,321021.0,2015-10-02,2015-12-31
+Q4 2015,10310,Janis: Little Girl Blue,FilmRise,405190.0,2015-11-27,2015-12-31
+Q4 2015,10311,Force Majeure,Magnolia Pictures,1359497.0,2015-10-24,2015-12-31
+Q4 2015,10316,A Royal Night Out,Atlas Distribution Company,228136.0,2015-12-04,2015-12-31
+Q4 2015,10317,The Homesman,Saban Films,2429989.0,2015-11-14,2015-12-31
+Q4 2015,10320,John Wick,Lionsgate,43037835.0,2015-10-24,2015-12-31
+Q4 2015,10323,Fall in Love Like a Star2015 Re-release,China Lion Film Distribution,212508.0,2015-12-04,2015-12-31
+Q4 2015,10331,The Priests,CJ Entertainment,185093.0,2015-11-26,2015-12-31
+Q4 2015,10335,All Things Must Pass: The Rise and Fall of Tower Records,Gravitas Ventures,172394.0,2015-10-16,2015-12-31
+Q4 2015,10338,Sheng zhe wei wang,China Lion Film Distribution,163406.0,2015-11-11,2015-12-31
+Q4 2015,10340,Theeb,Film Movement,283024.0,2015-11-06,2015-12-31
+Q4 2015,10342,Hell and Back,Freestyle Releasing,157768.0,2015-10-02,2015-12-31
+Q4 2015,10344,Experimenter,Magnolia Pictures,155575.0,2015-10-16,2015-12-31
+Q4 2015,10352,45 Years,IFC Films,4247285.0,2015-12-23,2015-12-31
+Q4 2015,10359,Son of Saul,Sony Pictures Classics,1777043.0,2015-12-18,2015-12-31
+Q4 2015,10362,The Judge,Warner Bros.,47119388.0,2015-10-10,2015-12-31
+Q4 2015,10369,The Himalayas,CJ Entertainment,696717.0,2015-12-18,2015-12-31
+Q4 2015,10374,The Tale of The Princess Kaguya,GKIDS,703232.0,2015-10-17,2015-12-31
+Q4 2015,10377,Ghost in the Shell: The New Movie,FUNimation Entertainment,101203.0,2015-11-10,2015-12-31
+Q4 2015,10378,A Journey Through Time with Antony,China Lion Film Distribution,127381.0,2015-11-18,2015-12-31
+Q4 2015,10380,Christmas Eve,Amplify,91302.0,2015-12-04,2015-12-31
+Q4 2015,10381,Beasts of No Nation,Bleecker Street Media,90777.0,2015-10-16,2015-12-31
+Q4 2015,10385,Beyond the Lights,Relativity Media,14618727.0,2015-11-14,2015-12-31
+Q4 2015,10387,Anomalisa,Paramount Pictures,3759286.0,2015-12-30,2015-12-31
+Q4 2015,10391,Freaks of Nature,Sony Pictures Releasing,70958.0,2015-10-30,2015-12-31
+Q4 2015,10392,Mustang,Cohen Media Group,833240.0,2015-11-20,2015-12-31
+Q4 2015,10394,The Principle,Rocky Mountain Pictures,77507.0,2015-10-24,2015-12-31
+Q4 2015,10399,National Gallery,Zipporah Films,253941.0,2015-11-05,2015-12-31
+Q4 2015,10402,Hitchcock/Truffaut,Cohen Media Group,308547.0,2015-12-02,2015-12-31
+Q4 2015,10404,The Best of Me,Relativity Media,26766213.0,2015-10-17,2015-12-31
+Q4 2015,10409,I Smile Back,Broad Green Pictures,58738.0,2015-10-23,2015-12-31
+Q4 2015,10411,Wei ai zhi jian ru jia jing,China Lion Film Distribution,271734.0,2015-12-24,2015-12-31
+Q4 2015,10413,Goodbye to Language,Kino Lorber,401889.0,2015-10-24,2015-12-31
+Q4 2015,10414,Heist,Lionsgate Premiere,50136.0,2015-11-13,2015-12-31
+Q4 2015,10416,Red Herring,Indican Pictures,49480.0,2015-10-30,2015-12-31
+Q4 2015,10420,The Lady in the Van,Sony Pictures Classics,47672.0,2015-12-04,2015-12-31
+Q4 2015,10421,The Wonders,Oscilloscope,73378.0,2015-10-30,2015-12-31
+Q4 2015,10423,Shanghai2015 Re-release,The Weinstein Company,46425.0,2015-10-02,2015-12-31
+Q4 2015,10427,She's Beautiful When She's Angry,International Film Circuit,421573.0,2015-12-05,2015-12-31
+Q4 2015,10428,The Advocate: A Missing Body,CJ Entertainment,50162.0,2015-10-23,2015-12-31
+Q4 2015,10430,Ingrid Bergman: In Her Own Words,Rialto Pictures,138148.0,2015-11-13,2015-12-31
+Q4 2015,10433,The Phone,CJ Entertainment,40516.0,2015-11-06,2015-12-31
+Q4 2015,10434,What Our Fathers Did: A Nazi Legacy,Oscilloscope,40119.0,2015-11-06,2015-12-31
+Q4 2015,10435,Entertainment,Magnolia Pictures,55506.0,2015-11-13,2015-12-31
+Q4 2015,10438,Hiroshima Mon Amour2014 Re-release,Rialto Pictures,96439.0,2015-10-17,2015-12-31
+Q4 2015,10442,Knock Knock,Lionsgate Premiere,36336.0,2015-10-09,2015-12-31
+Q4 2015,10444,The Pearl Button,Kino Lorber,39930.0,2015-10-23,2015-12-31
+Q4 2015,10446,Dear White People,Roadside Attractions,4404154.0,2015-10-17,2015-12-31
+Q4 2015,10449,Don Verdean,Lionsgate Premiere,31309.0,2015-12-11,2015-12-31
+Q4 2015,10450,Yellow Day2015 Re-release,Providence Film Partners,144163.0,2015-12-11,2015-12-31
+Q4 2015,10455,Love,Alchemy,249083.0,2015-10-30,2015-12-31
+Q4 2015,10456,Meet the Mormons,Purdie Distribution,6047363.0,2015-10-10,2015-12-31
+Q4 2015,10457,Censored Voices,Music Box Films,29497.0,2015-11-20,2015-12-31
+Q4 2015,10470,Long Live Freedom2014 Re-release,Distrib Films,32086.0,2015-11-07,2015-12-31
+Q4 2015,10473,The Good Lie,Warner Bros.,2722209.0,2015-10-03,2015-12-31
+Q4 2015,10475,Going Away,Cohen Media Group,19501.0,2015-10-02,2015-12-31
+Q4 2015,10482,Boy and the World2015 Re-release,GKIDS,129480.0,2015-12-11,2015-12-31
+Q4 2015,10483,Trash,Focus World,17484.0,2015-10-09,2015-12-31
+Q4 2015,10486,Extraction,Lionsgate Premiere,16775.0,2015-12-18,2015-12-31
+Q4 2015,10488,This Changes Everything,Abramorama,16692.0,2015-10-03,2015-12-31
+Q4 2015,10489,The Pyramid,Twentieth Century Fox,2709280.0,2015-12-05,2015-12-31
+Q4 2015,10491,Pierrot le Fou2015 Re-release,Rialto Pictures,30999.0,2015-12-18,2015-12-31
+Q4 2015,10492,Can You Dig This,GathrFilms,15909.0,2015-11-27,2015-12-31
+Q4 2015,10493,Six Dance Lessons in Six Weeks,Dada Films,54144.0,2015-12-12,2015-12-31
+Q4 2015,10496,Gabo: The Creation of Gabriel Garcia Marquez,Icarus Films,19337.0,2015-10-01,2015-12-31
+Q4 2015,10504,Cong cong na nian,China Lion Film Distribution,569280.0,2015-12-12,2015-12-31
+Q4 2015,10505,River of Fundament,International Film Circuit,37697.0,2015-12-04,2015-12-31
+Q4 2015,10506,Noma My Perfect Storm,Magnolia Pictures,21130.0,2015-12-18,2015-12-31
+Q4 2015,10508,The Passionate Thief,Rialto Pictures,31539.0,2015-12-05,2015-12-31
+Q4 2015,10509,The World of Kanako2015 Re-release,Drafthouse Films,16627.0,2015-12-04,2015-12-31
+Q4 2015,10511,The Armor of Light,Fork Films,12267.0,2015-10-30,2015-12-31
+Q4 2015,10513,The Overnighters,Drafthouse Films,110763.0,2015-10-10,2015-12-31
+Q4 2015,10515,James White,The Film Arcade,12007.0,2015-11-13,2015-12-31
+Q4 2015,10520,Diplomacy,Zeitgeist Films,230880.0,2015-10-15,2015-12-31
+Q4 2015,10522,Sembene!,Kino Lorber,26164.0,2015-11-13,2015-12-31
+Q4 2015,10532,Monk with a Camera,Kino Lorber,45938.0,2015-11-21,2015-12-31
+Q4 2015,10533,Arabian Nights: Volume 1 - The Restless One,Kino Lorber,12088.0,2015-12-04,2015-12-31
+Q4 2015,10534,Northern Soul,Freestyle Releasing,8886.0,2015-10-02,2015-12-31
+Q4 2015,10537,The Girl in the Book,Freestyle Releasing,8245.0,2015-12-11,2015-12-31
+Q4 2015,10538,A Fool,China Lion Film Distribution,8212.0,2015-11-27,2015-12-31
+Q4 2015,10547,The Winding Stream,Argot Pictures,33420.0,2015-12-16,2015-12-31
+Q4 2015,10549,The Forbidden Room,Kino Lorber,33570.0,2015-10-07,2015-12-31
+Q4 2015,10550,Dreams Rewired,Icarus Films,11843.0,2015-11-12,2015-12-31
+Q4 2015,10556,Steve McQueen: The Man & Le Mans,FilmRise,6843.0,2015-11-13,2015-12-31
+Q4 2015,10559,Capture the Flag,Paramount Pictures,6690.0,2015-12-04,2015-12-31
+Q4 2015,10568,Shout Gladi Gladi,International Film Circuit,5839.0,2015-10-02,2015-12-31
+Q4 2015,10569,Women Who Flirt,China Lion Film Distribution,375495.0,2015-11-26,2015-12-31
+Q4 2015,10574,Inside the Mind of Leonardo,Submarine Deluxe,10600.0,2015-12-19,2015-12-31
+Q4 2015,10577,Death Valley,Indican Pictures,5211.0,2015-10-16,2015-12-31
+Q4 2015,10579,Arabian Nights: Volume 2 - The Desolate One,Kino Lorber,6225.0,2015-12-11,2015-12-31
+Q4 2015,10580,Concerning Violence,Kino Lorber,12034.0,2015-12-05,2015-12-31
+Q4 2015,10589,The Knife of Don Juan,Indican Pictures,4254.0,2015-10-09,2015-12-31
+Q4 2015,10595,The Way He Looks,Strand Releasing,99612.0,2015-11-07,2015-12-31
+Q4 2015,10596,Actress,The Cinema Guild,10777.0,2015-11-07,2015-12-31
+Q4 2015,10599,Arabian Nights: Volume 3 - The Enchanted One,Kino Lorber,4332.0,2015-12-18,2015-12-31
+Q4 2015,10609,Blackhats,Reel One Entertainment,3216.0,2015-10-23,2015-12-31
+Q4 2015,10611,Rosewater,Open Road Films (II),3128941.0,2015-11-14,2015-12-31
+Q4 2015,10612,Le Jour Se Leve,Rialto Pictures,35321.0,2015-11-14,2015-12-31
+Q4 2015,10615,On War2015 Re-release,Indican Pictures,4543.0,2015-11-20,2015-12-31
+Q4 2015,10617,Body,Oscilloscope,2634.0,2015-12-11,2015-12-31
+Q4 2015,10623,The King and the Mockingbird2014 Re-release,Rialto Pictures,27513.0,2015-11-21,2015-12-31
+Q4 2015,10629,Life Partners,Magnolia Pictures,8265.0,2015-12-05,2015-12-31
+Q4 2015,10630,T-Rex: Back to the Cretaceous,IMAX,53354743.0,2015-10-23,2015-12-31
+Q4 2015,10635,Two-Bit Waltz,Monterey Media,2259.0,2015-10-24,2015-12-31
+Q4 2015,10640,Tip Top,Kino Lorber,4611.0,2015-12-12,2015-12-31
+Q4 2015,10645,The Lady in the Car with Glasses and a Gun,Magnolia Pictures,2167.0,2015-12-18,2015-12-31
+Q4 2015,10651,Making Rounds,First Run,1484.0,2015-10-30,2015-12-31
+Q4 2015,10654,Life of Riley,Kino Lorber,10595.0,2015-10-24,2015-12-31
+Q4 2015,10655,Cut Snake,Monterey Media,1595.0,2015-10-07,2015-12-31
+Q4 2015,10663,The Immortalists,GathrFilms,9331.0,2015-11-26,2015-12-31
+Q4 2015,10673,Xenia2015 Re-release,Strand Releasing,3084.0,2015-10-09,2015-12-31
+Q4 2015,10676,Le talent de mes amis,Distrib Films,889.0,2015-12-11,2015-12-31
+Q4 2015,10692,The Summer of Sangaile,Strand Releasing,1946.0,2015-11-20,2015-12-31
+Q4 2015,10695,Elsa & Fred,Millennium Entertainment,285863.0,2015-11-07,2015-12-31
+Q4 2015,10704,Pioneer,Magnolia Pictures,6871.0,2015-12-05,2015-12-31
+Q4 2015,10706,Der Anständige,Kino Lorber,20240.0,2015-10-01,2015-12-31

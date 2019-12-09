@@ -1,0 +1,871 @@
+season,Unnamed: 0,movie,studio,gross,release,time
+Q1 2018,12233,Black Panther,Walt Disney Studios Motion Pictures,700059566.0,2018-02-16,2018-03-31
+Q1 2018,12255,Ready Player One,Warner Bros.,137690172.0,2018-03-29,2018-03-31
+Q1 2018,12259,Peter Rabbit,Sony Pictures Releasing,115253424.0,2018-02-09,2018-03-31
+Q1 2018,12266,A Wrinkle in Time,Walt Disney Studios Motion Pictures,100478608.0,2018-03-09,2018-03-31
+Q1 2018,12267,Fifty Shades Freed,Universal Pictures,100407760.0,2018-02-09,2018-03-31
+Q1 2018,12269,I Can Only Imagine,Roadside Attractions,83482352.0,2018-03-16,2018-03-31
+Q1 2018,12275,Game Night,Warner Bros.,69179066.0,2018-02-23,2018-03-31
+Q1 2018,12279,Insidious: The Last Key,Universal Pictures,67745330.0,2018-01-05,2018-03-31
+Q1 2018,12283,Pacific Rim: Uprising,Universal Pictures,59874525.0,2018-03-23,2018-03-31
+Q1 2018,12284,Tomb Raider,Warner Bros.,58250803.0,2018-03-16,2018-03-31
+Q1 2018,12285,Maze Runner: The Death Cure,Twentieth Century Fox,57902320.0,2018-01-26,2018-03-31
+Q1 2018,12297,Red Sparrow,Twentieth Century Fox,46860157.0,2018-03-02,2018-03-31
+Q1 2018,12299,12 Strong,Warner Bros.,45819713.0,2018-01-19,2018-03-31
+Q1 2018,12300,Den of Thieves,STX Entertainment,44947622.0,2018-01-19,2018-03-31
+Q1 2018,12303,Tyler Perry's Acrimony,Lionsgate,43549096.0,2018-03-30,2018-03-31
+Q1 2018,12304,Sherlock Gnomes,Paramount Pictures,43242871.0,2018-03-23,2018-03-31
+Q1 2018,12309,Paddington 2,Warner Bros.,40891591.0,2018-01-12,2018-03-31
+Q1 2018,12310,"Love, Simon",Twentieth Century Fox,40823927.0,2018-03-16,2018-03-31
+Q1 2018,12312,The Commuter,Lionsgate,36343858.0,2018-01-12,2018-03-31
+Q1 2018,12313,The 15:17 to Paris,Warner Bros.,36276286.0,2018-02-09,2018-03-31
+Q1 2018,12317,Death Wish,Metro-Goldwyn-Mayer (MGM),34017028.0,2018-03-02,2018-03-31
+Q1 2018,12319,Annihilation,Paramount Pictures,32732301.0,2018-02-23,2018-03-31
+Q1 2018,12321,Isle of Dogs,Fox Searchlight Pictures,31892516.0,2018-03-23,2018-03-31
+Q1 2018,12335,Winchester,Lionsgate,25091816.0,2018-02-02,2018-03-31
+Q1 2018,12343,Proud Mary,Screen Gems,20877013.0,2018-01-12,2018-03-31
+Q1 2018,12351,"Paul, Apostle of Christ",Affirm Films,17560475.0,2018-03-23,2018-03-31
+Q1 2018,12355,Forever My Girl,Roadside Attractions,16376066.0,2018-01-19,2018-03-31
+Q1 2018,12379,Early Man,Lionsgate,8267544.0,2018-02-16,2018-03-31
+Q1 2018,12381,The Death of Stalin,IFC Films,8047856.0,2018-03-09,2018-03-31
+Q1 2018,12383,Unsane,Bleecker Street Media,7732899.0,2018-03-23,2018-03-31
+Q1 2018,12394,The Hurricane Heist,Entertainment Studios Motion Pictures,6115825.0,2018-03-09,2018-03-31
+Q1 2018,12395,Every Day,Orion Pictures,6102076.0,2018-02-23,2018-03-31
+Q1 2018,12401,God's Not Dead: A Light in Darkness,Pure Flix Entertainment,5728940.0,2018-03-30,2018-03-31
+Q1 2018,12407,Gringo,STX Entertainment,4969853.0,2018-03-09,2018-03-31
+Q1 2018,12408,Samson,Pure Flix Entertainment,4719928.0,2018-02-16,2018-03-31
+Q1 2018,12427,7 Days in Entebbe,Focus Features,3189220.0,2018-03-16,2018-03-31
+Q1 2018,12430,Thoroughbreds,Focus Features,3072605.0,2018-03-09,2018-03-31
+Q1 2018,12438,Mary and the Witch's Flower,GKIDS,2418404.0,2018-01-18,2018-03-31
+Q1 2018,12449,The Metropolitan Opera HD Live: Puccini: Tosca,Fathom Events,2023749.0,2018-01-27,2018-03-31
+Q1 2018,12453,Detective Chinatown 2,Warner Bros.,1983984.0,2018-02-16,2018-03-31
+Q1 2018,12457,The Metropolitan Opera HD Live: Puccini: La Bohème,Fathom Events,1764201.0,2018-02-24,2018-03-31
+Q1 2018,12460,Pad Man,Sony Pictures Releasing,1670192.0,2018-02-09,2018-03-31
+Q1 2018,12467,Finding Your Feet,Roadside Attractions,1418682.0,2018-03-30,2018-03-31
+Q1 2018,12472,Baaghi 2,FIP,1319579.0,2018-03-30,2018-03-31
+Q1 2018,12473,The Metropolitan Opera HD Live: Mozart: Così fan tutte,Fathom Events,1302949.0,2018-03-31,2018-03-31
+Q1 2018,12488,The Metropolitan Opera HD Live: Donizetti: L'Elisir d'Amore,Fathom Events,1115018.0,2018-02-10,2018-03-31
+Q1 2018,12491,The Dark Crystal2018 Re-release,Fathom Events,1036956.0,2018-02-25,2018-03-31
+Q1 2018,12493,The Metropolitan Opera HD Live: Rossini: Semiramide,Fathom Events,1033651.0,2018-03-10,2018-03-31
+Q1 2018,12497,Raid,Eros International,1010385.0,2018-03-16,2018-03-31
+Q1 2018,12504,Kirk Cameron: Connect,Fathom Events,918127.0,2018-02-27,2018-03-31
+Q1 2018,12519,The Party,Roadside Attractions,749827.0,2018-02-16,2018-03-31
+Q1 2018,12525,Monster Hunt 2,Lionsgate,706153.0,2018-02-16,2018-03-31
+Q1 2018,12534,Ponyo2018 Re-release,Fathom Events,653072.0,2018-03-25,2018-03-31
+Q1 2018,12539,Itzhak,Greenwich Entertainment,607290.0,2018-03-09,2018-03-31
+Q1 2018,12550,The Room2017 Re-release,Fathom Events,549602.0,2018-01-10,2018-03-31
+Q1 2018,12561,Bilal: A New Breed of Hero2018 Re-release,Vertical Entertainment,490973.0,2018-02-02,2018-03-31
+Q1 2018,12567,Condorito: The Movie,Lionsgate,447719.0,2018-01-12,2018-03-31
+Q1 2018,12571,Operation Red Sea,Well Go USA Entertainment,436059.0,2018-02-23,2018-03-31
+Q1 2018,12576,The Philadelphia Story2018 Re-release,Fathom Events,404524.0,2018-02-18,2018-03-31
+Q1 2018,12584,Vertigo2018 Re-release,Fathom Events,394212.0,2018-03-18,2018-03-31
+Q1 2018,12586,Flower,The Orchard,328188.0,2018-03-16,2018-03-31
+Q1 2018,12593,Get Out,Universal Pictures,176040665.0,2018-02-24,2018-03-31
+Q1 2018,12600,Suicide the Ripple Effect,GathrFilms,347468.0,2018-02-23,2018-03-31
+Q1 2018,12601,The Opera House,Fathom Events,320079.0,2018-01-13,2018-03-31
+Q1 2018,12602,The Riot and the Dance,Fathom Events,316103.0,2018-03-19,2018-03-31
+Q1 2018,12603,The Bolshoi Ballet: Live From Moscow - Romeo and Juliet,Fathom Events,313088.0,2018-01-21,2018-03-31
+Q1 2018,12620,Back to Burgundy,Music Box Films,257610.0,2018-03-23,2018-03-31
+Q1 2018,12622,Best F(r)iends: Volume 1,Fathom Events,252410.0,2018-03-30,2018-03-31
+Q1 2018,12626,Alien Intrusion: Unmasking a Deception,Fathom Events,237411.0,2018-01-11,2018-03-31
+Q1 2018,12628,Hamlet2018 Re-release,Fathom Events,235229.0,2018-03-08,2018-03-31
+Q1 2018,12631,Under the Sea 3D,Warner Bros.,36223935.0,2018-02-13,2018-03-31
+Q1 2018,12634,Mazinger Z: INFINITY,Fathom Events,220682.0,2018-02-11,2018-03-31
+Q1 2018,12637,Getting Grace,Hannover House,217812.0,2018-03-23,2018-03-31
+Q1 2018,12639,The Treasure of the Sierra Madre,Fathom Events,215295.0,2018-01-14,2018-03-31
+Q1 2018,12640,Agent Mr. Chan,China Lion Film Distribution,208351.0,2018-02-23,2018-03-31
+Q1 2018,12660,The Bolshoi Ballet: Live From Moscow - The Flames of Paris,Fathom Events,175922.0,2018-03-04,2018-03-31
+Q1 2018,12664,The Bolshoi Ballet: Live From Moscow - The Lady of the Camellias,Fathom Events,167991.0,2018-02-04,2018-03-31
+Q1 2018,12666,Is Genesis History?2018 Re-release,Fathom Events,166763.0,2018-02-22,2018-03-31
+Q1 2018,12673,Gemini,Neon,200340.0,2018-03-30,2018-03-31
+Q1 2018,12674,The Oscar Nominated Short Films 2018: Live Action,Shorts International,1895840.0,2018-02-09,2018-03-31
+Q1 2018,12681,Deep Sea,Warner Bros.,46403478.0,2018-03-03,2018-03-31
+Q1 2018,12689,The Young Karl Marx,The Orchard,125659.0,2018-02-23,2018-03-31
+Q1 2018,12691,'85: The Greatest Team in Football History,Fathom Events,124573.0,2018-01-29,2018-03-31
+Q1 2018,12693,Outside In,The Orchard,68492.0,2018-03-30,2018-03-31
+Q1 2018,12696,Yu-Gi-Oh!: The Movie - Pyramid of Light2018 Re-release,Fathom Events,121688.0,2018-03-11,2018-03-31
+Q1 2018,12702,Nostalgia,Bleecker Street Media,114603.0,2018-02-16,2018-03-31
+Q1 2018,12713,National Theatre Live: Julius Caesar,Fathom Events,107057.0,2018-03-22,2018-03-31
+Q1 2018,12717,Ismael's Ghosts,Magnolia Pictures,102510.0,2018-03-23,2018-03-31
+Q1 2018,12728,Golden Slumber,CJ Entertainment,94450.0,2018-02-16,2018-03-31
+Q1 2018,12732,Cat on a Hot Tin Roof,Fathom Events,89332.0,2018-02-22,2018-03-31
+Q1 2018,12734,Goldstone2018 Re-release,Lightyear Entertainment,87639.0,2018-03-02,2018-03-31
+Q1 2018,12743,Claire's Camera,The Cinema Guild,83418.0,2018-03-09,2018-03-31
+Q1 2018,12748,The Princess and the Matchmaker,CJ Entertainment,78900.0,2018-03-09,2018-03-31
+Q1 2018,12754,The Brawler,Eros International,75929.0,2018-01-12,2018-03-31
+Q1 2018,12756,Keys To The Heart,CJ Entertainment,75134.0,2018-01-26,2018-03-31
+Q1 2018,12759,The Last Suit,Outsider Films,73548.0,2018-03-23,2018-03-31
+Q1 2018,12768,Parchi,Atlas Distribution Company,69431.0,2018-01-12,2018-03-31
+Q1 2018,12778,DIGIMON ADVENTURE tri.: Loss,Fathom Events,59114.0,2018-02-01,2018-03-31
+Q1 2018,12780,Tehran Taboo,Kino Lorber,74720.0,2018-02-14,2018-03-31
+Q1 2018,12784,But Deliver Us from Evil,Indican Pictures,217681.0,2018-02-09,2018-03-31
+Q1 2018,12788,In Between,Film Movement,104451.0,2018-01-05,2018-03-31
+Q1 2018,12796,The Great Silence,Film Movement,51290.0,2018-03-30,2018-03-31
+Q1 2018,12799,The China Hustle,Magnolia Pictures,48650.0,2018-03-30,2018-03-31
+Q1 2018,12808,Summer in the Forest,Abramorama,45542.0,2018-03-23,2018-03-31
+Q1 2018,12813,Submission,Great Point Media,39985.0,2018-03-02,2018-03-31
+Q1 2018,12814,Golden Exits,Vertical Entertainment,41888.0,2018-02-09,2018-03-31
+Q1 2018,12816,Western,The Cinema Guild,41072.0,2018-02-16,2018-03-31
+Q1 2018,12819,Girls vs Gangsters,Well Go USA Entertainment,37115.0,2018-03-09,2018-03-31
+Q1 2018,12824,Mind Game,GKIDS,36613.0,2018-02-16,2018-03-31
+Q1 2018,12827,The Road Movie,Oscilloscope,35757.0,2018-01-19,2018-03-31
+Q1 2018,12830,No Intenso Agora,Icarus Films,24955.0,2018-01-31,2018-03-31
+Q1 2018,12833,Double Lover,Cohen Media Group,95987.0,2018-02-14,2018-03-31
+Q1 2018,12839,Memories of Underdevelopment2018 Re-release,Janus Films,29647.0,2018-01-12,2018-03-31
+Q1 2018,12850,Have a Nice Day,Strand Releasing,77854.0,2018-01-26,2018-03-31
+Q1 2018,12855,The Gardener,Gravitas Ventures,61013.0,2018-03-30,2018-03-31
+Q1 2018,12858,Death House,Hannover House,23833.0,2018-03-02,2018-03-31
+Q1 2018,12860,The Insult,Cohen Media Group,646497.0,2018-01-12,2018-03-31
+Q1 2018,12864,A Fantastic Woman,Sony Pictures Classics,390207.0,2018-02-02,2018-03-31
+Q1 2018,12866,Primal Rage: The Legend of Konga,Fathom Events,21497.0,2018-02-27,2018-03-31
+Q1 2018,12869,The Monkey King 3,Well Go USA Entertainment,116352.0,2018-02-16,2018-03-31
+Q1 2018,12870,Ice Dragon: Legend of the Blue Daisies,Fathom Events,20549.0,2018-03-24,2018-03-31
+Q1 2018,12873,Eight Hours Don't Make a Day,Janus Films,19987.0,2018-03-16,2018-03-31
+Q1 2018,12876,November,Oscilloscope,19084.0,2018-02-23,2018-03-31
+Q1 2018,12879,King of Hearts,Cohen Media Group,17646.0,2018-02-23,2018-03-31
+Q1 2018,12882,Beuys,Kino Lorber,64994.0,2018-01-17,2018-03-31
+Q1 2018,12890,Bob le Flambeur,Rialto Pictures,15586.0,2018-01-05,2018-03-31
+Q1 2018,12895,Freak Show,IFC Films,19696.0,2018-01-12,2018-03-31
+Q1 2018,12897,El Mar La Mar,The Cinema Guild,9065.0,2018-02-23,2018-03-31
+Q1 2018,12899,The Last Movie Star,A24,14410.0,2018-03-30,2018-03-31
+Q1 2018,12906,Shed Skin Papa,China Lion Film Distribution,13331.0,2018-03-23,2018-03-31
+Q1 2018,12909,How Viktor 'The Garlic' Took Alexey 'The Stud' to the Nursing Home,Carusel,12954.0,2018-03-23,2018-03-31
+Q1 2018,12910,PGS: Intuition Is Your Personal Guidance System,GathrFilms,34562.0,2018-01-16,2018-03-31
+Q1 2018,12914,Like Me,Kino Lorber,12965.0,2018-01-26,2018-03-31
+Q1 2018,12916,Let Yourself Go,Menemsha Films,12189.0,2018-03-02,2018-03-31
+Q1 2018,12922,Hannah,Parade Deck Films,11700.0,2018-03-09,2018-03-31
+Q1 2018,12934,A Ciambra,IFC Films,41934.0,2018-01-19,2018-03-31
+Q1 2018,12937,Mama Africa2018 Re-release,ArtMattan Productions,10430.0,2018-01-19,2018-03-31
+Q1 2018,12943,Detective K: Secret of the Living Dead,Well Go USA Entertainment,40428.0,2018-02-16,2018-03-31
+Q1 2018,12947,Wastelander,Indican Pictures,61133.0,2018-01-12,2018-03-31
+Q1 2018,12949,Bomb City,Gravitas Ventures,58751.0,2018-02-09,2018-03-31
+Q1 2018,12950,Step Up: High Water,Fathom Events,9005.0,2018-01-30,2018-03-31
+Q1 2018,12952,Survivors Guide To Prison,Gravitas Ventures,8982.0,2018-02-23,2018-03-31
+Q1 2018,12957,Oh Lucy!,Film Movement,373293.0,2018-03-02,2018-03-31
+Q1 2018,12960,Loveless,Sony Pictures Classics,55225.0,2018-02-16,2018-03-31
+Q1 2018,12963,A Bag of Marbles,Gaumont British Picture Corporation,337540.0,2018-03-23,2018-03-31
+Q1 2018,12965,Tall: The American Skyscraper and Louis Sullivan,The Cinema Guild,7216.0,2018-01-19,2018-03-31
+Q1 2018,12967,In the Land of Pomegranates,First Run,7014.0,2018-01-05,2018-03-31
+Q1 2018,12974,The Big Bad Fox and Other Tales2017 Re-release,GKIDS,35787.0,2018-03-08,2018-03-31
+Q1 2018,12979,My Art,Film Movement,11762.0,2018-01-12,2018-03-31
+Q1 2018,12988,The Female Brain,IFC Films,21786.0,2018-02-09,2018-03-31
+Q1 2018,12991,Desolation,Parade Deck Films,16500.0,2018-01-26,2018-03-31
+Q1 2018,13003,Status Update,Vertical Entertainment,4764.0,2018-03-30,2018-03-31
+Q1 2018,13007,Kangaroo,Abramorama,4547.0,2018-01-19,2018-03-31
+Q1 2018,13008,Kickboxer: Retaliation,Well Go USA Entertainment,4537.0,2018-01-26,2018-03-31
+Q1 2018,13026,The Chronicle of Anna Magdalena Bach,Grasshopper Film,17015.0,2018-03-02,2018-03-31
+Q1 2018,13029,Fourplay,Parade Deck Films,3550.0,2018-03-30,2018-03-31
+Q1 2018,13033,Followers,Cinedigm Entertainment Group,3350.0,2018-03-23,2018-03-31
+Q1 2018,13035,The Happys,Indican Pictures,20671.0,2018-03-16,2018-03-31
+Q1 2018,13040,Hubble 3D,Warner Bros.,52503602.0,2018-03-19,2018-03-31
+Q1 2018,13041,Tom of Finland2018 Re-release,GathrFilms,2856.0,2018-02-23,2018-03-31
+Q1 2018,13042,Goldbuster,Well Go USA Entertainment,149072.0,2018-01-05,2018-03-31
+Q1 2018,13054,Beauty and the Dogs,Oscilloscope,7263.0,2018-03-23,2018-03-31
+Q1 2018,13067,West Of The Jordan River,Kino Lorber,1926.0,2018-01-26,2018-03-31
+Q1 2018,13075,Keep the Change,Kino Lorber,190387.0,2018-03-16,2018-03-31
+Q1 2018,13081,The Boy Downstairs,FilmRise,7470.0,2018-02-16,2018-03-31
+Q1 2018,13094,Django,Under The Milky Way,19554.0,2018-01-05,2018-03-31
+Q1 2018,13095,Namiya,China Lion Film Distribution,66176.0,2018-01-05,2018-03-31
+Q1 2018,13103,The Final Year,Magnolia Pictures,187360.0,2018-01-19,2018-03-31
+Q1 2018,13107,Dying to Know: Ram Dass & Timothy Leary,GathrFilms,6899.0,2018-01-23,2018-03-31
+Q1 2018,13111,Leaning Into The Wind,Magnolia Pictures,387237.0,2018-03-09,2018-03-31
+Q1 2018,13117,Our Blood is Wine,Music Box Films,13210.0,2018-03-09,2018-03-31
+Q1 2018,13123,Nostalgia for the Light,Icarus Films,163962.0,2018-01-13,2018-03-31
+Q1 2018,13125,Did You Wonder Who Fired the Gun?,Grasshopper Film,20545.0,2018-02-28,2018-03-31
+Q1 2018,13126,The Workshop,Strand Releasing,21611.0,2018-03-23,2018-03-31
+Q1 2018,13129,Final Portrait,Sony Pictures Classics,455475.0,2018-03-23,2018-03-31
+Q1 2018,13134,Foxtrot,Sony Pictures Classics,615633.0,2018-03-02,2018-03-31
+Q1 2018,13136,Midget Zombie Takeover,Driving With Our Eyes Shut,10724.0,2018-02-08,2018-03-31
+Q1 2018,13140,Please Stand By,Magnolia Pictures,9425.0,2018-01-26,2018-03-31
+Q1 2018,13145,Till The End Of The World,China Lion Film Distribution,118352.0,2018-02-02,2018-03-31
+Q1 2018,13149,Ridge Runners,Indican Pictures,25183.0,2018-01-19,2018-03-31
+Q2 2018,12234,Avengers: Infinity War,Walt Disney Studios Motion Pictures,678815482.0,2018-04-27,2018-06-30
+Q2 2018,12235,The Incredibles 2,Walt Disney Studios Motion Pictures,608581744.0,2018-06-15,2018-06-30
+Q2 2018,12236,Jurassic World: Fallen Kingdom,Universal Pictures,417719760.0,2018-06-22,2018-06-30
+Q2 2018,12237,Deadpool 2,Twentieth Century Fox,318491426.0,2018-05-18,2018-06-30
+Q2 2018,12242,Solo: A Star Wars Story,Walt Disney Studios Motion Pictures,213767512.0,2018-05-25,2018-06-30
+Q2 2018,12247,A Quiet Place,Paramount Pictures,188024361.0,2018-04-06,2018-06-30
+Q2 2018,12254,Ocean's Eight,Warner Bros.,140218711.0,2018-06-08,2018-06-30
+Q2 2018,12265,Rampage,Warner Bros.,101028233.0,2018-04-13,2018-06-30
+Q2 2018,12276,Book Club,Paramount Pictures,68566296.0,2018-05-18,2018-06-30
+Q2 2018,12282,Blockers,Universal Pictures,60311495.0,2018-04-06,2018-06-30
+Q2 2018,12286,Tag,Warner Bros.,54730625.0,2018-06-15,2018-06-30
+Q2 2018,12289,Life of the Party,Warner Bros.,53059911.0,2018-05-11,2018-06-30
+Q2 2018,12292,Sicario: Day of the Soldado,Sony Pictures Releasing,50072235.0,2018-06-29,2018-06-30
+Q2 2018,12293,I Feel Pretty,STX Entertainment,48795601.0,2018-04-20,2018-06-30
+Q2 2018,12296,Breaking In,Universal Pictures,46840590.0,2018-05-11,2018-06-30
+Q2 2018,12302,Hereditary,A24,44069456.0,2018-06-08,2018-06-30
+Q2 2018,12305,Uncle Drew,Lionsgate,42469946.0,2018-06-29,2018-06-30
+Q2 2018,12308,Blumhouse's Truth or Dare,Universal Pictures,41411015.0,2018-04-13,2018-06-30
+Q2 2018,12323,Adrift,STX Entertainment,31445012.0,2018-06-01,2018-06-30
+Q2 2018,12326,Super Troopers 2,Twentieth Century Fox,30609330.0,2018-04-20,2018-06-30
+Q2 2018,12340,Won't You Be My Neighbor?,Focus Features,22835787.0,2018-06-08,2018-06-30
+Q2 2018,12346,SuperFly,Sony Pictures Releasing,20545116.0,2018-06-13,2018-06-30
+Q2 2018,12354,Chappaquiddick,Entertainment Studios Motion Pictures,17395520.0,2018-04-06,2018-06-30
+Q2 2018,12364,Three Identical Strangers,Neon,12320845.0,2018-06-29,2018-06-30
+Q2 2018,12365,Upgrade,BH Tilt,11977130.0,2018-06-01,2018-06-30
+Q2 2018,12371,RBG,Magnolia Pictures,14017361.0,2018-05-04,2018-06-30
+Q2 2018,12375,Tully,Focus Features,9369755.0,2018-05-04,2018-06-30
+Q2 2018,12376,Traffik,Lionsgate,9186156.0,2018-04-20,2018-06-30
+Q2 2018,12382,Sanju,FIP,7909317.0,2018-06-29,2018-06-30
+Q2 2018,12396,Leave No Trace,Bleecker Street Media,6046104.0,2018-06-29,2018-06-30
+Q2 2018,12399,Pandas,Warner Bros.,5757906.0,2018-04-06,2018-06-30
+Q2 2018,12405,Action Point,Paramount Pictures,5059608.0,2018-06-01,2018-06-30
+Q2 2018,12406,Beirut,Bleecker Street Media,5019226.0,2018-04-11,2018-06-30
+Q2 2018,12411,Gotti,Vertical Entertainment,4343227.0,2018-06-15,2018-06-30
+Q2 2018,12420,Disobedience,Bleecker Street Media,3498782.0,2018-04-27,2018-06-30
+Q2 2018,12422,First Reformed,A24,3448256.0,2018-05-18,2018-06-30
+Q2 2018,12424,Bad Samaritan,Electric Entertainment,3435047.0,2018-05-04,2018-06-30
+Q2 2018,12426,2001: A Space Odyssey2017 Re-release,Warner Bros.,3236321.0,2018-05-18,2018-06-30
+Q2 2018,12433,American Animals,The Orchard,2856954.0,2018-06-01,2018-06-30
+Q2 2018,12435,Bharath Ane Nenu,Great India Films,2663090.0,2018-04-20,2018-06-30
+Q2 2018,12436,You Were Never Really Here,Amazon Studios,2528078.0,2018-04-06,2018-06-30
+Q2 2018,12439,Hearts Beat Loud,Gunpowder & Sky,2386251.0,2018-06-08,2018-06-30
+Q2 2018,12445,A Beautiful Planet,IMAX,15589715.0,2018-04-29,2018-06-30
+Q2 2018,12447,The Fall of the American Empire,Entertainment One,2065482.0,2018-06-29,2018-06-30
+Q2 2018,12450,Pope Francis - A Man Of His Word,Focus Features,2008385.0,2018-05-18,2018-06-30
+Q2 2018,12471,102 Not Out,Sony Pictures Releasing,1343797.0,2018-05-04,2018-06-30
+Q2 2018,12475,The Metropolitan Opera HD Live: Massenet: Cendrillon,Fathom Events,1243306.0,2018-04-28,2018-06-30
+Q2 2018,12477,Grease2018 Re-release,Fathom Events,1213413.0,2018-04-08,2018-06-30
+Q2 2018,12484,The Metropolitan Opera HD Live: Verdi: Luisa Miller,Fathom Events,1166858.0,2018-04-14,2018-06-30
+Q2 2018,12485,Lean on Pete,A24,1163056.0,2018-04-06,2018-06-30
+Q2 2018,12494,The Rider,Sony Pictures Classics,2402856.0,2018-04-13,2018-06-30
+Q2 2018,12498,Labyrinth2018 Re-release,Fathom Events,993336.0,2018-04-29,2018-06-30
+Q2 2018,12509,The Cakemaker,Strand Releasing,875751.0,2018-06-29,2018-06-30
+Q2 2018,12512,BANDSTAND: The Broadway Musical on Screen,Fathom Events,839554.0,2018-06-25,2018-06-30
+Q2 2018,12514,Let the Sunshine In,IFC Films,892421.0,2018-04-27,2018-06-30
+Q2 2018,12515,Like Arrows,Fathom Events,817990.0,2018-05-01,2018-06-30
+Q2 2018,12516,Beast,Roadside Attractions,800365.0,2018-05-11,2018-06-30
+Q2 2018,12521,On Chesil Beach,Bleecker Street Media,745971.0,2018-05-18,2018-06-30
+Q2 2018,12526,Boundaries,Sony Pictures Classics,703438.0,2018-06-22,2018-06-30
+Q2 2018,12533,The Catcher Was a Spy,IFC Films,725223.0,2018-06-22,2018-06-30
+Q2 2018,12541,The Walking Dead: Wrath/The Walking Dead/Fear the Walking Dead: What's Your Story?/Fear the Walking Dead2018 NCM Fathom Event,Fathom Events,605764.0,2018-04-15,2018-06-30
+Q2 2018,12543,Grateful Dead Meet-Up 2018,Fathom Events,600554.0,2018-04-04,2018-06-30
+Q2 2018,12544,Island of Lemurs: Madagascar,Warner Bros.,11269209.0,2018-04-04,2018-06-30
+Q2 2018,12548,The Cat Returns2018 Re-release,Fathom Events,563718.0,2018-04-22,2018-06-30
+Q2 2018,12563,Puffs: Filmed Live Off Broadway,Fathom Events,464483.0,2018-05-09,2018-06-30
+Q2 2018,12569,To the Arctic 3D,Warner Bros.,14553890.0,2018-04-20,2018-06-30
+Q2 2018,12570,Porco Rosso2018 Re-release,Fathom Events,443059.0,2018-05-20,2018-06-30
+Q2 2018,12572,DCI 2018 Tour Premeire,Fathom Events,434008.0,2018-06-21,2018-06-30
+Q2 2018,12581,West Side Story2018 Re-release,Fathom Events,398670.0,2018-06-24,2018-06-30
+Q2 2018,12582,Space Mutiny,Fathom Events,397887.0,2018-06-14,2018-06-30
+Q2 2018,12589,Pom Poko2018 Re-release,Fathom Events,372405.0,2018-06-17,2018-06-30
+Q2 2018,12590,Believer,Well Go USA Entertainment,365639.0,2018-06-08,2018-06-30
+Q2 2018,12594,Mountain,Greenwich Entertainment,365412.0,2018-05-11,2018-06-30
+Q2 2018,12605,Damsel,Magnolia Pictures,305136.0,2018-06-22,2018-06-30
+Q2 2018,12607,The Bolshoi Ballet: Live From Moscow - Giselle,Fathom Events,302681.0,2018-04-08,2018-06-30
+Q2 2018,12608,Sunset Blvd.2018 Re-release,Fathom Events,299645.0,2018-05-13,2018-06-30
+Q2 2018,12610,Andy Irons: Kissed by God,Fathom Events,285933.0,2018-05-25,2018-06-30
+Q2 2018,12613,Kings,The Orchard,274635.0,2018-04-27,2018-06-30
+Q2 2018,12614,Doctor Who,Fathom Events,264629.0,2018-06-11,2018-06-30
+Q2 2018,12616,Eating You Alive,Fathom Events,260534.0,2018-04-05,2018-06-30
+Q2 2018,12635,Fragments of Truth,Fathom Events,219342.0,2018-04-24,2018-06-30
+Q2 2018,12638,The Producers2018 Re-release,Fathom Events,216807.0,2018-06-03,2018-06-30
+Q2 2018,12641,The Dating Project,Fathom Events,208100.0,2018-04-17,2018-06-30
+Q2 2018,12644,The Bolshoi Ballet: Live From Moscow - Coppélia,Fathom Events,202217.0,2018-06-10,2018-06-30
+Q2 2018,12647,Fate/Stay Night: Heaven's Feel - I. Presage Flower,Fathom Events,193833.0,2018-06-05,2018-06-30
+Q2 2018,12653,Cobra Kai Premiere Event feat. The Karate Kid2018 NCM Fathom Event,Fathom Events,185082.0,2018-04-25,2018-06-30
+Q2 2018,12657,The Accidental Detective 2: In Action,CJ Entertainment,179045.0,2018-06-22,2018-06-30
+Q2 2018,12669,National Theatre Live: The Curious Incident of the Dog in the Night-Time2018 Re-release,Fathom Events,160381.0,2018-06-12,2018-06-30
+Q2 2018,12679,Best F(r)iends Volume Two,Fathom Events,141524.0,2018-06-01,2018-06-30
+Q2 2018,12680,Eating Animals,IFC Films,149614.0,2018-06-15,2018-06-30
+Q2 2018,12684,The Metropolitan Opera HD Live: Puccini: Madama Butterfly,Fathom Events,129730.0,2018-06-20,2018-06-30
+Q2 2018,12686,The Metropolitan Opera HD Live: Verdi: Il Trovatore,Fathom Events,129393.0,2018-06-27,2018-06-30
+Q2 2018,12692,The Guardians,Music Box Films,174325.0,2018-05-04,2018-06-30
+Q2 2018,12698,Five Seasons: The Gardens of Piet Oudolf,Argot Pictures,119223.0,2018-06-13,2018-06-30
+Q2 2018,12701,Gonjiam: Haunted Asylum,Well Go USA Entertainment,115252.0,2018-04-13,2018-06-30
+Q2 2018,12707,A Chance in the World - Premiere,Fathom Events,112007.0,2018-05-30,2018-06-30
+Q2 2018,12711,Lu Over the Wall,GKIDS,109857.0,2018-05-11,2018-06-30
+Q2 2018,12715,Mary Shelley,IFC Films,108900.0,2018-05-25,2018-06-30
+Q2 2018,12723,National Theatre Live: Macbeth,Fathom Events,97857.0,2018-05-17,2018-06-30
+Q2 2018,12726,Godspeed: The Race Across America,Fathom Events,96690.0,2018-05-22,2018-06-30
+Q2 2018,12736,Lobster Cop,China Lion Film Distribution,85693.0,2018-06-22,2018-06-30
+Q2 2018,12738,How To Talk To Girls at Parties,A24,84809.0,2018-05-25,2018-06-30
+Q2 2018,12745,Borg vs. McEnroe,Neon,113354.0,2018-04-13,2018-06-30
+Q2 2018,12746,Nancy,The Samuel Goldwyn Company,80115.0,2018-06-08,2018-06-30
+Q2 2018,12747,En el séptimo día,The Cinema Guild,79887.0,2018-06-08,2018-06-30
+Q2 2018,12749,The Boxcar Children - Surprise Island,Fathom Events,78676.0,2018-05-08,2018-06-30
+Q2 2018,12777,The Doctor from India,Zeitgeist Films,66505.0,2018-04-20,2018-06-30
+Q2 2018,12779,"Westwood: Punk, Icon, Activist",Greenwich Entertainment,58979.0,2018-06-08,2018-06-30
+Q2 2018,12783,Bhavesh Joshi Superhero,Eros International,57376.0,2018-06-01,2018-06-30
+Q2 2018,12785,American Dream: Detroit,Fathom Events,55092.0,2018-05-15,2018-06-30
+Q2 2018,12790,Digimon Adventure Tri. 5: Coexistence,Fathom Events,52339.0,2018-05-10,2018-06-30
+Q2 2018,12791,Grace Jones: Bloodlight and Bami,Kino Lorber,375208.0,2018-04-13,2018-06-30
+Q2 2018,12792,The Snowman Trek,Fathom Events,51743.0,2018-05-17,2018-06-30
+Q2 2018,12794,The Royal Wedding: Prince Harry and Meghan Markle,Fathom Events,50264.0,2018-05-19,2018-06-30
+Q2 2018,12795,Filmworker,Kino Lorber,99593.0,2018-05-11,2018-06-30
+Q2 2018,12797,Jumanji/Jumanji: Welcome to the Jungle2018 NCM Fathom Event,Fathom Events,49381.0,2018-06-10,2018-06-30
+Q2 2018,12802,A Kid Like Jake,IFC Films,58403.0,2018-06-01,2018-06-30
+Q2 2018,12803,Space Station 3D,IMAX,93379882.0,2018-04-19,2018-06-30
+Q2 2018,12804,How Long Will I Love U,Well Go USA Entertainment,251401.0,2018-05-25,2018-06-30
+Q2 2018,12818,Krystal,Paladin,37516.0,2018-04-13,2018-06-30
+Q2 2018,12820,Breath,FilmRise,37108.0,2018-06-01,2018-06-30
+Q2 2018,12825,Le Corbeau,Rialto Pictures,36089.0,2018-04-20,2018-06-30
+Q2 2018,12826,The House of Tomorrow,Shout! Factory,35821.0,2018-04-27,2018-06-30
+Q2 2018,12828,The Seagull,Sony Pictures Classics,359806.0,2018-05-11,2018-06-30
+Q2 2018,12832,Maui,GathrFilms,33953.0,2018-04-13,2018-06-30
+Q2 2018,12842,The Heart of Nuba,Abramorama,32920.0,2018-04-06,2018-06-30
+Q2 2018,12843,Quai des Orfèvres2018 Re-release,Rialto Pictures,28013.0,2018-04-13,2018-06-30
+Q2 2018,12844,The Amendment,Fathom Events,27961.0,2018-04-12,2018-06-30
+Q2 2018,12851,Bye Bye Germany,Film Movement,72365.0,2018-04-13,2018-06-30
+Q2 2018,12853,The Day After,The Cinema Guild,24746.0,2018-05-11,2018-06-30
+Q2 2018,12854,An Elephant's Journey,Fathom Events,24844.0,2018-04-16,2018-06-30
+Q2 2018,12856,Night of 7 Years,CJ Entertainment,24281.0,2018-04-06,2018-06-30
+Q2 2018,12861,The Judge,Idle Wild Films,22257.0,2018-04-13,2018-06-30
+Q2 2018,12862,Little Pink House,Dada Films,217767.0,2018-04-20,2018-06-30
+Q2 2018,12872,Izzy Gets the F*ck Across Town,Shout! Factory,20208.0,2018-06-22,2018-06-30
+Q2 2018,12874,The Devil and Father Amorth,The Orchard,19895.0,2018-04-20,2018-06-30
+Q2 2018,12875,Mantra: Sounds Into Silence,GathrFilms,115013.0,2018-04-20,2018-06-30
+Q2 2018,12880,Marlina the Murderer in Four Acts,Icarus Films,17636.0,2018-06-22,2018-06-30
+Q2 2018,12884,The Gospel According to André,Magnolia Pictures,64771.0,2018-05-25,2018-06-30
+Q2 2018,12886,Haikara-San: Here Comes Miss Modern,Eleven Arts,16364.0,2018-06-08,2018-06-30
+Q2 2018,12908,Jet Trash2018 Re-release,Indican Pictures,25617.0,2018-04-27,2018-06-30
+Q2 2018,12911,"Lou Andreas-Salomé, The Audacity to be Free",Cinema Libre Studio,12875.0,2018-04-20,2018-06-30
+Q2 2018,12912,Ava,Grasshopper Film,20306.0,2018-04-27,2018-06-30
+Q2 2018,12923,Summer 1993,Oscilloscope,185903.0,2018-05-25,2018-06-30
+Q2 2018,12925,This is Our Land,Distrib Films,11567.0,2018-04-18,2018-06-30
+Q2 2018,12929,The Assassin's Code,Gravitas Ventures,11218.0,2018-05-11,2018-06-30
+Q2 2018,12936,Class Rank,Cinedigm Entertainment Group,10452.0,2018-05-11,2018-06-30
+Q2 2018,12944,Furious,Carusel,9996.0,2018-04-20,2018-06-30
+Q2 2018,12948,The Quest of Alain Ducasse,Magnolia Pictures,9627.0,2018-06-08,2018-06-30
+Q2 2018,12951,Zoo Wars,Parade Deck Films,8998.0,2018-04-27,2018-06-30
+Q2 2018,12953,Blood Feast,Hannover House,8708.0,2018-04-06,2018-06-30
+Q2 2018,12962,Dark River,FilmRise,7714.0,2018-06-29,2018-06-30
+Q2 2018,12966,This is Congo,Abramorama,7051.0,2018-06-29,2018-06-30
+Q2 2018,12969,Duck Butter,The Orchard,6877.0,2018-04-27,2018-06-30
+Q2 2018,12970,Woman Walks Ahead,A24,6863.0,2018-06-29,2018-06-30
+Q2 2018,12971,Always at The Carlyle,Good Deed Entertainment,62752.0,2018-05-11,2018-06-30
+Q2 2018,12973,Les Parents Terribles,Cohen Media Group,11818.0,2018-05-25,2018-06-30
+Q2 2018,12978,One Last Thing - Presented by Chicken Soup for the Soul,Fathom Events,6232.0,2018-06-13,2018-06-30
+Q2 2018,12982,Revenge,Neon,100091.0,2018-05-11,2018-06-30
+Q2 2018,12996,The Desert Bride,Strand Releasing,21115.0,2018-05-04,2018-06-30
+Q2 2018,12999,Social Animals,Vertical Entertainment,5007.0,2018-06-01,2018-06-30
+Q2 2018,13002,Edward II2018 Re-release,Film Movement,4826.0,2018-05-04,2018-06-30
+Q2 2018,13006,Rodin2017 Re-release,Cohen Media Group,44261.0,2018-06-01,2018-06-30
+Q2 2018,13012,The King,Oscilloscope,259291.0,2018-06-22,2018-06-30
+Q2 2018,13013,Boom for Real: The Late Teenage Years of Jean-Michel Basquiat,Magnolia Pictures,108135.0,2018-05-11,2018-06-30
+Q2 2018,13015,Araby,Grasshopper Film,37767.0,2018-06-22,2018-06-30
+Q2 2018,13016,I Am MLK Jr.,GathrFilms,4157.0,2018-05-03,2018-06-30
+Q2 2018,13028,Strangers on the Earth,First Run,7636.0,2018-05-04,2018-06-30
+Q2 2018,13036,Game Changers,Ammo Content,3142.0,2018-06-29,2018-06-30
+Q2 2018,13039,Champion,Well Go USA Entertainment,89461.0,2018-05-11,2018-06-30
+Q2 2018,13047,Straight Into a Storm,Abramorama,2684.0,2018-06-15,2018-06-30
+Q2 2018,13048,ACORN and the Firestorm,First Run,2621.0,2018-04-06,2018-06-30
+Q2 2018,13059,10x10,Vertical Entertainment,2263.0,2018-04-13,2018-06-30
+Q2 2018,13060,Last Men in Aleppo,Grasshopper Film,12696.0,2018-05-05,2018-06-30
+Q2 2018,13062,Godard Mon Amour,Cohen Media Group,82264.0,2018-04-20,2018-06-30
+Q2 2018,13066,From the East,Icarus Films,8540.0,2018-04-17,2018-06-30
+Q2 2018,13070,Indian Horse,Elevation Pictures,2097362.0,2018-04-13,2018-06-30
+Q2 2018,13073,Ganja & Hess,Kino Lorber,19037.0,2018-05-30,2018-06-30
+Q2 2018,13083,The Endless,Well Go USA Entertainment,261725.0,2018-04-06,2018-06-30
+Q2 2018,13084,Marrowbone,Magnolia Pictures,1377.0,2018-04-13,2018-06-30
+Q2 2018,13087,Who We Are Now,FilmRise,6508.0,2018-05-25,2018-06-30
+Q2 2018,13091,Hitler's Hollywood,Kino Lorber,40670.0,2018-04-11,2018-06-30
+Q2 2018,13092,Altered Perception,Cinedigm Entertainment Group,1259.0,2018-05-04,2018-06-30
+Q2 2018,13097,Under the Turban,GathrFilms,1190.0,2018-04-25,2018-06-30
+Q2 2018,13099,Sollers Point,Oscilloscope,25561.0,2018-05-11,2018-06-30
+Q2 2018,13105,Zama,Strand Releasing,175970.0,2018-04-13,2018-06-30
+Q2 2018,13106,"Love, Cecil",Zeitgeist Films,106057.0,2018-06-29,2018-06-30
+Q2 2018,13108,Gray Matter,Indican Pictures,31122.0,2018-05-18,2018-06-30
+Q2 2018,13109,The Breadwinner2018 Re-release,GathrFilms,834.0,2018-04-13,2018-06-30
+Q2 2018,13113,The Most Unknown,Abramorama,8048.0,2018-05-18,2018-06-30
+Q2 2018,13120,Higher Power,Magnolia Pictures,528.0,2018-05-11,2018-06-30
+Q2 2018,13122,Gabriel and the Mountain,Strand Releasing,15288.0,2018-06-15,2018-06-30
+Q2 2018,13130,Anything,Paladin,16139.0,2018-05-11,2018-06-30
+Q2 2018,13132,Cold Water,Janus Films,23802.0,2018-04-27,2018-06-30
+Q2 2018,13133,Two Men Went to War2018 Re-release,Indican Pictures,491.0,2018-05-25,2018-06-30
+Q2 2018,13138,Spiral,Cohen Media Group,8190.0,2018-06-22,2018-06-30
+Q2 2018,13141,Tosca's Kiss,Icarus Films,18236.0,2018-06-06,2018-06-30
+Q2 2018,13151,Born to Be Wild,Warner Bros.,25921547.0,2018-04-08,2018-06-30
+Q3 2018,12240,Mission: Impossible - Fallout,Paramount Pictures,220159104.0,2018-07-27,2018-09-30
+Q3 2018,12241,Ant-Man and the Wasp,Walt Disney Studios Motion Pictures,216648740.0,2018-07-06,2018-09-30
+Q3 2018,12249,Crazy Rich Asians,Warner Bros.,174532921.0,2018-08-15,2018-09-30
+Q3 2018,12250,Hotel Transylvania 3: Summer Vacation,Sony Pictures Releasing,167510016.0,2018-07-13,2018-09-30
+Q3 2018,12253,The Meg,Warner Bros.,145443742.0,2018-08-10,2018-09-30
+Q3 2018,12257,Mamma Mia! Here We Go Again,Universal Pictures,120634935.0,2018-07-20,2018-09-30
+Q3 2018,12258,The Nun,Warner Bros.,117450119.0,2018-09-07,2018-09-30
+Q3 2018,12264,The Equalizer 2,Sony Pictures Releasing,102084362.0,2018-07-20,2018-09-30
+Q3 2018,12268,Christopher Robin,Walt Disney Studios Motion Pictures,99215042.0,2018-08-03,2018-09-30
+Q3 2018,12270,Smallfoot,Warner Bros.,83240103.0,2018-09-28,2018-09-30
+Q3 2018,12272,Night School,Universal Pictures,77339130.0,2018-09-28,2018-09-30
+Q3 2018,12274,The First Purge,Universal Pictures,69488745.0,2018-07-04,2018-09-30
+Q3 2018,12277,The House with a Clock in Its Walls,Universal Pictures,68549695.0,2018-09-21,2018-09-30
+Q3 2018,12278,Skyscraper,Universal Pictures,68420120.0,2018-07-13,2018-09-30
+Q3 2018,12288,A Simple Favor,Lionsgate,53548586.0,2018-09-14,2018-09-30
+Q3 2018,12290,The Predator,Twentieth Century Fox,51024708.0,2018-09-14,2018-09-30
+Q3 2018,12294,BlacKkKlansman,Focus Features,48686605.0,2018-08-10,2018-09-30
+Q3 2018,12314,Mile 22,STX Entertainment,36108758.0,2018-08-17,2018-09-30
+Q3 2018,12315,Alpha,Studio 8,35857181.0,2018-08-17,2018-09-30
+Q3 2018,12316,Peppermint,STX Entertainment,35418723.0,2018-09-07,2018-09-30
+Q3 2018,12318,The Spy Who Dumped Me,Lionsgate,33562069.0,2018-08-03,2018-09-30
+Q3 2018,12327,Slender Man,Screen Gems,30569484.0,2018-08-10,2018-09-30
+Q3 2018,12330,Teen Titans GO! to the Movies,Warner Bros.,29790236.0,2018-07-27,2018-09-30
+Q3 2018,12334,Searching,Screen Gems,26020957.0,2018-08-24,2018-09-30
+Q3 2018,12337,White Boy Rick,Studio 8,24011188.0,2018-09-14,2018-09-30
+Q3 2018,12344,The Happytime Murders,STX Entertainment,20706452.0,2018-08-24,2018-09-30
+Q3 2018,12350,Operation Finale,Metro-Goldwyn-Mayer (MGM),17612099.0,2018-08-29,2018-09-30
+Q3 2018,12353,Sorry to Bother You,Annapurna Pictures,17493096.0,2018-07-06,2018-09-30
+Q3 2018,12361,Eighth Grade,A24,13539709.0,2018-07-13,2018-09-30
+Q3 2018,12362,The Darkest Minds,Twentieth Century Fox,12695691.0,2018-08-03,2018-09-30
+Q3 2018,12366,The Old Man & the Gun,Fox Searchlight Pictures,11277120.0,2018-09-28,2018-09-30
+Q3 2018,12367,Hell Fest,Lionsgate,11107431.0,2018-09-28,2018-09-30
+Q3 2018,12368,Free Solo,National Geographic Entertainment,17541090.0,2018-09-28,2018-09-30
+Q3 2018,12377,Unfriended: Dark Web,BH Tilt,8866745.0,2018-07-20,2018-09-30
+Q3 2018,12380,The Wife,Sony Pictures Classics,9601092.0,2018-08-17,2018-09-30
+Q3 2018,12388,Dog Days,LD Entertainment,6809080.0,2018-08-08,2018-09-30
+Q3 2018,12392,Unbroken: Path to Redemption,Pure Flix Entertainment,6216897.0,2018-09-14,2018-09-30
+Q3 2018,12400,My Hero Academia: Two Heroes,FUNimation Entertainment,5754556.0,2018-09-25,2018-09-30
+Q3 2018,12402,Kin,Lionsgate,5718096.0,2018-08-31,2018-09-30
+Q3 2018,12404,Colette,Bleecker Street Media,5137622.0,2018-09-21,2018-09-30
+Q3 2018,12412,Blindspotting,Lionsgate,4333394.0,2018-07-20,2018-09-30
+Q3 2018,12415,Life Itself,Amazon Studios,4102648.0,2018-09-21,2018-09-30
+Q3 2018,12423,"Juliet, Naked",Roadside Attractions,3444895.0,2018-08-17,2018-09-30
+Q3 2018,12428,The Sisters Brothers,Annapurna Pictures,3143056.0,2018-09-21,2018-09-30
+Q3 2018,12431,Whitney,Roadside Attractions,3026351.0,2018-07-06,2018-09-30
+Q3 2018,12432,God Bless the Broken Road,Freestyle Releasing,2846257.0,2018-09-07,2018-09-30
+Q3 2018,12440,1991,Entertainment One,2342264.0,2018-07-27,2018-09-30
+Q3 2018,12441,Papillon,Bleecker Street Media,2335896.0,2018-08-24,2018-09-30
+Q3 2018,12448,Puzzle,Sony Pictures Classics,2032018.0,2018-07-27,2018-09-30
+Q3 2018,12451,Assassination Nation,Neon,2005142.0,2018-09-21,2018-09-30
+Q3 2018,12463,The Bookshop,Greenwich Entertainment,1588150.0,2018-08-24,2018-09-30
+Q3 2018,12465,"Don't Worry, He Won't Get Far on Foot",Amazon Studios,2793039.0,2018-07-13,2018-09-30
+Q3 2018,12466,Princess Mononoke2018 Re-release,Fathom Events,1423877.0,2018-07-22,2018-09-30
+Q3 2018,12468,Made for More,Fathom Events,2999134.0,2018-08-02,2018-09-30
+Q3 2018,12474,McQueen,Bleecker Street Media,1257275.0,2018-07-20,2018-09-30
+Q3 2018,12478,Beautifully Broken,ArtAffects Entertainment,1209645.0,2018-08-24,2018-09-30
+Q3 2018,12480,An Interview with God,Fathom Events,1201434.0,2018-08-20,2018-09-30
+Q3 2018,12481,Along With the Gods: The Last 49 Days,Well Go USA Entertainment,1200246.0,2018-08-01,2018-09-30
+Q3 2018,12487,My Neighbor Totoro2018 Re-release,Fathom Events,1144649.0,2018-09-30,2018-09-30
+Q3 2018,12489,Moses,Fathom Events,1807117.0,2018-09-13,2018-09-30
+Q3 2018,12496,Elvis: The Comeback Special,Fathom Events,1010657.0,2018-08-16,2018-09-30
+Q3 2018,12499,Yellow Submarine,Abramorama,992305.0,2018-07-08,2018-09-30
+Q3 2018,12500,Little Italy,Entertainment One,990230.0,2018-08-24,2018-09-30
+Q3 2018,12502,The Dawn Wall2018 Re-release,Fathom Events,970032.0,2018-09-19,2018-09-30
+Q3 2018,12505,The Miseducation of Cameron Post,FilmRise,904703.0,2018-08-03,2018-09-30
+Q3 2018,12511,Tea With the Dames,IFC Films,889343.0,2018-09-21,2018-09-30
+Q3 2018,12522,The Little Stranger,Focus Features,713143.0,2018-08-31,2018-09-30
+Q3 2018,12524,HBO Boxing: Canelo Alvarez vs. Gennady Golovkin II,Fathom Events,707875.0,2018-09-15,2018-09-30
+Q3 2018,12527,Blaze,IFC Films,704955.0,2018-08-17,2018-09-30
+Q3 2018,12530,The Island,Well Go USA Entertainment,670883.0,2018-08-10,2018-09-30
+Q3 2018,12531,Dragon Ball Z: Broly - The Legendary Super Saiyan,Fathom Events,658982.0,2018-09-15,2018-09-30
+Q3 2018,12535,Lizzie,Roadside Attractions,642157.0,2018-09-14,2018-09-30
+Q3 2018,12536,"Love, Gilda",Magnolia Pictures,626318.0,2018-09-21,2018-09-30
+Q3 2018,12537,The Transformers,Fathom Events,619597.0,2018-09-27,2018-09-30
+Q3 2018,12538,The Sound of Music2018 Re-release,Fathom Events,616171.0,2018-09-09,2018-09-30
+Q3 2018,12542,"DCI 2019: Big, Loud & Live 16",Fathom Events,603320.0,2018-08-09,2018-09-30
+Q3 2018,12546,The Big Lebowski2018 Re-release,Fathom Events,582585.0,2018-08-05,2018-09-30
+Q3 2018,12547,Pick of the Litter,IFC Films,578717.0,2018-08-31,2018-09-30
+Q3 2018,12553,Fireworks,GKIDS,525280.0,2018-07-03,2018-09-30
+Q3 2018,12555,Grave of the Fireflies,Fathom Events,516962.0,2018-08-12,2018-09-30
+Q3 2018,12556,The Sandlot2018 Re-release,Fathom Events,516130.0,2018-07-22,2018-09-30
+Q3 2018,12559,The Spy Gone North,CJ Entertainment,500803.0,2018-08-10,2018-09-30
+Q3 2018,12560,Monsters and Men,Neon,500101.0,2018-09-28,2018-09-30
+Q3 2018,12562,The Great Battle,Well Go USA Entertainment,472166.0,2018-09-21,2018-09-30
+Q3 2018,12564,Scotty and the Secret History of Hollywood,Greenwich Entertainment,461689.0,2018-07-27,2018-09-30
+Q3 2018,12565,South Pacific2018 Re-release,Fathom Events,458000.0,2018-08-26,2018-09-30
+Q3 2018,12566,The Children Act,A24,547750.0,2018-09-14,2018-09-30
+Q3 2018,12568,Perfect Blue2017 Re-release,GKIDS,446062.0,2018-09-07,2018-09-30
+Q3 2018,12575,"The Night Is Short, Walk on Girl",GKIDS,406490.0,2018-08-21,2018-09-30
+Q3 2018,12578,We the Animals,The Orchard,400961.0,2018-08-17,2018-09-30
+Q3 2018,12583,Krull2018 Re-release,Fathom Events,397157.0,2018-08-23,2018-09-30
+Q3 2018,12585,Soorma,Sony Pictures Releasing,390077.0,2018-07-13,2018-09-30
+Q3 2018,12587,Attack on Titan: Smoke Signal,FUNimation Entertainment,377334.0,2018-07-10,2018-09-30
+Q3 2018,12588,Jurassic Park2018 Re-release,Fathom Events,374238.0,2018-09-16,2018-09-30
+Q3 2018,12591,Kusama: Infinity,Magnolia Pictures,360931.0,2018-09-07,2018-09-30
+Q3 2018,12595,Sailor Moon R: The Movie: The Promise of the Rose/Sailor Moon S: The Movie - Hearts in IceDouble Bill,Fathom Events,335697.0,2018-07-28,2018-09-30
+Q3 2018,12611,Golden Job,Well Go USA Entertainment,285795.0,2018-09-28,2018-09-30
+Q3 2018,12612,Disney's Newsies: The Broadway Musical!2018 Re-release,Fathom Events,282429.0,2018-07-26,2018-09-30
+Q3 2018,12615,Detective Dee: The Four Heavenly Kings,Well Go USA Entertainment,262963.0,2018-07-27,2018-09-30
+Q3 2018,12618,Across the Universe2018 Re-release,Fathom Events,258618.0,2018-07-29,2018-09-30
+Q3 2018,12619,Big2018 Re-release,Fathom Events,258507.0,2018-07-15,2018-09-30
+Q3 2018,12623,The Fireflies Are Gone,Entertainment One,245006.0,2018-09-21,2018-09-30
+Q3 2018,12625,Generation Wealth,Magnolia Pictures,237709.0,2018-07-20,2018-09-30
+Q3 2018,12627,Skate Kitchen,Magnolia Pictures,236799.0,2018-08-10,2018-09-30
+Q3 2018,12630,Bishôjo senshi Sailor Moon Super S Special,Fathom Events,231434.0,2018-08-04,2018-09-30
+Q3 2018,12633,Loving Vincent,Good Deed Entertainment,6479000.0,2018-09-22,2018-09-30
+Q3 2018,12645,Rebel Without a Cause2018 Re-release,Fathom Events,199963.0,2018-09-23,2018-09-30
+Q3 2018,12652,National Theatre Live: King Lear,Fathom Events,185305.0,2018-09-27,2018-09-30
+Q3 2018,12654,Maquia: When the Promised Flower Blooms,Eleven Arts,183008.0,2018-07-20,2018-09-30
+Q3 2018,12658,BuyBust,Well Go USA Entertainment,178471.0,2018-08-10,2018-09-30
+Q3 2018,12661,The Metropolitan Opera HD Live: Puccini: Turandot,Fathom Events,172627.0,2018-07-18,2018-09-30
+Q3 2018,12667,Far From the Tree,IFC Films,166018.0,2018-07-20,2018-09-30
+Q3 2018,12675,Bad Reputation,Magnolia Pictures,148568.0,2018-09-28,2018-09-30
+Q3 2018,12676,Museo,Vitagraph Films,148505.0,2018-09-14,2018-09-30
+Q3 2018,12682,The Little Mermaid,Conglomerate Media,147175.0,2018-08-17,2018-09-30
+Q3 2018,12683,Rudy2018 Re-release,Fathom Events,131200.0,2018-08-28,2018-09-30
+Q3 2018,12685,The Metropolitan Opera HD Live: Tchaikovsky: Eugene Onegin2018 Re-release,Fathom Events,129498.0,2018-07-11,2018-09-30
+Q3 2018,12687,Support the Girls,Magnolia Pictures,129124.0,2018-08-24,2018-09-30
+Q3 2018,12699,Ryuichi Sakamoto: Coda,MUBI,117460.0,2018-07-06,2018-09-30
+Q3 2018,12706,The Dawn Wall,The Orchard,112191.0,2018-09-14,2018-09-30
+Q3 2018,12712,The Negotiation,CJ Entertainment,110986.0,2018-09-21,2018-09-30
+Q3 2018,12720,All About Nina,The Orchard,100335.0,2018-09-28,2018-09-30
+Q3 2018,12724,Gauguin: Voyage to Tahiti,Cohen Media Group,97649.0,2018-07-11,2018-09-30
+Q3 2018,12733,Bolshoi Ballet: Swan Lake,Fathom Events,88905.0,2018-07-23,2018-09-30
+Q3 2018,12737,Big Brother,Well Go USA Entertainment,85624.0,2018-08-31,2018-09-30
+Q3 2018,12741,Blood Fest,Fathom Events,82774.0,2018-08-14,2018-09-30
+Q3 2018,12751,Shock and Awe,Vertical Entertainment,77980.0,2018-07-13,2018-09-30
+Q3 2018,12752,Hold Your Breath,Entertainment One,77987.0,2018-08-10,2018-09-30
+Q3 2018,12755,The Riot Act,Hannover House,75506.0,2018-09-14,2018-09-30
+Q3 2018,12757,Above and Beyond: NASA's Journey to Tomorrow,Fathom Events,74711.0,2018-09-29,2018-09-30
+Q3 2018,12760,Running for Grace,Blue Fox Entertainment,89988.0,2018-07-20,2018-09-30
+Q3 2018,12761,"Nico, 1988",Magnolia Pictures,73304.0,2018-08-01,2018-09-30
+Q3 2018,12769,Where Hands Touch,Vertical Entertainment,67743.0,2018-09-14,2018-09-30
+Q3 2018,12770,Under the Tree,Magnolia Pictures,67596.0,2018-07-06,2018-09-30
+Q3 2018,12771,Making the Five Heartbeats,Fathom Events,67415.0,2018-08-27,2018-09-30
+Q3 2018,12772,Feng Shui,CJ Entertainment,64147.0,2018-09-21,2018-09-30
+Q3 2018,12774,Never Goin' Back,A24,61271.0,2018-08-03,2018-09-30
+Q3 2018,12775,Walk With Me,GathrFilms,726455.0,2018-08-11,2018-09-30
+Q3 2018,12782,Black '47,IFC Films,57520.0,2018-09-28,2018-09-30
+Q3 2018,12787,Digimon Adventure Tri. 6: Future,Fathom Events,54324.0,2018-09-20,2018-09-30
+Q3 2018,12793,Wanda2018 Re-release,Janus Films,51713.0,2018-07-20,2018-09-30
+Q3 2018,12801,350 Days - Legends. Champions. Survivors,Fathom Events,47526.0,2018-07-12,2018-09-30
+Q3 2018,12809,Garry Winogrand: All Things are Photographable,Greenwich Entertainment,44002.0,2018-09-19,2018-09-30
+Q3 2018,12810,Antonio Lopez 1970: Sex Fashion & Disco,Film Movement,43169.0,2018-09-14,2018-09-30
+Q3 2018,12811,"Hale County This Morning, This Evening",The Cinema Guild,112282.0,2018-09-14,2018-09-30
+Q3 2018,12812,Bel Canto,Screen Media Films,124220.0,2018-09-14,2018-09-30
+Q3 2018,12817,Oolong Courtyard: KungFu School,China Lion Film Distribution,37727.0,2018-08-24,2018-09-30
+Q3 2018,12831,Holy Hell,Indican Pictures,34366.0,2018-07-20,2018-09-30
+Q3 2018,12849,Milford Graves Full Mantis,The Cinema Guild,26566.0,2018-07-13,2018-09-30
+Q3 2018,12878,Maquia: When the Promised Flower Blooms2018 Re-release,Eleven Arts,18203.0,2018-09-21,2018-09-30
+Q3 2018,12881,Crime + Punishment,IFC Films,18644.0,2018-08-24,2018-09-30
+Q3 2018,12888,Just One Drop,GathrFilms,59478.0,2018-09-22,2018-09-30
+Q3 2018,12889,Out on Stage,Fathom Events,15623.0,2018-07-24,2018-09-30
+Q3 2018,12891,When You Read This Letter,Rialto Pictures,15552.0,2018-09-12,2018-09-30
+Q3 2018,12904,30 Years of Garbage: The Garbage Pail Kids Story,Indican Pictures,27293.0,2018-08-11,2018-09-30
+Q3 2018,12913,American Chaos,Sony Pictures Classics,12368.0,2018-09-14,2018-09-30
+Q3 2018,12917,Minding the Gap,Magnolia Pictures,11998.0,2018-08-17,2018-09-30
+Q3 2018,12920,Victoria & Abdul,Focus Features,22245070.0,2018-09-22,2018-09-30
+Q3 2018,12921,Summer '03,Blue Fox Entertainment,11746.0,2018-09-28,2018-09-30
+Q3 2018,12927,Rendezvous in July,Rialto Pictures,11321.0,2018-08-01,2018-09-30
+Q3 2018,12941,Embrace: The Documentary,GathrFilms,628382.0,2018-09-19,2018-09-30
+Q3 2018,12946,Dolores,PBS Distribution,554274.0,2018-09-01,2018-09-30
+Q3 2018,12956,A Boy. A Girl. A Dream.,The Samuel Goldwyn Company,76386.0,2018-09-14,2018-09-30
+Q3 2018,12968,Spettacolo,Grasshopper Film,29014.0,2018-09-08,2018-09-30
+Q3 2018,12980,Andrei Rublev2018 Re-release,Janus Films,102021.0,2018-08-24,2018-09-30
+Q3 2018,12983,Return of the Hero,Distrib Films,35381.0,2018-08-30,2018-09-30
+Q3 2018,12984,Memoir of War,Music Box Films,103636.0,2018-08-17,2018-09-30
+Q3 2018,12986,Ex Libris: New York Public Library,Zipporah Films,156262.0,2018-09-13,2018-09-30
+Q3 2018,12989,What Will People Say,Kino Lorber,42601.0,2018-07-13,2018-09-30
+Q3 2018,12990,Cuban Food Stories,First Run,5434.0,2018-08-10,2018-09-30
+Q3 2018,12992,Women Like Us,GathrFilms,25071.0,2018-09-07,2018-09-30
+Q3 2018,12993,"Distant Voices, Still Lives2018 Re-release",Arrow Films,5234.0,2018-08-31,2018-09-30
+Q3 2018,12995,"No Date, No Signature",Distrib Films,33877.0,2018-08-01,2018-09-30
+Q3 2018,13000,An L.A. Minute,Strand Releasing,5004.0,2018-08-24,2018-09-30
+Q3 2018,13001,Bisbee '17,4th Row Films,117470.0,2018-09-05,2018-09-30
+Q3 2018,13020,Armed,GVN Releasing,3948.0,2018-09-14,2018-09-30
+Q3 2018,13021,Cynthia,Indican Pictures,58177.0,2018-08-31,2018-09-30
+Q3 2018,13022,The Other Side of Everything,Icarus Films,4491.0,2018-07-13,2018-09-30
+Q3 2018,13023,American Dresser,Cinedigm Entertainment Group,3895.0,2018-09-21,2018-09-30
+Q3 2018,13024,School of Life,Distrib Films,5749.0,2018-09-07,2018-09-30
+Q3 2018,13027,Nelly,Cinema Libre Studio,3751.0,2018-09-07,2018-09-30
+Q3 2018,13031,The Citizen2018 Re-release,ArtMattan Productions,3495.0,2018-07-06,2018-09-30
+Q3 2018,13034,At First Light,Entertainment One,3292.0,2018-09-28,2018-09-30
+Q3 2018,13037,Hot to Trot,First Run,3133.0,2018-08-24,2018-09-30
+Q3 2018,13038,Nocturama,Grasshopper Film,29342.0,2018-08-11,2018-09-30
+Q3 2018,13043,Good Manners,Distrib Films,30925.0,2018-07-27,2018-09-30
+Q3 2018,13049,Kingsman: The Golden Circle,Twentieth Century Fox,100229647.0,2018-09-22,2018-09-30
+Q3 2018,13050,Bronx Gothic,Grasshopper Film,25997.0,2018-07-14,2018-09-30
+Q3 2018,13055,The Swan,Synergetic Distribution,2367.0,2018-08-10,2018-09-30
+Q3 2018,13056,Living Proof,GathrFilms,8869.0,2018-09-08,2018-09-30
+Q3 2018,13057,Forever,Icarus Films,31502.0,2018-09-12,2018-09-30
+Q3 2018,13061,A Wizard's Tale,Blue Fox Entertainment,2150.0,2018-09-14,2018-09-30
+Q3 2018,13065,Signature Move,Newcity,31551.0,2018-09-29,2018-09-30
+Q3 2018,13069,A Paris Education,Kino Lorber,20069.0,2018-08-30,2018-09-30
+Q3 2018,13072,The Fencer2016 Re-release,CFI Releasing,95952.0,2018-07-21,2018-09-30
+Q3 2018,13074,An Actor Prepares,Gravitas Ventures,1743.0,2018-08-31,2018-09-30
+Q3 2018,13076,Escapes,Grasshopper Film,15712.0,2018-07-28,2018-09-30
+Q3 2018,13080,Let the Corpses Tan,Kino Lorber,93307.0,2018-08-31,2018-09-30
+Q3 2018,13101,The Captain,Music Box Films,108708.0,2018-07-27,2018-09-30
+Q3 2018,13104,Gangsterdam,Distrib Films,954.0,2018-09-19,2018-09-30
+Q3 2018,13114,The Apparition,Music Box Films,26985.0,2018-09-07,2018-09-30
+Q3 2018,13115,Le joli mai,Icarus Films,55038.0,2018-09-13,2018-09-30
+Q3 2018,13116,Poor Boy,Indican Pictures,29017.0,2018-07-13,2018-09-30
+Q3 2018,13119,"Hare Krishna! The Mantra, the Movement and the Swami Who Started It2017 Re-release",GathrFilms,18522.0,2018-08-10,2018-09-30
+Q3 2018,13135,Rat Film,The Cinema Guild,35195.0,2018-09-15,2018-09-30
+Q3 2018,13139,Far from Vietnam,Icarus Films,8132.0,2018-08-28,2018-09-30
+Q3 2018,13143,Realms,The Film Arcade,147.0,2018-09-07,2018-09-30
+Q3 2018,13144,Batti Gul Meter Chalu,Eros International,249122.0,2018-09-21,2018-09-30
+Q3 2018,13146,I Am Not A Witch,Film Movement,50711.0,2018-09-07,2018-09-30
+Q3 2018,13147,Notes on an Appearance,Grasshopper Film,4867.0,2018-08-17,2018-09-30
+Q3 2018,13148,Winning Formula,Indican Pictures,21855.0,2018-07-27,2018-09-30
+Q3 2018,13150,Husband Material,Eros International,567417.0,2018-09-14,2018-09-30
+Q3 2018,13152,The Family,Film Movement,3696.0,2018-08-03,2018-09-30
+Q3 2018,13153,Cocote,Grasshopper Film,3000.0,2018-08-03,2018-09-30
+Q4 2018,12238,Dr. Seuss' The Grinch,Universal Pictures,270620950.0,2018-11-09,2018-12-31
+Q4 2018,12239,Jumanji: Welcome to the Jungle,Sony Pictures Releasing,404515480.0,2018-12-20,2018-12-31
+Q4 2018,12243,Venom,Sony Pictures Releasing,213515506.0,2018-10-05,2018-12-31
+Q4 2018,12244,A Star Is Born,Warner Bros.,215288866.0,2018-10-05,2018-12-31
+Q4 2018,12245,Aquaman,Warner Bros.,335061807.0,2018-12-21,2018-12-31
+Q4 2018,12246,Bohemian Rhapsody,Twentieth Century Fox,216428042.0,2018-11-02,2018-12-31
+Q4 2018,12248,Ralph Breaks the Internet,Walt Disney Studios Motion Pictures,201091711.0,2018-11-21,2018-12-31
+Q4 2018,12251,Halloween,Universal Pictures,159342015.0,2018-10-19,2018-12-31
+Q4 2018,12252,Fantastic Beasts: The Crimes of Grindelwald,Warner Bros.,159555901.0,2018-11-16,2018-12-31
+Q4 2018,12256,The Greatest Showman,Twentieth Century Fox,174045042.0,2018-12-20,2018-12-31
+Q4 2018,12260,Creed II,Metro-Goldwyn-Mayer (MGM),115715889.0,2018-11-21,2018-12-31
+Q4 2018,12261,Spider-Man: Into the Spider-Verse,Sony Pictures Releasing,190241310.0,2018-12-14,2018-12-31
+Q4 2018,12262,Mary Poppins Returns,Walt Disney Studios Motion Pictures,171958438.0,2018-12-19,2018-12-31
+Q4 2018,12263,Star Wars: Episode VIII - The Last Jedi,Walt Disney Studios Motion Pictures,620181382.0,2018-12-15,2018-12-31
+Q4 2018,12271,The Post,Twentieth Century Fox,81737012.0,2018-12-22,2018-12-31
+Q4 2018,12273,Bumblebee,Paramount Pictures,127195589.0,2018-12-21,2018-12-31
+Q4 2018,12280,Instant Family,Paramount Pictures,67363237.0,2018-11-16,2018-12-31
+Q4 2018,12281,The Mule,Warner Bros.,103804407.0,2018-12-14,2018-12-31
+Q4 2018,12287,The Nutcracker and the Four Realms,Walt Disney Studios Motion Pictures,54858851.0,2018-11-02,2018-12-31
+Q4 2018,12295,The Shape of Water,Fox Searchlight Pictures,63699028.0,2018-12-01,2018-12-31
+Q4 2018,12298,Goosebumps 2: Haunted Halloween,Sony Pictures Releasing,46700633.0,2018-10-12,2018-12-31
+Q4 2018,12301,First Man,Universal Pictures,44936545.0,2018-10-12,2018-12-31
+Q4 2018,12306,Widows,Twentieth Century Fox,42402632.0,2018-11-16,2018-12-31
+Q4 2018,12307,Pitch Perfect 3,Universal Pictures,104897530.0,2018-12-22,2018-12-31
+Q4 2018,12311,Darkest Hour,Focus Features,56361300.0,2018-11-22,2018-12-31
+Q4 2018,12320,Green Book,Universal Pictures,85080171.0,2018-11-16,2018-12-31
+Q4 2018,12322,Nobody's Fool,Paramount Pictures,31713110.0,2018-11-02,2018-12-31
+Q4 2018,12324,Ferdinand,Twentieth Century Fox,84405944.0,2018-12-15,2018-12-31
+Q4 2018,12325,Robin Hood,Lionsgate,30824628.0,2018-11-21,2018-12-31
+Q4 2018,12328,"Three Billboards Outside Ebbing, Missouri",Fox Searchlight Pictures,54387870.0,2018-11-10,2018-12-31
+Q4 2018,12329,Coco,Walt Disney Studios Motion Pictures,209726015.0,2018-11-22,2018-12-31
+Q4 2018,12331,Hostiles,Entertainment Studios Motion Pictures,29819114.0,2018-12-22,2018-12-31
+Q4 2018,12332,The Hate U Give,Twentieth Century Fox,29719483.0,2018-10-05,2018-12-31
+Q4 2018,12333,"I, Tonya",Neon,30006215.0,2018-12-08,2018-12-31
+Q4 2018,12338,Second Act,STX Entertainment,39282227.0,2018-12-21,2018-12-31
+Q4 2018,12339,Molly's Game,STX Entertainment,28780744.0,2018-12-25,2018-12-31
+Q4 2018,12341,Overlord,Paramount Pictures,21704844.0,2018-11-09,2018-12-31
+Q4 2018,12342,Holmes & Watson,Sony Pictures Releasing,30573626.0,2018-12-25,2018-12-31
+Q4 2018,12345,Phantom Thread,Focus Features,21198205.0,2018-12-25,2018-12-31
+Q4 2018,12347,Vice,Annapurna Pictures,47836282.0,2018-12-25,2018-12-31
+Q4 2018,12348,Bad Times at the El Royale,Twentieth Century Fox,17839115.0,2018-10-12,2018-12-31
+Q4 2018,12352,Lady Bird,A24,48958273.0,2018-11-03,2018-12-31
+Q4 2018,12356,The Favourite,Fox Searchlight Pictures,34366783.0,2018-11-23,2018-12-31
+Q4 2018,12357,Hunter Killer,Lionsgate,15767460.0,2018-10-26,2018-12-31
+Q4 2018,12358,Mortal Engines,Universal Pictures,15951040.0,2018-12-14,2018-12-31
+Q4 2018,12359,The Girl in the Spider's Web,Sony Pictures Releasing,14841338.0,2018-11-09,2018-12-31
+Q4 2018,12360,The Possession of Hannah Grace,Screen Gems,14837422.0,2018-11-30,2018-12-31
+Q4 2018,12369,Wonder,Lionsgate,132422809.0,2018-11-17,2018-12-31
+Q4 2018,12373,Mary Queen of Scots,Focus Features,16468499.0,2018-12-07,2018-12-31
+Q4 2018,12378,Welcome to Marwen,Universal Pictures,10763520.0,2018-12-21,2018-12-31
+Q4 2018,12384,Beautiful Boy,Amazon Studios,8986631.0,2018-10-12,2018-12-31
+Q4 2018,12385,Mid90s,A24,7362439.0,2018-10-19,2018-12-31
+Q4 2018,12386,Can You Ever Forgive Me?,Fox Searchlight Pictures,8803865.0,2018-10-19,2018-12-31
+Q4 2018,12387,Downsizing,Paramount Pictures,24449754.0,2018-12-22,2018-12-31
+Q4 2018,12389,Boy Erased,Focus Features,6788692.0,2018-11-02,2018-12-31
+Q4 2018,12397,Once Upon a Deadpool2018 Re-release,Twentieth Century Fox,6100309.0,2018-12-12,2018-12-31
+Q4 2018,12403,They Shall Not Grow Old2018 Re-release,Warner Bros.,17956913.0,2018-12-17,2018-12-31
+Q4 2018,12409,Father Figures,Warner Bros.,17501244.0,2018-12-22,2018-12-31
+Q4 2018,12410,Johnny English Strikes Again,Universal Pictures,4412170.0,2018-10-26,2018-12-31
+Q4 2018,12413,Journey to the South Pacific,IMAX,7642450.0,2018-11-27,2018-12-31
+Q4 2018,12416,Thor: Ragnarok,Walt Disney Studios Motion Pictures,315058289.0,2018-11-03,2018-12-31
+Q4 2018,12417,Gosnell: The Trial of America's Biggest Serial Killer,GVN Releasing,3679893.0,2018-10-12,2018-12-31
+Q4 2018,12418,Burn the Stage: The Movie,Trafalgar Releasing,4201819.0,2018-11-15,2018-12-31
+Q4 2018,12419,Indivisible,Pure Flix Entertainment,3511417.0,2018-10-26,2018-12-31
+Q4 2018,12421,Justice League,Warner Bros.,229024295.0,2018-11-17,2018-12-31
+Q4 2018,12425,The Disaster Artist,A24,21120616.0,2018-12-01,2018-12-31
+Q4 2018,12437,Suspiria,Amazon Studios,5458621.0,2018-10-26,2018-12-31
+Q4 2018,12442,Daddy's Home 2,Paramount Pictures,104029443.0,2018-11-10,2018-12-31
+Q4 2018,12443,Murder on the Orient Express,Twentieth Century Fox,102800191.0,2018-11-10,2018-12-31
+Q4 2018,12444,If Beale Street Could Talk,Annapurna Pictures,14915773.0,2018-12-14,2018-12-31
+Q4 2018,12446,Simmba,Reliance Big Pictures,5102129.0,2018-12-28,2018-12-31
+Q4 2018,12452,The Front Runner,Sony Pictures Releasing,2000105.0,2018-11-06,2018-12-31
+Q4 2018,12454,The Metropolitan Opera HD Live: Verdi: La Traviata,Fathom Events,1882931.0,2018-12-15,2018-12-31
+Q4 2018,12455,Ben Is Back,Roadside Attractions,3703184.0,2018-12-07,2018-12-31
+Q4 2018,12456,At Eternity's Gate,CBS Films,2294915.0,2018-11-16,2018-12-31
+Q4 2018,12459,On the Basis of Sex,Focus Features,24622687.0,2018-12-25,2018-12-31
+Q4 2018,12462,The Metropolitan Opera HD Live: Verdi: Aida,Fathom Events,1595902.0,2018-10-06,2018-12-31
+Q4 2018,12470,Dunkirk2017 Re-release,Warner Bros.,1695119.0,2018-12-01,2018-12-31
+Q4 2018,12476,Racetime,Entertainment One,1875283.0,2018-12-07,2018-12-31
+Q4 2018,12479,Shoplifters,Magnolia Pictures,3313513.0,2018-11-23,2018-12-31
+Q4 2018,12482,The Metropolitan Opera HD Live: Saint-Saëns: Samson et Dalila,Fathom Events,1195758.0,2018-10-20,2018-12-31
+Q4 2018,12483,Spirited Away2018 Re-release,Fathom Events,1175067.0,2018-10-28,2018-12-31
+Q4 2018,12486,Maria By Callas2018 Re-release,Sony Pictures Classics,1267301.0,2018-11-02,2018-12-31
+Q4 2018,12490,Qué León,Spanglish Movies,2607916.0,2018-11-29,2018-12-31
+Q4 2018,12495,The Metropolitan Opera HD Live: Puccini: La Fanciulla del West,Fathom Events,1023233.0,2018-10-27,2018-12-31
+Q4 2018,12503,White Christmas2018 Re-release,Fathom Events,928298.0,2018-12-09,2018-12-31
+Q4 2018,12507,The Star,Sony Pictures Releasing,40852824.0,2018-11-17,2018-12-31
+Q4 2018,12508,Wildlife,IFC Films,1050616.0,2018-10-19,2018-12-31
+Q4 2018,12510,The Metropolitan Opera HD Live: Nico Muhly: Marnie,Fathom Events,849710.0,2018-11-10,2018-12-31
+Q4 2018,12513,Schindler's List2018 Re-release,Universal Pictures,833050.0,2018-12-07,2018-12-31
+Q4 2018,12518,Pokémon the Movie: The Power of Us,Fathom Events,789170.0,2018-11-24,2018-12-31
+Q4 2018,12520,Border,Neon,771930.0,2018-10-26,2018-12-31
+Q4 2018,12523,Mirai,GKIDS,812794.0,2018-11-29,2018-12-31
+Q4 2018,12528,Jim Henson's Holiday Special with Fraggle Rock and Emmet Otter,Fathom Events,695130.0,2018-12-10,2018-12-31
+Q4 2018,12529,The Trump Prophecy,Fathom Events,671198.0,2018-10-02,2018-12-31
+Q4 2018,12532,Vox Lux,Neon,727119.0,2018-12-07,2018-12-31
+Q4 2018,12540,The Florida Project,A24,5904366.0,2018-10-06,2018-12-31
+Q4 2018,12545,Marshall,Open Road Films (II),10051659.0,2018-10-13,2018-12-31
+Q4 2018,12549,Call Me by Your Name,Sony Pictures Classics,15014887.0,2018-11-24,2018-12-31
+Q4 2018,12551,Dragon Ball Z: Bardock - The Father of Goku/Dragon Ball Z: Fusion Reborn,Fathom Events,540707.0,2018-11-03,2018-12-31
+Q4 2018,12552,Anna and the Apocalypse,Orion Pictures,545597.0,2018-11-30,2018-12-31
+Q4 2018,12554,Castle in the Sky2018 Re-release,Fathom Events,523664.0,2018-11-18,2018-12-31
+Q4 2018,12557,Bullitt2018 Re-release,Fathom Events,511350.0,2018-10-07,2018-12-31
+Q4 2018,12558,Die Hard30th Anniversary Release,Fathom Events,510241.0,2018-11-11,2018-12-31
+Q4 2018,12573,Frankenstein2018 Re-release,Fathom Events,417783.0,2018-10-22,2018-12-31
+Q4 2018,12574,Cirque du Soleil in Cinema: KURIOS - Cabinet of Curiosities,Fathom Events,413039.0,2018-11-13,2018-12-31
+Q4 2018,12577,The Oath,Roadside Attractions,401463.0,2018-10-12,2018-12-31
+Q4 2018,12580,Blade Runner 2049,Warner Bros.,92054159.0,2018-10-06,2018-12-31
+Q4 2018,12592,Jane and Emma,Excel Entertainment,380030.0,2018-10-12,2018-12-31
+Q4 2018,12596,Russ Taff: I Still Believe,Fathom Events,334983.0,2018-10-30,2018-12-31
+Q4 2018,12597,Shine,GVN Releasing,333388.0,2018-10-05,2018-12-31
+Q4 2018,12599,The Bolshoi Ballet: Live From Moscow - The Nutcracker,Fathom Events,323928.0,2018-12-23,2018-12-31
+Q4 2018,12604,MET Opera: Magic Flute,Fathom Events,307686.0,2018-12-01,2018-12-31
+Q4 2018,12606,Showtime Championship Boxing: Deontay Wilder vs. Tyson Fury,Fathom Events,304482.0,2018-12-01,2018-12-31
+Q4 2018,12609,More Than Funny,Fathom Events,290498.0,2018-10-18,2018-12-31
+Q4 2018,12617,What They Had,Bleecker Street Media,260136.0,2018-10-19,2018-12-31
+Q4 2018,12621,London Fields,GVN Releasing,252676.0,2018-10-26,2018-12-31
+Q4 2018,12624,RWBY: Argus Limited,Fathom Events,238379.0,2018-10-25,2018-12-31
+Q4 2018,12629,Superman2018 Re-release,Fathom Events,233585.0,2018-11-25,2018-12-31
+Q4 2018,12632,MFKZ,GKIDS,229423.0,2018-10-11,2018-12-31
+Q4 2018,12636,A Bad Moms Christmas,STX Entertainment,72110659.0,2018-11-01,2018-12-31
+Q4 2018,12642,The Guilty,Magnolia Pictures,207140.0,2018-10-19,2018-12-31
+Q4 2018,12643,Default,CJ Entertainment,203775.0,2018-11-30,2018-12-31
+Q4 2018,12648,Studio 54,Zeitgeist Films,192058.0,2018-10-05,2018-12-31
+Q4 2018,12649,The Bolshoi Ballet: Live From Moscow - Don Quixote,Fathom Events,187946.0,2018-12-02,2018-12-31
+Q4 2018,12651,Owaranai hito: Miyazaki Hayao,GKIDS,187320.0,2018-12-13,2018-12-31
+Q4 2018,12656,Last Letter,China Lion Film Distribution,180946.0,2018-11-09,2018-12-31
+Q4 2018,12659,Batman: Mask of the Phantasm2018 Re-release,Fathom Events,178133.0,2018-11-12,2018-12-31
+Q4 2018,12662,The Bolshoi Ballet: Live From Moscow - La Sylphide,Fathom Events,171177.0,2018-11-11,2018-12-31
+Q4 2018,12663,The House That Jack Built,IFC Films,170113.0,2018-11-28,2018-12-31
+Q4 2018,12665,Rampant,Well Go USA Entertainment,167937.0,2018-10-26,2018-12-31
+Q4 2018,12668,Only The Brave,Sony Pictures Releasing,18343983.0,2018-10-20,2018-12-31
+Q4 2018,12670,Silencio,Tulip Pictures,158723.0,2018-10-26,2018-12-31
+Q4 2018,12671,Cold War2018 Re-release,Amazon Studios,4580048.0,2018-12-21,2018-12-31
+Q4 2018,12672,"Buttons, A New Musical Film",Fathom Events,151983.0,2018-12-08,2018-12-31
+Q4 2018,12677,Night of the Living Dead2018 Re-release,Fathom Events,147423.0,2018-10-24,2018-12-31
+Q4 2018,12678,Mr. Smith Goes to Washington2018 Re-release,Fathom Events,144738.0,2018-10-14,2018-12-31
+Q4 2018,12688,Sleepless in Seattle2018 Re-release,Fathom Events,127281.0,2018-12-02,2018-12-31
+Q4 2018,12690,Along With the Gods: The Two Worlds,Well Go USA Entertainment,1905361.0,2018-12-22,2018-12-31
+Q4 2018,12694,Jane,Abramorama,1614087.0,2018-10-20,2018-12-31
+Q4 2018,12695,Destroyer,Annapurna Pictures,1533324.0,2018-12-25,2018-12-31
+Q4 2018,12697,Geostorm,Warner Bros.,33700160.0,2018-10-20,2018-12-31
+Q4 2018,12700,George Takei's Allegiance2018 Re-release,Fathom Events,117162.0,2018-12-11,2018-12-31
+Q4 2018,12703,Capernaum,Sony Pictures Classics,1661096.0,2018-12-14,2018-12-31
+Q4 2018,12704,Bodied,Neon,113956.0,2018-11-02,2018-12-31
+Q4 2018,12705,Hymn: Sarah Brightman In Concert,Fathom Events,113274.0,2018-11-08,2018-12-31
+Q4 2018,12708,"Roman J. Israel, Esq.",Sony Pictures Releasing,11962778.0,2018-11-17,2018-12-31
+Q4 2018,12709,Amazing Grace,Neon,4450456.0,2018-12-07,2018-12-31
+Q4 2018,12710,Wings of Desire2018 Re-release,Janus Films,123830.0,2018-10-19,2018-12-31
+Q4 2018,12714,Never Heard,Fathom Events,105271.0,2018-11-01,2018-12-31
+Q4 2018,12716,Namaste England,Eros International,104079.0,2018-10-19,2018-12-31
+Q4 2018,12718,Unstoppable,Well Go USA Entertainment,101417.0,2018-11-30,2018-12-31
+Q4 2018,12719,The Man Who Invented Christmas,Bleecker Street Media,5676486.0,2018-11-22,2018-12-31
+Q4 2018,12721,Meow Wolf: Origin Story,Fathom Events,99488.0,2018-11-29,2018-12-31
+Q4 2018,12722,Big Sonia,Argot Pictures,212471.0,2018-11-17,2018-12-31
+Q4 2018,12725,Wonder Wheel,Amazon Studios,1404061.0,2018-12-01,2018-12-31
+Q4 2018,12727,El Angel,The Orchard,109608.0,2018-11-09,2018-12-31
+Q4 2018,12729,The Breadwinner,GKIDS,312381.0,2018-11-17,2018-12-31
+Q4 2018,12730,BANDSTAND: The Broadway Musical on Screen2018 Re-release,Fathom Events,91000.0,2018-11-15,2018-12-31
+Q4 2018,12731,The World Before Your Feet,Greenwich Entertainment,268644.0,2018-11-21,2018-12-31
+Q4 2018,12735,The Price of Everything,Home Box Office (HBO),87400.0,2018-10-19,2018-12-31
+Q4 2018,12739,National Theatre Live: Antony & Cleopatra,Fathom Events,83672.0,2018-12-06,2018-12-31
+Q4 2018,12742,Doctor Who: The Woman Who Fell to Earth,Fathom Events,82698.0,2018-10-10,2018-12-31
+Q4 2018,12744,Yuri!!! On Ice,Fathom Events,81878.0,2018-10-13,2018-12-31
+Q4 2018,12750,Stan & Ollie,Sony Pictures Classics,5470235.0,2018-12-28,2018-12-31
+Q4 2018,12753,Youth,China Lion Film Distribution,1874328.0,2018-12-15,2018-12-31
+Q4 2018,12762,Becoming Astrid,Music Box Films,120486.0,2018-11-23,2018-12-31
+Q4 2018,12763,Helicopter Eela,Eros International,71971.0,2018-10-12,2018-12-31
+Q4 2018,12764,The Ex-File 3: The Return of The Exes,China Lion Film Distribution,740525.0,2018-12-29,2018-12-31
+Q4 2018,12765,The Fog2018 Re-release,Rialto Pictures,70421.0,2018-10-26,2018-12-31
+Q4 2018,12766,Faces Places,Cohen Media Group,900000.0,2018-10-06,2018-12-31
+Q4 2018,12767,The House That Jack Built2018 Re-release,IFC Films,87993.0,2018-12-14,2018-12-31
+Q4 2018,12773,Liz and the Blue Bird,Eleven Arts,63204.0,2018-11-02,2018-12-31
+Q4 2018,12776,Viper Club,Roadside Attractions,60607.0,2018-10-26,2018-12-31
+Q4 2018,12786,DAZN Boxing: Canelo Alvarez vs. Rocky Fielding,Fathom Events,54916.0,2018-12-15,2018-12-31
+Q4 2018,12789,Twiceland,CJ Entertainment,52874.0,2018-12-07,2018-12-31
+Q4 2018,12798,Andhadhun,Eros International,1193046.0,2018-10-05,2018-12-31
+Q4 2018,12800,Swing Kids,Well Go USA Entertainment,222001.0,2018-12-21,2018-12-31
+Q4 2018,12805,Bigger,Freestyle Releasing,46382.0,2018-10-12,2018-12-31
+Q4 2018,12807,Film Stars Don't Die in Liverpool,Sony Pictures Classics,564877.0,2018-12-29,2018-12-31
+Q4 2018,12815,Mamma Mia!2018 Re-release,Fathom Events,39601.0,2018-11-04,2018-12-31
+Q4 2018,12821,Small Group,GathrFilms,37058.0,2018-10-18,2018-12-31
+Q4 2018,12822,Divide and Conquer: The Story of Roger Ailes,Magnolia Pictures,38510.0,2018-12-07,2018-12-31
+Q4 2018,12823,Searching for Ingmar Bergman,Oscilloscope,36686.0,2018-11-02,2018-12-31
+Q4 2018,12829,À tous ceux qui ne me lisent pas,Entertainment One,36506.0,2018-11-23,2018-12-31
+Q4 2018,12834,Just Getting Started,Broad Green Pictures,6069605.0,2018-12-08,2018-12-31
+Q4 2018,12835,Liyana,Abramorama,43968.0,2018-10-10,2018-12-31
+Q4 2018,12836,Moynihan,First Run,31970.0,2018-10-03,2018-12-31
+Q4 2018,12837,BPM (Beats Per Minute),The Orchard,125189.0,2018-10-20,2018-12-31
+Q4 2018,12838,Galapagos,IMAX,18627957.0,2018-10-29,2018-12-31
+Q4 2018,12840,Same Kind of Different as Me,Pure Flix Entertainment,6423605.0,2018-10-20,2018-12-31
+Q4 2018,12841,Restoring Tomorrow,Fathom Events,28556.0,2018-11-13,2018-12-31
+Q4 2018,12845,Horn from the Heart: The Paul Butterfield Story,Abramorama,54920.0,2018-10-17,2018-12-31
+Q4 2018,12846,God's Own Country,Orion Pictures,332719.0,2018-10-24,2018-12-31
+Q4 2018,12847,Senso,Rialto Pictures,27723.0,2018-10-26,2018-12-31
+Q4 2018,12852,Birdboy: The Forgotten Children,GKIDS,38786.0,2018-12-15,2018-12-31
+Q4 2018,12857,Elliot the Littlest Reindeer2018 Re-release,Screen Media Films,24262.0,2018-11-30,2018-12-31
+Q4 2018,12859,Let There Be Light,Atlas Distribution Company,7233471.0,2018-10-27,2018-12-31
+Q4 2018,12863,Loving Pablo,Universal Pictures,22017.0,2018-10-05,2018-12-31
+Q4 2018,12867,Take Point,CJ Entertainment,112386.0,2018-12-27,2018-12-31
+Q4 2018,12871,Swimming with Men,IFC Films,20471.0,2018-12-07,2018-12-31
+Q4 2018,12877,Allegiance to Broadway,Fathom Events,18527.0,2018-12-04,2018-12-31
+Q4 2018,12883,Revival,TriCoast Worldwide,17252.0,2018-12-07,2018-12-31
+Q4 2018,12885,Heading Home: The Tale of Team Israel,Menemsha Films,174686.0,2018-12-14,2018-12-31
+Q4 2018,12887,"Monrovia, Indiana",Zipporah Films,63570.0,2018-10-26,2018-12-31
+Q4 2018,12892,"Intent to Destroy: Death, Denial & Depiction2017 Re-release",GathrFilms,17436.0,2018-12-04,2018-12-31
+Q4 2018,12894,Trust Machine: The Story of Blockchain,SingularDTV,14905.0,2018-10-26,2018-12-31
+Q4 2018,12896,The Square,Magnolia Pictures,1462373.0,2018-10-27,2018-12-31
+Q4 2018,12898,The Charmer,Film Movement,26167.0,2018-12-05,2018-12-31
+Q4 2018,12900,Narcissister Organ Player,Film Movement,14316.0,2018-11-07,2018-12-31
+Q4 2018,12901,Happy End,Sony Pictures Classics,265404.0,2018-12-22,2018-12-31
+Q4 2018,12902,Chasing the Blues,Ammo Content,14030.0,2018-10-05,2018-12-31
+Q4 2018,12903,Stavisky...,Rialto Pictures,13793.0,2018-10-03,2018-12-31
+Q4 2018,12907,Thelma,The Orchard,147391.0,2018-11-10,2018-12-31
+Q4 2018,12915,Head Full of Honey,Warner Bros.,12350.0,2018-11-30,2018-12-31
+Q4 2018,12919,The Last Race,Magnolia Pictures,11947.0,2018-11-16,2018-12-31
+Q4 2018,12924,Tyrel,Magnolia Pictures,21456.0,2018-12-07,2018-12-31
+Q4 2018,12926,"A Bread Factory, Part One/A Bread Factory, Part Two",In the Family,17325.0,2018-10-26,2018-12-31
+Q4 2018,12928,Bullitt County,Mr. Pictures,11257.0,2018-10-26,2018-12-31
+Q4 2018,12930,Quest,First Run,47807.0,2018-12-01,2018-12-31
+Q4 2018,12933,In the Fade,Magnolia Pictures,271345.0,2018-12-27,2018-12-31
+Q4 2018,12935,Sicilian Ghost Story,Strand Releasing,14914.0,2018-11-30,2018-12-31
+Q4 2018,12938,The Advocates,Cinema Libre Studio,10402.0,2018-10-19,2018-12-31
+Q4 2018,12942,The Sacrifice2017 Re-release,Kino Lorber,60657.0,2018-10-20,2018-12-31
+Q4 2018,12945,River Runs Red,Cinedigm Entertainment Group,9893.0,2018-11-09,2018-12-31
+Q4 2018,12955,Un traductor,Film Movement,13509.0,2018-10-19,2018-12-31
+Q4 2018,12958,The Clovehitch Killer,IFC Films,8208.0,2018-11-16,2018-12-31
+Q4 2018,12959,On the Beach at Night Alone,The Cinema Guild,37489.0,2018-11-17,2018-12-31
+Q4 2018,12961,Chavela,Music Box Films,145877.0,2018-10-04,2018-12-31
+Q4 2018,12972,An Evening with Beverly Luff Linn,The Film Arcade,6701.0,2018-10-19,2018-12-31
+Q4 2018,12975,Defining Hope,GathrFilms,14998.0,2018-11-03,2018-12-31
+Q4 2018,12976,Of Fathers and Sons,Kino Lorber,7427.0,2018-11-16,2018-12-31
+Q4 2018,12977,The Quake,Magnolia Pictures,6235.0,2018-12-14,2018-12-31
+Q4 2018,12981,Ichi the Killer2017 Re-release,Well Go USA Entertainment,12093.0,2018-11-10,2018-12-31
+Q4 2018,12985,The Crime of Monsieur Lange,Rialto Pictures,36438.0,2018-11-17,2018-12-31
+Q4 2018,12994,In Searching,Indican Pictures,5210.0,2018-11-09,2018-12-31
+Q4 2018,12997,The Leisure Seeker,Sony Pictures Classics,3168507.0,2018-12-15,2018-12-31
+Q4 2018,13004,Wonderstruck,Roadside Attractions,1060377.0,2018-10-20,2018-12-31
+Q4 2018,13005,The Long Dumb Road,The Film Arcade,4667.0,2018-11-09,2018-12-31
+Q4 2018,13009,Never Look Away,Sony Pictures Classics,1298641.0,2018-11-30,2018-12-31
+Q4 2018,13010,Weightless,Great Point Media,4461.0,2018-11-09,2018-12-31
+Q4 2018,13011,Miss Kiet's Children2017 Re-release,Icarus Films,9384.0,2018-12-13,2018-12-31
+Q4 2018,13014,Stella's Last Weekend,Paladin,4215.0,2018-10-12,2018-12-31
+Q4 2018,13017,The Party's Just Beginning,The Orchard,4145.0,2018-12-07,2018-12-31
+Q4 2018,13019,Frank and Ava,Hannover House,18829.0,2018-12-07,2018-12-31
+Q4 2018,13025,Shoah: Four Sisters,Cohen Media Group,3829.0,2018-11-14,2018-12-31
+Q4 2018,13030,Burning,Well Go USA Entertainment,718991.0,2018-10-26,2018-12-31
+Q4 2018,13032,Under The Wire,Abramorama,3429.0,2018-11-16,2018-12-31
+Q4 2018,13045,The Paris Opera,Film Movement,55482.0,2018-10-18,2018-12-31
+Q4 2018,13046,The Other Side of Hope,Janus Films,143330.0,2018-12-01,2018-12-31
+Q4 2018,13051,Aida's Secrets,Music Box Films,97909.0,2018-10-20,2018-12-31
+Q4 2018,13052,The Pact,Sony Pictures Releasing,2488.0,2018-10-26,2018-12-31
+Q4 2018,13053,1945,Menemsha Films,1006193.0,2018-11-01,2018-12-31
+Q4 2018,13058,Félicité,Strand Releasing,10503.0,2018-10-27,2018-12-31
+Q4 2018,13063,Bill Nye: Science Guy,PBS Distribution,72520.0,2018-10-27,2018-12-31
+Q4 2018,13068,The Ghosts of Johnson Woods,Driving With Our Eyes Shut,3000.0,2018-12-02,2018-12-31
+Q4 2018,13071,The Thousand Faces of Dunjia,Well Go USA Entertainment,122865.0,2018-12-15,2018-12-31
+Q4 2018,13077,Novitiate,Sony Pictures Classics,572615.0,2018-10-27,2018-12-31
+Q4 2018,13079,Permanent,Magnolia Pictures,12847.0,2018-12-15,2018-12-31
+Q4 2018,13082,That Way Madness Lies...,First Run,1447.0,2018-12-14,2018-12-31
+Q4 2018,13085,Beauty and the Beholder,Reel One Entertainment,1368.0,2018-10-26,2018-12-31
+Q4 2018,13086,I Still See You,Lionsgate,1359.0,2018-10-12,2018-12-31
+Q4 2018,13088,Guy,Distrib Films,1319.0,2018-12-14,2018-12-31
+Q4 2018,13089,My Friend Dahmer,FilmRise,1323060.0,2018-11-03,2018-12-31
+Q4 2018,13090,The Lucky Man,Indican Pictures,24075.0,2018-12-21,2018-12-31
+Q4 2018,13093,Tom of Finland,Kino Lorber,361720.0,2018-10-13,2018-12-31
+Q4 2018,13096,Charged: The Eduardo Garcia Story,GathrFilms,14684.0,2018-10-04,2018-12-31
+Q4 2018,13098,Henchmen,Entertainment One,1469.0,2018-12-07,2018-12-31
+Q4 2018,13100,Heavy Trip,Music Box Films,10153.0,2018-10-05,2018-12-31
+Q4 2018,13102,Invisible Hands,First Run,1034.0,2018-11-23,2018-12-31
+Q4 2018,13110,TVTV: Video Revolutionaries,First Run,812.0,2018-10-19,2018-12-31
+Q4 2018,13112,Porto,Kino Lorber,13784.0,2018-11-17,2018-12-31
+Q4 2018,13118,Tournament,GathrFilms,4018.0,2018-10-12,2018-12-31
+Q4 2018,13127,Bombshell: The Hedy Lamarr Story,Zeitgeist Films,817388.0,2018-11-24,2018-12-31
+Q4 2018,13128,To Die Is Hard,Driving With Our Eyes Shut,4549.0,2018-12-17,2018-12-31
+Q4 2018,13131,Bad Lucky Goat,Film Movement,4987.0,2018-10-13,2018-12-31
+Q4 2018,13137,Around India with a Movie Camera,Icarus Films,10389.0,2018-11-30,2018-12-31
+Q4 2018,13142,A Man Vanishes2012 Re-release,Icarus Films,6201.0,2018-11-15,2018-12-31

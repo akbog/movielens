@@ -1,0 +1,544 @@
+season,Unnamed: 0,movie,studio,gross,release,time
+Q1 2004,2932,The Passion of the Christ,Newmarket Films,369895388.0,2004-02-25,2004-03-31
+Q1 2004,2944,50 First Dates,Sony Pictures Releasing,120908074.0,2004-02-13,2004-03-31
+Q1 2004,2952,Starsky & Hutch,Warner Bros.,88237754.0,2004-03-05,2004-03-31
+Q1 2004,2953,Along Came Polly,Universal Pictures,88097164.0,2004-01-16,2004-03-31
+Q1 2004,2957,Scooby-Doo 2: Monsters Unleashed,Warner Bros.,84216833.0,2004-03-26,2004-03-31
+Q1 2004,2970,Barbershop 2: Back in Business,Metro-Goldwyn-Mayer (MGM),65111277.0,2004-02-06,2004-03-31
+Q1 2004,2971,Hidalgo,Walt Disney Studios Motion Pictures,64266271.0,2004-03-05,2004-03-31
+Q1 2004,2972,Miracle,Walt Disney Studios Motion Pictures,63366835.0,2004-02-06,2004-03-31
+Q1 2004,2978,Dawn of the Dead,Universal Pictures,59020957.0,2004-03-19,2004-03-31
+Q1 2004,2987,Secret Window,Sony Pictures Releasing,48022900.0,2004-03-12,2004-03-31
+Q1 2004,2992,You Got Served,Screen Gems,40363810.0,2004-01-30,2004-03-31
+Q1 2004,2993,The Ladykillers,Walt Disney Studios Motion Pictures,39799191.0,2004-03-26,2004-03-31
+Q1 2004,3002,Taking Lives,Warner Bros.,32682342.0,2004-03-19,2004-03-31
+Q1 2004,3006,Confessions of a Teenage Drama Queen,Walt Disney Studios Motion Pictures,29331068.0,2004-02-20,2004-03-31
+Q1 2004,3015,Twisted,Paramount Pictures,25198598.0,2004-02-27,2004-03-31
+Q1 2004,3017,Eternal Sunshine of the Spotless Mind,Focus Features,34400301.0,2004-03-19,2004-03-31
+Q1 2004,3018,Agent Cody Banks 2: Destination London,Metro-Goldwyn-Mayer (MGM),23630159.0,2004-03-12,2004-03-31
+Q1 2004,3021,Torque,Warner Bros.,21215059.0,2004-01-16,2004-03-31
+Q1 2004,3026,NASCAR: The IMAX Experience,Warner Bros.,21583831.0,2004-03-12,2004-03-31
+Q1 2004,3028,EuroTrip,DreamWorks Distribution,17771387.0,2004-02-20,2004-03-31
+Q1 2004,3029,Win a Date with Tad Hamilton!,DreamWorks Distribution,17071962.0,2004-01-23,2004-03-31
+Q1 2004,3031,Catch That Kid,Twentieth Century Fox,16679623.0,2004-02-06,2004-03-31
+Q1 2004,3037,Welcome to Mooseport,Twentieth Century Fox,14436953.0,2004-02-20,2004-03-31
+Q1 2004,3047,Chasing Liberty,Warner Bros.,12195626.0,2004-01-09,2004-03-31
+Q1 2004,3052,The Perfect Score,Paramount Pictures,10391003.0,2004-01-30,2004-03-31
+Q1 2004,3058,Bugs!,SK Films,19062359.0,2004-03-12,2004-03-31
+Q1 2004,3067,The Big Bounce,Warner Bros.,6489476.0,2004-01-30,2004-03-31
+Q1 2004,3069,Teacher's Pet,Walt Disney Studios Motion Pictures,6111700.0,2004-01-16,2004-03-31
+Q1 2004,3070,Against the Ropes,Paramount Pictures,5884190.0,2004-02-20,2004-03-31
+Q1 2004,3073,Never Die Alone,Fox Searchlight Pictures,5602750.0,2004-03-26,2004-03-31
+Q1 2004,3076,Club Dread,Fox Searchlight Pictures,4949946.0,2004-02-27,2004-03-31
+Q1 2004,3078,Touching the Void,IFC Films,4593598.0,2004-01-23,2004-03-31
+Q1 2004,3079,Spartan,Warner Bros.,4434432.0,2004-03-12,2004-03-31
+Q1 2004,3093,The Dreamers,Fox Searchlight Pictures,2515202.0,2004-02-06,2004-03-31
+Q1 2004,3096,Bon voyage2004 Re-release,Sony Pictures Classics,2354559.0,2004-03-19,2004-03-31
+Q1 2004,3118,The Corporation,Mongrel Media,1608665.0,2004-01-16,2004-03-31
+Q1 2004,3123,Osama,United Artists,1270904.0,2004-02-06,2004-03-31
+Q1 2004,3139,My Baby's Daddy,Miramax,17669317.0,2004-01-09,2004-03-31
+Q1 2004,3141,Jersey Girl,Miramax,24990297.0,2004-03-26,2004-03-31
+Q1 2004,3148,Intermission,IFC Films,896993.0,2004-03-19,2004-03-31
+Q1 2004,3155,The Blue Butterfly,Alliance Atlantis Vivafilm,1755355.0,2004-02-20,2004-03-31
+Q1 2004,3159,The Butterfly Effect,New Line Cinema,49179651.0,2004-01-23,2004-03-31
+Q1 2004,3166,Le dernier tunnel,Christal Films,1352489.0,2004-03-12,2004-03-31
+Q1 2004,3169,Khakee,Eros International,587877.0,2004-01-23,2004-03-31
+Q1 2004,3204,Kitchen Stories2004 Re-release,IFC Films,351235.0,2004-02-20,2004-03-31
+Q1 2004,3229,Mayor of the Sunset Strip,First Look International,257315.0,2004-03-26,2004-03-31
+Q1 2004,3230,The Reckoning,Paramount Classics,257252.0,2004-03-05,2004-03-31
+Q1 2004,3235,Wilbur Wants to Kill Himself,THINKFilm,235294.0,2004-03-12,2004-03-31
+Q1 2004,3257,Dans l'oeil du chat,Alliance Atlantis Vivafilm,155714.0,2004-02-13,2004-03-31
+Q1 2004,3269,Tokyo Godfathers,IDP Distribution,129560.0,2004-01-16,2004-03-31
+Q1 2004,3272,"Love, Sex and Eating the Bones",THINKFilm,116869.0,2004-03-05,2004-03-31
+Q1 2004,3274,Games People Play: New York,Artistic License,113622.0,2004-03-12,2004-03-31
+Q1 2004,3275,The Lost Skeleton of Cadavra,Sony Pictures Repertory,143121.0,2004-02-06,2004-03-31
+Q1 2004,3283,Aileen: Life and Death of a Serial Killer,Lantern Lane Entertainment,97362.0,2004-01-09,2004-03-31
+Q1 2004,3290,Secret Things,First Run,103879.0,2004-01-02,2004-03-31
+Q1 2004,3292,Decoys,Lionsgate,84733.0,2004-02-27,2004-03-31
+Q1 2004,3296,Carlos Castaneda: Enigma of a Sorcerer,Indican Pictures,106056.0,2004-03-05,2004-03-31
+Q1 2004,3304,Crimson Gold,Wellspring Media,148959.0,2004-01-16,2004-03-31
+Q1 2004,3305,James' Journey to Jerusalem,Zeitgeist Films,64967.0,2004-03-05,2004-03-31
+Q1 2004,3309,Noi the Albino,Palm Pictures,60555.0,2004-03-19,2004-03-31
+Q1 2004,3310,The Seagull's Laughter,The Cinema Guild,71813.0,2004-02-13,2004-03-31
+Q1 2004,3314,Divan,Zeitgeist Films,56214.0,2004-03-17,2004-03-31
+Q1 2004,3326,Ned Kelly,Focus Features,43704.0,2004-03-26,2004-03-31
+Q1 2004,3327,The Tracker2004 Re-release,ArtMattan Productions,52806.0,2004-01-16,2004-03-31
+Q1 2004,3335,One2004 Re-release,Magnolia Pictures,63931.0,2004-01-30,2004-03-31
+Q1 2004,3337,"The Bread, My Sweet",Panorama Entertainment,1023156.0,2004-01-18,2004-03-31
+Q1 2004,3347,Two Men Went to War,Indican Pictures,149104.0,2004-03-26,2004-03-31
+Q1 2004,3352,Empathy,Icarus Films,29345.0,2004-01-21,2004-03-31
+Q1 2004,3355,The Umbrellas of Cherbourg,Zeitgeist Films,28030.0,2004-02-13,2004-03-31
+Q1 2004,3360,Dogville,Lionsgate,26432.0,2004-03-26,2004-03-31
+Q1 2004,3367,City of God,Miramax,4801153.0,2004-01-17,2004-03-31
+Q1 2004,3368,Two2004 Re-release,Magnolia Pictures,47294.0,2004-02-06,2004-03-31
+Q1 2004,3370,Uzak,New Yorker Films,95299.0,2004-03-12,2004-03-31
+Q1 2004,3379,Highwaymen,New Line Cinema,216697.0,2004-02-13,2004-03-31
+Q1 2004,3390,The Battle of Algiers2004 Re-release,Rialto Pictures,820483.0,2004-01-09,2004-03-31
+Q1 2004,3399,Perfect Opposites,MAC Releasing,16201.0,2004-02-06,2004-03-31
+Q1 2004,3410,Raja,Film Movement,13000.0,2004-03-26,2004-03-31
+Q1 2004,3412,L'Age d'Or,Kino International,31702.0,2004-01-30,2004-03-31
+Q1 2004,3416,Blind Shaft,Kino International,32072.0,2004-02-06,2004-03-31
+Q1 2004,3419,Hiding and Seeking: Faith and Tolerance After the Holocaust,First Run,36782.0,2004-02-06,2004-03-31
+Q1 2004,3421,The Return,Kino International,491263.0,2004-02-06,2004-03-31
+Q1 2004,3426,MC5*: A True Testimonial,Avatar Films,10888.0,2004-03-05,2004-03-31
+Q1 2004,3435,Cuba: Island of Music,Cinema Four,9791.0,2004-01-16,2004-03-31
+Q1 2004,3449,Lana's Rain,ISA Releasing,43035.0,2004-02-27,2004-03-31
+Q1 2004,3452,Alila,Kino International,15137.0,2004-02-27,2004-03-31
+Q1 2004,3454,The Girl from Paris,Films Philos,182129.0,2004-03-21,2004-03-31
+Q1 2004,3458,I'll Sing for You2004 Re-release,First Run,8255.0,2004-03-26,2004-03-31
+Q1 2004,3459,Love Object,Vitagraph Films,6028.0,2004-02-13,2004-03-31
+Q1 2004,3464,Yves Saint Laurent: His Life and Times,Empire Pictures Inc.,91609.0,2004-01-07,2004-03-31
+Q1 2004,3469,How to Draw a Bunny,Palm Pictures,4658.0,2004-03-12,2004-03-31
+Q1 2004,3482,Big Animal,Milestone,3733.0,2004-02-20,2004-03-31
+Q1 2004,3489,Abouna,Leisure Time Features,3290.0,2004-02-20,2004-03-31
+Q1 2004,3495,Risk/Reward,Organic Pictures,2517.0,2004-02-27,2004-03-31
+Q1 2004,3497,Motocross Kids,Tag Entertainment,2462.0,2004-01-30,2004-03-31
+Q1 2004,3500,This Old Cub,Emerging Pictures,254719.0,2004-03-26,2004-03-31
+Q1 2004,3511,Three2004 Re-release,Magnolia Pictures,14133.0,2004-02-13,2004-03-31
+Q1 2004,3523,The Son,New Yorker Films,65955.0,2004-01-10,2004-03-31
+Q2 2004,2930,Shrek 2,DreamWorks Distribution,441181022.0,2004-05-19,2004-06-30
+Q2 2004,2931,Spider-Man 2,Sony Pictures Releasing,373585825.0,2004-06-30,2004-06-30
+Q2 2004,2933,Harry Potter and the Prisoner of Azkaban,Warner Bros.,249541069.0,2004-06-04,2004-06-30
+Q2 2004,2935,The Day After Tomorrow,Twentieth Century Fox,186716750.0,2004-05-28,2004-06-30
+Q2 2004,2941,Troy,Warner Bros.,133378256.0,2004-05-14,2004-06-30
+Q2 2004,2945,Van Helsing,Universal Pictures,120177084.0,2004-05-07,2004-06-30
+Q2 2004,2946,Dodgeball: A True Underdog Story,Twentieth Century Fox,114291297.0,2004-06-18,2004-06-30
+Q2 2004,2954,Mean Girls,Paramount Pictures,86058055.0,2004-04-30,2004-06-30
+Q2 2004,2961,The Terminal,DreamWorks Distribution,77872883.0,2004-06-18,2004-06-30
+Q2 2004,2962,Man on Fire,Twentieth Century Fox,77871663.0,2004-04-21,2004-06-30
+Q2 2004,2963,Garfield,Twentieth Century Fox,75369589.0,2004-06-11,2004-06-30
+Q2 2004,2967,White Chicks,Sony Pictures Releasing,70831760.0,2004-06-23,2004-06-30
+Q2 2004,2975,Hellboy,Revolution Studios,59623958.0,2004-04-02,2004-06-30
+Q2 2004,2976,The Stepford Wives,Paramount Pictures,59484742.0,2004-06-11,2004-06-30
+Q2 2004,2980,The Chronicles of Riddick,Universal Pictures,57761012.0,2004-06-11,2004-06-30
+Q2 2004,2981,13 Going on 30,Revolution Studios,57231747.0,2004-04-23,2004-06-30
+Q2 2004,2986,Home on the Range,Walt Disney Studios Motion Pictures,48679260.0,2004-04-02,2004-06-30
+Q2 2004,2988,Walking Tall,Metro-Goldwyn-Mayer (MGM),46437717.0,2004-04-02,2004-06-30
+Q2 2004,2989,Napoleon Dynamite,Fox Searchlight Pictures,44522135.0,2004-06-11,2004-06-30
+Q2 2004,2997,Raising Helen,Walt Disney Studios Motion Pictures,36027150.0,2004-05-28,2004-06-30
+Q2 2004,3005,Johnson Family Vacation,Fox Searchlight Pictures,31123902.0,2004-04-07,2004-06-30
+Q2 2004,3009,The Prince and Me,Paramount Pictures,28176497.0,2004-04-02,2004-06-30
+Q2 2004,3019,Around the World in 80 Days,Walt Disney Studios Motion Pictures,22494935.0,2004-06-16,2004-06-30
+Q2 2004,3020,The Alamo,Walt Disney Studios Motion Pictures,21497158.0,2004-04-09,2004-06-30
+Q2 2004,3027,Two Brothers,Universal Pictures,19176754.0,2004-06-25,2004-06-30
+Q2 2004,3032,The Whole Ten Yards,Warner Bros.,16328471.0,2004-04-09,2004-06-30
+Q2 2004,3034,Fahrenheit 9/11,Lionsgate,119194771.0,2004-06-23,2004-06-30
+Q2 2004,3036,The Girl Next Door,Twentieth Century Fox,14553853.0,2004-04-09,2004-06-30
+Q2 2004,3038,Soul Plane,Metro-Goldwyn-Mayer (MGM),14190750.0,2004-05-28,2004-06-30
+Q2 2004,3039,New York Minute,Warner Bros.,14071441.0,2004-05-07,2004-06-30
+Q2 2004,3040,Envy,DreamWorks Distribution,13511994.0,2004-04-30,2004-06-30
+Q2 2004,3048,Breakin' All the Rules,Screen Gems,12264319.0,2004-05-14,2004-06-30
+Q2 2004,3053,Space Station 3D,IMAX,93379882.0,2004-04-19,2004-06-30
+Q2 2004,3057,The Notebook,New Line Cinema,81001787.0,2004-06-25,2004-06-30
+Q2 2004,3062,Saved!,United Artists,8940582.0,2004-05-28,2004-06-30
+Q2 2004,3064,Connie and Carla,Universal Pictures,8085771.0,2004-04-16,2004-06-30
+Q2 2004,3084,A Day Without a Mexican,Televisa Cine,4179890.0,2004-05-14,2004-06-30
+Q2 2004,3092,Control Room,Magnolia Pictures,2589616.0,2004-05-21,2004-06-30
+Q2 2004,3095,"Spring, Summer, Fall, Winter... and Spring",Sony Pictures Classics,2380788.0,2004-04-02,2004-06-30
+Q2 2004,3097,Cirque du Soleil: Journey of Man,Sony Pictures Classics,15619088.0,2004-05-05,2004-06-30
+Q2 2004,3099,Coffee and Cigarettes,United Artists,2198924.0,2004-05-14,2004-06-30
+Q2 2004,3107,The Corporation2004 Re-release,Zeitgeist Films,1879983.0,2004-06-04,2004-06-30
+Q2 2004,3108,Clifford's Really Big Movie,Warner Bros.,2922354.0,2004-04-20,2004-06-30
+Q2 2004,3110,The Story of the Weeping Camel,THINKFilm,1763052.0,2004-06-04,2004-06-30
+Q2 2004,3112,I'm Not Scared,Miramax,1615328.0,2004-04-09,2004-06-30
+Q2 2004,3119,Ghosts of the Abyss,Walt Disney Studios Motion Pictures,17040871.0,2004-04-11,2004-06-30
+Q2 2004,3127,Ella Enchanted,Miramax,20039365.0,2004-04-09,2004-06-30
+Q2 2004,3133,The Mother,Sony Pictures Classics,1063163.0,2004-05-28,2004-06-30
+Q2 2004,3154,Young Adam,Sony Pictures Classics,767373.0,2004-04-16,2004-06-30
+Q2 2004,3156,Lakshya,UTV Motion Pictures,753600.0,2004-06-18,2004-06-30
+Q2 2004,3157,China: The Panda Adventure,IMAX,3918213.0,2004-06-09,2004-06-30
+Q2 2004,3164,Kill Bill: Vol. 2,Miramax,64084276.0,2004-04-16,2004-06-30
+Q2 2004,3174,Love Me If You Dare,Paramount Classics,553504.0,2004-05-21,2004-06-30
+Q2 2004,3175,Facing Windows,Sony Pictures Classics,543354.0,2004-06-18,2004-06-30
+Q2 2004,3179,L'incomparable mademoiselle C.,Christal Films,493905.0,2004-04-23,2004-06-30
+Q2 2004,3180,Shaolin Soccer,Miramax,489600.0,2004-04-02,2004-06-30
+Q2 2004,3181,Super Size Me,IDP Distribution,8674990.0,2004-05-07,2004-06-30
+Q2 2004,3186,Seducing Doctor Lewis2004 Re-release,Wellspring Media,488562.0,2004-06-16,2004-06-30
+Q2 2004,3188,The Weather Underground,Shadow Distribution,499265.0,2004-06-04,2004-06-30
+Q2 2004,3193,Still We Believe: The Boston Red Sox Movie,THINKFilm,396803.0,2004-05-07,2004-06-30
+Q2 2004,3202,Baadasssss!,Sony Pictures Classics,365727.0,2004-05-28,2004-06-30
+Q2 2004,3203,I'll Sleep When I'm Dead,Paramount Classics,360759.0,2004-06-16,2004-06-30
+Q2 2004,3205,Since Otar Left,Zeitgeist Films,350391.0,2004-04-30,2004-06-30
+Q2 2004,3207,The United States of Leland,Paramount Classics,343847.0,2004-04-02,2004-06-30
+Q2 2004,3208,"Broadway: The Golden Age, by the Legends Who Were There",Dada Films,347954.0,2004-06-11,2004-06-30
+Q2 2004,3218,Masti,Eros International,308566.0,2004-04-09,2004-06-30
+Q2 2004,3220,The Piano Player,Menemsha Films,565292.0,2004-06-20,2004-06-30
+Q2 2004,3222,Silmido,Cinema Service,298347.0,2004-04-23,2004-06-30
+Q2 2004,3223,Mickey,Slugger Pictures,294758.0,2004-04-30,2004-06-30
+Q2 2004,3226,Valentin2003 Re-release,Miramax,275968.0,2004-05-07,2004-06-30
+Q2 2004,3238,The Agronomist,THINKFilm,226189.0,2004-04-23,2004-06-30
+Q2 2004,3240,Carandiru,Sony Pictures Classics,216335.0,2004-05-14,2004-06-30
+Q2 2004,3244,This So-Called Disaster: Sam Shepard Directs the Late Henry Moss,IFC Films,226658.0,2004-04-21,2004-06-30
+Q2 2004,3250,The Five Obstructions,Koch Lorber Films,165845.0,2004-05-26,2004-06-30
+Q2 2004,3270,Elvis Gratton 3: Le retour d'Elvis Wong,Christal Films,1838920.0,2004-06-23,2004-06-30
+Q2 2004,3276,Deewaar: Let's Bring Our Heroes Home,Eros International,111423.0,2004-06-25,2004-06-30
+Q2 2004,3291,Seeing Other People,Lantern Lane Entertainment,87923.0,2004-05-07,2004-06-30
+Q2 2004,3293,Dev,Eros International,84728.0,2004-06-11,2004-06-30
+Q2 2004,3295,My Mother Likes Women2004 Re-release,Norador Productions,82916.0,2004-05-21,2004-06-30
+Q2 2004,3307,Howard Zinn: You Can't Be Neutral on a Moving Train,First Run,122011.0,2004-06-18,2004-06-30
+Q2 2004,3308,Time of the Wolf,Palm Pictures,61439.0,2004-06-25,2004-06-30
+Q2 2004,3318,Monty Python's Life of Brian2004 Re-release,Rainbow Releasing,643947.0,2004-04-30,2004-06-30
+Q2 2004,3328,Springtime in a Small Town,Palm Pictures,43017.0,2004-05-14,2004-06-30
+Q2 2004,3330,Close Your Eyes,First Look International,41392.0,2004-04-23,2004-06-30
+Q2 2004,3334,Godsend,Lionsgate,14379751.0,2004-04-30,2004-06-30
+Q2 2004,3338,Showboy,Regent Releasing,34646.0,2004-04-09,2004-06-30
+Q2 2004,3342,Donnie Darko2004 Director's Cut,Newmarket Films,32736.0,2004-06-02,2004-06-30
+Q2 2004,3346,Word Wars,Seventh Art Releasing,110617.0,2004-05-28,2004-06-30
+Q2 2004,3358,Bonhoeffer,First Run,296181.0,2004-06-20,2004-06-30
+Q2 2004,3365,Shade,RKO Radio Pictures,25032.0,2004-04-09,2004-06-30
+Q2 2004,3372,Frankie and Johnny Are Married,IFC Films,22900.0,2004-05-26,2004-06-30
+Q2 2004,3373,Adored,Wolfe Releasing,38635.0,2004-04-02,2004-06-30
+Q2 2004,3376,Bulgarian Lovers,TLA Releasing,55181.0,2004-04-30,2004-06-30
+Q2 2004,3386,Twist,Strand Releasing,46265.0,2004-05-21,2004-06-30
+Q2 2004,3392,The Mudge Boy,Strand Releasing,62048.0,2004-05-07,2004-06-30
+Q2 2004,3401,Off the Lip,Hannover House,15217.0,2004-05-07,2004-06-30
+Q2 2004,3402,Reeseville,Innovation Film Group (IFG),14824.0,2004-05-07,2004-06-30
+Q2 2004,3403,Monty Python and the Holy Grail2001 Re-release,Rainbow Releasing,1821082.0,2004-06-15,2004-06-30
+Q2 2004,3404,Strayed,Wellspring Media,480809.0,2004-05-14,2004-06-30
+Q2 2004,3418,Close Call,Prime Media Pictures,12077.0,2004-04-16,2004-06-30
+Q2 2004,3422,A Thousand Clouds of Peace,Strand Releasing,46773.0,2004-04-02,2004-06-30
+Q2 2004,3437,Imagining Argentina,Arenas Entertainment,8899.0,2004-06-11,2004-06-30
+Q2 2004,3439,Godzilla,Rialto Pictures,409077.0,2004-05-07,2004-06-30
+Q2 2004,3440,The Cremaster Cycle,Palm Pictures,514272.0,2004-04-25,2004-06-30
+Q2 2004,3441,The Intended,IFC Films,8106.0,2004-06-25,2004-06-30
+Q2 2004,3443,Imelda,Unico Entertainment,200097.0,2004-06-09,2004-06-30
+Q2 2004,3446,With All Deliberate Speed,Empire Pictures Inc.,7690.0,2004-05-14,2004-06-30
+Q2 2004,3461,S21: The Khmer Rouge Killing Machine,First Run,21229.0,2004-05-19,2004-06-30
+Q2 2004,3466,Father and Son,Wellspring Media,28951.0,2004-06-18,2004-06-30
+Q2 2004,3476,Rivers and Tides: Andy Goldsworthy Working with Time,Roxie Releasing,2200276.0,2004-06-26,2004-06-30
+Q2 2004,3478,Saints and Sinners,Avatar Films,3826.0,2004-06-18,2004-06-30
+Q2 2004,3485,The Burial Society,Regent Releasing,20735.0,2004-05-28,2004-06-30
+Q2 2004,3488,Tamala 2010: A Punk Cat in Space,Vitagraph Films,3386.0,2004-04-02,2004-06-30
+Q2 2004,3491,Twentynine Palms,Wellspring Media,53861.0,2004-04-09,2004-06-30
+Q2 2004,3498,Firedancer,Cinema Four,2422.0,2004-06-04,2004-06-30
+Q2 2004,3506,The Road to Love,Arab Film Distribution,1714.0,2004-06-30,2004-06-30
+Q2 2004,3507,Marathon,Cinema Four,1703.0,2004-04-02,2004-06-30
+Q2 2004,3509,Superstar in a Housedress,Abramorama,20715.0,2004-05-05,2004-06-30
+Q2 2004,3526,A Grin Without A Cat,Icarus Films,43616.0,2004-05-01,2004-06-30
+Q3 2004,2936,The Bourne Supremacy,Universal Pictures,176241941.0,2004-07-23,2004-09-30
+Q3 2004,2940,"I, Robot",Twentieth Century Fox,144763065.0,2004-07-16,2004-09-30
+Q3 2004,2947,The Village,Walt Disney Studios Motion Pictures,114197520.0,2004-07-30,2004-09-30
+Q3 2004,2949,Collateral,DreamWorks Distribution,100962117.0,2004-08-06,2004-09-30
+Q3 2004,2951,The Princess Diaries 2: Royal Engagement,Walt Disney Studios Motion Pictures,95170481.0,2004-08-11,2004-09-30
+Q3 2004,2955,Anchorman: The Legend of Ron Burgundy,DreamWorks Distribution,85288303.0,2004-07-09,2004-09-30
+Q3 2004,2960,Alien vs. Predator,Twentieth Century Fox,80265199.0,2004-08-13,2004-09-30
+Q3 2004,2968,The Forgotten,Revolution Studios,67133509.0,2004-09-24,2004-09-30
+Q3 2004,2969,The Manchurian Candidate,Paramount Pictures,65955630.0,2004-07-30,2004-09-30
+Q3 2004,2979,Without a Paddle,Paramount Pictures,58169327.0,2004-08-20,2004-09-30
+Q3 2004,2983,A Cinderella Story,Warner Bros.,51438175.0,2004-07-16,2004-09-30
+Q3 2004,2984,Resident Evil: Apocalypse,Screen Gems,51201453.0,2004-09-10,2004-09-30
+Q3 2004,2985,King Arthur,Walt Disney Studios Motion Pictures,51882244.0,2004-07-07,2004-09-30
+Q3 2004,2990,Exorcist: The Beginning,Warner Bros.,41821986.0,2004-08-20,2004-09-30
+Q3 2004,2991,Catwoman,Warner Bros.,40202379.0,2004-07-23,2004-09-30
+Q3 2004,2995,Sky Captain and the World of Tomorrow,Paramount Pictures,37762677.0,2004-09-17,2004-09-30
+Q3 2004,3003,Anacondas: The Hunt for the Blood Orchid,Screen Gems,32238923.0,2004-08-27,2004-09-30
+Q3 2004,3010,Garden State,Fox Searchlight Pictures,26774462.0,2004-07-28,2004-09-30
+Q3 2004,3022,Mr 3000,Walt Disney Studios Motion Pictures,21811187.0,2004-09-17,2004-09-30
+Q3 2004,3024,Little Black Book,Revolution Studios,20698668.0,2004-08-06,2004-09-30
+Q3 2004,3025,Yu-Gi-Oh!: The Movie - Pyramid of Light,Warner Bros.,19765868.0,2004-08-13,2004-09-30
+Q3 2004,3030,Wimbledon,Universal Pictures,17001133.0,2004-09-17,2004-09-30
+Q3 2004,3033,Paparazzi,Twentieth Century Fox,15714234.0,2004-09-03,2004-09-30
+Q3 2004,3041,De-Lovely,United Artists,13456633.0,2004-07-02,2004-09-30
+Q3 2004,3043,Wicker Park,Metro-Goldwyn-Mayer (MGM),13001257.0,2004-09-03,2004-09-30
+Q3 2004,3059,Sleepover,Metro-Goldwyn-Mayer (MGM),9436390.0,2004-07-09,2004-09-30
+Q3 2004,3060,Superbabies: Baby Geniuses 2,Triumph Releasing Corporation,9219388.0,2004-08-27,2004-09-30
+Q3 2004,3061,First Daughter,Twentieth Century Fox,9038447.0,2004-09-24,2004-09-30
+Q3 2004,3063,Suspect Zero,Paramount Pictures,8725813.0,2004-08-27,2004-09-30
+Q3 2004,3066,Thunderbirds,Universal Pictures,6880917.0,2004-07-30,2004-09-30
+Q3 2004,3071,Before Sunset,Warner Independent Pictures (WIP),5820649.0,2004-07-02,2004-09-30
+Q3 2004,3072,The Clearing,Fox Searchlight Pictures,5763875.0,2004-07-02,2004-09-30
+Q3 2004,3086,Hero,Miramax,53710019.0,2004-08-27,2004-09-30
+Q3 2004,3091,Vanity Fair,Focus Features,16136476.0,2004-09-01,2004-09-30
+Q3 2004,3098,Riding Giants,Sony Pictures Classics,2276368.0,2004-07-09,2004-09-30
+Q3 2004,3102,Intimate Strangers,Paramount Classics,2110589.0,2004-07-30,2004-09-30
+Q3 2004,3104,We Don't Live Here Anymore,Warner Independent Pictures (WIP),2041014.0,2004-08-13,2004-09-30
+Q3 2004,3111,The Motorcycle Diaries,Focus Features,16781387.0,2004-09-24,2004-09-30
+Q3 2004,3114,Open Water,Lionsgate,30610863.0,2004-08-06,2004-09-30
+Q3 2004,3120,Seducing Doctor Lewis,Odeon,9354342.0,2004-07-11,2004-09-30
+Q3 2004,3121,The Door in the Floor,Focus Features,3854624.0,2004-07-14,2004-09-30
+Q3 2004,3122,The Cookout,Lionsgate,11814019.0,2004-09-03,2004-09-30
+Q3 2004,3128,Festival Express,THINKFilm,1174079.0,2004-07-23,2004-09-30
+Q3 2004,3130,Saints and Soldiers,Excel Entertainment,1165065.0,2004-08-06,2004-09-30
+Q3 2004,3131,Tae Guk Gi: The Brotherhood of War,IDP Distribution,1111061.0,2004-09-03,2004-09-30
+Q3 2004,3136,A Home at the End of the World,Warner Independent Pictures (WIP),1029872.0,2004-07-23,2004-09-30
+Q3 2004,3140,The Visual Bible: The Gospel of John,THINKFilm,4069090.0,2004-09-26,2004-09-30
+Q3 2004,3142,Bright Young Things,THINKFilm,933637.0,2004-08-20,2004-09-30
+Q3 2004,3143,Criminal,Warner Independent Pictures (WIP),929233.0,2004-09-10,2004-09-30
+Q3 2004,3149,The Blind Swordsman: Zatoichi2004 Re-release,Miramax,862894.0,2004-07-23,2004-09-30
+Q3 2004,3150,Nicotina,Arenas Entertainment,1117864.0,2004-08-20,2004-09-30
+Q3 2004,3160,American Masters: The Life and Times of Allen Ginsberg2004 Re-release,New Yorker Films,646951.0,2004-08-18,2004-09-30
+Q3 2004,3162,Red Lights,Wellspring Media,673828.0,2004-08-20,2004-09-30
+Q3 2004,3167,Mean Creek,Paramount Classics,603951.0,2004-08-20,2004-09-30
+Q3 2004,3171,Shaun of the Dead,Rogue Pictures,13542874.0,2004-09-24,2004-09-30
+Q3 2004,3172,Touch of Pink,Sony Pictures Classics,564535.0,2004-07-16,2004-09-30
+Q3 2004,3177,Camping sauvage,Alliance Atlantis Vivafilm,3894585.0,2004-07-09,2004-09-30
+Q3 2004,3189,Lost in Translation,Focus Features,42072415.0,2004-09-12,2004-09-30
+Q3 2004,3191,Under the Tuscan Sun,Walt Disney Studios Motion Pictures,43610723.0,2004-09-26,2004-09-30
+Q3 2004,3192,Head in the Clouds,Sony Pictures Classics,398278.0,2004-09-17,2004-09-30
+Q3 2004,3195,The Last Shot,Walt Disney Studios Motion Pictures,464275.0,2004-09-24,2004-09-30
+Q3 2004,3200,She Hate Me,Sony Pictures Classics,366037.0,2004-07-28,2004-09-30
+Q3 2004,3201,The Brown Bunny,Wellspring Media,365984.0,2004-08-27,2004-09-30
+Q3 2004,3210,Kyun! Ho Gaya Na...,Eros International,336909.0,2004-08-13,2004-09-30
+Q3 2004,3213,Zelary,Sony Pictures Classics,330033.0,2004-09-17,2004-09-30
+Q3 2004,3214,Ju-on: The Grudge,Vitagraph Films,325680.0,2004-07-23,2004-09-30
+Q3 2004,3219,Apollo 13The IMAX Experience,IMAX,1760432.0,2004-09-20,2004-09-30
+Q3 2004,3225,Code 46,United Artists,285585.0,2004-08-06,2004-09-30
+Q3 2004,3227,Outfoxed: Rupert Murdoch's War on Journalism,Cinema Libre Studio,461572.0,2004-08-06,2004-09-30
+Q3 2004,3228,The Legend of Johnny Lingo,Innovation Film Group (IFG),1234167.0,2004-08-29,2004-09-30
+Q3 2004,3232,The Yes Men,United Artists,255364.0,2004-09-24,2004-09-30
+Q3 2004,3233,Going the Distance,Odeon,1230897.0,2004-08-20,2004-09-30
+Q3 2004,3237,"Remember Me, My Love",IDP Distribution,227986.0,2004-09-03,2004-09-30
+Q3 2004,3239,America's Heart & Soul,Walt Disney Studios Motion Pictures,221429.0,2004-07-02,2004-09-30
+Q3 2004,3247,Bush's Brain,Tartan,177485.0,2004-08-20,2004-09-30
+Q3 2004,3249,Testosterone,Strand Releasing,175972.0,2004-09-10,2004-09-30
+Q3 2004,3251,Lost Boys of Sudan,Shadow Distribution,179014.0,2004-08-22,2004-09-30
+Q3 2004,3252,Danny Deckchair2004 Re-release,Lionsgate,160276.0,2004-08-11,2004-09-30
+Q3 2004,3253,When Will I Be Loved,IFC Films,159429.0,2004-09-10,2004-09-30
+Q3 2004,3255,Underworld,Screen Gems,51970690.0,2004-09-19,2004-09-30
+Q3 2004,3261,Zhou Yu de huo che2004 Re-release,Sony Pictures Classics,142562.0,2004-07-16,2004-09-30
+Q3 2004,3263,Cellular,New Line Cinema,31835524.0,2004-09-10,2004-09-30
+Q3 2004,3273,Spy Kids 3-D: Game Over,Dimension Films,111761982.0,2004-07-25,2004-09-30
+Q3 2004,3279,Freaky Friday,Walt Disney Studios Motion Pictures,110230332.0,2004-08-06,2004-09-30
+Q3 2004,3289,Phir Milenge,UTV Motion Pictures,91968.0,2004-08-27,2004-09-30
+Q3 2004,3294,Warriors of Heaven and Earth,Sony Pictures Classics,82936.0,2004-09-03,2004-09-30
+Q3 2004,3302,Reconstruction,Palm Pictures,73516.0,2004-09-10,2004-09-30
+Q3 2004,3303,Hollywood Buddha,Northern Arts Entertainment,72115.0,2004-09-24,2004-09-30
+Q3 2004,3317,RRRrrrr!!!,Christal Films,54361.0,2004-07-30,2004-09-30
+Q3 2004,3331,Bonjour Monsieur Shlomi,Strand Releasing,92725.0,2004-07-02,2004-09-30
+Q3 2004,3332,Tom Dowd & the Language of Music,Palm Pictures,40919.0,2004-08-13,2004-09-30
+Q3 2004,3336,Demonlover,Palm Pictures,227092.0,2004-09-19,2004-09-30
+Q3 2004,3343,Last Life in the Universe,Palm Pictures,32014.0,2004-08-06,2004-09-30
+Q3 2004,3344,Stander,Newmarket Films,31651.0,2004-08-06,2004-09-30
+Q3 2004,3345,Uncovered: The War on Iraq,Cinema Libre Studio,31481.0,2004-08-20,2004-09-30
+Q3 2004,3348,The Take,Icarus Films,30380.0,2004-09-22,2004-09-30
+Q3 2004,3349,The Raspberry Reich,Strand Releasing,30379.0,2004-09-24,2004-09-30
+Q3 2004,3354,Autumn Spring2003 Re-release,First Look International,90953.0,2004-08-22,2004-09-30
+Q3 2004,3363,Proteus,Strand Releasing,62031.0,2004-07-30,2004-09-30
+Q3 2004,3364,Cowards Bend the Knee,Zeitgeist Films,25860.0,2004-08-11,2004-09-30
+Q3 2004,3369,Rosenstrasse,IDP Distribution,734519.0,2004-07-30,2004-09-30
+Q3 2004,3371,Incantato2004 Re-release,Northern Arts Entertainment,23039.0,2004-09-24,2004-09-30
+Q3 2004,3374,Suddenly,Empire Pictures Inc.,44607.0,2004-08-27,2004-09-30
+Q3 2004,3382,Merci Dr Rey!,Regent Releasing,19867.0,2004-09-17,2004-09-30
+Q3 2004,3384,Asambhav,Eros International,19504.0,2004-07-23,2004-09-30
+Q3 2004,3395,Touchez Pas au Grisbi,Rialto Pictures,117872.0,2004-09-05,2004-09-30
+Q3 2004,3400,A Letter to True,Zeitgeist Films,15635.0,2004-09-08,2004-09-30
+Q3 2004,3406,Crutch,Illuminare Entertainment,14189.0,2004-09-17,2004-09-30
+Q3 2004,3409,Party Monster,Strand Releasing,742898.0,2004-08-29,2004-09-30
+Q3 2004,3411,Freestyle: The Art of Rhyme,Palm Pictures,12600.0,2004-07-16,2004-09-30
+Q3 2004,3417,The Inheritance2003 Re-release,The Cinema Guild,67258.0,2004-07-09,2004-09-30
+Q3 2004,3425,Pauly Shore Is Dead,Regent Releasing,11000.0,2004-09-17,2004-09-30
+Q3 2004,3427,Almost Peaceful2004 Re-release,Empire Pictures Inc.,104416.0,2004-08-20,2004-09-30
+Q3 2004,3429,Pirates of the Caribbean: The Curse of the Black Pearl,Walt Disney Studios Motion Pictures,305413918.0,2004-07-09,2004-09-30
+Q3 2004,3434,The Deserted Station,First Run,15696.0,2004-07-02,2004-09-30
+Q3 2004,3444,Incident at Loch Ness,Abramorama,34574.0,2004-09-17,2004-09-30
+Q3 2004,3445,Carnage,Wellspring Media,60158.0,2004-09-05,2004-09-30
+Q3 2004,3456,"Goodbye, Dragon Inn",Wellspring Media,34470.0,2004-09-17,2004-09-30
+Q3 2004,3462,Particles of Truth,Dada Films,5348.0,2004-09-17,2004-09-30
+Q3 2004,3467,Venus Boyz2003 Re-release,First Run,18333.0,2004-08-22,2004-09-30
+Q3 2004,3470,The Embalmer,First Run,56878.0,2004-07-18,2004-09-30
+Q3 2004,3472,Guiana 1838,RBC Radio,220131.0,2004-09-24,2004-09-30
+Q3 2004,3479,My Wife's Name Is Maurice2004 Re-release,TLA Releasing,3803.0,2004-08-27,2004-09-30
+Q3 2004,3486,Moog,Plexifilm,3604.0,2004-09-24,2004-09-30
+Q3 2004,3502,L.A. Twister,Indican Pictures,54000.0,2004-08-13,2004-09-30
+Q3 2004,3503,Emerald Cowboy,Indican Pictures,74486.0,2004-09-19,2004-09-30
+Q3 2004,3504,Seaside,First Run,15114.0,2004-08-06,2004-09-30
+Q3 2004,3505,Manna from Heaven,Five Sisters Productions,505675.0,2004-08-02,2004-09-30
+Q3 2004,3508,Persons of Interest,First Run,1672.0,2004-09-03,2004-09-30
+Q3 2004,3513,Free Radicals,Kino International,1443.0,2004-07-23,2004-09-30
+Q3 2004,3515,Big Girls Don't Cry,Strand Releasing,1238.0,2004-09-03,2004-09-30
+Q3 2004,3516,September 11,Empire Pictures Inc.,123202.0,2004-07-18,2004-09-30
+Q3 2004,3518,Jeepers Creepers 2,United Artists,35667218.0,2004-08-29,2004-09-30
+Q3 2004,3521,Yes Nurse! No Nurse!2004 Re-release,Regent Releasing,13036.0,2004-09-03,2004-09-30
+Q3 2004,3524,Anatomy 22004 Re-release,Strand Releasing,623.0,2004-08-13,2004-09-30
+Q3 2004,3527,Tasuma,ArtMattan Productions,479.0,2004-07-30,2004-09-30
+Q3 2004,3528,Yossi & Jagger,Strand Releasing,265691.0,2004-09-24,2004-09-30
+Q4 2004,2934,The Incredibles,Walt Disney Studios Motion Pictures,256887647.0,2004-11-05,2004-12-31
+Q4 2004,2937,Shark Tale,DreamWorks Distribution,160861908.0,2004-10-01,2004-12-31
+Q4 2004,2938,The Polar Express,Warner Bros.,162775358.0,2004-11-10,2004-12-31
+Q4 2004,2939,National Treasure,Walt Disney Studios Motion Pictures,168521875.0,2004-11-19,2004-12-31
+Q4 2004,2942,Meet the Fockers,Universal Pictures,279261160.0,2004-12-22,2004-12-31
+Q4 2004,2943,The Lord of the Rings: The Return of the King,New Line Cinema,377027325.0,2004-12-17,2004-12-31
+Q4 2004,2948,The Grudge,Sony Pictures Releasing,110359362.0,2004-10-22,2004-12-31
+Q4 2004,2950,Ocean's Twelve,Warner Bros.,125544280.0,2004-12-10,2004-12-31
+Q4 2004,2956,Lemony Snicket's A Series of Unfortunate Events,Paramount Pictures,118634549.0,2004-12-17,2004-12-31
+Q4 2004,2958,Cheaper by the Dozen,Twentieth Century Fox,138608443.0,2004-12-25,2004-12-31
+Q4 2004,2959,The SpongeBob SquarePants Movie,Paramount Pictures,85417988.0,2004-11-19,2004-12-31
+Q4 2004,2964,Ladder 49,Walt Disney Studios Motion Pictures,74541707.0,2004-10-01,2004-12-31
+Q4 2004,2965,Christmas with the Kranks,Revolution Studios,73780539.0,2004-11-24,2004-12-31
+Q4 2004,2966,Ray,Universal Pictures,75331600.0,2004-10-29,2004-12-31
+Q4 2004,2973,Big Fish,Sony Pictures Releasing,66809693.0,2004-12-10,2004-12-31
+Q4 2004,2974,Friday Night Lights,Universal Pictures,61255921.0,2004-10-08,2004-12-31
+Q4 2004,2977,Something's Gotta Give,Sony Pictures Releasing,124728738.0,2004-12-12,2004-12-31
+Q4 2004,2982,Saw,Lionsgate,55185045.0,2004-10-29,2004-12-31
+Q4 2004,2994,Bridget Jones: The Edge of Reason,Universal Pictures,40226215.0,2004-11-12,2004-12-31
+Q4 2004,2996,Mystic River,Warner Bros.,90135191.0,2004-10-08,2004-12-31
+Q4 2004,2998,Taxi2004 Re-release,Twentieth Century Fox,36611066.0,2004-10-06,2004-12-31
+Q4 2004,2999,Monster,Newmarket Films,34445894.0,2004-12-24,2004-12-31
+Q4 2004,3000,Alexander,Warner Bros.,34297191.0,2004-11-24,2004-12-31
+Q4 2004,3001,Team America: World Police,Paramount Pictures,32786074.0,2004-10-15,2004-12-31
+Q4 2004,3004,The Last Samurai,Warner Bros.,111127263.0,2004-12-05,2004-12-31
+Q4 2004,3007,Calendar Girls,Walt Disney Studios Motion Pictures,30162217.0,2004-12-19,2004-12-31
+Q4 2004,3008,Paycheck,Paramount Pictures,53790451.0,2004-12-25,2004-12-31
+Q4 2004,3011,Spanglish,Sony Pictures Releasing,42726869.0,2004-12-17,2004-12-31
+Q4 2004,3012,Peter Pan,Universal Pictures,48462608.0,2004-12-25,2004-12-31
+Q4 2004,3013,Fat Albert,Twentieth Century Fox,48109482.0,2004-12-25,2004-12-31
+Q4 2004,3014,Closer,Sony Pictures Releasing,33987757.0,2004-12-03,2004-12-31
+Q4 2004,3016,Mona Lisa Smile,Revolution Studios,63860942.0,2004-12-19,2004-12-31
+Q4 2004,3023,Sideways,Fox Searchlight Pictures,71500193.0,2004-10-22,2004-12-31
+Q4 2004,3035,Flight of the Phoenix,Twentieth Century Fox,20997558.0,2004-12-17,2004-12-31
+Q4 2004,3042,Alfie,Paramount Pictures,13399812.0,2004-11-05,2004-12-31
+Q4 2004,3044,The Phantom of the Opera,Warner Bros.,51268815.0,2004-12-22,2004-12-31
+Q4 2004,3045,I Heart Huckabees,Fox Searchlight Pictures,12752075.0,2004-10-01,2004-12-31
+Q4 2004,3046,Master and Commander: The Far Side of the World,Twentieth Century Fox,93921256.0,2004-11-14,2004-12-31
+Q4 2004,3049,In America,Fox Searchlight Pictures,15518515.0,2004-11-26,2004-12-31
+Q4 2004,3050,Surviving Christmas,DreamWorks Distribution,11663156.0,2004-10-22,2004-12-31
+Q4 2004,3051,The Life Aquatic with Steve Zissou,Walt Disney Studios Motion Pictures,23194351.0,2004-12-10,2004-12-31
+Q4 2004,3054,House of Sand and Fog,DreamWorks Distribution,13040288.0,2004-12-19,2004-12-31
+Q4 2004,3056,Blade: Trinity,New Line Cinema,48079939.0,2004-12-08,2004-12-31
+Q4 2004,3065,Stuck on You,Twentieth Century Fox,33820103.0,2004-12-12,2004-12-31
+Q4 2004,3068,Kinsey,Fox Searchlight Pictures,10254979.0,2004-11-12,2004-12-31
+Q4 2004,3074,21 Grams,Focus Features,16290476.0,2004-11-21,2004-12-31
+Q4 2004,3075,The Haunted Mansion,Walt Disney Studios Motion Pictures,72529828.0,2004-11-26,2004-12-31
+Q4 2004,3077,The Cooler,Lionsgate,8291572.0,2004-11-26,2004-12-31
+Q4 2004,3080,Love Don't Cost a Thing,Warner Bros.,21924226.0,2004-12-12,2004-12-31
+Q4 2004,3081,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,Sony Pictures Classics,4198566.0,2004-12-19,2004-12-31
+Q4 2004,3082,The Young Black Stallion,Walt Disney Studios Motion Pictures,6751389.0,2004-12-25,2004-12-31
+Q4 2004,3083,"Love, Actually",Universal Pictures,59696144.0,2004-11-07,2004-12-31
+Q4 2004,3085,The Cat in the Hat,Universal Pictures,101149285.0,2004-11-21,2004-12-31
+Q4 2004,3087,Honey,Universal Pictures,30308417.0,2004-12-05,2004-12-31
+Q4 2004,3088,T-Rex: Back to the Cretaceous,IMAX,53354743.0,2004-10-23,2004-12-31
+Q4 2004,3089,The Aviator,Miramax,88876786.0,2004-12-17,2004-12-31
+Q4 2004,3090,The Barbarian Invasions2003 Re-release,Miramax,3435749.0,2004-11-21,2004-12-31
+Q4 2004,3094,My Architect,New Yorker Films,2750707.0,2004-11-12,2004-12-31
+Q4 2004,3101,A Very Long Engagement,Warner Independent Pictures (WIP),6524389.0,2004-11-26,2004-12-31
+Q4 2004,3103,The Company,Sony Pictures Classics,2283914.0,2004-12-25,2004-12-31
+Q4 2004,3105,Gothika,Warner Bros.,59694580.0,2004-11-21,2004-12-31
+Q4 2004,3113,Cold Mountain,Miramax,95375797.0,2004-12-25,2004-12-31
+Q4 2004,3115,Birth,New Line Cinema,5095038.0,2004-10-29,2004-12-31
+Q4 2004,3116,School of Rock,Paramount Pictures,81261177.0,2004-10-03,2004-12-31
+Q4 2004,3117,Darkness,Dimension Films,21479864.0,2004-12-25,2004-12-31
+Q4 2004,3125,Shall We Dance,Miramax,57890460.0,2004-10-15,2004-12-31
+Q4 2004,3126,The Matrix Revolutions,Warner Bros.,139313948.0,2004-11-05,2004-12-31
+Q4 2004,3132,Finding Neverland,Miramax,45691722.0,2004-11-12,2004-12-31
+Q4 2004,3134,Santa vs. the Snowman 3D2004 Re-release,IMAX,1926034.0,2004-10-22,2004-12-31
+Q4 2004,3137,Beyond the Sea,Lionsgate,6318709.0,2004-12-17,2004-12-31
+Q4 2004,3138,The Machinist,Paramount Classics,1068146.0,2004-10-22,2004-12-31
+Q4 2004,3144,Swades,UTV Motion Pictures,1223240.0,2004-12-17,2004-12-31
+Q4 2004,3145,After the Sunset,New Line Cinema,28331233.0,2004-11-12,2004-12-31
+Q4 2004,3147,Brother Bear,Walt Disney Studios Motion Pictures,84063654.0,2004-10-24,2004-12-31
+Q4 2004,3151,Million Dollar Baby,Warner Bros.,100492203.0,2004-12-15,2004-12-31
+Q4 2004,3152,The Missing,Revolution Studios,27011180.0,2004-11-26,2004-12-31
+Q4 2004,3158,Fade to Black,Paramount Classics,728802.0,2004-11-05,2004-12-31
+Q4 2004,3161,Japanese Story,IDP Distribution,647054.0,2004-12-31,2004-12-31
+Q4 2004,3163,Radio,Revolution Studios,52277485.0,2004-10-24,2004-12-31
+Q4 2004,3165,Going Upriver: The Long War of John Kerry,THINKFilm,614138.0,2004-10-01,2004-12-31
+Q4 2004,3168,Scary Movie 3,Dimension Films,110003217.0,2004-10-24,2004-12-31
+Q4 2004,3170,Looney Tunes: Back in Action,Warner Bros.,20960862.0,2004-11-14,2004-12-31
+Q4 2004,3173,Alexandra's Project,Alliance Atlantis Vivafilm,752148.0,2004-12-19,2004-12-31
+Q4 2004,3176,Galapagos,IMAX,18627957.0,2004-10-29,2004-12-31
+Q4 2004,3178,The Statement,Sony Pictures Classics,765637.0,2004-12-12,2004-12-31
+Q4 2004,3182,Runaway Jury,Twentieth Century Fox,49410394.0,2004-10-17,2004-12-31
+Q4 2004,3184,Red Nose,Christal Films,2004814.0,2004-11-28,2004-12-31
+Q4 2004,3185,Tarnation,Wellspring Media,589727.0,2004-10-06,2004-12-31
+Q4 2004,3187,The Work and the Glory,Excel Entertainment,3347647.0,2004-11-24,2004-12-31
+Q4 2004,3190,Timeline,Paramount Pictures,19481943.0,2004-11-26,2004-12-31
+Q4 2004,3194,The ChorusQuebec Release,Alliance Atlantis Vivafilm,2087128.0,2004-10-01,2004-12-31
+Q4 2004,3196,Kill Bill: Vol. 1,Miramax,69911357.0,2004-10-10,2004-12-31
+Q4 2004,3197,Stage Beauty,Lionsgate,782383.0,2004-10-08,2004-12-31
+Q4 2004,3199,The Texas Chainsaw Massacre,New Line Cinema,80545932.0,2004-10-17,2004-12-31
+Q4 2004,3206,Enduring Love,Paramount Classics,356950.0,2004-10-29,2004-12-31
+Q4 2004,3209,Girl with a Pearl Earring,Lionsgate,7474441.0,2004-12-12,2004-12-31
+Q4 2004,3211,Vera Drake,Fine Line Features,3775283.0,2004-10-08,2004-12-31
+Q4 2004,3215,Callas Forever,Regent Releasing,445284.0,2004-11-05,2004-12-31
+Q4 2004,3216,Hotel Rwanda,United Artists,23530892.0,2004-12-22,2004-12-31
+Q4 2004,3221,Hair Show,Innovation Film Group (IFG),305281.0,2004-10-15,2004-12-31
+Q4 2004,3224,I Am David,Lionsgate,288552.0,2004-12-03,2004-12-31
+Q4 2004,3243,Around the Bend,Warner Independent Pictures (WIP),193637.0,2004-10-08,2004-12-31
+Q4 2004,3246,P.S.,Newmarket Films,180503.0,2004-10-15,2004-12-31
+Q4 2004,3254,Pieces of April,United Artists,2528664.0,2004-10-17,2004-12-31
+Q4 2004,3256,The Triplets of Belleville,Sony Pictures Classics,3613232.0,2004-11-26,2004-12-31
+Q4 2004,3260,Undertow,United Artists,143597.0,2004-10-22,2004-12-31
+Q4 2004,3262,Shattered Glass,Lionsgate,2220008.0,2004-10-31,2004-12-31
+Q4 2004,3264,Raise Your Voice,New Line Cinema,10411980.0,2004-10-08,2004-12-31
+Q4 2004,3267,Lightning in a Bottle,Sony Pictures Classics,201711.0,2004-10-22,2004-12-31
+Q4 2004,3268,The Woodsman,Newmarket Films,197623.0,2004-12-24,2004-12-31
+Q4 2004,3271,Dig!,Palm Pictures,127067.0,2004-10-01,2004-12-31
+Q4 2004,3277,In Good Company,Universal Pictures,45806659.0,2004-12-29,2004-12-31
+Q4 2004,3281,Paper Clips,Slowhand Cinema Releasing,265015.0,2004-11-24,2004-12-31
+Q4 2004,3284,Les aimants,Alliance Atlantis Vivafilm,1150414.0,2004-10-01,2004-12-31
+Q4 2004,3285,LOC: Kargil,Eros International,621103.0,2004-12-25,2004-12-31
+Q4 2004,3287,Good Boy,Metro-Goldwyn-Mayer (MGM),37667746.0,2004-10-10,2004-12-31
+Q4 2004,3306,Notre musique,Wellspring Media,139228.0,2004-11-24,2004-12-31
+Q4 2004,3311,Bear Cub,TLA Releasing,96685.0,2004-11-05,2004-12-31
+Q4 2004,3312,I Vitelloni2003 Re-release,Kino International,109993.0,2004-11-14,2004-12-31
+Q4 2004,3313,Voices of Iraq,Magnolia Pictures,57999.0,2004-10-29,2004-12-31
+Q4 2004,3315,The Final Cut,Lionsgate,551281.0,2004-10-15,2004-12-31
+Q4 2004,3316,Bus 174,THINKFilm,217201.0,2004-10-08,2004-12-31
+Q4 2004,3319,Intolerable Cruelty,Universal Pictures,35327628.0,2004-10-10,2004-12-31
+Q4 2004,3320,In the Realms of the Unreal,Wellspring Media,417120.0,2004-12-22,2004-12-31
+Q4 2004,3321,Hukkle,Shadow Distribution,53529.0,2004-11-14,2004-12-31
+Q4 2004,3322,Moolaadé,New Yorker Films,213296.0,2004-10-15,2004-12-31
+Q4 2004,3323,Pride and Prejudice,Excel Entertainment,371127.0,2004-12-05,2004-12-31
+Q4 2004,3324,Modern Times2003 Re-release,Kino International,161436.0,2004-12-26,2004-12-31
+Q4 2004,3325,Born Into Brothels: Calcutta's Red Light Kids,THINKFilm,3515061.0,2004-12-08,2004-12-31
+Q4 2004,3329,Bad Education,Sony Pictures Classics,5211842.0,2004-11-19,2004-12-31
+Q4 2004,3333,Bad Santa,Dimension Films,59230390.0,2004-11-26,2004-12-31
+Q4 2004,3339,The Merchant of Venice,Sony Pictures Classics,3765585.0,2004-12-29,2004-12-31
+Q4 2004,3340,A Tale of Two Sisters,Tartan,72541.0,2004-12-03,2004-12-31
+Q4 2004,3341,Out of Time,Metro-Goldwyn-Mayer (MGM),41088845.0,2004-10-03,2004-12-31
+Q4 2004,3351,AKA,Empire Pictures Inc.,46168.0,2004-12-12,2004-12-31
+Q4 2004,3353,The Butterfly2003 Re-release,First Run,38004.0,2004-12-19,2004-12-31
+Q4 2004,3356,Blizzard,Alliance Atlantis Vivafilm,504600.0,2004-12-12,2004-12-31
+Q4 2004,3357,Elephant,Fine Line Features,1266955.0,2004-10-24,2004-12-31
+Q4 2004,3361,The Human Stain,Miramax,5381908.0,2004-10-31,2004-12-31
+Q4 2004,3362,The Hebrew Hammer,Strand Releasing,82157.0,2004-12-19,2004-12-31
+Q4 2004,3375,WMD: Weapons of Mass Deception,Cinema Libre Studio,21842.0,2004-12-03,2004-12-31
+Q4 2004,3377,Easy,Magic Lamp,21589.0,2004-11-26,2004-12-31
+Q4 2004,3378,Ae Fond Kiss,Castle Hill Productions,23338.0,2004-11-26,2004-12-31
+Q4 2004,3380,A Love Song for Bobby Long,Lionsgate,164308.0,2004-12-29,2004-12-31
+Q4 2004,3383,What Alice Found,Castle Hill Productions,48132.0,2004-12-05,2004-12-31
+Q4 2004,3385,Straight-Jacket,Regent Releasing,45291.0,2004-11-26,2004-12-31
+Q4 2004,3389,Face,Indican Pictures,105017.0,2004-10-15,2004-12-31
+Q4 2004,3391,Fabled,Indican Pictures,27305.0,2004-12-10,2004-12-31
+Q4 2004,3393,Purple Butterfly,Palm Pictures,17790.0,2004-11-26,2004-12-31
+Q4 2004,3394,The Assassination of Richard Nixon,THINKFilm,708776.0,2004-12-29,2004-12-31
+Q4 2004,3396,Power Trip,Artistic License,37284.0,2004-12-10,2004-12-31
+Q4 2004,3405,Across the Sea of Time,Sony Pictures Classics,16015639.0,2004-10-20,2004-12-31
+Q4 2004,3407,Glowing Eyes,Strand Releasing,31139.0,2004-10-10,2004-12-31
+Q4 2004,3408,Postmen in the Mountains,Shadow Distribution,203975.0,2004-12-25,2004-12-31
+Q4 2004,3413,Spin,Innovation Film Group (IFG),12355.0,2004-10-15,2004-12-31
+Q4 2004,3414,The Dust Factory,Metro-Goldwyn-Mayer (MGM),12311.0,2004-10-15,2004-12-31
+Q4 2004,3420,Millennium Mambo,Palm Pictures,14904.0,2004-12-31,2004-12-31
+Q4 2004,3423,Intoxicating,Rogue Arts,11560.0,2004-11-05,2004-12-31
+Q4 2004,3424,9 Dead Gay Guys,TLA Releasing,23545.0,2004-10-17,2004-12-31
+Q4 2004,3432,The Singing Detective,Paramount Classics,336456.0,2004-10-24,2004-12-31
+Q4 2004,3433,A Talking Picture,Kino International,18944.0,2004-12-10,2004-12-31
+Q4 2004,3436,American Storytellers,Indican Pictures,16354.0,2004-11-07,2004-12-31
+Q4 2004,3438,Evil Remains,Screen Media Films,8747.0,2004-10-22,2004-12-31
+Q4 2004,3447,After Midnight,Avatar Films,48749.0,2004-12-03,2004-12-31
+Q4 2004,3453,Vodka Lemon,New Yorker Films,59131.0,2004-10-08,2004-12-31
+Q4 2004,3455,Master of the Game,Sundance Film Series,6554.0,2004-11-12,2004-12-31
+Q4 2004,3457,It's All About Love,Strand Releasing,6140.0,2004-10-29,2004-12-31
+Q4 2004,3463,Bright Future,Palm Pictures,5166.0,2004-11-12,2004-12-31
+Q4 2004,3465,The Life: What's Your Pleasure?,Screen Media Films,5130.0,2004-12-17,2004-12-31
+Q4 2004,3468,Imaginary Heroes,Sony Pictures Classics,8500.0,2004-12-17,2004-12-31
+Q4 2004,3471,Open My Heart,Strand Releasing,4381.0,2004-12-17,2004-12-31
+Q4 2004,3473,Stella Street,Strand Releasing,4119.0,2004-10-22,2004-12-31
+Q4 2004,3474,Dolls,Palm Pictures,4067.0,2004-12-10,2004-12-31
+Q4 2004,3475,Bandido,Innovation Film Group (IFG),4064.0,2004-12-10,2004-12-31
+Q4 2004,3477,The Flower of Evil,Palm Pictures,182163.0,2004-10-10,2004-12-31
+Q4 2004,3480,The Green Butchers,Newmarket Films,3783.0,2004-12-10,2004-12-31
+Q4 2004,3481,Mga munting tinig,Small Island Films,67433.0,2004-10-10,2004-12-31
+Q4 2004,3483,"Still, the Children Are Here",Icarus Films,3685.0,2004-11-05,2004-12-31
+Q4 2004,3484,In My Skin,Wellspring Media,30488.0,2004-11-07,2004-12-31
+Q4 2004,3492,The Child I Never Was,Strand Releasing,2609.0,2004-10-08,2004-12-31
+Q4 2004,3494,Blue Gate Crossing,Strand Releasing,5840.0,2004-11-21,2004-12-31
+Q4 2004,3499,My Flesh and Blood,Strand Releasing,39155.0,2004-11-28,2004-12-31
+Q4 2004,3501,A Silent Love,Atopia,12415.0,2004-10-29,2004-12-31
+Q4 2004,3514,Shwaas,Kathi Arts,1416.0,2004-12-10,2004-12-31
+Q4 2004,3517,Freeze Frame,First Look International,1100.0,2004-12-10,2004-12-31
+Q4 2004,3519,Girlhood,Wellspring Media,28892.0,2004-10-29,2004-12-31
+Q4 2004,3520,Producing Adults,Wolfe Releasing,935.0,2004-12-22,2004-12-31
+Q4 2004,3522,800 Bullets2004 Re-release,TLA Releasing,866.0,2004-10-29,2004-12-31
+Q4 2004,3525,"Jesus, You Know",Leisure Time Features,604.0,2004-12-03,2004-12-31
+Q4 2004,3529,Little Lili2004 Re-release,First Run,32256.0,2004-11-12,2004-12-31
