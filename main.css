@@ -41,7 +41,12 @@ body {
 
 .title {
   grid-column: 1/51;
-  grid-row: 10/20;
+  grid-row: 5/10;
+}
+
+.title-cluster {
+  grid-column: 1/51;
+  grid-row: 1/15;
 }
 
 .movie-reel {
@@ -89,6 +94,11 @@ body {
   display: grid;
   grid-template-columns: repeat(50, 1fr);
   grid-template-rows: repeat(50, 1fr);
+}
+
+.bubble-chart {
+  grid-column: 3/30;
+  grid-row: 5/45;
 }
 
 .recommendation {
