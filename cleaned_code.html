@@ -37,6 +37,9 @@
         <div class = "bubble-chart">
 
         </div>
+        <div class = "user-radar">
+
+        </div>
       </div>
       <div class="recommendation">
         <div class = "title">
@@ -57,7 +60,24 @@
 
   <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
   <script src = "https://momentjs.com/downloads/moment.js"> </script>
+  <script src="user_radial.js"></script>
   <script src="clustering.js"></script>
+  <script src="bubble-chart.js"></script>
+  <script>
+  var myClusterChart = clusterVis()
+
+  function bubbles(error, data) {
+    console.log(data)
+
+    cluster_chart = myClusterChart(data)
+
+
+  }
+
+
+  d3.csv('/getdata?_=' + new Date().getTime())
+  d3.csv("./csvData/exported_kmeans.csv", bubbles)
+  </script>
   <!-- <script ></script> -->
   <!-- <script src="tooltip.js"></script>
   <script src="bubble-chart.js"></script> -->
