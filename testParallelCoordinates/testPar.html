@@ -36,7 +36,7 @@ var svg = d3.select("#my_dataviz")
 
 // Parse the Data
 // d3.csv("../csvData/box_office_data_cleaned.csv", function(data) {
-d3.csv("../csvData/Box_Office_Data_1989_2018.csv", function(data) {
+d3.csv("../csvData/top10movies_per_year_cleaned.csv", function(data) {
 // d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/iris.csv", function(data) {
   // Color scale: give me a specie name, I return a color
   console.log(data);
@@ -46,13 +46,18 @@ d3.csv("../csvData/Box_Office_Data_1989_2018.csv", function(data) {
 
   // Here I set the list of dimension manually to control the order of axis:
   dimensions = d3.keys(data[0]).filter(function(d) {
-    return d == 'year' || d == 'rank' || d == 'gross'});
-    // return d == 'year' || d == 'rank' || d == 'gross'});
+    return d == 'year' || d == 'gross' || d == 'time'});//|| d == 'time'
+  
   console.log("Dimensions >>> " + dimensions);
   // For each dimension, I build a linear scale. I store all in a y object
   var y = {}
   for (i in dimensions) {
-    name = dimensions[i]
+    name = dimensions[i];
+    if (name == 'time'){
+      console.log("name was 'time' what to do now?");
+      y[name] = d3.scaleTime().domain(d3.extent(data, function(d) {return d3.timeParse("%Y-%m-%d")(d[name])}));
+      // y[name] = d3.scaleTime().domain(d3.extent(data, function(d) { return d3.timeParse("%Y-%m-%d")(d.); }))
+    }
     y[name] = d3.scaleLinear()
       // .domain( [0,2020] ) // --> Same axis range for each group
       .domain(d3.extent(data, function(d) { 
@@ -60,6 +65,7 @@ d3.csv("../csvData/Box_Office_Data_1989_2018.csv", function(data) {
 
       .range([height, 0])
   }
+
 
   // Build the X scale -> it finds the best position for each Y axis
   x = d3.scalePoint()
