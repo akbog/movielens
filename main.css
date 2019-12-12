@@ -49,6 +49,11 @@ body {
   grid-row: 1/15;
 }
 
+.title-industry {
+  grid-column: 1/51;
+  grid-row: 1/5;
+}
+
 .movie-reel {
   grid-column: 17/34;
   grid-row: 20/50;
@@ -87,6 +92,46 @@ body {
   grid-template-rows: repeat(50, 1fr);
 }
 
+.industry-bubbles {
+  grid-column: 1/30;
+  grid-row: 5/45;
+  stroke: "white" !important;
+  fill:"white" !important;
+}
+
+.bar-chart-label {
+  grid-column:25/51;
+  grid-row:10;
+
+}
+
+.bar-chart {
+  grid-column: 25/51;
+  grid-row: 7/45;
+}
+
+.axis line{
+  stroke: white !important;
+  opacity: 50%;
+  /* fill:"white" !important; */
+}
+
+.axis path{
+  stroke: white !important;
+  opacity: 50%;
+  /* fill:"white" !important; */
+}
+
+.axis text{
+  stroke: white !important;
+  /* fill:"white" !important; */
+}
+
+.industry-timeline {
+  grid-column: 5/46;
+  grid-row:43/48;
+}
+
 .clustering {
   grid-column: 1;
   grid-row : 4;
@@ -115,6 +160,10 @@ body {
   grid-template-rows: repeat(50, 1fr);
 }
 
+.chord-chart {
+  grid-column: 1/51;
+  grid-row: 10/51;
+}
 
 /* .axis--grid .domain {
     fill: #ddd;

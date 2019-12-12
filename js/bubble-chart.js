@@ -1,8 +1,8 @@
 
 function bubbleChart() {
 
-  var width = 700
-  var height = 400
+  var width = document.getElementsByClassName("industry-bubbles")[0].offsetWidth,
+      height = document.getElementsByClassName("industry-bubbles")[0].offsetHeight
 
   var tooltip = floatingTooltip('gates_tooltip', 240);
 
@@ -28,7 +28,7 @@ function bubbleChart() {
 
   simulation.stop()
 
-  var fillColor = d3.scaleOrdinal(d3.schemeCategory20);
+  var fillColor = d3.scaleOrdinal(d3.schemeCategory10);
 
   function createNodes(rawData) {
     var maxAmount = d3.max(rawData, function(d) {return d.gross; })
@@ -61,7 +61,7 @@ function bubbleChart() {
 
     nodes = createNodes(rawData);
 
-    console.log(nodes)
+    // console.log(nodes)
 
     svg = d3.select(selector)
                 .append("svg")
@@ -77,8 +77,8 @@ function bubbleChart() {
                           .classed('bubble', true)
                           .attr('r', function(d) {return d.radius})
                           .attr('fill', function (d) { return fillColor(d.studio); })
-                          .attr('stroke', function (d) { return d3.rgb(fillColor(d.studio)).darker(); })
-                          .attr('stroke-width', 2)
+                          // .attr('stroke', function (d) { return d3.rgb(fillColor(d.studio)).darker(); })
+                          // .attr('stroke-width', 2)
                           .on('mouseover', showDetail)
                           .on('mouseout', hideDetail);
 
@@ -89,7 +89,7 @@ function bubbleChart() {
 
     simulation.nodes(nodes);
 
-    console.log("pre-call", nodes)
+    // console.log("pre-call", nodes)
 
     createTitles();
 
@@ -165,15 +165,12 @@ function bubbleChart() {
         return (obj.time > res.time) ? obj : res;
       });
 
-      svg.selectAll(".year1")
-          .transition()
-          .duration(2000)
-          .text(min_quarter.season);
+      d3.selectAll(".title-industry")
+        .transition()
+        .duration(200)
+        .text("Industry Snapshot: " + min_quarter.season + "-" + max_quarter.season)
+        .attr("font-family", "Trebuchet MS")
 
-      svg.selectAll(".year2")
-          .transition()
-          .duration(2000)
-          .text(max_quarter.season);
   }
 
   function createTitles() {
@@ -185,20 +182,6 @@ function bubbleChart() {
     var max_quarter = nodes.reduce(function(res, obj) {
       return (obj.time > res.time) ? obj : res;
     });
-
-    svg.append("text")
-            .attr("class", "year1")
-            .attr("x", 40)
-            .attr("y", 40)
-            .attr("text-anchor", "middle")
-            .text(min_quarter.season);
-
-    svg.append("text")
-            .attr("class", "year2")
-            .attr("x", width - 40)
-            .attr("y", 40)
-            .attr("text-anchor", "middle")
-            .text(max_quarter.season)
 
   }
 
@@ -270,7 +253,7 @@ function topstudios(rawData, n) {
   });
 
 
-  console.log(d3.min(rawData, function(d) { return d.time }))
+  // console.log(d3.min(rawData, function(d) { return d.time }))
 
   var top = temp.slice(-n,temp.length)
   var other = temp.slice(0, -n)
@@ -331,21 +314,13 @@ function addCommas(nStr) {
   return x1 + x2;
 }
 
-// Code For Builidng The Time LIne Below:
-//
-//
-//
-//
-//
-//
-//
-// .
+
 
 function timeLine() {
 
   var margin = { top: 10, right: 50, bottom: 20, left: 50 },
-      width  = 700 - margin.left - margin.right,
-      height = 80 - margin.top  - margin.bottom;
+      width = document.getElementsByClassName("industry-timeline")[0].offsetWidth,
+      height = document.getElementsByClassName("industry-timeline")[0].offsetHeight
 
   var svg = null;
 
@@ -397,6 +372,8 @@ function timeLine() {
     timeline.append("g")
             .attr("class", "axis axis--grid")
             .style("font-family", "Trebuchet MS")
+            .style("stroke", "white")
+            // .style("fill", "white")
             .attr("transform", "translate(0," + height + ")")
             .call(d3.axisBottom(x)
                     .ticks(d3.timeYear.every(1))
@@ -416,13 +393,15 @@ function timeLine() {
         .data([rawData])
         .attr("class", "area")
         .attr("d", area)
-        .attr("fill", "#69b3a2")
+        .attr("fill", "#3b2c85")
         .attr("fill-opacity", .5)
 
 
     timeline.append("g")
         .attr("class", "y axis")
         .style("font-family", "Trebuchet MS")
+        .attr("fill", "white")
+        // attr("stroke", "white")
         .call(yAxis);
 
     timeline.append("path")
@@ -432,7 +411,7 @@ function timeLine() {
                     .x(function(d) { return x(d.time); })
                     .y(function(d) { return y(parseFloat(d.gross)); }))
         .attr("fill", "none")
-        .attr("stroke", "#69b3a2")
+        .attr("stroke", "white")
         .attr("stroke-width", 1)
 
     timeline.append("text")
@@ -441,14 +420,17 @@ function timeLine() {
         .style("font-size", "9px")
         // .style("font", "Verdana")
         .style("text-anchor", "end")
+        .style("fill", "white")
         .text("Box Office");
 
     var brush = d3.brushX()
                 .extent([[0,0], [width,height]])
+                // .style("fill", "white")
                 .on("start brush end", function() {return brushended(studio_data, x)} )
 
     var gbrush = timeline.append("g")
             .attr("class", "brush")
+            // .style("stroke", "white")
             .call(brush);
 
     gbrush.call(brush.move, [new Date("01-01-2002"), new Date("01-01-2006")].map(x))
@@ -461,30 +443,19 @@ function timeLine() {
     var d0 = d3.event.selection.map(x.invert),
         d1 = d0.map(d3.timeDay.round);
 
-        // If empty when rounded, use floor & ceil instead.
-    // if (d1[0] >= d1[1]) {
-    //   d1[0] = d3.timeDay.floor(d0[0]);
-    //   d1[1] = d3.timeDay.offset(d1[0]);
-    // }
-
-    // console.log("d0",d0)
-    console.log("d1",d1[0])
-
-    // var newDateRange = d3.brushSelection(d3.select(".brush").node());
-
     var filteredData = filterData(d1, studio_data, x)
-
-    console.log("filtered",filteredData)
 
     var top_studios = topstudios(filteredData, 10)
 
     myBubbleChart.updateBubbles(top_studios)
+
+    myBarChart.updateBars(d1[0], d1[1]) 
   }
 
   function filterData(newDateRange, studio_data, x) {
     var filtered = []
-    console.log("studio", studio_data)
-    console.log("date", x.invert(newDateRange[0]))
+    // console.log("studio", studio_data)
+    // console.log("date", x.invert(newDateRange[0]))
     studio_data.forEach(function(d) {
                   if (d.time >= new Date(newDateRange[0]) && d.time <= new Date(newDateRange[1])) {
                       filtered.push(d);
@@ -515,6 +486,8 @@ function timeLine() {
 }
 var myBubbleChart = bubbleChart();
 
+var myBarChart = barChart()
+
 var myTimeLine = timeLine();
 
 function display(error, data) {
@@ -524,18 +497,21 @@ function display(error, data) {
 
   var studio_data = groupData(data)
 
+  console.log("raw", data)
+
   var start_date = new Date("01-01-2002")
   var end_date = new Date("01-01-2006")
 
-  console.log("init", getInit(start_date, end_date, studio_data))
+  myBarChart(start_date, end_date, data)
+
   var init_data = topstudios(getInit(start_date, end_date, studio_data), 10)
 
-  myBubbleChart("#bubble-chart", init_data)
+  myBubbleChart(".industry-bubbles", init_data)
 
   var timelineData = getTimeline(studio_data)
 
-  myTimeLine("#timeline-container", timelineData, studio_data)
+  myTimeLine(".industry-timeline", timelineData, studio_data)
 
 }
 
-d3.csv("box_office_data_cleaned.csv", display);
+d3.csv("./csvData/box_office_data_cleaned.csv", display);
