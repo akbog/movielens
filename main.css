@@ -101,6 +101,11 @@ body {
   grid-row: 5/45;
 }
 
+.user-radar {
+  grid-column : 25/51;
+  grid-row : 1/45;
+}
+
 .recommendation {
   grid-column: 1;
   grid-row : 5;

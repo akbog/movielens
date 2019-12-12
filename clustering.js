@@ -1,3 +1,4 @@
+var myRadarChart = radarVis()
 
 function clusterVis() {
 
@@ -15,8 +16,10 @@ function clusterVis() {
 
   var radiusScale = null;
 
+  var cluster_chart = null;
+
   var forceCollide = d3.forceCollide()
-      .radius(function(d) { return radiusScale(d.num_ratings) + 1.5; })
+      .radius(function(d) { return radiusScale(d.num_ratings) + 2; })
       .iterations(1);
 
   function tick() {
@@ -37,6 +40,7 @@ function clusterVis() {
 
   function chart(rawData) {
 
+    cluster_chart = myRadarChart()
 
     clusters = new Array((d3.map(rawData, function(d) { return d.cluster }).keys().length))
     console.log(clusters.length)
@@ -71,6 +75,8 @@ function clusterVis() {
                     .append("circle")
                     .attr("r", function(d) { return radiusScale(d.num_ratings); })
                     .style("fill", function(d) { return color(d.cluster); })
+                    .on('mouseover', callRadial)
+                    .on('mouseout', hideRadial);
 
     var simulation = d3.forceSimulation()
                   .nodes(nodes)
@@ -82,6 +88,75 @@ function clusterVis() {
                   .force("y", d3.forceY().strength(.8))
                   .on("tick", tick);
 
+    function callRadial() {
+      d3.select(this).attr('stroke', function(d) { return color(d.cluster)})
+                      .attr("stroke-opacity", 0.75)
+                      .attr("stroke-width", 20);
+
+
+      console.log('user_data', d3.select(this).data()[0]['cluster'])
+      console.log(rawData)
+      // var user = getTopGenres('userId', rawData, d3.select(this).data()[0])
+      var clustering = getTopGenres('cluster', rawData, d3.select(this).data()[0])
+      var clusters= clustering.slice(Math.max(clustering.length - 5, 1))
+      var total_cluster = getTotal(clusters)
+      console.log("total_cluster", total_cluster)
+      clusters.map(function(entry) {
+                  entry.value = entry.value / total_cluster;
+                })
+      var user = getTopGenres('userId', rawData, d3.select(this).data()[0])
+      var bIds = {}
+            clusters.forEach(function(obj){
+                bIds[obj.axis] = obj;
+            });
+
+            // Return all elements in A, unless in B
+      var user_2 = user.filter(function(obj){
+                return (obj.axis in bIds);
+            });
+      var total_user = getTotal(user_2)
+      user_2.map(function(entry) {
+                entry.value = entry.value/total_user
+      })
+      console.log('user',user_2)
+      console.log('clusters', clusters)
+      cluster_chart = myRadarChart([clusters,user_2])
+    }
+
+    function hideRadial() {
+      d3.select(this)
+        .attr('stroke', function(d) { return color(d.cluster)})
+        .attr("stroke-opacity", 0)
+        .attr("stroke-width", 0);
+      cluster_chart = myRadarChart()
+    }
+
+    function getTotal(data) {
+      var total = 0;
+      data.reduce(function(res, value) {
+        total += value.value
+      })
+      return total
+    }
+
+    function getTopGenres(attr, data, user) {
+      var select = data.filter(function (indi) {
+                          return indi[attr] === user[attr];
+                        });
+      var total = 0;
+      var result = select.reduce(function(res, value) {
+        var key = value.genres
+        if (!res[key]) {
+          res[key] = {axis : value.genres, value : 0}
+        }
+        total += 1
+        res[key].value += 1
+        return res
+      }, {});
+      var result2 = Object.keys(result).map(i => result[i])
+      result2.sort(function(a,b) { return parseFloat(a.value) - parseFloat(b.value) } );
+      return result2
+    }
   }
 
   function getNodes(rawData) {
@@ -120,15 +195,3 @@ function clusterVis() {
   return chart;
 
 }
-
-var myClusterChart = clusterVis()
-
-function bubbles(error, data) {
-  // console.log(data)
-
-  cluster_chart = myClusterChart(data)
-
-
-}
-d3.csv('/getdata?_=' + new Date().getTime())
-d3.csv("./csvData/exported_kmeans.csv", bubbles)
