@@ -24,7 +24,8 @@ function pCoord() {
     var data = prepare(rawData)
 
     // Extract the list of dimensions we want to keep in the plot. Here I keep all except the column called Species
-    dimensions = d3.keys(data[0]).filter(function(d) { return d != "movie" })
+    // dimensions = d3.keys(data[0]).filter(function(d) { return d != "movie" })
+    dimensions = d3.keys(data[0]);
     console.log(dimensions)
 
 
@@ -38,7 +39,11 @@ function pCoord() {
                     console.log(parseTime(d.release))
                     return d[name]; }))
                   .range([height, 0])
-      } else {
+      }
+      else if (name == "movie") {
+        continue
+      }
+      else {
       y[name] = d3.scaleLinear()
         .domain( d3.extent(data, function(d) { return d[name]; }) )
         .range([height, 0])
@@ -50,13 +55,13 @@ function pCoord() {
     x = d3.scalePoint()
       .range([0, width])
       .padding(1)
-      .domain(dimensions);
+      .domain(dimensions.filter(function(d) { return d != "movie" }));
 
     console.log("x",x)
 
     // The path function take a row of the csv as input, and return x and y coordinates of the line to draw for this raw.
     function path(d) {
-        return d3.line()(dimensions.map(function(p) { return [x(p), y[p](d[p])]; }));
+        return d3.line()(dimensions.filter(function(d) { return d != "movie" }).map(function(p) { return [x(p), y[p](d[p])]; }));
     }
 
     // Draw the lines
@@ -76,7 +81,8 @@ function pCoord() {
     // Draw the axis:
     svg.selectAll("myAxis")
       // For each dimension of the dataset I add a 'g' element:
-      .data(dimensions).enter()
+      .data(dimensions.filter(function(d) { return d != "movie" }))
+        .enter()
       .append("g")
       .classed("axis", true)
       // I translate this element to its right position on the x axis
@@ -124,7 +130,7 @@ function pCoord() {
 
     var result = []
     rawData.reduce(function(res, value) {
-        result.push({ season: parseInt(value.season), rank: parseInt(value.rank), release: new Date(value.release), gross: parseFloat(value.gross) })
+        result.push({ season: parseInt(value.season), rank: parseInt(value.rank), release: new Date(value.release), gross: parseFloat(value.gross), movie: value.movie })
       return res;
     }, {});
     return result
@@ -142,4 +148,4 @@ function prepare(error, data) {
 
 }
 
-d3.csv("./csvData/box_office_data_cleaned_2.csv", prepare)
+d3.csv("./csvData/box_office_data_cleaned_4.csv", prepare)

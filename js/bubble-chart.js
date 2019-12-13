@@ -1,4 +1,6 @@
 
+
+
 function bubbleChart() {
 
   var width = document.getElementsByClassName("industry-bubbles")[0].offsetWidth,
@@ -449,7 +451,7 @@ function timeLine() {
 
     myBubbleChart.updateBubbles(top_studios)
 
-    myBarChart.updateBars(d1[0], d1[1]) 
+    myBarChart.updateBars(d1[0], d1[1])
   }
 
   function filterData(newDateRange, studio_data, x) {
@@ -490,7 +492,7 @@ var myBarChart = barChart()
 
 var myTimeLine = timeLine();
 
-function display(error, data) {
+function display1(error, data) {
   if (error) {
     console.log(error);
   }
@@ -514,4 +516,4 @@ function display(error, data) {
 
 }
 
-d3.csv("./csvData/box_office_data_cleaned.csv", display);
+d3.csv("./csvData/box_office_data_cleaned.csv", display1);

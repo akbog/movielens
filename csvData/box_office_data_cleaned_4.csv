@@ -1,0 +1,147 @@
+movie,rank,gross,release,season
+Batman,1,251188924.0,1989-06-23,2.0
+Indiana Jones and the Last Crusade,2,197171806.0,1989-05-24,2.0
+Ghostbusters II,3,112494738.0,1989-06-16,2.0
+Parenthood,4,100047830.0,1989-08-02,3.0
+Back to the Future Part II,5,118450002.0,1989-11-22,4.0
+Home Alone,1,285761243.0,1990-11-16,4.0
+Total Recall,2,119394840.0,1990-06-01,2.0
+Back to the Future Part III,3,87727583.0,1990-05-25,2.0
+Dances with Wolves,4,184208848.0,1990-11-09,4.0
+3 Men and a Little Lady,5,71609321.0,1990-11-21,4.0
+The Silence of the Lambs,2,130742922.0,1991-02-14,1.0
+The Addams Family,3,113502426.0,1991-11-22,4.0
+Backdraft,4,77868585.0,1991-05-24,2.0
+Home Alone 2: Lost in New York,1,173585516.0,1992-11-20,4.0
+Batman Returns,2,162831698.0,1992-06-19,2.0
+The Bodyguard,4,121945720.0,1992-11-25,4.0
+Unforgiven,5,101157447.0,1992-08-07,3.0
+Jurassic Park,1,357067947.0,1993-06-11,2.0
+The Fugitive,2,183403565.0,1993-08-06,3.0
+Mrs. Doubtfire,3,219195243.0,1993-11-24,4.0
+In the Line of Fire,4,102314823.0,1993-07-09,3.0
+The Flintstones,1,130531208.0,1994-05-27,2.0
+The Santa Clause,2,144833357.0,1994-11-11,4.0
+Interview with the Vampire: The Vampire Chronicles,3,105264608.0,1994-11-11,4.0
+Schindler's List,4,96065768.0,1994-12-15,4.0
+Star Trek Generations,5,75671125.0,1994-11-18,4.0
+Batman Forever,1,184031112.0,1995-06-16,2.0
+Apollo 13,2,172071312.0,1995-06-30,2.0
+Toy Story,3,191796233.0,1995-11-22,4.0
+Ace Ventura: When Nature Calls,4,108385533.0,1995-11-10,4.0
+Casper,5,100328194.0,1995-05-26,2.0
+Independence Day,1,306169268.0,1996-07-03,3.0
+Mission: Impossible,2,180981856.0,1996-05-22,2.0
+The Nutty Professor,3,128814019.0,1996-06-28,2.0
+The Rock,4,134069511.0,1996-06-07,2.0
+Ransom,5,136492681.0,1996-11-08,4.0
+Men in Black,1,250690539.0,1997-07-02,3.0
+The Lost World: Jurassic Park,2,229086679.0,1997-05-23,2.0
+Liar Liar,3,181410615.0,1997-03-21,1.0
+Air Force One,4,172956409.0,1997-07-25,3.0
+Titanic,5,600788188.0,1997-12-19,4.0
+Titanic,1,600788188.0,1998-12-19,4.0
+Armageddon,2,201578182.0,1998-07-01,3.0
+Saving Private Ryan,3,216540909.0,1998-07-24,3.0
+Deep Impact,4,140464664.0,1998-05-08,2.0
+Godzilla,5,136314294.0,1998-05-20,2.0
+Star Wars: Episode I - The Phantom Menace,1,431088295.0,1999-05-19,2.0
+The Sixth Sense,2,293506292.0,1999-08-06,3.0
+Toy Story 2,3,242947795.0,1999-11-19,4.0
+The Matrix,4,171479930.0,1999-03-31,1.0
+Big Daddy,5,163479795.0,1999-06-25,2.0
+How the Grinch Stole Christmas,1,260044825.0,2000-11-17,4.0
+Mission: Impossible II,2,215409889.0,2000-05-24,2.0
+Gladiator,3,187705427.0,2000-05-05,2.0
+The Perfect Storm,4,182618434.0,2000-06-30,2.0
+Meet the Parents,5,166244045.0,2000-10-06,4.0
+Harry Potter and the Sorcerer's Stone,1,317575550.0,2001-11-16,4.0
+Shrek,2,267665011.0,2001-05-16,2.0
+"Monsters, Inc.",3,255284677.0,2001-11-02,4.0
+Rush Hour 2,4,226164286.0,2001-08-03,3.0
+The Mummy Returns,5,202019785.0,2001-05-04,2.0
+Spider-Man,1,403706375.0,2002-05-03,2.0
+Star Wars: Episode II - Attack of the Clones,2,302191252.0,2002-05-16,2.0
+Harry Potter and the Chamber of Secrets,3,261988482.0,2002-11-15,4.0
+Signs,4,227647707.0,2002-08-02,3.0
+The Lord of the Rings: The Two Towers,5,339785181.0,2002-12-18,4.0
+Finding Nemo,1,339714978.0,2003-05-30,2.0
+Pirates of the Caribbean: The Curse of the Black Pearl,2,305413918.0,2003-07-09,3.0
+The Matrix Reloaded,3,281576461.0,2003-05-15,2.0
+The Lord of the Rings: The Return of the King,4,377027325.0,2003-12-17,4.0
+Bruce Almighty,5,242829261.0,2003-05-23,2.0
+Shrek 2,1,441181022.0,2004-05-19,2.0
+Spider-Man 2,2,373585825.0,2004-06-30,2.0
+The Passion of the Christ,3,369895388.0,2004-02-25,1.0
+Harry Potter and the Prisoner of Azkaban,4,249541069.0,2004-06-04,2.0
+The Incredibles,5,256887647.0,2004-11-05,4.0
+Star Wars: Episode III - Revenge of the Sith,1,380270577.0,2005-05-19,2.0
+Harry Potter and the Goblet of Fire,2,290013036.0,2005-11-18,4.0
+War of the Worlds,3,234280354.0,2005-06-29,2.0
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",4,287482269.0,2005-12-09,4.0
+Charlie and the Chocolate Factory,5,206459076.0,2005-07-15,3.0
+Pirates of the Caribbean: Dead Man's Chest,1,422614379.0,2006-07-07,3.0
+Cars,2,244082982.0,2006-06-09,2.0
+X-Men: The Last Stand,3,234337076.0,2006-05-26,2.0
+The Da Vinci Code,4,217536138.0,2006-05-19,2.0
+Superman Returns,5,200081192.0,2006-06-28,2.0
+Spider-Man 3,1,336530303.0,2007-05-04,2.0
+Shrek the Third,2,322719944.0,2007-05-18,2.0
+Transformers,3,319246193.0,2007-07-03,3.0
+Pirates of the Caribbean: At World's End,4,309420425.0,2007-05-25,2.0
+Harry Potter and the Order of the Phoenix,5,292004738.0,2007-07-11,3.0
+The Dark Knight,1,533345358.0,2008-07-18,3.0
+Indiana Jones and the Kingdom of the Crystal Skull,2,317101119.0,2008-05-22,2.0
+Iron Man,3,318604126.0,2008-05-02,2.0
+Hancock,4,227946274.0,2008-07-02,3.0
+WALL·E,5,223799741.0,2008-06-27,2.0
+Transformers: Revenge of the Fallen,1,402111870.0,2009-06-24,2.0
+Harry Potter and the Half-Blood Prince,2,301959197.0,2009-07-15,3.0
+Up,3,293004164.0,2009-05-29,2.0
+The Twilight Saga: New Moon,4,296623634.0,2009-11-20,4.0
+Avatar,5,749766139.0,2009-12-18,4.0
+Avatar,1,749766139.0,2010-12-18,4.0
+Toy Story 3,2,415004880.0,2010-06-18,2.0
+Alice in Wonderland,3,332430200.0,2010-03-05,1.0
+Iron Man 2,4,312433331.0,2010-05-07,2.0
+The Twilight Saga: Eclipse,5,300531751.0,2010-06-30,2.0
+Harry Potter and the Deathly Hallows: Part 2,1,381011219.0,2011-07-15,3.0
+Transformers: Dark of the Moon,2,352390543.0,2011-06-29,2.0
+The Twilight Saga: Breaking Dawn - Part 1,3,281287133.0,2011-11-18,4.0
+The Hangover Part II,4,254464305.0,2011-05-26,2.0
+Pirates of the Caribbean: On Stranger Tides,5,237710309.0,2011-05-20,2.0
+The Avengers,1,623357910.0,2012-05-04,2.0
+The Dark Knight Rises,2,448139099.0,2012-07-20,3.0
+The Hunger Games,3,408010692.0,2012-03-23,1.0
+Skyfall,4,304164760.0,2012-11-09,4.0
+The Twilight Saga: Breaking Dawn - Part 2,5,292324737.0,2012-11-16,4.0
+Iron Man 3,1,406609688.0,2013-05-03,2.0
+The Hunger Games: Catching Fire,2,424668047.0,2013-11-22,4.0
+Despicable Me 2,3,368065385.0,2013-07-03,3.0
+Man of Steel,4,291045518.0,2013-06-14,2.0
+Monsters University,5,268492764.0,2013-06-21,2.0
+Guardians of the Galaxy,1,333176600.0,2014-08-01,3.0
+The Hunger Games: Mockingjay - Part 1,2,337135885.0,2014-11-21,4.0
+The Lego Movie,3,257760692.0,2014-02-07,1.0
+Captain America: The Winter Soldier,4,255447104.0,2014-04-04,2.0
+Transformers: Age of Extinction,5,245439076.0,2014-06-27,2.0
+Jurassic World,1,652270625.0,2015-06-12,2.0
+Star Wars: Episode VII - The Force Awakens,2,936660090.0,2015-12-18,4.0
+Avengers: Age of Ultron,3,459005868.0,2015-05-01,2.0
+Inside Out,4,356461711.0,2015-06-19,2.0
+Furious 7,5,353007020.0,2015-04-03,2.0
+Finding Dory,1,486295561.0,2016-06-17,2.0
+Rogue One: A Star Wars Story,2,532177324.0,2016-12-16,4.0
+Captain America: Civil War,3,408084349.0,2016-05-06,2.0
+The Secret Life of Pets,4,368384330.0,2016-07-08,3.0
+The Jungle Book,5,364001123.0,2016-04-15,2.0
+Star Wars: Episode VIII - The Last Jedi,1,620181382.0,2017-12-15,4.0
+Beauty and the Beast,2,504014165.0,2017-03-17,1.0
+Wonder Woman,3,412563408.0,2017-06-02,2.0
+Guardians of the Galaxy Vol. 2,4,389813101.0,2017-05-05,2.0
+Spider-Man: Homecoming,5,334201140.0,2017-07-07,3.0
+Black Panther,1,700059566.0,2018-02-16,1.0
+Avengers: Infinity War,2,678815482.0,2018-04-27,2.0
+The Incredibles 2,3,608581744.0,2018-06-15,2.0
+Jurassic World: Fallen Kingdom,4,417719760.0,2018-06-22,2.0
+Deadpool 2,5,318491426.0,2018-05-18,2.0
