@@ -54,6 +54,11 @@ body {
   grid-row: 1/5;
 }
 
+.title-pcoord {
+  grid-column:1/51;
+  grid-row:1/5;
+}
+
 .movie-reel {
   grid-column: 17/34;
   grid-row: 20/50;
@@ -63,15 +68,6 @@ body {
   text-align: center;
   width: 100%;
   height: auto;
-}
-
-.p-coord {
-  grid-column: 1;
-  grid-row : 2;
-  text-align: center;
-  display: grid;
-  grid-template-columns: repeat(50, 1fr);
-  grid-template-rows: repeat(50, 1fr);
 }
 
 .p-coord {
@@ -99,15 +95,15 @@ body {
   fill:"white" !important;
 }
 
-.bar-chart-label {
+/* .bar-chart-label {
   grid-column:25/51;
-  grid-row:10;
+  grid-row: 5;
 
-}
+} */
 
 .bar-chart {
-  grid-column: 25/51;
-  grid-row: 7/45;
+  grid-column: 25/48;
+  grid-row: 5/45;
 }
 
 .axis line{
@@ -143,12 +139,16 @@ body {
 
 .bubble-chart {
   grid-column: 3/30;
-  grid-row: 5/45;
+  grid-row: 7/45;
+}
+.bubble-label {
+  grid-column: 1/7;
+  grid-row: 6;
 }
 
 .user-radar {
   grid-column : 25/51;
-  grid-row : 1/45;
+  grid-row : 8/45;
 }
 
 .recommendation {
@@ -163,6 +163,29 @@ body {
 .chord-chart {
   grid-column: 1/51;
   grid-row: 10/51;
+}
+
+.parallel-coord {
+  grid-column: 1/51;
+  grid-row: 8/40;
+}
+
+.title-season {
+  grid-column: 1/12;
+  grid-row: 42/49;
+}
+
+.title-rank {
+  grid-column: 13/24;
+  grid-row: 42/49;
+}
+.title-release {
+  grid-column: 25/36;
+  grid-row: 42/49;
+}
+.title-gross {
+  grid-column: 37/48;
+  grid-row: 42/49;
 }
 
 /* .axis--grid .domain {

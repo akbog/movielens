@@ -6,12 +6,29 @@
   <style>
   </style>
   <link rel="stylesheet" type="text/css" href="main.css"></link>
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script>
+    $( document ).ready(function() {
+          var divs = ["first", "second", "third"];
+          var counter = 0;
+      });
+
+      function cycle(element) {
+          $(element).attr("href", divs[counter]);
+          if(counter < divs.length - 1) {
+              counter++;
+          }
+          else {
+              counter = 0;
+          }
+      }
+  </script> -->
 </head>
 
 <body>
   <div class="grid-container">
     <div class = "wrapper">
-      <div class ="introduction" id = "first">
+      <div class ="introduction">
         <div class="title">
           <h1>MovieLens Data Analysis</h1>
           <h2>By. Ricardo Chacon Rodriguez and Alexander Bogdanowicz</h2>
@@ -19,26 +36,36 @@
         <div class = "movie-reel">
           <img src="movie_reel.png" class="reel-img" />
         </div>
-        <!-- <a onclick="cycle(this);" href="#first">Hello</a> -->
       </div>
-      <div class="p-coord" id = "second">
-        <div class = "title">
-          <h3> p-coord </h3>
+      <div class="p-coord">
+        <div class = "title-pcoord">
+          <h3> Top 20 Movies (1989 - 2019) </h3>
+          <h2> Parallel Coordinate Plot of Season, Rank, Release, Gross Revenue </h2>
         </div>
-        <!-- <a onclick="cycle(this);" href="#first">Hello</a> -->
+        <div class = "parallel-coord">
+        </div>
+        <div class = "title-gross">
+        </div>
+        <div class = "title-release">
+        </div>
+        <div class = "title-rank">
+        </div>
+        <div class = "title-season">
+        </div>
       </div>
-      <div class="industry-snap" id = "third">
+      <div class="industry-snap">
         <div class = "title-industry">
           Industry Snapshot: Q1 2002-Q4 2005
         </div>
         <div class = "industry-bubbles">
-
+          <div class = "bubble-label">
+          </div>
         </div>
         <div class = "industry-timeline">
 
         </div>
-        <div class = "bar-chart-label">
-        </div>
+        <!-- <div class = "bar-chart-label">
+        </div> -->
         <div class = "bar-chart">
 
         </div>
@@ -75,7 +102,6 @@
     </div> -->
 
   <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
   <script src = "https://momentjs.com/downloads/moment.js"> </script>
   <script src="user_radial.js"></script>
   <script src="clustering.js"></script>
@@ -85,6 +111,7 @@
   <script src="http://underscorejs.org/underscore-min.js"></script>
   <script src="https://rawgit.com/sghall/7859113/raw/422da4401f7d4fc0352a7c49961d24f03716be7a/gistfile1.js"></script>
   <script src="js/chord-diagram-2.js"></script>
+  <script src="js/parallel-coord-3.js"></script>
   <!-- <script src="js/timeline.js"></script> -->
   <script>
 
@@ -102,22 +129,6 @@
   d3.csv('/getdata?_=' + new Date().getTime())
   d3.csv("./csvData/exported_kmeans.csv", bubbles)
 
-// var divs = null;
-// var counter = null;
-//   $( document ).ready(function() {
-//         divs = ["first", "second", "third"];
-//         counter = 0;
-//     });
-//
-//     function cycle(element) {
-//         $(element).attr("href", divs[counter]);
-//         if(counter < divs.length - 1) {
-//             counter++;
-//         }
-//         else {
-//             counter = 0;
-//         }
-//     }
   </script>
   <!-- <script ></script> -->
   <!-- <script src="tooltip.js"></script>
