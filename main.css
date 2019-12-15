@@ -139,7 +139,7 @@ body {
 
 .bubble-chart {
   grid-column: 3/30;
-  grid-row: 7/51;
+  grid-row: 7/43;
 }
 .bubble-label {
   grid-column: 1/7;
@@ -186,6 +186,11 @@ body {
 .title-gross {
   grid-column: 37/48;
   grid-row: 42/49;
+}
+
+.title-movie {
+  grid-column: 1/51;
+  grid-row: 7;
 }
 
 /* .axis--grid .domain {

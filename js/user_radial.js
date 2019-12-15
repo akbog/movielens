@@ -281,7 +281,7 @@ function radarVis() {
   var colorscale = d3.scaleOrdinal(d3.schemeCategory10)
 
   //Legend titles
-  var LegendOptions = ['User', 'Cluster'];
+  var LegendOptions = ['Cluster', 'User'];
 
   //Options for the Radar chart, other than default
   var mycfg = {

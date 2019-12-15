@@ -17,6 +17,12 @@ function pCoord() {
   // Parse the Data
   function full_process(rawData) {
 
+    d3.selectAll('.title-movie').style("text-anchor", "middle").text("Movie: ")
+    d3.selectAll('.title-gross').style("text-anchor", "middle").text("Gross: ")
+    d3.selectAll('.title-season').style("text-anchor", "middle").text("Quarter:")
+    d3.selectAll('.title-rank').style("text-anchor", "middle").text("Rank: ")
+    d3.selectAll('.title-release').style("text-anchor", "middle").text("Release: ")
+
     console.log(rawData)
 
     var parseTime = d3.timeFormat("%Y-%m-%d");
@@ -103,8 +109,9 @@ function pCoord() {
     this.parentNode.parentNode.appendChild(this.parentNode);//the path group is on the top with in its parent group
     this.parentNode.parentNode.parentNode.appendChild(this.parentNode.parentNode);//the parent group is on the top with in its parent group
     d3.select(this).style('stroke', 'red');
-    d3.select(this).style("stroke-width", "5")
+    d3.select(this).style("stroke-width", "8")
     // console.log(d3.select(this).data())
+    d3.selectAll('.title-movie').style("text-anchor", "middle").text("Movie: " + d3.select(this).data()[0].movie)
     d3.selectAll('.title-gross').style("text-anchor", "middle").text("Gross: " + d3.select(this).data()[0].gross)
     d3.selectAll('.title-season').style("text-anchor", "middle").text("Quarter: Q" + d3.select(this).data()[0].season)
     d3.selectAll('.title-rank').style("text-anchor", "middle").text("Rank: " + d3.select(this).data()[0].rank)
@@ -118,8 +125,9 @@ function pCoord() {
     // d3.select(this).style('fill', "none");
     d3.select(this).style('stroke', "#69b3a2");
     d3.select(this).style("stroke-width", "2")
+    d3.selectAll('.title-movie').style("text-anchor", "middle").text("Movie: ")
     d3.selectAll('.title-gross').style("text-anchor", "middle").text("Gross: ")
-    d3.selectAll('.title-season').style("text-anchor", "middle").text("Quarter: Q")
+    d3.selectAll('.title-season').style("text-anchor", "middle").text("Quarter:")
     d3.selectAll('.title-rank').style("text-anchor", "middle").text("Rank: ")
     d3.selectAll('.title-release').style("text-anchor", "middle").text("Release: ")
   }

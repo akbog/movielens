@@ -30,7 +30,7 @@ function bubbleChart() {
 
   simulation.stop()
 
-  var fillColor = d3.scaleOrdinal(d3.schemeCategory10);
+  var fillColor = d3.scaleOrdinal(d3.schemeCategory20c);
 
   function createNodes(rawData) {
     var maxAmount = d3.max(rawData, function(d) {return d.gross; })
